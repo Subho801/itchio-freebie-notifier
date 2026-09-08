@@ -42,71 +42,30 @@ def send_discord(game):
         print("❌ DISCORD_WEBHOOK is not configured.")
         return False
 
-    if not DISCORD_ROLE_ID:
-        print("❌ DISCORD_ROLE_ID is not configured.")
-        return False
-
-    title = game.get("title", "Unknown Game")
-    game_url = game.get("url", "")
-    cover = game.get("cover") or game.get("image") or game.get("thumbnail")
-    expires = game.get("expires")
-
-    end_timestamp = discord_timestamp(expires)
+    import urllib.request
 
     payload = {
-        "content": f"<@&{DISCORD_ROLE_ID}>",
-        "embeds": [
-            {
-                "author": {
-                    "name": "Itch.io - Freebie",
-                    "icon_url": ITCH_LOGO_URL
-                },
-                "title": f"🎁 {title}",
-                "url": game_url,
-                "fields": [
-                    {
-                        "name": "⏰ Ends",
-                        "value": end_timestamp,
-                        "inline": True
-                    }
-                ],
-                "image": {
-                    "url": cover
-                } if cover else None,
-                "footer": {
-                    "text": "Subho's Itch.io Freebie Informer",
-                    "icon_url": RONALDO_IMAGE_URL
-                }
-            }
-        ]
+        "content": "🧪 Itch.io notifier webhook test"
     }
-
-    # Remove image if no valid cover exists
-    if payload["embeds"][0]["image"] is None:
-        del payload["embeds"][0]["image"]
-
-    import urllib.request
 
     data = json.dumps(payload).encode("utf-8")
 
     request = urllib.request.Request(
         DISCORD_WEBHOOK,
         data=data,
-        headers={"Content-Type": "application/json"},
+        headers={
+            "Content-Type": "application/json"
+        },
         method="POST"
     )
 
     try:
         with urllib.request.urlopen(request, timeout=20) as response:
-            if 200 <= response.status < 300:
-                print("✅ Discord notification sent.")
-                return True
-
-            print(f"❌ Discord returned HTTP {response.status}.")
-            return False
+            print(f"✅ Discord webhook test returned HTTP {response.status}")
+            return True
 
     except Exception as error:
-        print(f"❌ Discord notification failed: {error}")
+        print(f"❌ Discord webhook test failed: {error}")
         return False
 
 

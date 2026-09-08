@@ -1,14 +1,19 @@
-name: Test Itch Scraper
+name: Itch.io Freebie Notifier
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  test:
+  check-games:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Node.js
@@ -21,3 +26,20 @@ jobs:
 
       - name: Run itch scraper
         run: node itch-scraper.js
+
+      - name: Check new games
+        run: python itch.py
+
+      - name: Save state
+        run: |
+          if git diff --quiet -- itch_state.json; then
+            echo "No state changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add itch_state.json
+          git commit -m "Update itch.io giveaway state"
+          git push

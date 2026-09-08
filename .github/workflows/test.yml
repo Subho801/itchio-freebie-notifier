@@ -21,6 +21,11 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
       - name: Install dependencies
         run: npm install
 
@@ -28,6 +33,9 @@ jobs:
         run: node itch-scraper.js
 
       - name: Check new games
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_ROLE_ID: ${{ secrets.DISCORD_ROLE_ID }}
         run: python itch.py
 
       - name: Save state

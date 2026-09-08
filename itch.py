@@ -114,14 +114,14 @@ def main():
     print("\n========== NEW GAMES ==========")
 
     for game in new_games:
-    print(f"🧪 Testing Discord with: {game.get('title', 'Unknown Game')}")
+        print(f"🧪 Testing Discord with: {game.get('title', 'Unknown Game')}")
 
-    if send_discord(game):
-        successful_ids.add(str(game["id"]))
-    else:
-        print("⚠️ Notification failed — game will NOT be marked as sent.")
+        if send_discord(game):
+            successful_ids.add(str(game["id"]))
+        else:
+            print("⚠️ Notification failed — game will NOT be marked as sent.")
 
-    break
+        break
     save_state(successful_ids)
 
     print("✅ State updated.")

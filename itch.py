@@ -56,6 +56,7 @@ def send_discord(game):
         data=data,
         headers={
             "Content-Type": "application/json"
+            "User-Agent": "Subho-Itch-Notifier/1.0"
         },
         method="POST"
     )

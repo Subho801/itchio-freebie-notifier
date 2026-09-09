@@ -55,10 +55,19 @@ function extractFreeGames(html) {
 
     const titleEl = cell.find('.game_title a.title').first();
     results.push({
-      id: cell.attr('data-game_id') || null,
-      title: titleEl.text().trim(),
-      url: titleEl.attr('href') || '',
-      author: cell.find('.game_author a').first().text().trim(),
+  id: cell.attr('data-game_id') || null,
+  title: titleEl.text().trim(),
+  url: titleEl.attr('href') || '',
+  image: (() => {
+    const img = cell.find('.game_thumb img').first();
+    return (
+      img.attr('data-lazy_src') ||
+      img.attr('data-src') ||
+      img.attr('src') ||
+      null
+    );
+  })(),
+  author: cell.find('.game_author a').first().text().trim(),
       genre: cell.find('.game_genre').first().text().trim() || null,
       blurb: cell.find('.game_text').first().text().trim() || null,
       sale_url: saleUrl,

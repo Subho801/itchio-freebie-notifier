@@ -64,9 +64,20 @@ def send_discord(game):
             print(f"✅ Discord webhook test returned HTTP {response.status}")
             return True
 
-    except Exception as error:
-        print(f"❌ Discord webhook test failed: {error}")
-        return False
+    except urllib.error.HTTPError as error:
+    print(f"❌ Discord webhook test failed: HTTP {error.code}")
+
+    try:
+        body = error.read().decode("utf-8", errors="replace")
+        print(f"📩 Discord response: {body}")
+    except Exception:
+        pass
+
+    return False
+
+except Exception as error:
+    print(f"❌ Discord webhook test failed: {error}")
+    return False
 
 
 def main():

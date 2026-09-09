@@ -52,14 +52,14 @@ def send_discord(game):
     data = json.dumps(payload).encode("utf-8")
 
     request = urllib.request.Request(
-        DISCORD_WEBHOOK,
-        data=data,
-        headers={
-            "Content-Type": "application/json"
-            "User-Agent": "Subho-Itch-Notifier/1.0"
-        },
-        method="POST"
-    )
+    DISCORD_WEBHOOK,
+    data=data,
+    headers={
+        "Content-Type": "application/json",
+        "User-Agent": "Subho-Itch-Notifier/1.0"
+    },
+    method="POST"
+)
 
     try:
         with urllib.request.urlopen(request, timeout=20) as response:

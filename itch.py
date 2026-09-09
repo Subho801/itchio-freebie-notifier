@@ -43,6 +43,7 @@ def send_discord(game):
         return False
 
     import urllib.request
+    import urllib.error
 
     payload = {
         "content": "🧪 Itch.io notifier webhook test"
@@ -65,20 +66,19 @@ def send_discord(game):
             return True
 
     except urllib.error.HTTPError as error:
-    print(f"❌ Discord webhook test failed: HTTP {error.code}")
+        print(f"❌ Discord webhook test failed: HTTP {error.code}")
 
-    try:
-        body = error.read().decode("utf-8", errors="replace")
-        print(f"📩 Discord response: {body}")
-    except Exception:
-        pass
+        try:
+            body = error.read().decode("utf-8", errors="replace")
+            print(f"📩 Discord response: {body}")
+        except Exception:
+            pass
 
-    return False
+        return False
 
-except Exception as error:
-    print(f"❌ Discord webhook test failed: {error}")
-    return False
-
+    except Exception as error:
+        print(f"❌ Discord webhook test failed: {error}")
+        return False
 
 def main():
     print("[1] Loading scraped games...")

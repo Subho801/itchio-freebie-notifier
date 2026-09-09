@@ -45,29 +45,59 @@ def send_discord(game):
     import urllib.request
     import urllib.error
 
+    title = game.get("title", "Unknown Game")
+    url = game.get("url", "")
+    expires = game.get("expires", "Unknown")
+
     payload = {
-        "content": "🧪 Itch.io notifier webhook test"
+        "content": f"<@&{DISCORD_ROLE_ID}>",
+        "embeds": [
+            {
+                "author": {
+                    "name": "Itch.io - Freebie",
+                    "icon_url": "https://file.garden/afbSsuts32dZ5wSl/itch.io-logo_brandlogos.net_bhtjr.png"
+                },
+                "title": title,
+                "url": url,
+                "fields": [
+                    {
+                        "name": "Ends",
+                        "value": f"{expires}\n<t:{discord_timestamp(expires)}:R>",
+                        "inline": False
+                    }
+                ],
+                "footer": {
+                    "text": "Subho's Itch.io Freebie Informer",
+                    "icon_url": "https://files.catbox.moe/qttqpy.png"
+                }
+            }
+        ]
     }
+
+    if game.get("image"):
+        payload["embeds"][0]["image"] = {
+            "url": game["image"]
+        }
 
     data = json.dumps(payload).encode("utf-8")
 
     request = urllib.request.Request(
-    DISCORD_WEBHOOK,
-    data=data,
-    headers={
-        "Content-Type": "application/json",
-        "User-Agent": "Subho-Itch-Notifier/1.0"
-    },
-    method="POST"
-)
+        DISCORD_WEBHOOK,
+        data=data,
+        headers={
+            "Content-Type": "application/json",
+            "User-Agent": "Subho-Itch-Notifier/1.0"
+        },
+        method="POST"
+    )
 
     try:
         with urllib.request.urlopen(request, timeout=20) as response:
-            print(f"✅ Discord webhook test returned HTTP {response.status}")
+            print(f"✅ Discord notification sent: {title}")
             return True
 
     except urllib.error.HTTPError as error:
-        print(f"❌ Discord webhook test failed: HTTP {error.code}")
+        print(f"❌ Discord notification failed: HTTP {error.code}")
 
         try:
             body = error.read().decode("utf-8", errors="replace")
@@ -78,9 +108,8 @@ def send_discord(game):
         return False
 
     except Exception as error:
-        print(f"❌ Discord webhook test failed: {error}")
+        print(f"❌ Discord notification failed: {error}")
         return False
-
 def main():
     print("[1] Loading scraped games...")
 
@@ -126,14 +155,13 @@ def main():
     print("\n========== NEW GAMES ==========")
 
     for game in new_games:
-        print(f"🧪 Testing Discord with: {game.get('title', 'Unknown Game')}")
+    print(f"🎁 Sending Discord notification: {game.get('title', 'Unknown Game')}")
 
-        if send_discord(game):
-            successful_ids.add(str(game["id"]))
-        else:
-            print("⚠️ Notification failed — game will NOT be marked as sent.")
-
-        break
+    if send_discord(game):
+        successful_ids.add(str(game["id"]))
+    else:
+        print("⚠️ Notification failed — game will NOT be marked as sent.")
+        
     save_state(successful_ids)
 
     print("✅ State updated.")

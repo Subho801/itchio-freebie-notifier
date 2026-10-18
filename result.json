@@ -1,10 +1,34 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-18T12:51:36.419Z",
+  "scraped_at": "2026-10-18T14:43:45.222Z",
   "pages_scraped": 25,
-  "total_found": 97,
+  "total_found": 98,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5169400",
+      "title": "Family Manners",
+      "url": "https://nney.itch.io/family-manners",
+      "image": "https://img.itch.zone/aW1nLzMwOTU0MjI3LnBuZw==/315x250%23c/L6NDxI.png",
+      "author": "Ney",
+      "genre": "Adventure",
+      "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
+      "sale_url": "https://itch.io/s/206747/family-manners",
+      "expires": "2026-10-26T13:54:00.000Z",
+      "expires_raw": "2026-10-26T13:54:00Z"
+    },
+    {
+      "id": "5181022",
+      "title": "Time Travel Imperfectus",
+      "url": "https://indie-neuron-studio.itch.io/time-travel-imperfectus",
+      "image": "https://img.itch.zone/aW1nLzMxMDI4ODc4LnBuZw==/315x250%23c/jz4OsW.png",
+      "author": "Indie Neuron Studio",
+      "genre": "Visual Novel",
+      "blurb": "A short, visual novel about time travel",
+      "sale_url": "https://itch.io/s/206718/new-release-game",
+      "expires": "2026-10-25T13:03:00.000Z",
+      "expires_raw": "2026-10-25T13:03:00Z"
+    },
     {
       "id": "5177786",
       "title": "Grim Covenant",
@@ -172,18 +196,6 @@
       "sale_url": "https://itch.io/s/206459/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5138057",
-      "title": "The Cursed Mansion",
-      "url": "https://abdul123c.itch.io/the-cursed-mansion",
-      "image": "https://img.itch.zone/aW1nLzMwNzU3Njg4LnBuZw==/315x250%23c/YEpyAT.png",
-      "author": "abdul123c",
-      "genre": "Adventure",
-      "blurb": "Explore an abandoned mansion, solve its puzzles, and escape the monster that hunts you.",
-      "sale_url": "https://itch.io/s/204221/the-cursed-mansion-free-for-7-days",
-      "expires": "2026-10-18T14:23:00.000Z",
-      "expires_raw": "2026-10-18T14:23:00Z"
     },
     {
       "id": "5135913",

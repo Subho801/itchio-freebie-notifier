@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-18T21:56:45.658Z",
+  "scraped_at": "2026-10-18T23:50:03.581Z",
   "pages_scraped": 25,
-  "total_found": 104,
+  "total_found": 99,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -109,9 +109,9 @@
       "author": "Digital Dro",
       "genre": "Role Playing",
       "blurb": "A Lovecraftian open-world soulslike in retro 3D - [Early Access]",
-      "sale_url": "https://itch.io/s/204742/seventy-steps-launch-week-",
-      "expires": "2026-10-18T22:01:00.000Z",
-      "expires_raw": "2026-10-18T22:01:00Z"
+      "sale_url": "https://itch.io/s/206871/seventy-steps-free-to-try-until-halloween-",
+      "expires": "2026-10-25T16:59:00.000Z",
+      "expires_raw": "2026-10-25T16:59:00Z"
     },
     {
       "id": "5134195",
@@ -690,18 +690,6 @@
       "expires_raw": "2026-10-24T17:26:00Z"
     },
     {
-      "id": "4099328",
-      "title": "Tales from Dreadlight: The Morgue",
-      "url": "https://stefano-gaming.itch.io/tales-from-dreadlight-the-morgue",
-      "image": "https://img.itch.zone/aW1nLzI0NDc3MTQwLnBuZw==/315x250%23c/%2FQgbb6.png",
-      "author": "Stefano_Gaming",
-      "genre": null,
-      "blurb": "A continuation of the See Through Static Trilogy",
-      "sale_url": "https://itch.io/s/205030/tee-hee",
-      "expires": "2026-10-18T23:38:00.000Z",
-      "expires_raw": "2026-10-18T23:38:00Z"
-    },
-    {
       "id": "3028421",
       "title": "Devyard",
       "url": "https://thethil.itch.io/devyard",
@@ -724,18 +712,6 @@
       "sale_url": "https://itch.io/s/199330/flame-gutter-free",
       "expires": "2026-10-31T15:00:00.000Z",
       "expires_raw": "2026-10-31T15:00:00Z"
-    },
-    {
-      "id": "4133556",
-      "title": "Solitary Sonata",
-      "url": "https://stefano-gaming.itch.io/solitary-sonata",
-      "image": "https://img.itch.zone/aW1nLzI0NzMzNTE2LnBuZw==/315x250%23c/qcdb2Z.png",
-      "author": "Stefano_Gaming",
-      "genre": "Survival",
-      "blurb": "As the world goes silent, a tune quietly plays.",
-      "sale_url": "https://itch.io/s/205030/tee-hee",
-      "expires": "2026-10-18T23:38:00.000Z",
-      "expires_raw": "2026-10-18T23:38:00Z"
     },
     {
       "id": "4036526",
@@ -798,18 +774,6 @@
       "expires_raw": "2026-10-27T16:00:00Z"
     },
     {
-      "id": "3886204",
-      "title": "Shadow of the North",
-      "url": "https://cyanicdev.itch.io/shadow-of-the-north",
-      "image": "https://img.itch.zone/aW1nLzIzMTg1Mjc1LnBuZw==/315x250%23c/gj5Zho.png",
-      "author": "CyanicDev",
-      "genre": "Survival",
-      "blurb": "Collect 8 coins and avoid being caught by a mysterious tall figure.",
-      "sale_url": "https://itch.io/s/179722/shadow-of-the-north-get-for-free-limited-time",
-      "expires": "2026-10-18T21:59:00.000Z",
-      "expires_raw": "2026-10-18T21:59:00Z"
-    },
-    {
       "id": "3882668",
       "title": "Samurai_No_Advencher",
       "url": "https://sage-of-creation2000.itch.io/samurai-no-advencher",
@@ -858,28 +822,16 @@
       "expires_raw": "2026-10-22T22:54:00Z"
     },
     {
-      "id": "3831652",
-      "title": "Speak with Screams",
-      "url": "https://stefano-gaming.itch.io/speak-with-screams",
-      "image": "https://img.itch.zone/aW1nLzIyODUwODIwLnBuZw==/315x250%23c/Sn4deG.png",
-      "author": "Stefano_Gaming",
-      "genre": "Puzzle",
-      "blurb": "What would you do for views...?",
-      "sale_url": "https://itch.io/s/205030/tee-hee",
-      "expires": "2026-10-18T23:38:00.000Z",
-      "expires_raw": "2026-10-18T23:38:00Z"
-    },
-    {
-      "id": "3706544",
-      "title": "Sounds From Silence",
-      "url": "https://stefano-gaming.itch.io/sounds-from-silence",
-      "image": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png",
-      "author": "Stefano_Gaming",
-      "genre": "Puzzle",
-      "blurb": "It's Spreading...",
-      "sale_url": "https://itch.io/s/205030/tee-hee",
-      "expires": "2026-10-18T23:38:00.000Z",
-      "expires_raw": "2026-10-18T23:38:00Z"
+      "id": "3683740",
+      "title": "Thunder Defenders Star Heroes",
+      "url": "https://greygames1000.itch.io/thunder-defenders-star-heroes",
+      "image": "https://img.itch.zone/aW1nLzIxOTE3ODc5LnBuZw==/315x250%23c/Dnvl65.png",
+      "author": "Grey Games",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/206938/thunder-defenders",
+      "expires": "2026-11-01T23:16:00.000Z",
+      "expires_raw": "2026-11-01T23:16:00Z"
     },
     {
       "id": "3546641",
@@ -916,18 +868,6 @@
       "sale_url": "https://itch.io/s/197970/fall-sale",
       "expires": "2026-10-22T22:54:00.000Z",
       "expires_raw": "2026-10-22T22:54:00Z"
-    },
-    {
-      "id": "3398452",
-      "title": "Acceptance",
-      "url": "https://stefano-gaming.itch.io/acceptance",
-      "image": "https://img.itch.zone/aW1nLzIwMjg2NjEwLnBuZw==/315x250%23c/%2BPUQAw.png",
-      "author": "Stefano_Gaming",
-      "genre": "Survival",
-      "blurb": "Will you uncover your past, or fall to the nightmares lurking within?",
-      "sale_url": "https://itch.io/s/205030/tee-hee",
-      "expires": "2026-10-18T23:38:00.000Z",
-      "expires_raw": "2026-10-18T23:38:00Z"
     },
     {
       "id": "3260272",

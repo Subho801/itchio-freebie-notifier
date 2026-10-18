@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-18T14:43:45.222Z",
+  "scraped_at": "2026-10-18T17:38:07.849Z",
   "pages_scraped": 25,
-  "total_found": 98,
+  "total_found": 102,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -28,18 +28,6 @@
       "sale_url": "https://itch.io/s/206718/new-release-game",
       "expires": "2026-10-25T13:03:00.000Z",
       "expires_raw": "2026-10-25T13:03:00Z"
-    },
-    {
-      "id": "5177786",
-      "title": "Grim Covenant",
-      "url": "https://cast-knock-games.itch.io/grim-covenant",
-      "image": "https://img.itch.zone/aW1nLzMxMDEyMzAxLnBuZw==/315x250%23c/8csf%2Bt.png",
-      "author": "Cast Knock Games",
-      "genre": "Fighting",
-      "blurb": "A single-player fantasy arcade fighter with twelve classes, earned subclasses and branching boss finales.",
-      "sale_url": "https://itch.io/s/206513/halloween-sale-2026",
-      "expires": "2026-10-18T17:00:00.000Z",
-      "expires_raw": "2026-10-18T17:00:00Z"
     },
     {
       "id": "5176760",
@@ -134,8 +122,8 @@
       "genre": "Adventure",
       "blurb": "The Party is still listening.",
       "sale_url": "https://itch.io/s/204151/a-communist-goes-insane-in-a-soviet-warehouse",
-      "expires": "2026-10-25T21:05:00.000Z",
-      "expires_raw": "2026-10-25T21:05:00Z"
+      "expires": "2026-10-24T20:05:00.000Z",
+      "expires_raw": "2026-10-24T20:05:00Z"
     },
     {
       "id": "5160570",
@@ -182,8 +170,8 @@
       "genre": "Adventure",
       "blurb": "The Party is listening",
       "sale_url": "https://itch.io/s/204151/a-communist-goes-insane-in-a-soviet-warehouse",
-      "expires": "2026-10-25T21:05:00.000Z",
-      "expires_raw": "2026-10-25T21:05:00Z"
+      "expires": "2026-10-24T20:05:00.000Z",
+      "expires_raw": "2026-10-24T20:05:00Z"
     },
     {
       "id": "5140696",
@@ -388,6 +376,18 @@
       "sale_url": "https://itch.io/s/204139/100-sale",
       "expires": "2026-10-24T17:26:00.000Z",
       "expires_raw": "2026-10-24T17:26:00Z"
+    },
+    {
+      "id": "4792265",
+      "title": "A Backrooms Escape",
+      "url": "https://rabbit3d-studio-games.itch.io/a-backrooms-escape",
+      "image": "https://img.itch.zone/aW1nLzMwOTkwMTgyLnBuZw==/315x250%23c/mqaI4Z.png",
+      "author": "Rabbit3d Studios",
+      "genre": "Survival",
+      "blurb": "Survival , first-person,  psychological , backrooms",
+      "sale_url": "https://itch.io/s/206157/a-backrooms-escape-sale",
+      "expires": "2026-10-23T13:54:00.000Z",
+      "expires_raw": "2026-10-23T13:54:00Z"
     },
     {
       "id": "4778909",
@@ -724,6 +724,18 @@
       "sale_url": "https://itch.io/s/167432/data-center-playtest",
       "expires": "2026-10-31T23:00:00.000Z",
       "expires_raw": "2026-10-31T23:00:00Z"
+    },
+    {
+      "id": "4023882",
+      "title": "KAWAPS",
+      "url": "https://yazorius.itch.io/kawaps",
+      "image": "https://img.itch.zone/aW1nLzIzOTk0MTYxLmpwZw==/315x250%23c/rNhBww.jpg",
+      "author": "Yazorius",
+      "genre": "Puzzle",
+      "blurb": "Short puzzle game",
+      "sale_url": "https://itch.io/s/206024/yazo-ween",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "3898062",
@@ -1180,6 +1192,42 @@
       "sale_url": "https://itch.io/s/205351/baldis-basics-songkran-halloween-day-2026-pt2-sale-100",
       "expires": "2026-11-01T11:00:00.000Z",
       "expires_raw": "2026-11-01T11:00:00Z"
+    },
+    {
+      "id": "1367353",
+      "title": "No Turning Back",
+      "url": "https://yazorius.itch.io/ntb",
+      "image": "https://img.itch.zone/aW1nLzc5NjA0MzMuZ2lm/315x250%23c/%2F2nCAX.gif",
+      "author": "Yazorius",
+      "genre": "Adventure",
+      "blurb": "Weird experience (as usual)",
+      "sale_url": "https://itch.io/s/206024/yazo-ween",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "1315630",
+      "title": "Projet-Z",
+      "url": "https://yazorius.itch.io/projetz",
+      "image": "https://img.itch.zone/aW1nLzc2NDk5NDgucG5n/315x250%23c/1%2B6xVs.png",
+      "author": "Yazorius",
+      "genre": "Adventure",
+      "blurb": "Short adventure video game",
+      "sale_url": "https://itch.io/s/206024/yazo-ween",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "744768",
+      "title": "N³Vr0Z",
+      "url": "https://yazorius.itch.io/nvrz",
+      "image": "https://img.itch.zone/aW1nLzQxNTIyNDcucG5n/315x250%23c/1yroEK.png",
+      "author": "Yazorius",
+      "genre": "Puzzle",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/206024/yazo-ween",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     }
   ]
 }

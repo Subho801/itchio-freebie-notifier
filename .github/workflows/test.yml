@@ -1,3 +1,4 @@
+
 name: Itch.io Freebie Notifier
 
 on:
@@ -38,16 +39,17 @@ jobs:
           DISCORD_ROLE_ID: ${{ secrets.DISCORD_ROLE_ID }}
         run: python itch.py
 
-      - name: Save state
+      - name: Publish website feed and save state
         run: |
-          if git diff --quiet -- itch_state.json; then
-            echo "No state changes."
-            exit 0
-          fi
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add itch_state.json
-          git commit -m "Update itch.io giveaway state"
+          git add result.json itch_state.json
+
+          if git diff --cached --quiet; then
+            echo "No feed or state changes."
+            exit 0
+          fi
+
+          git commit -m "Update itch.io giveaway feed and state"
           git push

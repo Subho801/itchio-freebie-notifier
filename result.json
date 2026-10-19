@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-19T01:53:46.810Z",
+  "scraped_at": "2026-10-19T07:02:15.607Z",
   "pages_scraped": 25,
   "total_found": 99,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5184587",
+      "title": "Guess My Monster: Blood Market",
+      "url": "https://silentdks.itch.io/guess-my-monster",
+      "image": "https://img.itch.zone/aW1nLzMxMDUxNDQ3LnBuZw==/315x250%23c/JuaEip.png",
+      "author": "Dokis",
+      "genre": "Strategy",
+      "blurb": "A horror twist on the classic Guess Who deduction game",
+      "sale_url": "https://itch.io/s/206925/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
     {
       "id": "5169400",
       "title": "Family Manners",
@@ -122,8 +134,8 @@
       "genre": "Adventure",
       "blurb": "The Party is still listening.",
       "sale_url": "https://itch.io/s/204151/a-communist-goes-insane-in-a-soviet-warehouse",
-      "expires": "2026-10-24T20:05:00.000Z",
-      "expires_raw": "2026-10-24T20:05:00Z"
+      "expires": "2026-10-25T18:10:00.000Z",
+      "expires_raw": "2026-10-25T18:10:00Z"
     },
     {
       "id": "5160570",
@@ -170,8 +182,8 @@
       "genre": "Adventure",
       "blurb": "The Party is listening",
       "sale_url": "https://itch.io/s/204151/a-communist-goes-insane-in-a-soviet-warehouse",
-      "expires": "2026-10-24T20:05:00.000Z",
-      "expires_raw": "2026-10-24T20:05:00Z"
+      "expires": "2026-10-25T18:10:00.000Z",
+      "expires_raw": "2026-10-25T18:10:00Z"
     },
     {
       "id": "5141679",
@@ -868,18 +880,6 @@
       "sale_url": "https://itch.io/s/197970/fall-sale",
       "expires": "2026-10-22T22:54:00.000Z",
       "expires_raw": "2026-10-22T22:54:00Z"
-    },
-    {
-      "id": "3260272",
-      "title": "Room of Secrets",
-      "url": "https://komodroidnz.itch.io/room-of-secrets",
-      "image": "https://img.itch.zone/aW1nLzI5MjAxNjgyLnBuZw==/315x250%23c/m9PGFu.png",
-      "author": "Komodroid New Zealand",
-      "genre": "Puzzle",
-      "blurb": "Can you Escape?",
-      "sale_url": "https://itch.io/s/204001/komodroid-halloween-sale",
-      "expires": "2026-10-30T21:28:00.000Z",
-      "expires_raw": "2026-10-30T21:28:00Z"
     },
     {
       "id": "1913569",

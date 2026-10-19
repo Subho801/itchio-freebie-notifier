@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-18T23:50:03.581Z",
+  "scraped_at": "2026-10-19T01:53:46.810Z",
   "pages_scraped": 25,
   "total_found": 99,
   "stopped_reason": "max_pages_reached",
@@ -108,8 +108,8 @@
       "image": "https://img.itch.zone/aW1nLzMwOTA1MzI4LnBuZw==/315x250%23c/4kTQl2.png",
       "author": "Digital Dro",
       "genre": "Role Playing",
-      "blurb": "A Lovecraftian open-world soulslike in retro 3D - [Early Access]",
-      "sale_url": "https://itch.io/s/206871/seventy-steps-free-to-try-until-halloween-",
+      "blurb": "Lovecraftian Open-World Souls-Like In Retro 3D",
+      "sale_url": "https://itch.io/s/206871/seventy-steps-free-to-try",
       "expires": "2026-10-25T16:59:00.000Z",
       "expires_raw": "2026-10-25T16:59:00Z"
     },

@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-19T07:02:15.607Z",
+  "scraped_at": "2026-10-19T14:22:06.440Z",
   "pages_scraped": 25,
   "total_found": 99,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5188200",
+      "title": "CODEX: 111 — The Last Ember",
+      "url": "https://xor-11.itch.io/codex-111",
+      "image": "https://img.itch.zone/aW1nLzMxMDcyOTkwLnBuZw==/315x250%23c/H1RmzR.png",
+      "author": "XOR-11",
+      "genre": "Platformer",
+      "blurb": "A painterly-noir precision platformer and philosophical riddle box.",
+      "sale_url": "https://itch.io/s/207092/puja-sale-2026",
+      "expires": "2026-10-20T18:00:00.000Z",
+      "expires_raw": "2026-10-20T18:00:00Z"
+    },
     {
       "id": "5184587",
       "title": "Guess My Monster: Blood Market",
@@ -121,7 +133,7 @@
       "author": "Digital Dro",
       "genre": "Role Playing",
       "blurb": "Lovecraftian Open-World Souls-Like In Retro 3D",
-      "sale_url": "https://itch.io/s/206871/seventy-steps-free-to-try",
+      "sale_url": "https://itch.io/s/206871/seventy-steps",
       "expires": "2026-10-25T16:59:00.000Z",
       "expires_raw": "2026-10-25T16:59:00Z"
     },
@@ -186,18 +198,6 @@
       "expires_raw": "2026-10-25T18:10:00Z"
     },
     {
-      "id": "5141679",
-      "title": "SuperCars (Early Access)",
-      "url": "https://trianglellc.itch.io/supercars",
-      "image": "https://img.itch.zone/aW1nLzMxMDQ5NDkxLnBuZw==/315x250%23c/dnnILf.png",
-      "author": "Triangle Interactive LLC.",
-      "genre": "Racing",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/204418/early-release",
-      "expires": "2026-10-28T02:30:00.000Z",
-      "expires_raw": "2026-10-28T02:30:00Z"
-    },
-    {
       "id": "5140696",
       "title": "KaizokuOnline",
       "url": "https://huenx.itch.io/kaizokuonline",
@@ -230,8 +230,8 @@
       "genre": "Adventure",
       "blurb": "A PSX-style sleep paralysis horror game",
       "sale_url": "https://itch.io/s/204751/sleep-in-fear-demo-sale-100-off",
-      "expires": "2026-10-29T15:42:00.000Z",
-      "expires_raw": "2026-10-29T15:42:00Z"
+      "expires": "2026-10-25T17:00:00.000Z",
+      "expires_raw": "2026-10-25T17:00:00Z"
     },
     {
       "id": "4987477",
@@ -494,8 +494,8 @@
       "genre": "Puzzle",
       "blurb": "Cozy Horror Anomaly Puzzle Game.",
       "sale_url": "https://itch.io/s/203679/tea-party-for-4-100-off",
-      "expires": "2026-10-20T07:00:00.000Z",
-      "expires_raw": "2026-10-20T07:00:00Z"
+      "expires": "2026-10-22T07:00:00.000Z",
+      "expires_raw": "2026-10-22T07:00:00Z"
     },
     {
       "id": "4578566",

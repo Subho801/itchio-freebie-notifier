@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-19T20:04:17.311Z",
+  "scraped_at": "2026-10-19T23:26:15.578Z",
   "pages_scraped": 25,
-  "total_found": 97,
+  "total_found": 95,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -64,18 +64,6 @@
       "sale_url": "https://itch.io/s/206718/new-release-game",
       "expires": "2026-10-25T13:03:00.000Z",
       "expires_raw": "2026-10-25T13:03:00Z"
-    },
-    {
-      "id": "5176760",
-      "title": "The Resonance",
-      "url": "https://valentynnemichev.itch.io/the-resonance",
-      "image": "https://img.itch.zone/aW1nLzMwOTk5ODYxLnBuZw==/315x250%23c/lPOcAj.png",
-      "author": "Dosevz",
-      "genre": "Strategy",
-      "blurb": "One drum. Two seats. Blanks, lasers, and a monster that waits for your mistake.",
-      "sale_url": "https://itch.io/s/206352/sale",
-      "expires": "2026-10-19T20:34:00.000Z",
-      "expires_raw": "2026-10-19T20:34:00Z"
     },
     {
       "id": "5170729",
@@ -213,11 +201,11 @@
       "id": "5140696",
       "title": "KaizokuOnline",
       "url": "https://huenx.itch.io/kaizokuonline",
-      "image": "https://img.itch.zone/aW1nLzMwNzc1NTE5LnBuZw==/315x250%23c/lETaty.png",
+      "image": "https://img.itch.zone/aW1nLzMxMTAyMTMwLnBuZw==/315x250%23c/j48qwH.png",
       "author": "huenx",
       "genre": "Role Playing",
       "blurb": "MMORPG NO-LINEAL GAME BASED IN ONE PIECE",
-      "sale_url": "https://itch.io/s/206459/halloween-sale-2026",
+      "sale_url": "https://itch.io/s/206459/one-piece-inspired-mmorpg",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -1153,18 +1141,6 @@
       "author": "Yazorius",
       "genre": "Adventure",
       "blurb": "Short adventure video game",
-      "sale_url": "https://itch.io/s/206024/yazo-ween",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "744768",
-      "title": "N³Vr0Z",
-      "url": "https://yazorius.itch.io/nvrz",
-      "image": "https://img.itch.zone/aW1nLzQxNTIyNDcucG5n/315x250%23c/1yroEK.png",
-      "author": "Yazorius",
-      "genre": "Puzzle",
-      "blurb": null,
       "sale_url": "https://itch.io/s/206024/yazo-ween",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"

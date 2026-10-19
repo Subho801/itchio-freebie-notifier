@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-19T14:22:06.440Z",
+  "scraped_at": "2026-10-19T20:04:17.311Z",
   "pages_scraped": 25,
-  "total_found": 99,
+  "total_found": 97,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5190868",
+      "title": "Spirit Box",
+      "url": "https://tattershallstudios.itch.io/spirit-box",
+      "image": "https://img.itch.zone/aW1nLzMxMDkwODI0LnBuZw==/315x250%23c/oPR2x7.png",
+      "author": "TattershallStudios",
+      "genre": "Interactive Fiction",
+      "blurb": "A radio for the dead. Type anything; the ghosts answer, out loud, from an AI running on your own computer.",
+      "sale_url": "https://itch.io/s/207246/spirit-box-is-free-until-november-1",
+      "expires": "2026-11-01T05:00:00.000Z",
+      "expires_raw": "2026-11-01T05:00:00Z"
+    },
     {
       "id": "5188200",
       "title": "CODEX: 111 — The Last Ember",
@@ -426,18 +438,6 @@
       "expires_raw": "2026-10-23T13:54:00Z"
     },
     {
-      "id": "4778909",
-      "title": "My Silly little Revenge",
-      "url": "https://sage-of-creation2000.itch.io/my-little-revenge",
-      "image": "https://img.itch.zone/aW1nLzI4NTQ1NzI3LnBuZw==/315x250%23c/HGx0gB.png",
-      "author": "sage_of_creation2000",
-      "genre": "Action",
-      "blurb": "A high-tech AI toilet gets a demonic upgrade and 5 minutes to take violent revenge on humanity",
-      "sale_url": "https://itch.io/s/206246/late-spooky-sail",
-      "expires": "2026-10-19T17:50:00.000Z",
-      "expires_raw": "2026-10-19T17:50:00Z"
-    },
-    {
       "id": "4750147",
       "title": "Voxelite",
       "url": "https://waterworksgames.itch.io/voxelite",
@@ -654,18 +654,6 @@
       "expires_raw": "2026-11-01T03:59:00Z"
     },
     {
-      "id": "4381379",
-      "title": "The_Last_Shift",
-      "url": "https://sage-of-creation2000.itch.io/the-last-shift",
-      "image": "https://img.itch.zone/aW1nLzI2MTQ4OTAyLnBuZw==/315x250%23c/ktWDOR.png",
-      "author": "sage_of_creation2000",
-      "genre": "Adventure",
-      "blurb": "Survive your last night shift, outrun a monster, and rebuild a strange AI toilet to escape.",
-      "sale_url": "https://itch.io/s/206246/late-spooky-sail",
-      "expires": "2026-10-19T17:50:00.000Z",
-      "expires_raw": "2026-10-19T17:50:00Z"
-    },
-    {
       "id": "4331491",
       "title": "CULT OF FLIES",
       "url": "https://alexander-wiseman.itch.io/cult-of-flies",
@@ -784,18 +772,6 @@
       "sale_url": "https://itch.io/s/185123/free-to-keep-overcome-your-fears-caretaker",
       "expires": "2026-10-27T16:00:00.000Z",
       "expires_raw": "2026-10-27T16:00:00Z"
-    },
-    {
-      "id": "3882668",
-      "title": "Samurai_No_Advencher",
-      "url": "https://sage-of-creation2000.itch.io/samurai-no-advencher",
-      "image": "https://img.itch.zone/aW1nLzIzMTY0Njk1LnBuZw==/315x250%23c/dNcHjz.png",
-      "author": "sage_of_creation2000",
-      "genre": "Platformer",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/206246/late-spooky-sail",
-      "expires": "2026-10-19T17:50:00.000Z",
-      "expires_raw": "2026-10-19T17:50:00Z"
     },
     {
       "id": "3828547",

@@ -1,10 +1,34 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-20T07:15:56.612Z",
+  "scraped_at": "2026-10-20T12:50:19.127Z",
   "pages_scraped": 25,
-  "total_found": 102,
+  "total_found": 103,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5094265",
+      "title": "Trox The Reversal",
+      "url": "https://troj4nblazing.itch.io/trox-the-reversal",
+      "image": "https://img.itch.zone/aW1nLzMwNDk3MDQ1LmdpZg==/315x250%23c/3Ir3gy.gif",
+      "author": "Vinil",
+      "genre": "Survival",
+      "blurb": "\"When survival becomes the law\".",
+      "sale_url": "https://itch.io/s/205569/flash-sale",
+      "expires": "2026-10-31T13:57:00.000Z",
+      "expires_raw": "2026-10-31T13:57:00Z"
+    },
+    {
+      "id": "4685877",
+      "title": "The Green Light",
+      "url": "https://waleedzo.itch.io/the-green-light",
+      "image": "https://img.itch.zone/aW1nLzI3OTI1MjMwLnBuZw==/315x250%23c/9OPXob.png",
+      "author": "waleedzo",
+      "genre": "Adventure",
+      "blurb": "A first-person horror game. Trapped in a dead-end job, Fred follows a voice promising peace through a green light.",
+      "sale_url": "https://itch.io/s/206340/-free-for-7-days",
+      "expires": "2026-10-24T19:55:00.000Z",
+      "expires_raw": "2026-10-24T19:55:00Z"
+    },
     {
       "id": "5193031",
       "title": "WARM",
@@ -22,7 +46,7 @@
       "title": "Spirit Box",
       "url": "https://tattershallstudios.itch.io/spirit-box",
       "image": "https://img.itch.zone/aW1nLzMxMDkwODI0LnBuZw==/315x250%23c/oPR2x7.png",
-      "author": "TattershallStudios",
+      "author": "Tattershall Studios",
       "genre": "Interactive Fiction",
       "blurb": "A radio for the dead. Type anything; the ghosts answer, out loud, from an AI running on your own computer.",
       "sale_url": "https://itch.io/s/207246/spirit-box-is-free-until-november-1",
@@ -57,7 +81,7 @@
       "id": "5169400",
       "title": "Family Manners",
       "url": "https://nney.itch.io/family-manners",
-      "image": "https://img.itch.zone/aW1nLzMwOTU0MjI3LnBuZw==/315x250%23c/L6NDxI.png",
+      "image": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
       "author": "Ney",
       "genre": "Adventure",
       "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
@@ -88,18 +112,6 @@
       "sale_url": "https://itch.io/s/206269/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5094265",
-      "title": "Trox The Reversal",
-      "url": "https://troj4nblazing.itch.io/trox-the-reversal",
-      "image": "https://img.itch.zone/aW1nLzMwNDk3MDQ1LmdpZg==/315x250%23c/3Ir3gy.gif",
-      "author": "Vinil",
-      "genre": "Survival",
-      "blurb": "\"When survival becomes the law\".",
-      "sale_url": "https://itch.io/s/205569/flash-sale",
-      "expires": "2026-10-31T13:57:00.000Z",
-      "expires_raw": "2026-10-31T13:57:00Z"
     },
     {
       "id": "5165595",
@@ -268,18 +280,6 @@
       "sale_url": "https://itch.io/s/201260/draw-place-run-demo-launch-sale",
       "expires": "2026-11-16T21:06:00.000Z",
       "expires_raw": "2026-11-16T21:06:00Z"
-    },
-    {
-      "id": "4965575",
-      "title": "Snakehead",
-      "url": "https://woodchair.itch.io/snakehead",
-      "image": "https://img.itch.zone/aW1nLzMwMTk2NzQxLmdpZg==/315x250%23c/b4FFdr.gif",
-      "author": "woodchair",
-      "genre": "Adventure",
-      "blurb": "we come in peace.",
-      "sale_url": "https://itch.io/s/200756/support",
-      "expires": "2026-10-20T10:48:00.000Z",
-      "expires_raw": "2026-10-20T10:48:00Z"
     },
     {
       "id": "4992808",
@@ -460,18 +460,6 @@
       "sale_url": "https://itch.io/s/206027/free-to-keep-giveaway",
       "expires": "2026-10-24T09:16:00.000Z",
       "expires_raw": "2026-10-24T09:16:00Z"
-    },
-    {
-      "id": "4685877",
-      "title": "The Green Light",
-      "url": "https://waleedzo.itch.io/the-green-light",
-      "image": "https://img.itch.zone/aW1nLzI3OTI1MjMwLnBuZw==/315x250%23c/9OPXob.png",
-      "author": "waleedzo",
-      "genre": "Adventure",
-      "blurb": "A first-person horror game. Trapped in a dead-end job, Fred follows a voice promising peace through a green light.",
-      "sale_url": "https://itch.io/s/206340/-free-for-7-days",
-      "expires": "2026-10-24T19:55:00.000Z",
-      "expires_raw": "2026-10-24T19:55:00Z"
     },
     {
       "id": "4669793",
@@ -820,6 +808,18 @@
       "sale_url": "https://itch.io/s/197970/fall-sale",
       "expires": "2026-10-22T22:54:00.000Z",
       "expires_raw": "2026-10-22T22:54:00Z"
+    },
+    {
+      "id": "3313167",
+      "title": "Smiling Terror",
+      "url": "https://poisonicestudios.itch.io/smiling-terror",
+      "image": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif",
+      "author": "PoisonIce Studios",
+      "genre": "Survival",
+      "blurb": "90's Style Retro Survival Horror",
+      "sale_url": "https://itch.io/s/179743/smiling-terror-free-100-discount",
+      "expires": "2026-11-04T23:00:00.000Z",
+      "expires_raw": "2026-11-04T23:00:00Z"
     },
     {
       "id": "3683740",
@@ -1225,6 +1225,18 @@
       "author": "Yazorius",
       "genre": "Adventure",
       "blurb": "Short adventure video game",
+      "sale_url": "https://itch.io/s/206024/yazo-ween",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "744768",
+      "title": "N³Vr0Z",
+      "url": "https://yazorius.itch.io/nvrz",
+      "image": "https://img.itch.zone/aW1nLzQxNTIyNDcucG5n/315x250%23c/1yroEK.png",
+      "author": "Yazorius",
+      "genre": "Puzzle",
+      "blurb": null,
       "sale_url": "https://itch.io/s/206024/yazo-ween",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"

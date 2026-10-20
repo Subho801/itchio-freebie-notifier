@@ -1,15 +1,27 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-20T12:50:19.127Z",
+  "scraped_at": "2026-10-20T17:38:35.957Z",
   "pages_scraped": 25,
   "total_found": 103,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
+      "id": "5196465",
+      "title": "Mind the Clown: Reborn (Demo)",
+      "url": "https://coastcitygames.itch.io/mind-the-clown-reborn",
+      "image": "https://img.itch.zone/aW1nLzMxMTI4MDExLnBuZw==/315x250%23c/sWuC1Y.png",
+      "author": "Coast City Games",
+      "genre": "Adventure",
+      "blurb": "Survive a cursed circus twisted by childhood memories.",
+      "sale_url": "https://itch.io/s/207598/flash-sale",
+      "expires": "2026-10-31T15:39:00.000Z",
+      "expires_raw": "2026-10-31T15:39:00Z"
+    },
+    {
       "id": "5094265",
-      "title": "Trox The Reversal",
+      "title": "Trox The Reversal (Demo)",
       "url": "https://troj4nblazing.itch.io/trox-the-reversal",
-      "image": "https://img.itch.zone/aW1nLzMwNDk3MDQ1LmdpZg==/315x250%23c/3Ir3gy.gif",
+      "image": "https://img.itch.zone/aW1nLzMxMTI3NDc0LmdpZg==/315x250%23c/EY9jsY.gif",
       "author": "Vinil",
       "genre": "Survival",
       "blurb": "\"When survival becomes the law\".",
@@ -294,6 +306,18 @@
       "expires_raw": "2026-10-31T18:00:00Z"
     },
     {
+      "id": "4739386",
+      "title": "Shadows We Share - Unaware",
+      "url": "https://bennyboygames.itch.io/unaware",
+      "image": "https://img.itch.zone/aW1nLzI5ODQwNjgyLmpwZWc=/315x250%23c/dSMhEz.jpeg",
+      "author": "BennyBoyGames",
+      "genre": "Adventure",
+      "blurb": "The first and last installment of the Shadows We Share anthology.",
+      "sale_url": "https://itch.io/s/207579/shadows-we-share-100-sale",
+      "expires": "2026-10-27T15:06:00.000Z",
+      "expires_raw": "2026-10-27T15:06:00Z"
+    },
+    {
       "id": "4973081",
       "title": "Final Witness",
       "url": "https://hexnut-studios.itch.io/final-witness",
@@ -302,8 +326,8 @@
       "genre": "Adventure",
       "blurb": "You found the truth. Can you survive? A PSX-style horror game.",
       "sale_url": "https://itch.io/s/200189/final-witness-on-sale-for-a-limited",
-      "expires": "2026-10-20T22:42:00.000Z",
-      "expires_raw": "2026-10-20T22:42:00Z"
+      "expires": "2026-10-22T22:42:00.000Z",
+      "expires_raw": "2026-10-22T22:42:00Z"
     },
     {
       "id": "4795895",
@@ -340,18 +364,6 @@
       "sale_url": "https://itch.io/s/195523/sale",
       "expires": "2026-10-31T09:20:00.000Z",
       "expires_raw": "2026-10-31T09:20:00Z"
-    },
-    {
-      "id": "4910183",
-      "title": "Grandfather's Story",
-      "url": "https://giuliopazzo.itch.io/grandfatherstory",
-      "image": "https://img.itch.zone/aW1nLzI5NTQ5MzUxLnBuZw==/315x250%23c/hV4Po9.png",
-      "author": "GiulioPazzo",
-      "genre": "Adventure",
-      "blurb": "Grandfather's Story Horror Game",
-      "sale_url": "https://itch.io/s/203421/grandfathers-sory-first-version-sale",
-      "expires": "2026-10-20T16:13:00.000Z",
-      "expires_raw": "2026-10-20T16:13:00Z"
     },
     {
       "id": "4920479",
@@ -626,8 +638,8 @@
       "genre": "Adventure",
       "blurb": "You were never meant to leave. A PSX-style horror game.",
       "sale_url": "https://itch.io/s/182780/lord-of-chaos-on-sale-for-a-limited-time",
-      "expires": "2026-10-21T17:00:00.000Z",
-      "expires_raw": "2026-10-21T17:00:00Z"
+      "expires": "2026-10-23T17:00:00.000Z",
+      "expires_raw": "2026-10-23T17:00:00Z"
     },
     {
       "id": "4400903",
@@ -1045,18 +1057,6 @@
       "author": "Fɾҽxƈҽʅʅσɾ",
       "genre": "Survival",
       "blurb": "Dorman and Friends' Diner 4",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
-    },
-    {
-      "id": "2264812",
-      "title": "Dorman & Friends' Abandoned Diner",
-      "url": "https://frexcellor.itch.io/dfd3",
-      "image": "https://img.itch.zone/aW1nLzE5MjMwMDg1LnBuZw==/315x250%23c/QnhZAQ.png",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "genre": "Survival",
-      "blurb": "Dorman's and Friends' Diner 3",
       "sale_url": "https://itch.io/s/198787/2026-fall-sale",
       "expires": "2026-11-19T05:00:00.000Z",
       "expires_raw": "2026-11-19T05:00:00Z"

@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-20T17:38:35.957Z",
+  "scraped_at": "2026-10-20T20:54:48.811Z",
   "pages_scraped": 25,
-  "total_found": 103,
+  "total_found": 104,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -73,9 +73,9 @@
       "author": "XOR-11",
       "genre": "Platformer",
       "blurb": "A painterly-noir precision platformer and philosophical riddle box.",
-      "sale_url": "https://itch.io/s/207092/puja-sale-2026",
-      "expires": "2026-10-20T18:00:00.000Z",
-      "expires_raw": "2026-10-20T18:00:00Z"
+      "sale_url": "https://itch.io/s/207088/vijaya-dashami-sale-2026",
+      "expires": "2026-10-26T18:00:00.000Z",
+      "expires_raw": "2026-10-26T18:00:00Z"
     },
     {
       "id": "5184587",
@@ -234,6 +234,18 @@
       "expires_raw": "2026-10-25T18:10:00Z"
     },
     {
+      "id": "5141679",
+      "title": "SuperCars (Early Access)",
+      "url": "https://trianglellc.itch.io/supercars",
+      "image": "https://img.itch.zone/aW1nLzMxMDQ5NDkxLnBuZw==/315x250%23c/dnnILf.png",
+      "author": "Triangle Interactive LLC.",
+      "genre": "Racing",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/204418/early-release",
+      "expires": "2026-10-28T02:30:00.000Z",
+      "expires_raw": "2026-10-28T02:30:00Z"
+    },
+    {
       "id": "5140696",
       "title": "KaizokuOnline",
       "url": "https://huenx.itch.io/kaizokuonline",
@@ -306,18 +318,6 @@
       "expires_raw": "2026-10-31T18:00:00Z"
     },
     {
-      "id": "4739386",
-      "title": "Shadows We Share - Unaware",
-      "url": "https://bennyboygames.itch.io/unaware",
-      "image": "https://img.itch.zone/aW1nLzI5ODQwNjgyLmpwZWc=/315x250%23c/dSMhEz.jpeg",
-      "author": "BennyBoyGames",
-      "genre": "Adventure",
-      "blurb": "The first and last installment of the Shadows We Share anthology.",
-      "sale_url": "https://itch.io/s/207579/shadows-we-share-100-sale",
-      "expires": "2026-10-27T15:06:00.000Z",
-      "expires_raw": "2026-10-27T15:06:00Z"
-    },
-    {
       "id": "4973081",
       "title": "Final Witness",
       "url": "https://hexnut-studios.itch.io/final-witness",
@@ -362,8 +362,8 @@
       "genre": "Adventure",
       "blurb": null,
       "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-31T09:20:00.000Z",
-      "expires_raw": "2026-10-31T09:20:00Z"
+      "expires": "2026-10-23T09:20:00.000Z",
+      "expires_raw": "2026-10-23T09:20:00Z"
     },
     {
       "id": "4920479",
@@ -1022,8 +1022,8 @@
       "genre": "Platformer",
       "blurb": "it's a hard 2d Game with hard traps",
       "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-31T09:20:00.000Z",
-      "expires_raw": "2026-10-31T09:20:00Z"
+      "expires": "2026-10-23T09:20:00.000Z",
+      "expires_raw": "2026-10-23T09:20:00Z"
     },
     {
       "id": "2300883",
@@ -1034,8 +1034,8 @@
       "genre": "Platformer",
       "blurb": "it is a 2D pixel game where the goal is to get out of the first level but you can not escape",
       "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-31T09:20:00.000Z",
-      "expires_raw": "2026-10-31T09:20:00Z"
+      "expires": "2026-10-23T09:20:00.000Z",
+      "expires_raw": "2026-10-23T09:20:00Z"
     },
     {
       "id": "2265537",
@@ -1057,6 +1057,18 @@
       "author": "Fɾҽxƈҽʅʅσɾ",
       "genre": "Survival",
       "blurb": "Dorman and Friends' Diner 4",
+      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
+      "expires": "2026-11-19T05:00:00.000Z",
+      "expires_raw": "2026-11-19T05:00:00Z"
+    },
+    {
+      "id": "2264812",
+      "title": "Dorman & Friends' Abandoned Diner",
+      "url": "https://frexcellor.itch.io/dfd3",
+      "image": "https://img.itch.zone/aW1nLzE5MjMwMDg1LnBuZw==/315x250%23c/QnhZAQ.png",
+      "author": "Fɾҽxƈҽʅʅσɾ",
+      "genre": "Survival",
+      "blurb": "Dorman's and Friends' Diner 3",
       "sale_url": "https://itch.io/s/198787/2026-fall-sale",
       "expires": "2026-11-19T05:00:00.000Z",
       "expires_raw": "2026-11-19T05:00:00Z"
@@ -1094,8 +1106,8 @@
       "genre": "Shooter",
       "blurb": "it's about a guy who is job is to kill zombies and trying to save a small village",
       "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-31T09:20:00.000Z",
-      "expires_raw": "2026-10-31T09:20:00Z"
+      "expires": "2026-10-23T09:20:00.000Z",
+      "expires_raw": "2026-10-23T09:20:00Z"
     },
     {
       "id": "2237185",
@@ -1106,8 +1118,8 @@
       "genre": null,
       "blurb": "It's a game where you complete simple tasks but you can't pass a single on of them",
       "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-31T09:20:00.000Z",
-      "expires_raw": "2026-10-31T09:20:00Z"
+      "expires": "2026-10-23T09:20:00.000Z",
+      "expires_raw": "2026-10-23T09:20:00Z"
     },
     {
       "id": "2236242",
@@ -1130,8 +1142,8 @@
       "genre": "Puzzle",
       "blurb": "it is a simple maze and the gool to find the Exit door",
       "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-31T09:20:00.000Z",
-      "expires_raw": "2026-10-31T09:20:00Z"
+      "expires": "2026-10-23T09:20:00.000Z",
+      "expires_raw": "2026-10-23T09:20:00Z"
     },
     {
       "id": "2223223",
@@ -1142,8 +1154,8 @@
       "genre": null,
       "blurb": "it is  about a cleaning company and you go to houses and clean them but the house you entered is host by a ghost",
       "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-31T09:20:00.000Z",
-      "expires_raw": "2026-10-31T09:20:00Z"
+      "expires": "2026-10-23T09:20:00.000Z",
+      "expires_raw": "2026-10-23T09:20:00Z"
     },
     {
       "id": "2217520",
@@ -1154,8 +1166,8 @@
       "genre": "Platformer",
       "blurb": "it is a simple 2d pixel game and your target is to go to your house",
       "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-31T09:20:00.000Z",
-      "expires_raw": "2026-10-31T09:20:00Z"
+      "expires": "2026-10-23T09:20:00.000Z",
+      "expires_raw": "2026-10-23T09:20:00Z"
     },
     {
       "id": "1955177",
@@ -1178,8 +1190,8 @@
       "genre": null,
       "blurb": "House Cleaner is a horror game which you clean house and discover the house",
       "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-31T09:20:00.000Z",
-      "expires_raw": "2026-10-31T09:20:00Z"
+      "expires": "2026-10-23T09:20:00.000Z",
+      "expires_raw": "2026-10-23T09:20:00Z"
     },
     {
       "id": "1756451",

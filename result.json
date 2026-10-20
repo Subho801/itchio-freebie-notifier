@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-20T02:02:45.620Z",
+  "scraped_at": "2026-10-20T07:15:56.612Z",
   "pages_scraped": 25,
-  "total_found": 97,
+  "total_found": 102,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -714,6 +714,18 @@
       "expires_raw": "2026-10-31T15:00:00Z"
     },
     {
+      "id": "2379761",
+      "title": "Dorman's Attraction: Upgraded and Advanced",
+      "url": "https://frexcellor.itch.io/dormans-attraction",
+      "image": "https://img.itch.zone/aW1nLzE5MjI5NzM1LnBuZw==/315x250%23c/6IJrLW.png",
+      "author": "Fɾҽxƈҽʅʅσɾ",
+      "genre": "Survival",
+      "blurb": "Make it up to her...it's the least you can do.",
+      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
+      "expires": "2026-11-19T05:00:00.000Z",
+      "expires_raw": "2026-11-19T05:00:00Z"
+    },
+    {
       "id": "4036526",
       "title": "Data Center Playtest",
       "url": "https://waseku.itch.io/data-center",
@@ -1014,6 +1026,66 @@
       "expires_raw": "2026-10-31T09:20:00Z"
     },
     {
+      "id": "2265537",
+      "title": "Dorman & Nightmares",
+      "url": "https://frexcellor.itch.io/dfd5",
+      "image": "https://img.itch.zone/aW1nLzIzNDI5NTE3LnBuZw==/315x250%23c/FVv4rs.png",
+      "author": "Fɾҽxƈҽʅʅσɾ",
+      "genre": "Survival",
+      "blurb": "Can You Survive The Nightmares?",
+      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
+      "expires": "2026-11-19T05:00:00.000Z",
+      "expires_raw": "2026-11-19T05:00:00Z"
+    },
+    {
+      "id": "2265529",
+      "title": "Dorman & Friends' Diner - The Open Park",
+      "url": "https://frexcellor.itch.io/dfd4",
+      "image": "https://img.itch.zone/aW1nLzE5MjMwMTI3LnBuZw==/315x250%23c/47TrBZ.png",
+      "author": "Fɾҽxƈҽʅʅσɾ",
+      "genre": "Survival",
+      "blurb": "Dorman and Friends' Diner 4",
+      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
+      "expires": "2026-11-19T05:00:00.000Z",
+      "expires_raw": "2026-11-19T05:00:00Z"
+    },
+    {
+      "id": "2264812",
+      "title": "Dorman & Friends' Abandoned Diner",
+      "url": "https://frexcellor.itch.io/dfd3",
+      "image": "https://img.itch.zone/aW1nLzE5MjMwMDg1LnBuZw==/315x250%23c/QnhZAQ.png",
+      "author": "Fɾҽxƈҽʅʅσɾ",
+      "genre": "Survival",
+      "blurb": "Dorman's and Friends' Diner 3",
+      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
+      "expires": "2026-11-19T05:00:00.000Z",
+      "expires_raw": "2026-11-19T05:00:00Z"
+    },
+    {
+      "id": "2264785",
+      "title": "Dorman & Friends' Animated Diner",
+      "url": "https://frexcellor.itch.io/dfd2",
+      "image": "https://img.itch.zone/aW1nLzE5MjMwMDI0LnBuZw==/315x250%23c/i5QBwV.png",
+      "author": "Fɾҽxƈҽʅʅσɾ",
+      "genre": "Survival",
+      "blurb": "Dorman and Friends' Diner 2",
+      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
+      "expires": "2026-11-19T05:00:00.000Z",
+      "expires_raw": "2026-11-19T05:00:00Z"
+    },
+    {
+      "id": "2264702",
+      "title": "Dorman & Friends Diner",
+      "url": "https://frexcellor.itch.io/dfd1",
+      "image": "https://img.itch.zone/aW1nLzE5MjI5OTY4LnBuZw==/315x250%23c/Lfx5Hf.png",
+      "author": "Fɾҽxƈҽʅʅσɾ",
+      "genre": "Survival",
+      "blurb": "Can you survive Dorman and Friends' Diner?",
+      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
+      "expires": "2026-11-19T05:00:00.000Z",
+      "expires_raw": "2026-11-19T05:00:00Z"
+    },
+    {
       "id": "2242326",
       "title": "Zombie Hunter",
       "url": "https://al7ussain.itch.io/zombie-hunter",
@@ -1153,18 +1225,6 @@
       "author": "Yazorius",
       "genre": "Adventure",
       "blurb": "Short adventure video game",
-      "sale_url": "https://itch.io/s/206024/yazo-ween",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "744768",
-      "title": "N³Vr0Z",
-      "url": "https://yazorius.itch.io/nvrz",
-      "image": "https://img.itch.zone/aW1nLzQxNTIyNDcucG5n/315x250%23c/1yroEK.png",
-      "author": "Yazorius",
-      "genre": "Puzzle",
-      "blurb": null,
       "sale_url": "https://itch.io/s/206024/yazo-ween",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"

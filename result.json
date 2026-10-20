@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-19T23:26:15.578Z",
+  "scraped_at": "2026-10-20T02:02:45.620Z",
   "pages_scraped": 25,
-  "total_found": 95,
+  "total_found": 97,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5193031",
+      "title": "WARM",
+      "url": "https://katabatic-vector.itch.io/warm",
+      "image": "https://img.itch.zone/aW1nLzMxMTA1NzM2LnBuZw==/315x250%23c/cVMMQf.png",
+      "author": "Katabatic Vector",
+      "genre": "Role Playing",
+      "blurb": "A small, strange roguelike",
+      "sale_url": "https://itch.io/s/207359/warm-free-until-halloween",
+      "expires": "2026-11-01T00:10:00.000Z",
+      "expires_raw": "2026-11-01T00:10:00Z"
+    },
     {
       "id": "5190868",
       "title": "Spirit Box",
@@ -210,16 +222,16 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "5135913",
-      "title": "Slots Hacker",
-      "url": "https://rob6b.itch.io/slots-hacker",
-      "image": "https://img.itch.zone/aW1nLzMwNzQ0Mzc3LnBuZw==/315x250%23c/lUZN4y.png",
-      "author": "rob6b",
-      "genre": null,
-      "blurb": "Relaxing Idle slot machine game. Beat the house hack the system!",
-      "sale_url": "https://itch.io/s/204430/free",
-      "expires": "2026-10-20T01:28:00.000Z",
-      "expires_raw": "2026-10-20T01:28:00Z"
+      "id": "5138431",
+      "title": "Kingsport, 1921: The Legacy",
+      "url": "https://zhappo.itch.io/kingsport-1921",
+      "image": "https://img.itch.zone/aW1nLzMwNzU5NTE5LnBuZw==/315x250%23c/Mti3ah.png",
+      "author": "Zhappo",
+      "genre": "Visual Novel",
+      "blurb": "A Lovecraftian horror visual novel. Some doors should stay closed. / Uma visual novel de horror lovecraftiano.",
+      "sale_url": "https://itch.io/s/207344/halloween-free-sale",
+      "expires": "2026-10-31T23:59:00.000Z",
+      "expires_raw": "2026-10-31T23:59:00Z"
     },
     {
       "id": "5129443",
@@ -1141,6 +1153,18 @@
       "author": "Yazorius",
       "genre": "Adventure",
       "blurb": "Short adventure video game",
+      "sale_url": "https://itch.io/s/206024/yazo-ween",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "744768",
+      "title": "N³Vr0Z",
+      "url": "https://yazorius.itch.io/nvrz",
+      "image": "https://img.itch.zone/aW1nLzQxNTIyNDcucG5n/315x250%23c/1yroEK.png",
+      "author": "Yazorius",
+      "genre": "Puzzle",
+      "blurb": null,
       "sale_url": "https://itch.io/s/206024/yazo-ween",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"

@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-20T23:34:41.006Z",
+  "scraped_at": "2026-10-21T01:57:59.494Z",
   "pages_scraped": 25,
   "total_found": 102,
   "stopped_reason": "max_pages_reached",
@@ -174,18 +174,6 @@
       "expires_raw": "2026-10-31T03:53:00Z"
     },
     {
-      "id": "5159444",
-      "title": "SignalLost",
-      "url": "https://vagabundosdev.itch.io/signallost",
-      "image": "https://img.itch.zone/aW1nLzMwOTAyMTk1LnBuZw==/315x250%23c/oP3LJd.png",
-      "author": "Vagabundosdev",
-      "genre": "Visual Novel",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/205055/0",
-      "expires": "2026-10-21T00:23:00.000Z",
-      "expires_raw": "2026-10-21T00:23:00Z"
-    },
-    {
       "id": "5148758",
       "title": "Task Treasurer",
       "url": "https://tarclaiborne.itch.io/task-treasurer",
@@ -253,9 +241,9 @@
       "author": "BennyBoyGames",
       "genre": "Adventure",
       "blurb": "A PSX-style sleep paralysis horror game",
-      "sale_url": "https://itch.io/s/204751/sleep-in-fear-demo-sale-100-off",
-      "expires": "2026-10-25T17:00:00.000Z",
-      "expires_raw": "2026-10-25T17:00:00Z"
+      "sale_url": "https://itch.io/s/207772/sleep-in-fear-100-off-sale",
+      "expires": "2026-10-25T05:00:00.000Z",
+      "expires_raw": "2026-10-25T05:00:00Z"
     },
     {
       "id": "4987477",
@@ -748,6 +736,18 @@
       "sale_url": "https://itch.io/s/204651/100-off",
       "expires": "2026-10-31T19:00:00.000Z",
       "expires_raw": "2026-10-31T19:00:00Z"
+    },
+    {
+      "id": "3958228",
+      "title": "Chalupacabras",
+      "url": "https://oneflowman.itch.io/chalupacabras",
+      "image": "https://img.itch.zone/aW1nLzIzNTk1MTE2LnBuZw==/315x250%23c/bcBR7P.png",
+      "author": "One Flow Man",
+      "genre": "Shooter",
+      "blurb": "Serve tacos to your patrons while defending them from chupacabras in this horror wave survival cooking sim mashup!",
+      "sale_url": "https://itch.io/s/207737/play-thiccfoot-demo-on-steam",
+      "expires": "2026-10-27T00:03:00.000Z",
+      "expires_raw": "2026-10-27T00:03:00Z"
     },
     {
       "id": "3914579",

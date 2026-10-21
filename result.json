@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-21T12:42:16.445Z",
+  "scraped_at": "2026-10-21T17:42:48.227Z",
   "pages_scraped": 25,
-  "total_found": 107,
+  "total_found": 109,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -144,7 +144,7 @@
       "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
       "author": "Sleeper Vision",
       "genre": "Role Playing",
-      "blurb": "An adventure RPG about a kid who got transported into video game.",
+      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
       "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
       "expires": "2026-10-22T21:00:00.000Z",
       "expires_raw": "2026-10-22T21:00:00Z"
@@ -234,6 +234,18 @@
       "expires_raw": "2026-10-28T02:30:00Z"
     },
     {
+      "id": "5147180",
+      "title": "Iron Oath: Doctor Simulator",
+      "url": "https://goynucek.itch.io/iron-oath",
+      "image": "https://img.itch.zone/aW1nLzMwODA2MDMyLnBuZw==/315x250%23c/5SCdnQ.png",
+      "author": "Goynucek",
+      "genre": "Role Playing",
+      "blurb": "Heal patients. Protect your family. Obey the state—or uncover the truth. A medical drama with 9 endings.",
+      "sale_url": "https://itch.io/s/208050/iron-oath-doctor-simulator",
+      "expires": "2026-10-22T07:10:00.000Z",
+      "expires_raw": "2026-10-22T07:10:00Z"
+    },
+    {
       "id": "5140696",
       "title": "KaizokuOnline",
       "url": "https://huenx.itch.io/kaizokuonline",
@@ -306,6 +318,18 @@
       "expires_raw": "2026-10-31T18:00:00Z"
     },
     {
+      "id": "4927425",
+      "title": "UNARRİVED",
+      "url": "https://aliagayev.itch.io/unarrived",
+      "image": "https://img.itch.zone/aW1nLzI5NDY4Mzc4LnBuZw==/315x250%23c/pOmvwb.png",
+      "author": "AliAgayev",
+      "genre": "Adventure",
+      "blurb": "Try to arrive … if that’s even possible.",
+      "sale_url": "https://itch.io/s/208043/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
       "id": "4973081",
       "title": "Final Witness",
       "url": "https://hexnut-studios.itch.io/final-witness",
@@ -314,8 +338,8 @@
       "genre": "Adventure",
       "blurb": "You found the truth. Can you survive? A PSX-style horror game.",
       "sale_url": "https://itch.io/s/200189/final-witness-on-sale-for-a-limited",
-      "expires": "2026-10-22T22:42:00.000Z",
-      "expires_raw": "2026-10-22T22:42:00Z"
+      "expires": "2026-10-23T22:42:00.000Z",
+      "expires_raw": "2026-10-23T22:42:00Z"
     },
     {
       "id": "4795895",
@@ -638,8 +662,8 @@
       "genre": "Adventure",
       "blurb": "You were never meant to leave. A PSX-style horror game.",
       "sale_url": "https://itch.io/s/182780/lord-of-chaos-on-sale-for-a-limited-time",
-      "expires": "2026-10-23T17:00:00.000Z",
-      "expires_raw": "2026-10-23T17:00:00Z"
+      "expires": "2026-10-24T17:00:00.000Z",
+      "expires_raw": "2026-10-24T17:00:00Z"
     },
     {
       "id": "4400903",

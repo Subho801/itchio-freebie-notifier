@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-21T17:42:48.227Z",
+  "scraped_at": "2026-10-21T20:57:42.493Z",
   "pages_scraped": 25,
-  "total_found": 109,
+  "total_found": 110,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -856,6 +856,18 @@
       "sale_url": "https://itch.io/s/197970/fall-sale",
       "expires": "2026-11-05T22:54:00.000Z",
       "expires_raw": "2026-11-05T22:54:00Z"
+    },
+    {
+      "id": "3799948",
+      "title": "Dream Holiday",
+      "url": "https://baris1.itch.io/dream-holiday",
+      "image": "https://img.itch.zone/aW1nLzI5MDE2NDkzLnBuZw==/315x250%23c/EJ%2FlbA.png",
+      "author": "Baris",
+      "genre": "Adventure",
+      "blurb": "A horror game blurring dream and reality, where mystery and terror grow with every step.",
+      "sale_url": "https://itch.io/s/206351/discounts-you-can-only-dream-of",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "3313167",

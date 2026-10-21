@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-21T06:56:02.261Z",
+  "scraped_at": "2026-10-21T12:42:16.445Z",
   "pages_scraped": 25,
   "total_found": 107,
   "stopped_reason": "max_pages_reached",
@@ -141,7 +141,7 @@
       "id": "5165087",
       "title": "Lights On My Screen",
       "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
-      "image": "https://img.itch.zone/aW1nLzMxMDQ2NjUyLnBuZw==/315x250%23c/LDES%2Fo.png",
+      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
       "author": "Sleeper Vision",
       "genre": "Role Playing",
       "blurb": "An adventure RPG about a kid who got transported into video game.",
@@ -482,8 +482,8 @@
       "genre": "Action",
       "blurb": "Riding through the woods on a mission with your pal.",
       "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-10-22T22:54:00.000Z",
-      "expires_raw": "2026-10-22T22:54:00Z"
+      "expires": "2026-11-05T22:54:00.000Z",
+      "expires_raw": "2026-11-05T22:54:00Z"
     },
     {
       "id": "4644348",
@@ -554,8 +554,8 @@
       "genre": "Role Playing",
       "blurb": "An Incremental Dungeon Crawler",
       "sale_url": "https://itch.io/s/202226/next-level-fundraising",
-      "expires": "2026-10-27T12:08:00.000Z",
-      "expires_raw": "2026-10-27T12:08:00Z"
+      "expires": "2026-11-04T12:08:00.000Z",
+      "expires_raw": "2026-11-04T12:08:00Z"
     },
     {
       "id": "4565310",
@@ -830,8 +830,8 @@
       "genre": "Simulation",
       "blurb": "I’d better start working on the game. I’ve run out of cigarettes again.",
       "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-10-22T22:54:00.000Z",
-      "expires_raw": "2026-10-22T22:54:00Z"
+      "expires": "2026-11-05T22:54:00.000Z",
+      "expires_raw": "2026-11-05T22:54:00Z"
     },
     {
       "id": "3313167",
@@ -890,8 +890,8 @@
       "genre": "Interactive Fiction",
       "blurb": "A PSX Detective Mystery Game",
       "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-10-22T22:54:00.000Z",
-      "expires_raw": "2026-10-22T22:54:00Z"
+      "expires": "2026-11-05T22:54:00.000Z",
+      "expires_raw": "2026-11-05T22:54:00Z"
     },
     {
       "id": "3301246",
@@ -962,8 +962,8 @@
       "genre": "Card Game",
       "blurb": "As a missionary, you go to spread your message to a wicked man.  He, however, wants to play a card game with you.",
       "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-10-22T22:54:00.000Z",
-      "expires_raw": "2026-10-22T22:54:00Z"
+      "expires": "2026-11-05T22:54:00.000Z",
+      "expires_raw": "2026-11-05T22:54:00Z"
     },
     {
       "id": "2950730",
@@ -1034,8 +1034,8 @@
       "genre": "Adventure",
       "blurb": "​You find yourself stranded in a forest after your car breaks down.",
       "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-10-22T22:54:00.000Z",
-      "expires_raw": "2026-10-22T22:54:00Z"
+      "expires": "2026-11-05T22:54:00.000Z",
+      "expires_raw": "2026-11-05T22:54:00Z"
     },
     {
       "id": "2577979",

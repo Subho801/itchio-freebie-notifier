@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-21T01:57:59.494Z",
+  "scraped_at": "2026-10-21T06:56:02.261Z",
   "pages_scraped": 25,
-  "total_found": 102,
+  "total_found": 107,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -40,18 +40,6 @@
       "sale_url": "https://itch.io/s/206340/-free-for-7-days",
       "expires": "2026-10-24T19:55:00.000Z",
       "expires_raw": "2026-10-24T19:55:00Z"
-    },
-    {
-      "id": "5193031",
-      "title": "WARM",
-      "url": "https://katabatic-vector.itch.io/warm",
-      "image": "https://img.itch.zone/aW1nLzMxMTA1NzM2LnBuZw==/315x250%23c/cVMMQf.png",
-      "author": "Katabatic Vector",
-      "genre": "Role Playing",
-      "blurb": "A small, strange roguelike",
-      "sale_url": "https://itch.io/s/207359/warm-free-until-halloween",
-      "expires": "2026-11-01T00:10:00.000Z",
-      "expires_raw": "2026-11-01T00:10:00Z"
     },
     {
       "id": "5190868",
@@ -126,6 +114,30 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "5160338",
+      "title": "Ruby's Trick or Treat [Halloween Anime Horror]",
+      "url": "https://kripkode.itch.io/rubys-trick-or-treat",
+      "image": "https://img.itch.zone/aW1nLzMxMDY3MTA0LnBuZw==/315x250%23c/LNbvX7.png",
+      "author": "KripKode",
+      "genre": "Survival",
+      "blurb": "She's back for more. An anime horror game where breaking the rules has deadly consequences.",
+      "sale_url": "https://itch.io/s/207829/thank-you-treat-sale-4-days-to-get",
+      "expires": "2026-10-25T16:59:00.000Z",
+      "expires_raw": "2026-10-25T16:59:00Z"
+    },
+    {
+      "id": "5165595",
+      "title": "CRYPT",
+      "url": "https://weramilykh.itch.io/crypt",
+      "image": "https://img.itch.zone/aW1nLzMwOTMxMTczLnBuZw==/315x250%23c/29Nknc.png",
+      "author": "weramilykh",
+      "genre": "Platformer",
+      "blurb": "A tough trap platformer through a cursed castle and deadly swamps. Learn the ambushes. Outsmart the bosses.",
+      "sale_url": "https://itch.io/s/206357/crypt-100-off-extended-until-october-24",
+      "expires": "2026-10-24T06:29:00.000Z",
+      "expires_raw": "2026-10-24T06:29:00Z"
+    },
+    {
       "id": "5165087",
       "title": "Lights On My Screen",
       "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
@@ -136,6 +148,18 @@
       "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
       "expires": "2026-10-22T21:00:00.000Z",
       "expires_raw": "2026-10-22T21:00:00Z"
+    },
+    {
+      "id": "5164682",
+      "title": "Rust 3D",
+      "url": "https://weramilykh.itch.io/rust-3d",
+      "image": "https://img.itch.zone/aW1nLzMwOTI0MDYzLnBuZw==/315x250%23c/7ssFVu.png",
+      "author": "weramilykh",
+      "genre": "Survival",
+      "blurb": "Build, raid and survive on a shared online island. Craft weapons, explore by boat or helicopter, and defend your base.",
+      "sale_url": "https://itch.io/s/206358/rust-3d-free-for-72-hours",
+      "expires": "2026-10-24T06:26:00.000Z",
+      "expires_raw": "2026-10-24T06:26:00Z"
     },
     {
       "id": "5161604",
@@ -424,6 +448,18 @@
       "sale_url": "https://itch.io/s/201718/voxelite-multiplayer-stability-sale",
       "expires": "2026-10-22T00:39:00.000Z",
       "expires_raw": "2026-10-22T00:39:00Z"
+    },
+    {
+      "id": "4733738",
+      "title": "Skeletos game",
+      "url": "https://vasilis-vtr.itch.io/skeletos",
+      "image": "https://img.itch.zone/aW1nLzI4MjIxMzM1LmpwZw==/315x250%23c/%2FBzs8V.jpg",
+      "author": "Vasilis vtr",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/207831/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "4698507",
@@ -858,6 +894,18 @@
       "expires_raw": "2026-10-22T22:54:00Z"
     },
     {
+      "id": "3301246",
+      "title": "Concrete Veil",
+      "url": "https://p3trol.itch.io/concrete-veil",
+      "image": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png",
+      "author": "petrol",
+      "genre": "Shooter",
+      "blurb": "Fast paced Half-Like FPS",
+      "sale_url": "https://itch.io/s/197518/free-gamees-yay-yey",
+      "expires": "2026-10-22T10:00:00.000Z",
+      "expires_raw": "2026-10-22T10:00:00Z"
+    },
+    {
       "id": "1913569",
       "title": "Adventure Bot : Action platformer game",
       "url": "https://regenwolk.itch.io/adventurebot",
@@ -880,6 +928,18 @@
       "sale_url": "https://itch.io/s/201494/sale",
       "expires": "2026-10-31T16:00:00.000Z",
       "expires_raw": "2026-10-31T16:00:00Z"
+    },
+    {
+      "id": "2931190",
+      "title": "The Copper Hill",
+      "url": "https://p3trol.itch.io/the-copper-hill",
+      "image": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png",
+      "author": "petrol",
+      "genre": "Adventure",
+      "blurb": "Short horror game about metal theft in eastern europe.",
+      "sale_url": "https://itch.io/s/197518/free-gamees-yay-yey",
+      "expires": "2026-10-22T10:00:00.000Z",
+      "expires_raw": "2026-10-22T10:00:00Z"
     },
     {
       "id": "1696231",

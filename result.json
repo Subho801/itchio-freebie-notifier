@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-22T13:40:04.807Z",
+  "scraped_at": "2026-10-22T18:14:51.061Z",
   "pages_scraped": 25,
-  "total_found": 113,
+  "total_found": 114,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -342,6 +342,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "4739386",
+      "title": "Shadows We Share - Unaware",
+      "url": "https://bennyboygames.itch.io/unaware",
+      "image": "https://img.itch.zone/aW1nLzI5ODQwNjgyLmpwZWc=/315x250%23c/dSMhEz.jpeg",
+      "author": "BennyBoyGames",
+      "genre": "Adventure",
+      "blurb": "Shadows We Share - Unaware is a psychological narrative horror game",
+      "sale_url": "https://itch.io/s/208502/shadows-we-share-unaware-halloween-sale",
+      "expires": "2026-11-01T18:00:00.000Z",
+      "expires_raw": "2026-11-01T18:00:00Z"
+    },
+    {
       "id": "4973081",
       "title": "Final Witness",
       "url": "https://hexnut-studios.itch.io/final-witness",
@@ -530,8 +542,8 @@
       "genre": "Puzzle",
       "blurb": "Cozy Horror Anomaly Puzzle Game.",
       "sale_url": "https://itch.io/s/203679/tea-party-for-4-100-off",
-      "expires": "2026-10-23T07:00:00.000Z",
-      "expires_raw": "2026-10-23T07:00:00Z"
+      "expires": "2026-10-25T08:00:00.000Z",
+      "expires_raw": "2026-10-25T08:00:00Z"
     },
     {
       "id": "4582482",

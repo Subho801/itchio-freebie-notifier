@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-22T18:14:51.061Z",
+  "scraped_at": "2026-10-22T21:39:06.140Z",
   "pages_scraped": 25,
-  "total_found": 114,
+  "total_found": 112,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -136,18 +136,6 @@
       "sale_url": "https://itch.io/s/206357/crypt-100-off-extended-until-october-24",
       "expires": "2026-10-24T06:29:00.000Z",
       "expires_raw": "2026-10-24T06:29:00Z"
-    },
-    {
-      "id": "5165087",
-      "title": "Lights On My Screen",
-      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
-      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
-      "author": "Sleeper Vision",
-      "genre": "Role Playing",
-      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
-      "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
-      "expires": "2026-10-22T21:00:00.000Z",
-      "expires_raw": "2026-10-22T21:00:00Z"
     },
     {
       "id": "5164682",
@@ -1084,18 +1072,6 @@
       "sale_url": "https://itch.io/s/206340/-free-for-7-days",
       "expires": "2026-10-24T19:55:00.000Z",
       "expires_raw": "2026-10-24T19:55:00Z"
-    },
-    {
-      "id": "2393159",
-      "title": "THE MIDNIGHT BUS",
-      "url": "https://itandfeel.itch.io/the-midnight-bus",
-      "image": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
-      "author": "itandfeel",
-      "genre": "Adventure",
-      "blurb": "No way out - Psychological Horror",
-      "sale_url": "https://itch.io/s/171469/the-midnight-bus-remake",
-      "expires": "2026-10-22T20:40:00.000Z",
-      "expires_raw": "2026-10-22T20:40:00Z"
     },
     {
       "id": "2740827",

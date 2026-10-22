@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-22T02:53:33.092Z",
+  "scraped_at": "2026-10-22T08:04:01.891Z",
   "pages_scraped": 25,
-  "total_found": 108,
+  "total_found": 110,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -234,18 +234,6 @@
       "expires_raw": "2026-10-28T02:30:00Z"
     },
     {
-      "id": "5147180",
-      "title": "Iron Oath: Doctor Simulator",
-      "url": "https://goynucek.itch.io/iron-oath",
-      "image": "https://img.itch.zone/aW1nLzMwODA2MDMyLnBuZw==/315x250%23c/5SCdnQ.png",
-      "author": "Goynucek",
-      "genre": "Role Playing",
-      "blurb": "Heal patients. Protect your family. Obey the state—or uncover the truth. A medical drama with 9 endings.",
-      "sale_url": "https://itch.io/s/208050/iron-oath-doctor-simulator",
-      "expires": "2026-10-22T07:10:00.000Z",
-      "expires_raw": "2026-10-22T07:10:00Z"
-    },
-    {
       "id": "5140696",
       "title": "KaizokuOnline",
       "url": "https://huenx.itch.io/kaizokuonline",
@@ -468,7 +456,7 @@
       "image": "https://img.itch.zone/aW1nLzI4MjIxMzM1LmpwZw==/315x250%23c/%2FBzs8V.jpg",
       "author": "Vasilis vtr",
       "genre": "Action",
-      "blurb": null,
+      "blurb": "a tale in the fantasy world with many risk and action ,third person action adventure",
       "sale_url": "https://itch.io/s/207831/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
@@ -750,6 +738,18 @@
       "expires_raw": "2026-10-31T23:00:00Z"
     },
     {
+      "id": "4026328",
+      "title": "Dark: Before The Station DLC",
+      "url": "https://dragan-ellis.itch.io/dark-before-the-station-dlc",
+      "image": "https://img.itch.zone/aW1nLzI0MDA2NjA5LnBuZw==/315x250%23c/w1lYnK.png",
+      "author": "DarkEcho Games",
+      "genre": "Action",
+      "blurb": "Prequel DLC to Dark: The Station Part I/II",
+      "sale_url": "https://itch.io/s/206572/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
       "id": "4023882",
       "title": "KAWAPS",
       "url": "https://yazorius.itch.io/kawaps",
@@ -758,6 +758,30 @@
       "genre": "Puzzle",
       "blurb": "Short puzzle game",
       "sale_url": "https://itch.io/s/206024/yazo-ween",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "4001983",
+      "title": "Dark 3: Tenebris - Trilogy Skin Pack DLC",
+      "url": "https://dragan-ellis.itch.io/dark-3-tenebris-trilogy-skin-pack-dlc",
+      "image": "https://img.itch.zone/aW1nLzIzODY1MzQwLnBuZw==/315x250%23c/rlBrxu.png",
+      "author": "DarkEcho Games",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/206572/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "3981950",
+      "title": "Dark 3: Tenebris - Challenge Maps DLC",
+      "url": "https://dragan-ellis.itch.io/dark-3-tenebris-challenge-maps-dlc",
+      "image": "https://img.itch.zone/aW1nLzIzNzQ3NzgzLnBuZw==/315x250%23c/y3J6U1.png",
+      "author": "DarkEcho Games",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/206572/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },

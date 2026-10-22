@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-22T08:04:01.891Z",
+  "scraped_at": "2026-10-22T13:40:04.807Z",
   "pages_scraped": 25,
-  "total_found": 110,
+  "total_found": 113,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -294,6 +294,30 @@
       "expires_raw": "2026-11-16T21:06:00Z"
     },
     {
+      "id": "5012540",
+      "title": "Frank's Trail",
+      "url": "https://wiktor-games.itch.io/franks-trail",
+      "image": "https://img.itch.zone/aW1nLzMwMDA4ODMxLnBuZw==/315x250%23c/VVWdH7.png",
+      "author": "Wiktor Games",
+      "genre": "Survival",
+      "blurb": "Voxel Horror Game",
+      "sale_url": "https://itch.io/s/204992/franks-trail",
+      "expires": "2026-10-25T23:57:00.000Z",
+      "expires_raw": "2026-10-25T23:57:00Z"
+    },
+    {
+      "id": "4998582",
+      "title": "THE CAVE",
+      "url": "https://that-lemon-dev.itch.io/the-cave",
+      "image": "https://img.itch.zone/aW1nLzI5OTI0ODg4LnBuZw==/315x250%23c/4%2FjAqV.png",
+      "author": "LemonDev",
+      "genre": "Survival",
+      "blurb": "Physiological Horror Cave Game",
+      "sale_url": "https://itch.io/s/208348/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
       "id": "4992808",
       "title": "Silent Decay",
       "url": "https://xevorastudio.itch.io/silent-decay",
@@ -376,6 +400,18 @@
       "sale_url": "https://itch.io/s/204619/indie-neuron-studio-free-games",
       "expires": "2026-11-14T04:02:00.000Z",
       "expires_raw": "2026-11-14T04:02:00Z"
+    },
+    {
+      "id": "4889218",
+      "title": "Difficult Driving 2",
+      "url": "https://that-lemon-dev.itch.io/difficult-driving-2",
+      "image": "https://img.itch.zone/aW1nLzI5MjI1NzQxLnBuZw==/315x250%23c/6d%2FGxk.png",
+      "author": "LemonDev",
+      "genre": null,
+      "blurb": "Car Rage Game",
+      "sale_url": "https://itch.io/s/208347/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "4869074",
@@ -496,18 +532,6 @@
       "sale_url": "https://itch.io/s/203679/tea-party-for-4-100-off",
       "expires": "2026-10-23T07:00:00.000Z",
       "expires_raw": "2026-10-23T07:00:00Z"
-    },
-    {
-      "id": "4578566",
-      "title": "RED KITE",
-      "url": "https://roega.itch.io/red-kite",
-      "image": "https://img.itch.zone/aW1nLzMwMjAyMjM5LnBuZw==/315x250%23c/wD6iQB.png",
-      "author": "ROEGA™",
-      "genre": null,
-      "blurb": "Rescue Enya and defeat the all-controlling NeoTerra Corporation.",
-      "sale_url": "https://itch.io/s/206066/enya-vance-sale",
-      "expires": "2026-10-22T11:00:00.000Z",
-      "expires_raw": "2026-10-22T11:00:00Z"
     },
     {
       "id": "4582482",
@@ -690,6 +714,18 @@
       "expires_raw": "2026-10-24T17:26:00Z"
     },
     {
+      "id": "4099328",
+      "title": "Tales from Dreadlight: The Morgue",
+      "url": "https://stefano-gaming.itch.io/tales-from-dreadlight-the-morgue",
+      "image": "https://img.itch.zone/aW1nLzI0NDc3MTQwLnBuZw==/315x250%23c/%2FQgbb6.png",
+      "author": "Stefano_Gaming",
+      "genre": null,
+      "blurb": "A continuation of the See Through Static Trilogy",
+      "sale_url": "https://itch.io/s/208323/see-through-static-sale",
+      "expires": "2026-10-23T08:44:00.000Z",
+      "expires_raw": "2026-10-23T08:44:00Z"
+    },
+    {
       "id": "3028421",
       "title": "Devyard",
       "url": "https://thethil.itch.io/devyard",
@@ -870,6 +906,18 @@
       "expires_raw": "2026-11-05T22:54:00Z"
     },
     {
+      "id": "3831652",
+      "title": "Speak with Screams",
+      "url": "https://stefano-gaming.itch.io/speak-with-screams",
+      "image": "https://img.itch.zone/aW1nLzIyODUwODIwLnBuZw==/315x250%23c/Sn4deG.png",
+      "author": "Stefano_Gaming",
+      "genre": "Puzzle",
+      "blurb": "What would you do for views...?",
+      "sale_url": "https://itch.io/s/208323/see-through-static-sale",
+      "expires": "2026-10-23T08:44:00.000Z",
+      "expires_raw": "2026-10-23T08:44:00Z"
+    },
+    {
       "id": "3799948",
       "title": "Dream Holiday",
       "url": "https://baris1.itch.io/dream-holiday",
@@ -892,6 +940,18 @@
       "sale_url": "https://itch.io/s/179743/smiling-terror-free-100-discount",
       "expires": "2026-11-04T23:00:00.000Z",
       "expires_raw": "2026-11-04T23:00:00Z"
+    },
+    {
+      "id": "3706544",
+      "title": "Sounds From Silence",
+      "url": "https://stefano-gaming.itch.io/sounds-from-silence",
+      "image": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png",
+      "author": "Stefano_Gaming",
+      "genre": "Puzzle",
+      "blurb": "It's Spreading...",
+      "sale_url": "https://itch.io/s/208323/see-through-static-sale",
+      "expires": "2026-10-23T08:44:00.000Z",
+      "expires_raw": "2026-10-23T08:44:00Z"
     },
     {
       "id": "3683740",
@@ -942,18 +1002,6 @@
       "expires_raw": "2026-11-05T22:54:00Z"
     },
     {
-      "id": "3301246",
-      "title": "Concrete Veil",
-      "url": "https://p3trol.itch.io/concrete-veil",
-      "image": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png",
-      "author": "petrol",
-      "genre": "Shooter",
-      "blurb": "Fast paced Half-Like FPS",
-      "sale_url": "https://itch.io/s/197518/free-gamees-yay-yey",
-      "expires": "2026-10-22T10:00:00.000Z",
-      "expires_raw": "2026-10-22T10:00:00Z"
-    },
-    {
       "id": "1913569",
       "title": "Adventure Bot : Action platformer game",
       "url": "https://regenwolk.itch.io/adventurebot",
@@ -976,18 +1024,6 @@
       "sale_url": "https://itch.io/s/201494/sale",
       "expires": "2026-10-31T16:00:00.000Z",
       "expires_raw": "2026-10-31T16:00:00Z"
-    },
-    {
-      "id": "2931190",
-      "title": "The Copper Hill",
-      "url": "https://p3trol.itch.io/the-copper-hill",
-      "image": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png",
-      "author": "petrol",
-      "genre": "Adventure",
-      "blurb": "Short horror game about metal theft in eastern europe.",
-      "sale_url": "https://itch.io/s/197518/free-gamees-yay-yey",
-      "expires": "2026-10-22T10:00:00.000Z",
-      "expires_raw": "2026-10-22T10:00:00Z"
     },
     {
       "id": "1696231",

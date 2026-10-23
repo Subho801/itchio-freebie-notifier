@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-23T18:40:00.749Z",
+  "scraped_at": "2026-10-23T21:44:43.292Z",
   "pages_scraped": 25,
-  "total_found": 105,
+  "total_found": 104,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -1252,18 +1252,6 @@
       "sale_url": "https://itch.io/s/199226/floors-for-free",
       "expires": "2026-10-31T23:00:00.000Z",
       "expires_raw": "2026-10-31T23:00:00Z"
-    },
-    {
-      "id": "1756451",
-      "title": "Dungeon: Maze of Fate",
-      "url": "https://soowekgames.itch.io/dungeon-maze-of-fate",
-      "image": "https://img.itch.zone/aW1nLzEwMzUzODUxLnBuZw==/315x250%23c/R0ryVC.png",
-      "author": "SoowekGames",
-      "genre": "Adventure",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/203414/pre-halloween-sale",
-      "expires": "2026-10-25T15:17:00.000Z",
-      "expires_raw": "2026-10-25T15:17:00Z"
     }
   ]
 }

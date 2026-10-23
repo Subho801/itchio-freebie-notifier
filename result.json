@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-22T21:39:06.140Z",
+  "scraped_at": "2026-10-23T00:14:07.816Z",
   "pages_scraped": 25,
-  "total_found": 112,
+  "total_found": 115,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -270,6 +270,18 @@
       "expires_raw": "2026-10-29T17:00:00Z"
     },
     {
+      "id": "5044589",
+      "title": "Акиширо 2 (ДЕМО)",
+      "url": "https://stabidi-chan.itch.io/akishiro2",
+      "image": "https://img.itch.zone/aW1nLzMwMjA1NDc1LnBuZw==/315x250%23c/PaGszA.png",
+      "author": "Stabilisjan",
+      "genre": "Role Playing",
+      "blurb": "Добро пожаловать в пограничье! Снова.",
+      "sale_url": "https://itch.io/s/208446/-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
       "id": "5017122",
       "title": "DRAW • PLACE • RUN",
       "url": "https://all-kinds-of-games.itch.io/draw-place-run",
@@ -436,6 +448,18 @@
       "sale_url": "https://itch.io/s/204619/indie-neuron-studio-free-games",
       "expires": "2026-11-14T04:02:00.000Z",
       "expires_raw": "2026-11-14T04:02:00Z"
+    },
+    {
+      "id": "4883870",
+      "title": "Заглушка",
+      "url": "https://stabidi-chan.itch.io/zaglushka",
+      "image": "https://img.itch.zone/aW1nLzI5MTg4NzkxLnBuZw==/315x250%23c/0M3gBU.png",
+      "author": "Stabilisjan",
+      "genre": "Adventure",
+      "blurb": "\"Корпорация - это жизнь.\"",
+      "sale_url": "https://itch.io/s/208446/-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "4865475",
@@ -916,6 +940,18 @@
       "sale_url": "https://itch.io/s/208323/see-through-static-sale",
       "expires": "2026-10-23T08:44:00.000Z",
       "expires_raw": "2026-10-23T08:44:00Z"
+    },
+    {
+      "id": "3804491",
+      "title": "АкиШиро/Akishiro",
+      "url": "https://stabidi-chan.itch.io/akishiro",
+      "image": "https://img.itch.zone/aW1nLzIzNTE2MTcyLnBuZw==/315x250%23c/BPA7P4.png",
+      "author": "Stabilisjan",
+      "genre": "Adventure",
+      "blurb": "Смогут ли творения спасти собственного автора?",
+      "sale_url": "https://itch.io/s/208446/-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "3799948",

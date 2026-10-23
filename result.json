@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-23T09:42:08.173Z",
+  "scraped_at": "2026-10-23T14:30:34.308Z",
   "pages_scraped": 25,
-  "total_found": 102,
+  "total_found": 104,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5213967",
+      "title": "WakaTv",
+      "url": "https://onionvpn.itch.io/wakatv",
+      "image": "https://img.itch.zone/aW1nLzMxMjQzODE3LnBuZw==/315x250%23c/hEo2a6.png",
+      "author": "onionvpn",
+      "genre": null,
+      "blurb": null,
+      "sale_url": "https://itch.io/s/208870/wakatv-free-for-a-limited-time",
+      "expires": "2026-10-27T12:22:00.000Z",
+      "expires_raw": "2026-10-27T12:22:00Z"
+    },
     {
       "id": "5196465",
       "title": "Mind the Clown: Reborn (Demo)",
@@ -506,8 +518,8 @@
       "genre": "Survival",
       "blurb": "Survival , first-person,  psychological , backrooms",
       "sale_url": "https://itch.io/s/206157/a-backrooms-escape-sale",
-      "expires": "2026-10-23T13:54:00.000Z",
-      "expires_raw": "2026-10-23T13:54:00Z"
+      "expires": "2026-10-25T17:00:00.000Z",
+      "expires_raw": "2026-10-25T17:00:00Z"
     },
     {
       "id": "4733738",
@@ -1060,6 +1072,18 @@
       "sale_url": "https://itch.io/s/206340/-free-for-7-days",
       "expires": "2026-10-24T19:55:00.000Z",
       "expires_raw": "2026-10-24T19:55:00Z"
+    },
+    {
+      "id": "2393159",
+      "title": "THE MIDNIGHT BUS",
+      "url": "https://itandfeel.itch.io/the-midnight-bus",
+      "image": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
+      "author": "itandfeel",
+      "genre": "Adventure",
+      "blurb": "No way out - Psychological Horror",
+      "sale_url": "https://itch.io/s/171469/the-midnight-bus-remake",
+      "expires": "2026-11-06T20:40:00.000Z",
+      "expires_raw": "2026-11-06T20:40:00Z"
     },
     {
       "id": "2740827",

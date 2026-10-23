@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-23T14:30:34.308Z",
+  "scraped_at": "2026-10-23T18:40:00.749Z",
   "pages_scraped": 25,
-  "total_found": 104,
+  "total_found": 105,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5214347",
+      "title": "Infernal Power Co.",
+      "url": "https://wgnspear.itch.io/infernal-power-co",
+      "image": "https://img.itch.zone/aW1nLzMxMjQ2Njc1LnBuZw==/315x250%23c/6lmKzD.png",
+      "author": "WGNSpear",
+      "genre": "Strategy",
+      "blurb": "Hell isn't going to power itself. A pixel-art idle game about running Hell's power plant.",
+      "sale_url": "https://itch.io/s/208903/hells-halloween-sale",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
     {
       "id": "5213967",
       "title": "WakaTv",
@@ -16,6 +28,18 @@
       "sale_url": "https://itch.io/s/208870/wakatv-free-for-a-limited-time",
       "expires": "2026-10-27T12:22:00.000Z",
       "expires_raw": "2026-10-27T12:22:00Z"
+    },
+    {
+      "id": "5212102",
+      "title": "AeroAge",
+      "url": "https://momoawa0702.itch.io/aeroage",
+      "image": "https://img.itch.zone/aW1nLzMxMjMxOTM2LnBuZw==/315x250%23c/tR%2FVcE.png",
+      "author": "momoawa0702",
+      "genre": "Simulation",
+      "blurb": "Build your own airline, connect cities worldwide in a dynamic aviation market.",
+      "sale_url": "https://itch.io/s/208914/aeroage-24-hour-free-early-access-giveaway",
+      "expires": "2026-10-24T17:00:00.000Z",
+      "expires_raw": "2026-10-24T17:00:00Z"
     },
     {
       "id": "5196465",
@@ -280,6 +304,18 @@
       "sale_url": "https://itch.io/s/207772/sleep-in-fear-100-off-sale",
       "expires": "2026-10-25T05:00:00.000Z",
       "expires_raw": "2026-10-25T05:00:00Z"
+    },
+    {
+      "id": "5102250",
+      "title": "Cyberia Protocol : Tower Defense",
+      "url": "https://baris1.itch.io/cyberia-protocol",
+      "image": "https://img.itch.zone/aW1nLzMwNjA1NjcwLnBuZw==/315x250%23c/CgNQtO.png",
+      "author": "Baris",
+      "genre": "Strategy",
+      "blurb": "Build your defenses and protect the digital world from waves of viruses.",
+      "sale_url": "https://itch.io/s/208972/ram-prices-up-game-price-down",
+      "expires": "2026-11-04T17:00:00.000Z",
+      "expires_raw": "2026-11-04T17:00:00Z"
     },
     {
       "id": "4987477",
@@ -621,7 +657,7 @@
       "id": "4565310",
       "title": "Last Friday",
       "url": "https://reganc.itch.io/last-friday",
-      "image": "https://img.itch.zone/aW1nLzI5Nzk0Mzg3LnBuZw==/315x250%23c/ghe11d.png",
+      "image": "https://img.itch.zone/aW1nLzMxMjU4MDUxLmdpZg==/315x250%23c/PwGKuS.gif",
       "author": "ReganC",
       "genre": "Simulation",
       "blurb": "You entered the simulation. It didn’t let you leave.",
@@ -1228,30 +1264,6 @@
       "sale_url": "https://itch.io/s/203414/pre-halloween-sale",
       "expires": "2026-10-25T15:17:00.000Z",
       "expires_raw": "2026-10-25T15:17:00Z"
-    },
-    {
-      "id": "1508937",
-      "title": "Baldi's Basics Songkran In Education And Learning X",
-      "url": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
-      "image": "https://img.itch.zone/aW1nLzg3OTQ5NzUucG5n/315x250%23c/Pmjpgk.png",
-      "author": "SJ Logo transparent",
-      "genre": "Role Playing",
-      "blurb": "BBSIEAL X is original, Do Not Play! it's scary for the game, Warning! is multiplayer was have blood and flashlight!",
-      "sale_url": "https://itch.io/s/205351/baldis-basics-songkran-halloween-day-2026-pt2-sale-100",
-      "expires": "2026-11-01T11:00:00.000Z",
-      "expires_raw": "2026-11-01T11:00:00Z"
-    },
-    {
-      "id": "1367353",
-      "title": "No Turning Back",
-      "url": "https://yazorius.itch.io/ntb",
-      "image": "https://img.itch.zone/aW1nLzc5NjA0MzMuZ2lm/315x250%23c/%2F2nCAX.gif",
-      "author": "Yazorius",
-      "genre": "Adventure",
-      "blurb": "Weird experience (as usual)",
-      "sale_url": "https://itch.io/s/206024/yazo-ween",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-23T04:46:19.745Z",
+  "scraped_at": "2026-10-23T09:42:08.173Z",
   "pages_scraped": 25,
-  "total_found": 112,
+  "total_found": 102,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -136,6 +136,18 @@
       "sale_url": "https://itch.io/s/206357/crypt-100-off-extended-until-october-24",
       "expires": "2026-10-24T06:29:00.000Z",
       "expires_raw": "2026-10-24T06:29:00Z"
+    },
+    {
+      "id": "5165087",
+      "title": "Lights On My Screen",
+      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
+      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
+      "author": "Sleeper Vision",
+      "genre": "Role Playing",
+      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
+      "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
+      "expires": "2026-11-05T21:00:00.000Z",
+      "expires_raw": "2026-11-05T21:00:00Z"
     },
     {
       "id": "5164682",
@@ -388,18 +400,6 @@
       "sale_url": "https://itch.io/s/200416/special-discount-100",
       "expires": "2026-10-25T12:02:00.000Z",
       "expires_raw": "2026-10-25T12:02:00Z"
-    },
-    {
-      "id": "2714536",
-      "title": "Tiny Tails: The Whale’s Tale",
-      "url": "https://al7ussain.itch.io/whale-game",
-      "image": "https://img.itch.zone/aW1nLzE2MjExMjYzLmdpZg==/315x250%23c/5kDG8a.gif",
-      "author": "AL7USSAIN",
-      "genre": "Adventure",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-23T09:20:00.000Z",
-      "expires_raw": "2026-10-23T09:20:00Z"
     },
     {
       "id": "4920479",
@@ -738,18 +738,6 @@
       "expires_raw": "2026-10-24T17:26:00Z"
     },
     {
-      "id": "4099328",
-      "title": "Tales from Dreadlight: The Morgue",
-      "url": "https://stefano-gaming.itch.io/tales-from-dreadlight-the-morgue",
-      "image": "https://img.itch.zone/aW1nLzI0NDc3MTQwLnBuZw==/315x250%23c/%2FQgbb6.png",
-      "author": "Stefano_Gaming",
-      "genre": null,
-      "blurb": "A continuation of the See Through Static Trilogy",
-      "sale_url": "https://itch.io/s/208323/see-through-static-sale",
-      "expires": "2026-10-23T08:44:00.000Z",
-      "expires_raw": "2026-10-23T08:44:00Z"
-    },
-    {
       "id": "3028421",
       "title": "Devyard",
       "url": "https://thethil.itch.io/devyard",
@@ -846,18 +834,6 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "3898062",
-      "title": "Miss Denvers v0.01 (DEMO - CENSORED)",
-      "url": "https://popdoggy.itch.io/miss-denvers-demo-01",
-      "image": "https://img.itch.zone/aW1nLzMwOTU4MjA5LnBuZw==/315x250%23c/%2FSqMHm.png",
-      "author": "PopDoggy",
-      "genre": "Visual Novel",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/205717/ms-denvers-a-free-introduction",
-      "expires": "2026-10-31T17:47:00.000Z",
-      "expires_raw": "2026-10-31T17:47:00Z"
-    },
-    {
       "id": "3966438",
       "title": "The Last Silence",
       "url": "https://zachariah69.itch.io/the-last-silence",
@@ -930,18 +906,6 @@
       "expires_raw": "2026-11-05T22:54:00Z"
     },
     {
-      "id": "3831652",
-      "title": "Speak with Screams",
-      "url": "https://stefano-gaming.itch.io/speak-with-screams",
-      "image": "https://img.itch.zone/aW1nLzIyODUwODIwLnBuZw==/315x250%23c/Sn4deG.png",
-      "author": "Stefano_Gaming",
-      "genre": "Puzzle",
-      "blurb": "What would you do for views...?",
-      "sale_url": "https://itch.io/s/208323/see-through-static-sale",
-      "expires": "2026-10-23T08:44:00.000Z",
-      "expires_raw": "2026-10-23T08:44:00Z"
-    },
-    {
       "id": "3804491",
       "title": "АкиШиро/Akishiro",
       "url": "https://stabidi-chan.itch.io/akishiro",
@@ -976,18 +940,6 @@
       "sale_url": "https://itch.io/s/179743/smiling-terror-free-100-discount",
       "expires": "2026-11-04T23:00:00.000Z",
       "expires_raw": "2026-11-04T23:00:00Z"
-    },
-    {
-      "id": "3706544",
-      "title": "Sounds From Silence",
-      "url": "https://stefano-gaming.itch.io/sounds-from-silence",
-      "image": "https://img.itch.zone/aW1nLzIyMDU4MTI1LnBuZw==/315x250%23c/khCOr7.png",
-      "author": "Stefano_Gaming",
-      "genre": "Puzzle",
-      "blurb": "It's Spreading...",
-      "sale_url": "https://itch.io/s/208323/see-through-static-sale",
-      "expires": "2026-10-23T08:44:00.000Z",
-      "expires_raw": "2026-10-23T08:44:00Z"
     },
     {
       "id": "3683740",
@@ -1158,30 +1110,6 @@
       "expires_raw": "2027-02-28T11:05:00Z"
     },
     {
-      "id": "2312843",
-      "title": "One Spike",
-      "url": "https://al7ussain.itch.io/one-spike",
-      "image": "https://img.itch.zone/aW1nLzEzNzA0OTU5LnBuZw==/315x250%23c/M6ku2G.png",
-      "author": "AL7USSAIN",
-      "genre": "Platformer",
-      "blurb": "it's a hard 2d Game with hard traps",
-      "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-23T09:20:00.000Z",
-      "expires_raw": "2026-10-23T09:20:00Z"
-    },
-    {
-      "id": "2300883",
-      "title": "Here We Go Again",
-      "url": "https://al7ussain.itch.io/hear-we-go-again",
-      "image": "https://img.itch.zone/aW1nLzEzNjM1MzE3LnBuZw==/315x250%23c/hJsJNl.png",
-      "author": "AL7USSAIN",
-      "genre": "Platformer",
-      "blurb": "it is a 2D pixel game where the goal is to get out of the first level but you can not escape",
-      "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-23T09:20:00.000Z",
-      "expires_raw": "2026-10-23T09:20:00Z"
-    },
-    {
       "id": "2265537",
       "title": "Dorman & Nightmares",
       "url": "https://frexcellor.itch.io/dfd5",
@@ -1242,30 +1170,6 @@
       "expires_raw": "2026-11-19T05:00:00Z"
     },
     {
-      "id": "2242326",
-      "title": "Zombie Hunter",
-      "url": "https://al7ussain.itch.io/zombie-hunter",
-      "image": "https://img.itch.zone/aW1nLzEzMjg0MDU1LnBuZw==/315x250%23c/ITjBO4.png",
-      "author": "AL7USSAIN",
-      "genre": "Shooter",
-      "blurb": "it's about a guy who is job is to kill zombies and trying to save a small village",
-      "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-23T09:20:00.000Z",
-      "expires_raw": "2026-10-23T09:20:00Z"
-    },
-    {
-      "id": "2237185",
-      "title": "Simple Tasks",
-      "url": "https://al7ussain.itch.io/simple-tasks",
-      "image": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/315x250%23c/DZH5FT.png",
-      "author": "AL7USSAIN",
-      "genre": null,
-      "blurb": "It's a game where you complete simple tasks but you can't pass a single on of them",
-      "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-23T09:20:00.000Z",
-      "expires_raw": "2026-10-23T09:20:00Z"
-    },
-    {
       "id": "2236242",
       "title": "The Wind Turbine",
       "url": "https://jeyers-development.itch.io/the-wind-turbine",
@@ -1276,42 +1180,6 @@
       "sale_url": "https://itch.io/s/201494/sale",
       "expires": "2026-10-31T16:00:00.000Z",
       "expires_raw": "2026-10-31T16:00:00Z"
-    },
-    {
-      "id": "2230133",
-      "title": "Maze",
-      "url": "https://al7ussain.itch.io/maze",
-      "image": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/315x250%23c/FuakRm.png",
-      "author": "AL7USSAIN",
-      "genre": "Puzzle",
-      "blurb": "it is a simple maze and the gool to find the Exit door",
-      "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-23T09:20:00.000Z",
-      "expires_raw": "2026-10-23T09:20:00Z"
-    },
-    {
-      "id": "2223223",
-      "title": "House Cleaner 2",
-      "url": "https://al7ussain.itch.io/house-cleaner-2",
-      "image": "https://img.itch.zone/aW1nLzEzMTU2OTYzLnBuZw==/315x250%23c/nrOycl.png",
-      "author": "AL7USSAIN",
-      "genre": null,
-      "blurb": "it is  about a cleaning company and you go to houses and clean them but the house you entered is host by a ghost",
-      "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-23T09:20:00.000Z",
-      "expires_raw": "2026-10-23T09:20:00Z"
-    },
-    {
-      "id": "2217520",
-      "title": "Foxy Man",
-      "url": "https://al7ussain.itch.io/foxy-man",
-      "image": "https://img.itch.zone/aW1nLzEzMTE4NTkyLnBuZw==/315x250%23c/VLA1CB.png",
-      "author": "AL7USSAIN",
-      "genre": "Platformer",
-      "blurb": "it is a simple 2d pixel game and your target is to go to your house",
-      "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-23T09:20:00.000Z",
-      "expires_raw": "2026-10-23T09:20:00Z"
     },
     {
       "id": "1955177",
@@ -1326,18 +1194,6 @@
       "expires_raw": "2026-10-31T23:00:00Z"
     },
     {
-      "id": "1924864",
-      "title": "House Cleaner",
-      "url": "https://al7ussain.itch.io/housecleaner",
-      "image": "https://img.itch.zone/aW1nLzExMzE1NzQ0LmpwZw==/315x250%23c/W846Me.jpg",
-      "author": "AL7USSAIN",
-      "genre": null,
-      "blurb": "House Cleaner is a horror game which you clean house and discover the house",
-      "sale_url": "https://itch.io/s/195523/sale",
-      "expires": "2026-10-23T09:20:00.000Z",
-      "expires_raw": "2026-10-23T09:20:00Z"
-    },
-    {
       "id": "1756451",
       "title": "Dungeon: Maze of Fate",
       "url": "https://soowekgames.itch.io/dungeon-maze-of-fate",
@@ -1348,6 +1204,30 @@
       "sale_url": "https://itch.io/s/203414/pre-halloween-sale",
       "expires": "2026-10-25T15:17:00.000Z",
       "expires_raw": "2026-10-25T15:17:00Z"
+    },
+    {
+      "id": "1508937",
+      "title": "Baldi's Basics Songkran In Education And Learning X",
+      "url": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
+      "image": "https://img.itch.zone/aW1nLzg3OTQ5NzUucG5n/315x250%23c/Pmjpgk.png",
+      "author": "SJ Logo transparent",
+      "genre": "Role Playing",
+      "blurb": "BBSIEAL X is original, Do Not Play! it's scary for the game, Warning! is multiplayer was have blood and flashlight!",
+      "sale_url": "https://itch.io/s/205351/baldis-basics-songkran-halloween-day-2026-pt2-sale-100",
+      "expires": "2026-11-01T11:00:00.000Z",
+      "expires_raw": "2026-11-01T11:00:00Z"
+    },
+    {
+      "id": "1367353",
+      "title": "No Turning Back",
+      "url": "https://yazorius.itch.io/ntb",
+      "image": "https://img.itch.zone/aW1nLzc5NjA0MzMuZ2lm/315x250%23c/%2F2nCAX.gif",
+      "author": "Yazorius",
+      "genre": "Adventure",
+      "blurb": "Weird experience (as usual)",
+      "sale_url": "https://itch.io/s/206024/yazo-ween",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-24T18:55:32.792Z",
+  "scraped_at": "2026-10-24T21:20:30.184Z",
   "pages_scraped": 25,
   "total_found": 99,
   "stopped_reason": "max_pages_reached",
@@ -37,9 +37,9 @@
       "author": "momoawa0702",
       "genre": "Simulation",
       "blurb": "Build your own airline, connect cities worldwide in a dynamic aviation market.",
-      "sale_url": "https://itch.io/s/209446/aeroage-free-early-access-giveaway",
-      "expires": "2026-10-26T12:00:00.000Z",
-      "expires_raw": "2026-10-26T12:00:00Z"
+      "sale_url": "https://itch.io/s/208914/aeroage-24-hour-free-early-access-giveaway",
+      "expires": "2026-10-26T17:00:00.000Z",
+      "expires_raw": "2026-10-26T17:00:00Z"
     },
     {
       "id": "5196465",
@@ -74,8 +74,8 @@
       "genre": "Adventure",
       "blurb": "A first-person horror game. Trapped in a dead-end job, Fred follows a voice promising peace through a green light.",
       "sale_url": "https://itch.io/s/206340/-free-for-7-days",
-      "expires": "2026-10-24T19:55:00.000Z",
-      "expires_raw": "2026-10-24T19:55:00Z"
+      "expires": "2026-10-31T20:55:00.000Z",
+      "expires_raw": "2026-10-31T20:55:00Z"
     },
     {
       "id": "5190868",
@@ -642,18 +642,6 @@
       "expires_raw": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "4422906",
-      "title": "Dust Horizon Event Pass",
-      "url": "https://elxuj777.itch.io/dust-horizon-event-pass",
-      "image": "https://img.itch.zone/aW1nLzI2MzU1NTc3LnBuZw==/315x250%23c/9u8%2BW2.png",
-      "author": "Elxuj777",
-      "genre": "Simulation",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/206339/free-dlc",
-      "expires": "2026-10-24T21:00:00.000Z",
-      "expires_raw": "2026-10-24T21:00:00Z"
-    },
-    {
       "id": "4405770",
       "title": "Lord of Chaos",
       "url": "https://hexnut-studios.itch.io/lord-of-chaos",
@@ -1002,6 +990,18 @@
       "expires_raw": "2026-10-31T16:00:00Z"
     },
     {
+      "id": "3064437",
+      "title": "Abode: Definitive Edition",
+      "url": "https://jordons.itch.io/abode-definitive-edition",
+      "image": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png",
+      "author": "Jordon",
+      "genre": null,
+      "blurb": "The Definitive Edition of Abode that also came out on Steam",
+      "sale_url": "https://itch.io/s/208301/halloween-sale",
+      "expires": "2026-11-01T20:00:00.000Z",
+      "expires_raw": "2026-11-01T20:00:00Z"
+    },
+    {
       "id": "1696231",
       "title": "Almericus - Scarred Islands",
       "url": "https://almericusdev.itch.io/almericus-scarred-islands",
@@ -1046,8 +1046,8 @@
       "genre": "Adventure",
       "blurb": "The Black Within follows Laila Rose as her quest for fame drives her into a chilling, eerie descent.",
       "sale_url": "https://itch.io/s/206340/-free-for-7-days",
-      "expires": "2026-10-24T19:55:00.000Z",
-      "expires_raw": "2026-10-24T19:55:00Z"
+      "expires": "2026-10-31T20:55:00.000Z",
+      "expires_raw": "2026-10-31T20:55:00Z"
     },
     {
       "id": "2393159",

@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-24T03:43:10.272Z",
+  "scraped_at": "2026-10-24T08:28:00.141Z",
   "pages_scraped": 25,
-  "total_found": 106,
+  "total_found": 103,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -57,7 +57,7 @@
       "id": "5094265",
       "title": "Trox The Reversal (Demo)",
       "url": "https://troj4nblazing.itch.io/trox-the-reversal",
-      "image": "https://img.itch.zone/aW1nLzMxMTI3NDc0LmdpZg==/315x250%23c/EY9jsY.gif",
+      "image": "https://img.itch.zone/aW1nLzMxMjgyODE2LmdpZg==/315x250%23c/kq%2FAcv.gif",
       "author": "Vinil",
       "genre": "Survival",
       "blurb": "\"When survival becomes the law\".",
@@ -162,18 +162,6 @@
       "expires_raw": "2026-10-25T16:59:00Z"
     },
     {
-      "id": "5165595",
-      "title": "CRYPT",
-      "url": "https://weramilykh.itch.io/crypt",
-      "image": "https://img.itch.zone/aW1nLzMwOTMxMTczLnBuZw==/315x250%23c/29Nknc.png",
-      "author": "weramilykh",
-      "genre": "Platformer",
-      "blurb": "A tough trap platformer through a cursed castle and deadly swamps. Learn the ambushes. Outsmart the bosses.",
-      "sale_url": "https://itch.io/s/206357/crypt-100-off-extended-until-october-24",
-      "expires": "2026-10-24T06:29:00.000Z",
-      "expires_raw": "2026-10-24T06:29:00Z"
-    },
-    {
       "id": "5165087",
       "title": "Lights On My Screen",
       "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
@@ -184,18 +172,6 @@
       "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
       "expires": "2026-11-05T21:00:00.000Z",
       "expires_raw": "2026-11-05T21:00:00Z"
-    },
-    {
-      "id": "5164682",
-      "title": "Rust 3D",
-      "url": "https://weramilykh.itch.io/rust-3d",
-      "image": "https://img.itch.zone/aW1nLzMwOTI0MDYzLnBuZw==/315x250%23c/7ssFVu.png",
-      "author": "weramilykh",
-      "genre": "Survival",
-      "blurb": "Build, raid and survive on a shared online island. Craft weapons, explore by boat or helicopter, and defend your base.",
-      "sale_url": "https://itch.io/s/206358/rust-3d-free-for-72-hours",
-      "expires": "2026-10-24T06:26:00.000Z",
-      "expires_raw": "2026-10-24T06:26:00Z"
     },
     {
       "id": "5161604",
@@ -616,18 +592,6 @@
       "sale_url": "https://itch.io/s/186706/sold",
       "expires": "2026-10-27T11:00:00.000Z",
       "expires_raw": "2026-10-27T11:00:00Z"
-    },
-    {
-      "id": "4580621",
-      "title": "No One Inside",
-      "url": "https://phoenixszone.itch.io/no-one-inside",
-      "image": "https://img.itch.zone/aW1nLzI4MTUxMzE5LnBuZw==/315x250%23c/8ZWVAS.png",
-      "author": "PHOENIX'sZone",
-      "genre": "Survival",
-      "blurb": "No One Inside",
-      "sale_url": "https://itch.io/s/196473/no-one-inside",
-      "expires": "2026-10-24T06:29:00.000Z",
-      "expires_raw": "2026-10-24T06:29:00Z"
     },
     {
       "id": "4572851",

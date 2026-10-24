@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-24T21:20:30.184Z",
+  "scraped_at": "2026-10-24T23:22:46.510Z",
   "pages_scraped": 25,
-  "total_found": 99,
+  "total_found": 88,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -38,8 +38,8 @@
       "genre": "Simulation",
       "blurb": "Build your own airline, connect cities worldwide in a dynamic aviation market.",
       "sale_url": "https://itch.io/s/208914/aeroage-24-hour-free-early-access-giveaway",
-      "expires": "2026-10-26T17:00:00.000Z",
-      "expires_raw": "2026-10-26T17:00:00Z"
+      "expires": "2026-10-30T17:00:00.000Z",
+      "expires_raw": "2026-10-30T17:00:00Z"
     },
     {
       "id": "5196465",
@@ -990,6 +990,18 @@
       "expires_raw": "2026-10-31T16:00:00Z"
     },
     {
+      "id": "3023885",
+      "title": "GravMetal 2: DOUBLE THREAT",
+      "url": "https://gummyrage.itch.io/gravmetal-chapter-2",
+      "image": "https://img.itch.zone/aW1nLzE4NTMxNTEwLnBuZw==/315x250%23c/5q%2BZYb.png",
+      "author": "GummyRage",
+      "genre": "Action",
+      "blurb": "SAFRYN'S BACK AND ESMARDA IS NO LONGER PLAYING AROUND",
+      "sale_url": "https://itch.io/s/200452/gravmetal-12-dark-iron-free-week",
+      "expires": "2026-11-01T00:00:00.000Z",
+      "expires_raw": "2026-11-01T00:00:00Z"
+    },
+    {
       "id": "3064437",
       "title": "Abode: Definitive Edition",
       "url": "https://jordons.itch.io/abode-definitive-edition",
@@ -1048,150 +1060,6 @@
       "sale_url": "https://itch.io/s/206340/-free-for-7-days",
       "expires": "2026-10-31T20:55:00.000Z",
       "expires_raw": "2026-10-31T20:55:00Z"
-    },
-    {
-      "id": "2393159",
-      "title": "THE MIDNIGHT BUS",
-      "url": "https://itandfeel.itch.io/the-midnight-bus",
-      "image": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
-      "author": "itandfeel",
-      "genre": "Adventure",
-      "blurb": "No way out - Psychological Horror",
-      "sale_url": "https://itch.io/s/171469/the-midnight-bus-remake",
-      "expires": "2026-11-06T20:40:00.000Z",
-      "expires_raw": "2026-11-06T20:40:00Z"
-    },
-    {
-      "id": "2740827",
-      "title": "Żmij Wyvern",
-      "url": "https://soowekgames.itch.io/mij-wyvern",
-      "image": "https://img.itch.zone/aW1nLzE2MzUyOTYyLnBuZw==/315x250%23c/Hx29vi.png",
-      "author": "SoowekGames",
-      "genre": "Adventure",
-      "blurb": "Discover story of Czersk's wyvern",
-      "sale_url": "https://itch.io/s/203414/pre-halloween-sale",
-      "expires": "2026-10-25T15:17:00.000Z",
-      "expires_raw": "2026-10-25T15:17:00Z"
-    },
-    {
-      "id": "2698905",
-      "title": "Wally The Seal 2",
-      "url": "https://guncatgames.itch.io/wally-the-seal2",
-      "image": "https://img.itch.zone/aW1nLzE2MDg3OTUwLnBuZw==/315x250%23c/LbzpQd.png",
-      "author": "GunCatGames",
-      "genre": "Survival",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/202763/seal-the-deal-halloween-sale-2026",
-      "expires": "2026-10-31T17:08:00.000Z",
-      "expires_raw": "2026-10-31T17:08:00Z"
-    },
-    {
-      "id": "2680770",
-      "title": "Cherophobia",
-      "url": "https://worsteventgames.itch.io/cherophobia",
-      "image": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg",
-      "author": "Worst Event Games",
-      "genre": "Adventure",
-      "blurb": "​You find yourself stranded in a forest after your car breaks down.",
-      "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-11-05T22:54:00.000Z",
-      "expires_raw": "2026-11-05T22:54:00Z"
-    },
-    {
-      "id": "2577979",
-      "title": "Beanman",
-      "url": "https://archimedean-gaming.itch.io/beanman",
-      "image": "https://img.itch.zone/aW1nLzE1MzQ1MjU5LnBuZw==/315x250%23c/51C%2BWF.png",
-      "author": "Archimedean Gaming",
-      "genre": "Platformer",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/149951/free-100-off-sale",
-      "expires": "2027-02-28T11:05:00.000Z",
-      "expires_raw": "2027-02-28T11:05:00Z"
-    },
-    {
-      "id": "2265537",
-      "title": "Dorman & Nightmares",
-      "url": "https://frexcellor.itch.io/dfd5",
-      "image": "https://img.itch.zone/aW1nLzIzNDI5NTE3LnBuZw==/315x250%23c/FVv4rs.png",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "genre": "Survival",
-      "blurb": "Can You Survive The Nightmares?",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
-    },
-    {
-      "id": "2265529",
-      "title": "Dorman & Friends' Diner - The Open Park",
-      "url": "https://frexcellor.itch.io/dfd4",
-      "image": "https://img.itch.zone/aW1nLzE5MjMwMTI3LnBuZw==/315x250%23c/47TrBZ.png",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "genre": "Survival",
-      "blurb": "Dorman and Friends' Diner 4",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
-    },
-    {
-      "id": "2264812",
-      "title": "Dorman & Friends' Abandoned Diner",
-      "url": "https://frexcellor.itch.io/dfd3",
-      "image": "https://img.itch.zone/aW1nLzE5MjMwMDg1LnBuZw==/315x250%23c/QnhZAQ.png",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "genre": "Survival",
-      "blurb": "Dorman's and Friends' Diner 3",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
-    },
-    {
-      "id": "2264785",
-      "title": "Dorman & Friends' Animated Diner",
-      "url": "https://frexcellor.itch.io/dfd2",
-      "image": "https://img.itch.zone/aW1nLzE5MjMwMDI0LnBuZw==/315x250%23c/i5QBwV.png",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "genre": "Survival",
-      "blurb": "Dorman and Friends' Diner 2",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
-    },
-    {
-      "id": "2264702",
-      "title": "Dorman & Friends Diner",
-      "url": "https://frexcellor.itch.io/dfd1",
-      "image": "https://img.itch.zone/aW1nLzE5MjI5OTY4LnBuZw==/315x250%23c/Lfx5Hf.png",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "genre": "Survival",
-      "blurb": "Can you survive Dorman and Friends' Diner?",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
-    },
-    {
-      "id": "2236242",
-      "title": "The Wind Turbine",
-      "url": "https://jeyers-development.itch.io/the-wind-turbine",
-      "image": "https://img.itch.zone/aW1nLzE2ODAzNDAxLnBuZw==/315x250%23c/3NtBKa.png",
-      "author": "Jeyers Development",
-      "genre": "Simulation",
-      "blurb": "Un1-v0.6",
-      "sale_url": "https://itch.io/s/201494/sale",
-      "expires": "2026-10-31T16:00:00.000Z",
-      "expires_raw": "2026-10-31T16:00:00Z"
-    },
-    {
-      "id": "1955177",
-      "title": "Floor unknown",
-      "url": "https://thehandcrafter.itch.io/floor-unknown",
-      "image": "https://img.itch.zone/aW1nLzI1MTg2Mjk0LnBuZw==/315x250%23c/R3dEMP.png",
-      "author": "TheHandCrafter",
-      "genre": "Puzzle",
-      "blurb": "Explore. Puzzle. Horror.",
-      "sale_url": "https://itch.io/s/199226/floors-for-free",
-      "expires": "2026-10-31T23:00:00.000Z",
-      "expires_raw": "2026-10-31T23:00:00Z"
     }
   ]
 }

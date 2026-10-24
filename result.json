@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-23T21:44:43.292Z",
+  "scraped_at": "2026-10-24T00:07:11.973Z",
   "pages_scraped": 25,
-  "total_found": 104,
+  "total_found": 106,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -354,6 +354,18 @@
       "expires_raw": "2026-11-16T21:06:00Z"
     },
     {
+      "id": "5014042",
+      "title": "The Broken Horn",
+      "url": "https://joao-acelino-official.itch.io/the-broken-horn",
+      "image": "https://img.itch.zone/aW1nLzMwMDE5MjEyLmdpZg==/315x250%23c/QlQi1G.gif",
+      "author": "joao_acelino_official",
+      "genre": "Survival",
+      "blurb": "Survive the horror of the dark forest",
+      "sale_url": "https://itch.io/s/209136/halloween-sale-2026",
+      "expires": "2026-11-18T02:40:00.000Z",
+      "expires_raw": "2026-11-18T02:40:00Z"
+    },
+    {
       "id": "5012540",
       "title": "Frank's Trail",
       "url": "https://wiktor-games.itch.io/franks-trail",
@@ -412,18 +424,6 @@
       "sale_url": "https://itch.io/s/208502/shadows-we-share-unaware-halloween-sale",
       "expires": "2026-11-01T18:00:00.000Z",
       "expires_raw": "2026-11-01T18:00:00Z"
-    },
-    {
-      "id": "4973081",
-      "title": "Final Witness",
-      "url": "https://hexnut-studios.itch.io/final-witness",
-      "image": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png",
-      "author": "Hexnut Studios",
-      "genre": "Adventure",
-      "blurb": "You found the truth. Can you survive? A PSX-style horror game.",
-      "sale_url": "https://itch.io/s/200189/final-witness-on-sale-for-a-limited",
-      "expires": "2026-10-23T22:42:00.000Z",
-      "expires_raw": "2026-10-23T22:42:00Z"
     },
     {
       "id": "4795895",
@@ -554,8 +554,8 @@
       "genre": "Survival",
       "blurb": "Survival , first-person,  psychological , backrooms",
       "sale_url": "https://itch.io/s/206157/a-backrooms-escape-sale",
-      "expires": "2026-10-25T17:00:00.000Z",
-      "expires_raw": "2026-10-25T17:00:00Z"
+      "expires": null,
+      "expires_raw": null
     },
     {
       "id": "4733738",
@@ -798,6 +798,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "4180270",
+      "title": "Backmare: Android Version",
+      "url": "https://joao-acelino-official.itch.io/backmare-android-version",
+      "image": "https://img.itch.zone/aW1nLzMwNDc2MDAzLmpwZw==/315x250%23c/9MsSbO.jpg",
+      "author": "joao_acelino_official",
+      "genre": "Survival",
+      "blurb": "Defeat nightmares of the past",
+      "sale_url": "https://itch.io/s/209136/halloween-sale-2026",
+      "expires": "2026-11-18T02:40:00.000Z",
+      "expires_raw": "2026-11-18T02:40:00Z"
+    },
+    {
       "id": "4150534",
       "title": "Flame Gutter",
       "url": "https://sketch-octopus.itch.io/flame-gutter",
@@ -916,6 +928,18 @@
       "sale_url": "https://itch.io/s/185123/free-to-keep-overcome-your-fears-caretaker",
       "expires": "2026-10-27T16:00:00.000Z",
       "expires_raw": "2026-10-27T16:00:00Z"
+    },
+    {
+      "id": "3891802",
+      "title": "Backmare",
+      "url": "https://joao-acelino-official.itch.io/backmare",
+      "image": "https://img.itch.zone/aW1nLzMwNDEzMzM5LnBuZw==/315x250%23c/OKLBS0.png",
+      "author": "joao_acelino_official",
+      "genre": "Survival",
+      "blurb": "Defeat nightmares of the past",
+      "sale_url": "https://itch.io/s/209136/halloween-sale-2026",
+      "expires": "2026-11-18T02:40:00.000Z",
+      "expires_raw": "2026-11-18T02:40:00Z"
     },
     {
       "id": "3828547",

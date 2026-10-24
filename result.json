@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-24T12:54:46.869Z",
+  "scraped_at": "2026-10-24T16:22:38.660Z",
   "pages_scraped": 25,
-  "total_found": 103,
+  "total_found": 101,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -57,7 +57,7 @@
       "id": "5094265",
       "title": "Trox The Reversal (Demo)",
       "url": "https://troj4nblazing.itch.io/trox-the-reversal",
-      "image": "https://img.itch.zone/aW1nLzMxMjgyODE2LmdpZg==/315x250%23c/kq%2FAcv.gif",
+      "image": "https://img.itch.zone/aW1nLzMxMjk2Njk3LmdpZg==/315x250%23c/GHpJK%2F.gif",
       "author": "Vinil",
       "genre": "Survival",
       "blurb": "\"When survival becomes the law\".",
@@ -234,18 +234,6 @@
       "expires_raw": "2026-10-25T18:10:00Z"
     },
     {
-      "id": "5141679",
-      "title": "SuperCars (Early Access)",
-      "url": "https://trianglellc.itch.io/supercars",
-      "image": "https://img.itch.zone/aW1nLzMxMDQ5NDkxLnBuZw==/315x250%23c/dnnILf.png",
-      "author": "Triangle Interactive LLC.",
-      "genre": "Racing",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/204418/early-release",
-      "expires": "2026-10-28T02:30:00.000Z",
-      "expires_raw": "2026-10-28T02:30:00Z"
-    },
-    {
       "id": "5140696",
       "title": "KaizokuOnline",
       "url": "https://huenx.itch.io/kaizokuonline",
@@ -307,7 +295,7 @@
     },
     {
       "id": "5044589",
-      "title": "Акиширо 2 (ДЕМО)",
+      "title": "Акиширо/AkiShiro 2 (demo)",
       "url": "https://stabidi-chan.itch.io/akishiro2",
       "image": "https://img.itch.zone/aW1nLzMwMjA1NDc1LnBuZw==/315x250%23c/PaGszA.png",
       "author": "Stabilisjan",
@@ -1228,18 +1216,6 @@
       "sale_url": "https://itch.io/s/199226/floors-for-free",
       "expires": "2026-10-31T23:00:00.000Z",
       "expires_raw": "2026-10-31T23:00:00Z"
-    },
-    {
-      "id": "1756451",
-      "title": "Dungeon: Maze of Fate",
-      "url": "https://soowekgames.itch.io/dungeon-maze-of-fate",
-      "image": "https://img.itch.zone/aW1nLzEwMzUzODUxLnBuZw==/315x250%23c/R0ryVC.png",
-      "author": "SoowekGames",
-      "genre": "Adventure",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/203414/pre-halloween-sale",
-      "expires": "2026-10-25T15:17:00.000Z",
-      "expires_raw": "2026-10-25T15:17:00Z"
     }
   ]
 }

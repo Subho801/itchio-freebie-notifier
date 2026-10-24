@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-24T00:07:11.973Z",
+  "scraped_at": "2026-10-24T03:43:10.272Z",
   "pages_scraped": 25,
   "total_found": 106,
   "stopped_reason": "max_pages_reached",
@@ -554,8 +554,8 @@
       "genre": "Survival",
       "blurb": "Survival , first-person,  psychological , backrooms",
       "sale_url": "https://itch.io/s/206157/a-backrooms-escape-sale",
-      "expires": null,
-      "expires_raw": null
+      "expires": "2026-10-25T17:00:00.000Z",
+      "expires_raw": "2026-10-25T17:00:00Z"
     },
     {
       "id": "4733738",
@@ -734,8 +734,8 @@
       "genre": "Adventure",
       "blurb": "You were never meant to leave. A PSX-style horror game.",
       "sale_url": "https://itch.io/s/182780/lord-of-chaos-on-sale-for-a-limited-time",
-      "expires": "2026-10-24T17:00:00.000Z",
-      "expires_raw": "2026-10-24T17:00:00Z"
+      "expires": "2026-10-27T18:00:00.000Z",
+      "expires_raw": "2026-10-27T18:00:00Z"
     },
     {
       "id": "4400903",

@@ -1,21 +1,21 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-24T08:28:00.141Z",
+  "scraped_at": "2026-10-24T12:54:46.869Z",
   "pages_scraped": 25,
   "total_found": 103,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
-      "id": "5214347",
-      "title": "Infernal Power Co.",
-      "url": "https://wgnspear.itch.io/infernal-power-co",
-      "image": "https://img.itch.zone/aW1nLzMxMjQ2Njc1LnBuZw==/315x250%23c/6lmKzD.png",
-      "author": "WGNSpear",
-      "genre": "Strategy",
-      "blurb": "Hell isn't going to power itself. A pixel-art idle game about running Hell's power plant.",
-      "sale_url": "https://itch.io/s/208903/hells-halloween-sale",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
+      "id": "5219150",
+      "title": "Lumen Run",
+      "url": "https://owdev.itch.io/lumen-run",
+      "image": "https://img.itch.zone/aW1nLzMxMjc5NzA3LnBuZw==/315x250%23c/1VSJcZ.png",
+      "author": "owdev",
+      "genre": "Racing",
+      "blurb": "Neon-lit 3D racing built for phones. Story mode, quick races, free roam, garage, and a store",
+      "sale_url": "https://itch.io/s/209272/100-off-launch-special",
+      "expires": "2026-10-25T07:36:00.000Z",
+      "expires_raw": "2026-10-25T07:36:00Z"
     },
     {
       "id": "5213967",
@@ -546,18 +546,6 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "4698507",
-      "title": "Eternity Defenders",
-      "url": "https://kakaritogames.itch.io/eternity-defenders",
-      "image": "https://img.itch.zone/aW1nLzI4MDY2NzE3LmdpZg==/315x250%23c/tLNOnH.gif",
-      "author": "Pixxele",
-      "genre": "Action",
-      "blurb": "Defend the Ocean in this endless Tower Defense game.",
-      "sale_url": "https://itch.io/s/206027/free-to-keep-giveaway",
-      "expires": "2026-10-24T09:16:00.000Z",
-      "expires_raw": "2026-10-24T09:16:00Z"
-    },
-    {
       "id": "4669793",
       "title": "The Enemy",
       "url": "https://worsteventgames.itch.io/the-enemy",
@@ -962,8 +950,8 @@
       "genre": "Adventure",
       "blurb": "A horror game blurring dream and reality, where mystery and terror grow with every step.",
       "sale_url": "https://itch.io/s/206351/discounts-you-can-only-dream-of",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
+      "expires": "2026-10-25T16:00:00.000Z",
+      "expires_raw": "2026-10-25T16:00:00Z"
     },
     {
       "id": "3313167",
@@ -1240,6 +1228,18 @@
       "sale_url": "https://itch.io/s/199226/floors-for-free",
       "expires": "2026-10-31T23:00:00.000Z",
       "expires_raw": "2026-10-31T23:00:00Z"
+    },
+    {
+      "id": "1756451",
+      "title": "Dungeon: Maze of Fate",
+      "url": "https://soowekgames.itch.io/dungeon-maze-of-fate",
+      "image": "https://img.itch.zone/aW1nLzEwMzUzODUxLnBuZw==/315x250%23c/R0ryVC.png",
+      "author": "SoowekGames",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/203414/pre-halloween-sale",
+      "expires": "2026-10-25T15:17:00.000Z",
+      "expires_raw": "2026-10-25T15:17:00Z"
     }
   ]
 }

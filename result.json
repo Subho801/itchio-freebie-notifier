@@ -1,15 +1,15 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-24T23:22:46.510Z",
+  "scraped_at": "2026-10-25T01:22:00.273Z",
   "pages_scraped": 25,
-  "total_found": 88,
+  "total_found": 89,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
       "id": "5219150",
       "title": "Lumen Run",
       "url": "https://owdev.itch.io/lumen-run",
-      "image": "https://img.itch.zone/aW1nLzMxMjc5NzA3LnBuZw==/315x250%23c/1VSJcZ.png",
+      "image": "https://img.itch.zone/aW1nLzMxMzE5NzcwLnBuZw==/315x250%23c/CV6thl.png",
       "author": "owdev",
       "genre": "Racing",
       "blurb": "Neon-lit 3D racing built for phones. Story mode, quick races, free roam, garage, and a store",
@@ -1060,6 +1060,18 @@
       "sale_url": "https://itch.io/s/206340/-free-for-7-days",
       "expires": "2026-10-31T20:55:00.000Z",
       "expires_raw": "2026-10-31T20:55:00Z"
+    },
+    {
+      "id": "2393159",
+      "title": "THE MIDNIGHT BUS",
+      "url": "https://itandfeel.itch.io/the-midnight-bus",
+      "image": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
+      "author": "itandfeel",
+      "genre": "Adventure",
+      "blurb": "No way out - Psychological Horror",
+      "sale_url": "https://itch.io/s/171469/the-midnight-bus-remake",
+      "expires": "2026-11-06T20:40:00.000Z",
+      "expires_raw": "2026-11-06T20:40:00Z"
     }
   ]
 }

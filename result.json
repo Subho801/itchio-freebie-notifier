@@ -1,22 +1,10 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-25T06:17:32.327Z",
+  "scraped_at": "2026-10-25T11:41:20.556Z",
   "pages_scraped": 25,
-  "total_found": 88,
+  "total_found": 85,
   "stopped_reason": "max_pages_reached",
   "games": [
-    {
-      "id": "5219150",
-      "title": "Lumen Run",
-      "url": "https://owdev.itch.io/lumen-run",
-      "image": "https://img.itch.zone/aW1nLzMxMzE5NzcwLnBuZw==/315x250%23c/CV6thl.png",
-      "author": "owdev",
-      "genre": "Racing",
-      "blurb": "Neon-lit 3D racing built for phones. Story mode, quick races, free roam, garage, and a store",
-      "sale_url": "https://itch.io/s/209272/100-off-launch-special",
-      "expires": "2026-10-25T07:36:00.000Z",
-      "expires_raw": "2026-10-25T07:36:00Z"
-    },
     {
       "id": "5213967",
       "title": "WakaTv",
@@ -194,8 +182,8 @@
       "genre": "Adventure",
       "blurb": "The Party is still listening.",
       "sale_url": "https://itch.io/s/204151/a-communist-goes-insane-in-a-soviet-warehouse",
-      "expires": "2026-10-25T18:10:00.000Z",
-      "expires_raw": "2026-10-25T18:10:00Z"
+      "expires": "2026-10-25T17:10:00.000Z",
+      "expires_raw": "2026-10-25T17:10:00Z"
     },
     {
       "id": "5160570",
@@ -230,8 +218,8 @@
       "genre": "Adventure",
       "blurb": "The Party is listening",
       "sale_url": "https://itch.io/s/204151/a-communist-goes-insane-in-a-soviet-warehouse",
-      "expires": "2026-10-25T18:10:00.000Z",
-      "expires_raw": "2026-10-25T18:10:00Z"
+      "expires": "2026-10-25T17:10:00.000Z",
+      "expires_raw": "2026-10-25T17:10:00Z"
     },
     {
       "id": "5140696",
@@ -498,6 +486,18 @@
       "expires_raw": "2026-11-01T16:00:00Z"
     },
     {
+      "id": "4765346",
+      "title": "Lost In Transit",
+      "url": "https://boxer-gaming.itch.io/lost-in-transit",
+      "image": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png",
+      "author": "Boxer Gaming",
+      "genre": "Adventure",
+      "blurb": "The next package is waiting.",
+      "sale_url": "https://itch.io/s/209701/100-sale",
+      "expires": "2026-11-08T08:46:00.000Z",
+      "expires_raw": "2026-11-08T08:46:00Z"
+    },
+    {
       "id": "4792265",
       "title": "A Backrooms Escape",
       "url": "https://rabbit3d-studio-games.itch.io/a-backrooms-escape",
@@ -532,18 +532,6 @@
       "sale_url": "https://itch.io/s/197970/fall-sale",
       "expires": "2026-11-05T22:54:00.000Z",
       "expires_raw": "2026-11-05T22:54:00Z"
-    },
-    {
-      "id": "4644348",
-      "title": "Tea Party For 4",
-      "url": "https://evekehat.itch.io/tea-party-for-4",
-      "image": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif",
-      "author": "EveKehat",
-      "genre": "Puzzle",
-      "blurb": "Cozy Horror Anomaly Puzzle Game.",
-      "sale_url": "https://itch.io/s/203679/tea-party-for-4-100-off",
-      "expires": "2026-10-25T08:00:00.000Z",
-      "expires_raw": "2026-10-25T08:00:00Z"
     },
     {
       "id": "4582482",
@@ -688,6 +676,18 @@
       "sale_url": "https://itch.io/s/203354/dead-yard-sale",
       "expires": "2026-10-30T23:00:00.000Z",
       "expires_raw": "2026-10-30T23:00:00Z"
+    },
+    {
+      "id": "2928801",
+      "title": "Apartment №202",
+      "url": "https://boxer-gaming.itch.io/apartment-202",
+      "image": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png",
+      "author": "Boxer Gaming",
+      "genre": "Adventure",
+      "blurb": "Some doors should never be opened",
+      "sale_url": "https://itch.io/s/209701/100-sale",
+      "expires": "2026-11-08T08:46:00.000Z",
+      "expires_raw": "2026-11-08T08:46:00Z"
     },
     {
       "id": "3028421",
@@ -1024,42 +1024,6 @@
       "sale_url": "https://itch.io/s/202847/october-curses-breaker",
       "expires": "2026-11-02T01:06:00.000Z",
       "expires_raw": "2026-11-02T01:06:00Z"
-    },
-    {
-      "id": "2982722",
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "url": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "image": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg",
-      "author": "Worst Event Games",
-      "genre": "Card Game",
-      "blurb": "As a missionary, you go to spread your message to a wicked man.  He, however, wants to play a card game with you.",
-      "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-11-05T22:54:00.000Z",
-      "expires_raw": "2026-11-05T22:54:00Z"
-    },
-    {
-      "id": "2950730",
-      "title": "Survivor",
-      "url": "https://soowekgames.itch.io/survivor",
-      "image": "https://img.itch.zone/aW1nLzE3NjU5NDEzLnBuZw==/315x250%23c/8l3KxY.png",
-      "author": "SoowekGames",
-      "genre": "Shooter",
-      "blurb": "In mysterious, grim military facility you need to find Panaceum, cure for all disease.",
-      "sale_url": "https://itch.io/s/203414/pre-halloween-sale",
-      "expires": "2026-10-25T15:17:00.000Z",
-      "expires_raw": "2026-10-25T15:17:00Z"
-    },
-    {
-      "id": "2909618",
-      "title": "The Black Within",
-      "url": "https://waleedzo.itch.io/the-black-within",
-      "image": "https://img.itch.zone/aW1nLzE3NDAzOTA4LnBuZw==/315x250%23c/W2OrK5.png",
-      "author": "waleedzo",
-      "genre": "Adventure",
-      "blurb": "The Black Within follows Laila Rose as her quest for fame drives her into a chilling, eerie descent.",
-      "sale_url": "https://itch.io/s/206340/-free-for-7-days",
-      "expires": "2026-10-31T20:55:00.000Z",
-      "expires_raw": "2026-10-31T20:55:00Z"
     }
   ]
 }

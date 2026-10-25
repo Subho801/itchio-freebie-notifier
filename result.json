@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-25T01:22:00.273Z",
+  "scraped_at": "2026-10-25T06:17:32.327Z",
   "pages_scraped": 25,
-  "total_found": 89,
+  "total_found": 88,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -265,9 +265,9 @@
       "author": "BennyBoyGames",
       "genre": "Adventure",
       "blurb": "A PSX-style sleep paralysis horror game",
-      "sale_url": "https://itch.io/s/207772/sleep-in-fear-100-off-sale",
-      "expires": "2026-10-25T05:00:00.000Z",
-      "expires_raw": "2026-10-25T05:00:00Z"
+      "sale_url": "https://itch.io/s/207935/sleep-in-fear-halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5102250",
@@ -1060,18 +1060,6 @@
       "sale_url": "https://itch.io/s/206340/-free-for-7-days",
       "expires": "2026-10-31T20:55:00.000Z",
       "expires_raw": "2026-10-31T20:55:00Z"
-    },
-    {
-      "id": "2393159",
-      "title": "THE MIDNIGHT BUS",
-      "url": "https://itandfeel.itch.io/the-midnight-bus",
-      "image": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
-      "author": "itandfeel",
-      "genre": "Adventure",
-      "blurb": "No way out - Psychological Horror",
-      "sale_url": "https://itch.io/s/171469/the-midnight-bus-remake",
-      "expires": "2026-11-06T20:40:00.000Z",
-      "expires_raw": "2026-11-06T20:40:00Z"
     }
   ]
 }

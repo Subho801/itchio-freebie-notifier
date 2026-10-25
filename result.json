@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-25T11:41:20.556Z",
+  "scraped_at": "2026-10-25T15:07:40.109Z",
   "pages_scraped": 25,
-  "total_found": 85,
+  "total_found": 83,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5226899",
+      "title": "Kül & Kemik",
+      "url": "https://andromedadeveloper.itch.io/kul-kemik",
+      "image": "https://img.itch.zone/aW1nLzMxMzMwNjcwLnBuZw==/315x250%23c/CVx20s.png",
+      "author": "AndromedaDeveloper",
+      "genre": "Action",
+      "blurb": "@külvekemik",
+      "sale_url": "https://itch.io/s/210085/halloween-sale-2026",
+      "expires": "2026-10-27T14:00:00.000Z",
+      "expires_raw": "2026-10-27T14:00:00Z"
+    },
     {
       "id": "5213967",
       "title": "WakaTv",
@@ -28,6 +40,18 @@
       "sale_url": "https://itch.io/s/208914/aeroage-24-hour-free-early-access-giveaway",
       "expires": "2026-10-30T17:00:00.000Z",
       "expires_raw": "2026-10-30T17:00:00Z"
+    },
+    {
+      "id": "5206497",
+      "title": "PROJECT GARGANTUA",
+      "url": "https://hobakbagames.itch.io/projectgargantua",
+      "image": "https://img.itch.zone/aW1nLzMxMTkzNTk1LmpwZw==/315x250%23c/UCelKw.jpg",
+      "author": "Hobakba Games",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/208298/10",
+      "expires": "2026-11-05T06:58:00.000Z",
+      "expires_raw": "2026-11-05T06:58:00Z"
     },
     {
       "id": "5196465",
@@ -114,16 +138,16 @@
       "expires_raw": "2026-10-26T13:54:00Z"
     },
     {
-      "id": "5181022",
-      "title": "Time Travel Imperfectus",
-      "url": "https://indie-neuron-studio.itch.io/time-travel-imperfectus",
-      "image": "https://img.itch.zone/aW1nLzMxMDI4ODc4LnBuZw==/315x250%23c/jz4OsW.png",
-      "author": "Indie Neuron Studio",
-      "genre": "Visual Novel",
-      "blurb": "A short, visual novel about time travel",
-      "sale_url": "https://itch.io/s/206718/new-release-game",
-      "expires": "2026-10-25T13:03:00.000Z",
-      "expires_raw": "2026-10-25T13:03:00Z"
+      "id": "5177290",
+      "title": "Last Lantern",
+      "url": "https://whitewolflgd.itch.io/last-lantern",
+      "image": "https://img.itch.zone/aW1nLzMxMDAzNjcyLnBuZw==/315x250%23c/9vVejE.png",
+      "author": "WhiteWolfLGD",
+      "genre": "Simulation",
+      "blurb": "first-person horror game roadside business where every night is a fight for survival.",
+      "sale_url": "https://itch.io/s/206721/pre-halloween-sale-2026",
+      "expires": "2026-10-25T21:00:00.000Z",
+      "expires_raw": "2026-10-25T21:00:00Z"
     },
     {
       "id": "5170729",
@@ -244,18 +268,6 @@
       "sale_url": "https://itch.io/s/207344/halloween-free-sale",
       "expires": "2026-10-31T23:59:00.000Z",
       "expires_raw": "2026-10-31T23:59:00Z"
-    },
-    {
-      "id": "5129443",
-      "title": "Sleep in Fear",
-      "url": "https://bennyboygames.itch.io/sleep-in-fear",
-      "image": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif",
-      "author": "BennyBoyGames",
-      "genre": "Adventure",
-      "blurb": "A PSX-style sleep paralysis horror game",
-      "sale_url": "https://itch.io/s/207935/sleep-in-fear-halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5102250",
@@ -390,18 +402,6 @@
       "expires_raw": "2026-10-29T16:00:00Z"
     },
     {
-      "id": "4894996",
-      "title": "River Behind Us",
-      "url": "https://ninfixestudio.itch.io/river-behind-us",
-      "image": "https://img.itch.zone/aW1nLzI5NjY1MDQ3LnBuZw==/315x250%23c/NmH9jl.png",
-      "author": "Ninfixe Studio",
-      "genre": "Adventure",
-      "blurb": "A psychological horror-mystery 30–60 minutes.",
-      "sale_url": "https://itch.io/s/200416/special-discount-100",
-      "expires": "2026-10-25T12:02:00.000Z",
-      "expires_raw": "2026-10-25T12:02:00Z"
-    },
-    {
       "id": "4920479",
       "title": "GRAV RUSH EDGE",
       "url": "https://indie-neuron-studio.itch.io/grav-rush-edge",
@@ -434,8 +434,8 @@
       "genre": "Survival",
       "blurb": null,
       "sale_url": "https://itch.io/s/202264/launch-promotion",
-      "expires": "2026-11-14T18:32:00.000Z",
-      "expires_raw": "2026-11-14T18:32:00Z"
+      "expires": "2026-10-25T18:32:00.000Z",
+      "expires_raw": "2026-10-25T18:32:00Z"
     },
     {
       "id": "4904590",
@@ -496,6 +496,18 @@
       "sale_url": "https://itch.io/s/209701/100-sale",
       "expires": "2026-11-08T08:46:00.000Z",
       "expires_raw": "2026-11-08T08:46:00Z"
+    },
+    {
+      "id": "4808087",
+      "title": "Aria Fantasy Adventure",
+      "url": "https://farisahmed.itch.io/aria-fantasy-adventure",
+      "image": "https://img.itch.zone/aW1nLzI4Njc3ODgyLmpwZw==/315x250%23c/dlv4H0.jpg",
+      "author": "FarisAhmed",
+      "genre": "Platformer",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/196620/launch-sale-50",
+      "expires": "2026-11-24T15:00:00.000Z",
+      "expires_raw": "2026-11-24T15:00:00Z"
     },
     {
       "id": "4792265",
@@ -568,18 +580,6 @@
       "sale_url": "https://itch.io/s/202226/next-level-fundraising",
       "expires": "2026-11-04T12:08:00.000Z",
       "expires_raw": "2026-11-04T12:08:00Z"
-    },
-    {
-      "id": "4565310",
-      "title": "Last Friday",
-      "url": "https://reganc.itch.io/last-friday",
-      "image": "https://img.itch.zone/aW1nLzMxMjU4MDUxLmdpZg==/315x250%23c/PwGKuS.gif",
-      "author": "ReganC",
-      "genre": "Simulation",
-      "blurb": "You entered the simulation. It didn’t let you leave.",
-      "sale_url": "https://itch.io/s/200079/last-friday-beta-sale",
-      "expires": "2026-10-25T12:22:00.000Z",
-      "expires_raw": "2026-10-25T12:22:00Z"
     },
     {
       "id": "4465335",
@@ -1000,30 +1000,6 @@
       "sale_url": "https://itch.io/s/200452/gravmetal-12-dark-iron-free-week",
       "expires": "2026-11-01T00:00:00.000Z",
       "expires_raw": "2026-11-01T00:00:00Z"
-    },
-    {
-      "id": "3064437",
-      "title": "Abode: Definitive Edition",
-      "url": "https://jordons.itch.io/abode-definitive-edition",
-      "image": "https://img.itch.zone/aW1nLzE4MzI2OTYxLnBuZw==/315x250%23c/yhhaka.png",
-      "author": "Jordon",
-      "genre": null,
-      "blurb": "The Definitive Edition of Abode that also came out on Steam",
-      "sale_url": "https://itch.io/s/208301/halloween-sale",
-      "expires": "2026-11-01T20:00:00.000Z",
-      "expires_raw": "2026-11-01T20:00:00Z"
-    },
-    {
-      "id": "1696231",
-      "title": "Almericus - Scarred Islands",
-      "url": "https://almericusdev.itch.io/almericus-scarred-islands",
-      "image": "https://img.itch.zone/aW1nLzE3NjQ1MjIwLnBuZw==/315x250%23c/wc6ZcF.png",
-      "author": "Almericusdev",
-      "genre": "Adventure",
-      "blurb": "Adventure RPG",
-      "sale_url": "https://itch.io/s/202847/october-curses-breaker",
-      "expires": "2026-11-02T01:06:00.000Z",
-      "expires_raw": "2026-11-02T01:06:00Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-26T19:26:10.335Z",
+  "scraped_at": "2026-10-26T23:18:09.734Z",
   "pages_scraped": 25,
-  "total_found": 45,
+  "total_found": 46,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -16,6 +16,18 @@
       "sale_url": "https://itch.io/s/210637/sonpoi",
       "expires": "2026-11-03T11:00:00.000Z",
       "expires_raw": "2026-11-03T11:00:00Z"
+    },
+    {
+      "id": "5226116",
+      "title": "Dam Tycoon Idle",
+      "url": "https://fanfive99.itch.io/dam-tycoon-idle",
+      "image": "https://img.itch.zone/aW1nLzMxNDEwNjIyLmpwZw==/315x250%23c/mt74zI.jpg",
+      "author": "sigma",
+      "genre": null,
+      "blurb": "Raise a hydroelectric dam lift by lift, open the floodgates and power a growing city - then rebirth into wilder canyons.",
+      "sale_url": "https://itch.io/s/211107/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5231339",

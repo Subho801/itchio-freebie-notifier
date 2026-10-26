@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-25T23:13:49.936Z",
+  "scraped_at": "2026-10-26T01:17:29.250Z",
   "pages_scraped": 25,
-  "total_found": 40,
+  "total_found": 41,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -28,6 +28,18 @@
       "sale_url": "https://itch.io/s/210085/halloween-sale-2026",
       "expires": "2026-10-27T14:00:00.000Z",
       "expires_raw": "2026-10-27T14:00:00Z"
+    },
+    {
+      "id": "5224011",
+      "title": "Late Order",
+      "url": "https://glodory-studio.itch.io/late-night",
+      "image": "https://img.itch.zone/aW1nLzMxMzEzNjEwLnBuZw==/315x250%23c/Eci0N6.png",
+      "author": "RyzexGames",
+      "genre": "Simulation",
+      "blurb": "Night shifts at a small-town pizza place, a girl nobody has seen in three weeks, and an order nobody placed.",
+      "sale_url": "https://itch.io/s/206008/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5215984",
@@ -122,6 +134,18 @@
       "genre": "Adventure",
       "blurb": null,
       "sale_url": "https://itch.io/s/208187/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5196213",
+      "title": "Still awake?",
+      "url": "https://0bsessi0n.itch.io/still-awake",
+      "image": "https://img.itch.zone/aW1nLzMxMTM1NTk5LnBuZw==/315x250%23c/Gcoi9L.png",
+      "author": "obsession",
+      "genre": "Simulation",
+      "blurb": "it's late at night. your computer asks: \"are you asleep?\" don't answer wrong.",
+      "sale_url": "https://itch.io/s/210542/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -414,6 +438,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "5153687",
+      "title": "Cazadores y Torres V1.2 (Windows)",
+      "url": "https://sebacarl49.itch.io/cazadores-y-torres",
+      "image": "https://img.itch.zone/aW1nLzMwODUyNTUwLnBuZw==/315x250%23c/vLOT%2B1.png",
+      "author": "Sebacarl49",
+      "genre": "Survival",
+      "blurb": "Un juego similar a otro de cubos. Este juego lo hice en mi tiempo libre con ayuda de Claude.",
+      "sale_url": "https://itch.io/s/206986/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
       "id": "5140696",
       "title": "KaizokuOnline",
       "url": "https://huenx.itch.io/kaizokuonline",
@@ -458,30 +494,6 @@
       "genre": "Action",
       "blurb": null,
       "sale_url": "https://itch.io/s/205441/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5108372",
-      "title": "Last Light: A Lighthouse Keeper's Night",
-      "url": "https://smallhoursstudio.itch.io/lastlight",
-      "image": "https://img.itch.zone/aW1nLzMwNjEyMjY5LnBuZw==/315x250%23c/iT3Upb.png",
-      "author": "smallhoursstudio",
-      "genre": "Simulation",
-      "blurb": "A relaxing lighthouse you can live in. Change the weather, sit by the window, write in the keeper's notebook.",
-      "sale_url": "https://itch.io/s/205061/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5108732",
-      "title": "Splat!",
-      "url": "https://comix-studios.itch.io/splat",
-      "image": "https://img.itch.zone/aW1nLzMwNTg0MTM0LnBuZw==/315x250%23c/Ctkgre.png",
-      "author": "Comix Studios",
-      "genre": "Action",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/207720/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     }

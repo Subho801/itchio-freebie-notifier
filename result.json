@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-26T06:21:13.360Z",
+  "scraped_at": "2026-10-26T13:19:51.794Z",
   "pages_scraped": 25,
-  "total_found": 41,
+  "total_found": 47,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5234555",
+      "title": "Sonpoi",
+      "url": "https://kikinndev.itch.io/sonpoi",
+      "image": "https://img.itch.zone/aW1nLzMxMzc4NDI5LnBuZw==/315x250%23c/%2Fwiiq0.png",
+      "author": "KikinnDev",
+      "genre": "Strategy",
+      "blurb": "Help Flint D. with killing the local cats.",
+      "sale_url": "https://itch.io/s/210637/sonpoi",
+      "expires": "2026-11-03T11:00:00.000Z",
+      "expires_raw": "2026-11-03T11:00:00Z"
+    },
     {
       "id": "5231339",
       "title": "One move of seed! 2",
@@ -16,6 +28,18 @@
       "sale_url": "https://itch.io/s/210340/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5229662",
+      "title": "Gridline GP",
+      "url": "https://crokedpixel.itch.io/gridline-gp",
+      "image": "https://img.itch.zone/aW1nLzMxMzQ2NDI3LnBuZw==/315x250%23c/OhyJVH.png",
+      "author": "crokedpixel",
+      "genre": "Racing",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/210779/halloween-sale-2026",
+      "expires": "2026-10-31T04:00:00.000Z",
+      "expires_raw": "2026-10-31T04:00:00Z"
     },
     {
       "id": "5226899",
@@ -112,6 +136,18 @@
       "sale_url": "https://itch.io/s/208914/aeroage-24-hour-free-early-access-giveaway",
       "expires": "2026-10-30T17:00:00.000Z",
       "expires_raw": "2026-10-30T17:00:00Z"
+    },
+    {
+      "id": "5211274",
+      "title": "Terminal: The Brain Founding",
+      "url": "https://virtualsat-studio.itch.io/terminal-the-brain-founding",
+      "image": "https://img.itch.zone/aW1nLzMxMjI2NDY4LnBuZw==/315x250%23c/j8FqkL.png",
+      "author": "VirtualSat Studio",
+      "genre": "Platformer",
+      "blurb": "A mind-bending computer adventure filled with terminals, glitches, and a possible love story...",
+      "sale_url": "https://itch.io/s/210716/try-terminal-the-brain-founding-for-free",
+      "expires": "2026-11-01T08:45:00.000Z",
+      "expires_raw": "2026-11-01T08:45:00Z"
     },
     {
       "id": "5206497",
@@ -306,6 +342,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "5177290",
+      "title": "Last Lantern",
+      "url": "https://whitewolflgd.itch.io/last-lantern",
+      "image": "https://img.itch.zone/aW1nLzMxMDAzNjcyLnBuZw==/315x250%23c/9vVejE.png",
+      "author": "WhiteWolfLGD",
+      "genre": "Simulation",
+      "blurb": "first-person horror game roadside business where every night is a fight for survival.",
+      "sale_url": "https://itch.io/s/206724/halloween-sale-2026",
+      "expires": "2026-11-04T21:59:00.000Z",
+      "expires_raw": "2026-11-04T21:59:00Z"
+    },
+    {
       "id": "5170774",
       "title": "BUBBLE GROTTO",
       "url": "https://tansoft.itch.io/bubble-grotto",
@@ -388,6 +436,30 @@
       "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
       "expires": "2026-11-05T21:00:00.000Z",
       "expires_raw": "2026-11-05T21:00:00Z"
+    },
+    {
+      "id": "5046861",
+      "title": "Space_Shooter_2D",
+      "url": "https://vishnu-jha.itch.io/space-shooter-2d",
+      "image": "https://img.itch.zone/aW1nLzMwMjE2OTczLmpwZWc=/315x250%23c/m2%2BPrg.jpeg",
+      "author": "vishnu_Jha",
+      "genre": "Action",
+      "blurb": "Its a @D Game Where You Shoot Space Entity",
+      "sale_url": "https://itch.io/s/210758/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5163062",
+      "title": "Texas Hold'em Cat Tavern",
+      "url": "https://stevenchow.itch.io/texas-cat-tavern",
+      "image": "https://img.itch.zone/aW1nLzMwOTE4MjUyLnBuZw==/315x250%23c/AmCIn8.png",
+      "author": "stevenchow",
+      "genre": "Strategy",
+      "blurb": "Play Texas Hold'em by day, mix cocktails by night—run your own cozy cat tavern.",
+      "sale_url": "https://itch.io/s/205229/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5162210",

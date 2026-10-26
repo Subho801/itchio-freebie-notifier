@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-26T13:19:51.794Z",
+  "scraped_at": "2026-10-26T19:26:10.335Z",
   "pages_scraped": 25,
-  "total_found": 47,
+  "total_found": 45,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -145,9 +145,9 @@
       "author": "VirtualSat Studio",
       "genre": "Platformer",
       "blurb": "A mind-bending computer adventure filled with terminals, glitches, and a possible love story...",
-      "sale_url": "https://itch.io/s/210716/try-terminal-the-brain-founding-for-free",
-      "expires": "2026-11-01T08:45:00.000Z",
-      "expires_raw": "2026-11-01T08:45:00Z"
+      "sale_url": "https://itch.io/s/210904/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5206497",
@@ -258,18 +258,6 @@
       "expires_raw": "2026-11-01T14:59:00Z"
     },
     {
-      "id": "5188200",
-      "title": "CODEX: 111 — The Last Ember",
-      "url": "https://xor-11.itch.io/codex-111",
-      "image": "https://img.itch.zone/aW1nLzMxMDcyOTkwLnBuZw==/315x250%23c/H1RmzR.png",
-      "author": "XOR-11",
-      "genre": "Platformer",
-      "blurb": "A painterly-noir precision platformer and philosophical riddle box.",
-      "sale_url": "https://itch.io/s/207088/vijaya-dashami-sale-2026",
-      "expires": "2026-10-26T18:00:00.000Z",
-      "expires_raw": "2026-10-26T18:00:00Z"
-    },
-    {
       "id": "5129245",
       "title": "Galaxy Nebula",
       "url": "https://comix-studios.itch.io/galaxy-nebula",
@@ -304,18 +292,6 @@
       "sale_url": "https://itch.io/s/207720/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5169400",
-      "title": "Family Manners",
-      "url": "https://nney.itch.io/family-manners",
-      "image": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
-      "author": "Ney",
-      "genre": "Adventure",
-      "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
-      "sale_url": "https://itch.io/s/206747/family-manners",
-      "expires": "2026-10-26T13:54:00.000Z",
-      "expires_raw": "2026-10-26T13:54:00Z"
     },
     {
       "id": "5181022",
@@ -438,6 +414,18 @@
       "expires_raw": "2026-11-05T21:00:00Z"
     },
     {
+      "id": "5135282",
+      "title": "Ballot or Barracks",
+      "url": "https://tkngamesoffical.itch.io/ballot-or-barracks",
+      "image": "https://img.itch.zone/aW1nLzMxMTg4Mzg3LmpwZw==/315x250%23c/1hbC8W.jpg",
+      "author": "TKNGAMES",
+      "genre": "Strategy",
+      "blurb": "Win the vote. Or take the state.",
+      "sale_url": "https://itch.io/s/210878/olaanst-hal-ndirimi-emergency-decree-sale",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
       "id": "5046861",
       "title": "Space_Shooter_2D",
       "url": "https://vishnu-jha.itch.io/space-shooter-2d",
@@ -445,7 +433,7 @@
       "author": "vishnu_Jha",
       "genre": "Action",
       "blurb": "Its a @D Game Where You Shoot Space Entity",
-      "sale_url": "https://itch.io/s/210758/halloween-sale-2026",
+      "sale_url": "https://itch.io/s/210939/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -550,22 +538,10 @@
       "title": "Sleep in Fear",
       "url": "https://bennyboygames.itch.io/sleep-in-fear",
       "image": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif",
-      "author": "BennyBoyGames",
+      "author": "BennyBoy",
       "genre": "Adventure",
       "blurb": "A PSX-style sleep paralysis horror game",
       "sale_url": "https://itch.io/s/210067/sleep-in-fear-halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5120104",
-      "title": "Potato Assassin",
-      "url": "https://caseduilla.itch.io/potato-assassin",
-      "image": "https://img.itch.zone/aW1nLzMwNjUyMTg3LmpwZw==/315x250%23c/vPcGxz.jpg",
-      "author": "caseduilla",
-      "genre": "Action",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/205441/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     }

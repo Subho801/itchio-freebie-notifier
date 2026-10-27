@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-27T13:42:36.097Z",
+  "scraped_at": "2026-10-27T19:03:12.130Z",
   "pages_scraped": 25,
-  "total_found": 51,
+  "total_found": 49,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -76,18 +76,6 @@
       "sale_url": "https://itch.io/s/210779/halloween-sale-2026",
       "expires": "2026-10-31T04:00:00.000Z",
       "expires_raw": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "5226899",
-      "title": "Kül & Kemik",
-      "url": "https://andromedadeveloper.itch.io/kul-kemik",
-      "image": "https://img.itch.zone/aW1nLzMxMzMwNjcwLnBuZw==/315x250%23c/CVx20s.png",
-      "author": "AndromedaDeveloper",
-      "genre": "Action",
-      "blurb": "@külvekemik",
-      "sale_url": "https://itch.io/s/210085/halloween-sale-2026",
-      "expires": "2026-10-27T14:00:00.000Z",
-      "expires_raw": "2026-10-27T14:00:00Z"
     },
     {
       "id": "5224011",
@@ -604,18 +592,6 @@
       "sale_url": "https://itch.io/s/207344/halloween-free-sale",
       "expires": "2026-10-31T23:59:00.000Z",
       "expires_raw": "2026-10-31T23:59:00Z"
-    },
-    {
-      "id": "5129443",
-      "title": "Sleep in Fear",
-      "url": "https://bennyboygames.itch.io/sleep-in-fear",
-      "image": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif",
-      "author": "BennyBoy",
-      "genre": "Adventure",
-      "blurb": "A PSX-style sleep paralysis horror game",
-      "sale_url": "https://itch.io/s/210067/sleep-in-fear-halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
     }
   ]
 }

@@ -1,10 +1,34 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-27T02:12:30.701Z",
+  "scraped_at": "2026-10-27T07:47:45.497Z",
   "pages_scraped": 25,
-  "total_found": 47,
+  "total_found": 49,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5241412",
+      "title": "Don't Finish the Donut",
+      "url": "https://ji10-games.itch.io/dont-finish-the-donut",
+      "image": "https://img.itch.zone/aW1nLzMxNDIzNTUxLnBuZw==/315x250%23c/f6B7Zh.png",
+      "author": "Ji+10 Studios",
+      "genre": "Adventure",
+      "blurb": "Spot the anomaly in a lonely night diner, or start over from Day 1.”",
+      "sale_url": "https://itch.io/s/211268/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5236855",
+      "title": "Entry Vector",
+      "url": "https://athanode.itch.io/entry-vector",
+      "image": "https://img.itch.zone/aW1nLzMxNDAxNDY0LnBuZw==/315x250%23c/a9bVGl.png",
+      "author": "Athanode Game Studio",
+      "genre": "Simulation",
+      "blurb": "Atmospheric reentry simulator. Manage critical heat, dynamic pressure & G-forces. It's survival",
+      "sale_url": "https://itch.io/s/210991/halloween-sale",
+      "expires": "2026-11-01T02:58:00.000Z",
+      "expires_raw": "2026-11-01T02:58:00Z"
+    },
     {
       "id": "5234555",
       "title": "Sonpoi",
@@ -457,7 +481,7 @@
       "author": "vishnu_Jha",
       "genre": "Action",
       "blurb": "Its a @D Game Where You Shoot Space Entity",
-      "sale_url": "https://itch.io/s/210939/halloween-sale-2026",
+      "sale_url": "https://itch.io/s/211244/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -501,7 +525,7 @@
       "id": "5148758",
       "title": "Task Treasurer",
       "url": "https://tarclaiborne.itch.io/task-treasurer",
-      "image": "https://img.itch.zone/aW1nLzMwODIzNzE0LnBuZw==/315x250%23c/sY6Tfb.png",
+      "image": "https://img.itch.zone/aW1nLzMxNDE5MDIxLnBuZw==/315x250%23c/lhNP1q.png",
       "author": "tarclaiborne",
       "genre": "Educational",
       "blurb": "Do the Task. Get the Treasure. A real-life task adventure for families.",

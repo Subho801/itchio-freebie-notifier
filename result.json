@@ -1,10 +1,34 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-27T19:03:12.130Z",
+  "scraped_at": "2026-10-27T22:54:11.532Z",
   "pages_scraped": 25,
-  "total_found": 49,
+  "total_found": 51,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5245309",
+      "title": "Mini Factory",
+      "url": "https://bohnentaldev.itch.io/mini-factory",
+      "image": "https://img.itch.zone/aW1nLzMxNDU3NDQ3LmpwZw==/315x250%23c/DFUyHA.jpg",
+      "author": "Bohnental.dev",
+      "genre": "Simulation",
+      "blurb": "A factory building game",
+      "sale_url": "https://itch.io/s/211670/mini-factory-launch-100-off-for-3-days",
+      "expires": "2026-10-30T20:16:00.000Z",
+      "expires_raw": "2026-10-30T20:16:00Z"
+    },
+    {
+      "id": "5242980",
+      "title": "Invasion (Amstrad CPC)",
+      "url": "https://cyborgunicornau.itch.io/invasion-amstrad-cpc",
+      "image": "https://img.itch.zone/aW1nLzMxNDM0MjkxLnBuZw==/315x250%23c/OgbH0g.png",
+      "author": "Cyborg Unicorn Pty Ltd",
+      "genre": "Shooter",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/211396/cyborg-unicorn-week-2-cpc-special",
+      "expires": "2026-10-30T13:00:00.000Z",
+      "expires_raw": "2026-10-30T13:00:00Z"
+    },
     {
       "id": "5241412",
       "title": "Don't Finish the Donut",

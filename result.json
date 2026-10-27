@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-27T07:47:45.497Z",
+  "scraped_at": "2026-10-27T13:42:36.097Z",
   "pages_scraped": 25,
-  "total_found": 49,
+  "total_found": 51,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -115,7 +115,7 @@
     },
     {
       "id": "5221131",
-      "title": "Deadzone Dash",
+      "title": "DeadZone Dash",
       "url": "https://mindseed.itch.io/deadzone-dash",
       "image": "https://img.itch.zone/aW1nLzMxMjk4NTk0LnBuZw==/315x250%23c/4blF%2BD.png",
       "author": "mindseed",
@@ -150,16 +150,28 @@
       "expires_raw": "2026-11-08T17:27:00Z"
     },
     {
-      "id": "5213967",
-      "title": "WakaTv",
-      "url": "https://onionvpn.itch.io/wakatv",
-      "image": "https://img.itch.zone/aW1nLzMxMjQzODE3LnBuZw==/315x250%23c/hEo2a6.png",
-      "author": "onionvpn",
-      "genre": null,
+      "id": "5215623",
+      "title": "Apricot Garden Mahjong",
+      "url": "https://apricotgarden.itch.io/mahjong",
+      "image": "https://img.itch.zone/aW1nLzMxMzU0OTI2LnBuZw==/315x250%23c/kAzDdW.png",
+      "author": "apricotgarden",
+      "genre": "Puzzle",
+      "blurb": "Cozy mahjong solitaire. Same code, same board for everyone. Race your friends.",
+      "sale_url": "https://itch.io/s/210094/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5213161",
+      "title": "Demon Transcendence (Amstrad CPC 128K+)",
+      "url": "https://cyborgunicornau.itch.io/demon-transcendence-amstrad-cpc-128k",
+      "image": "https://img.itch.zone/aW1nLzMxMjM4NDYwLnBuZw==/315x250%23c/gBAP6C.png",
+      "author": "Cyborg Unicorn Pty Ltd",
+      "genre": "Strategy",
       "blurb": null,
-      "sale_url": "https://itch.io/s/208870/wakatv-free-for-a-limited-time",
-      "expires": "2026-10-27T12:22:00.000Z",
-      "expires_raw": "2026-10-27T12:22:00Z"
+      "sale_url": "https://itch.io/s/211396/cyborg-unicorn-week-2-cpc-special",
+      "expires": "2026-10-30T13:00:00.000Z",
+      "expires_raw": "2026-10-30T13:00:00Z"
     },
     {
       "id": "5212102",
@@ -292,6 +304,18 @@
       "sale_url": "https://itch.io/s/210321/halloween-free-week",
       "expires": "2026-11-01T14:59:00.000Z",
       "expires_raw": "2026-11-01T14:59:00Z"
+    },
+    {
+      "id": "5188200",
+      "title": "CODEX: 111 — The Last Ember",
+      "url": "https://xor-11.itch.io/codex-111",
+      "image": "https://img.itch.zone/aW1nLzMxMDcyOTkwLnBuZw==/315x250%23c/H1RmzR.png",
+      "author": "XOR-11",
+      "genre": "Platformer",
+      "blurb": "A painterly-noir precision platformer and philosophical riddle box.",
+      "sale_url": "https://itch.io/s/211404/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5129245",

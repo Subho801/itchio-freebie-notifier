@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-26T23:18:09.734Z",
+  "scraped_at": "2026-10-27T02:12:30.701Z",
   "pages_scraped": 25,
-  "total_found": 46,
+  "total_found": 47,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -306,6 +306,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "5169400",
+      "title": "Family Manners",
+      "url": "https://nney.itch.io/family-manners",
+      "image": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
+      "author": "Ney",
+      "genre": "Adventure",
+      "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
+      "sale_url": "https://itch.io/s/211189/family-manners",
+      "expires": "2026-10-30T01:44:00.000Z",
+      "expires_raw": "2026-10-30T01:44:00Z"
+    },
+    {
       "id": "5181022",
       "title": "Time Travel Imperfectus",
       "url": "https://indie-neuron-studio.itch.io/time-travel-imperfectus",
@@ -493,9 +505,9 @@
       "author": "tarclaiborne",
       "genre": "Educational",
       "blurb": "Do the Task. Get the Treasure. A real-life task adventure for families.",
-      "sale_url": "https://itch.io/s/204456/task-treasurer-30-day-free-launch",
-      "expires": "2026-11-13T06:00:00.000Z",
-      "expires_raw": "2026-11-13T06:00:00Z"
+      "sale_url": "https://itch.io/s/206997/task-treasurer-founding-players-launch-offer",
+      "expires": "2026-11-13T05:59:00.000Z",
+      "expires_raw": "2026-11-13T05:59:00Z"
     },
     {
       "id": "5153974",

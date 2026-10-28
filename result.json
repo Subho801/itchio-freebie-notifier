@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-28T02:00:29.758Z",
+  "scraped_at": "2026-10-28T07:56:09.016Z",
   "pages_scraped": 25,
-  "total_found": 48,
+  "total_found": 49,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -88,6 +88,18 @@
       "sale_url": "https://itch.io/s/210779/halloween-sale-2026",
       "expires": "2026-10-31T04:00:00.000Z",
       "expires_raw": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "5213126",
+      "title": "stack up tofupi!",
+      "url": "https://closuu.itch.io/stack-up-tofupi",
+      "image": "https://img.itch.zone/aW1nLzMxNDYyODQ0LnBuZw==/315x250%23c/k4cJZa.png",
+      "author": "qobble",
+      "genre": "Puzzle",
+      "blurb": "stack your way up as tofupi and make the tallest tower!",
+      "sale_url": "https://itch.io/s/212293/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5224011",

@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-28T14:48:11.128Z",
+  "scraped_at": "2026-10-28T19:59:14.285Z",
   "pages_scraped": 25,
-  "total_found": 51,
+  "total_found": 50,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -83,7 +83,7 @@
       "url": "https://fanfive99.itch.io/dam-tycoon-idle",
       "image": "https://img.itch.zone/aW1nLzMxNDEwNjIyLmpwZw==/315x250%23c/mt74zI.jpg",
       "author": "sigma",
-      "genre": null,
+      "genre": "Simulation",
       "blurb": "Raise a hydroelectric dam lift by lift, open the floodgates and power a growing city - then rebirth into wilder canyons.",
       "sale_url": "https://itch.io/s/211107/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
@@ -604,18 +604,6 @@
       "sale_url": "https://itch.io/s/204689/free-download-until-halloween-night",
       "expires": "2026-10-31T03:53:00.000Z",
       "expires_raw": "2026-10-31T03:53:00Z"
-    },
-    {
-      "id": "5148758",
-      "title": "Task Treasurer",
-      "url": "https://tarclaiborne.itch.io/task-treasurer",
-      "image": "https://img.itch.zone/aW1nLzMxNDE5MDIxLnBuZw==/315x250%23c/lhNP1q.png",
-      "author": "tarclaiborne",
-      "genre": "Educational",
-      "blurb": "Do the Task. Get the Treasure. A real-life task adventure for families.",
-      "sale_url": "https://itch.io/s/206997/task-treasurer-founding-players-launch-offer",
-      "expires": "2026-11-13T05:59:00.000Z",
-      "expires_raw": "2026-11-13T05:59:00Z"
     }
   ]
 }

@@ -1,22 +1,10 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-27T22:54:11.532Z",
+  "scraped_at": "2026-10-28T02:00:29.758Z",
   "pages_scraped": 25,
-  "total_found": 51,
+  "total_found": 48,
   "stopped_reason": "max_pages_reached",
   "games": [
-    {
-      "id": "5245309",
-      "title": "Mini Factory",
-      "url": "https://bohnentaldev.itch.io/mini-factory",
-      "image": "https://img.itch.zone/aW1nLzMxNDU3NDQ3LmpwZw==/315x250%23c/DFUyHA.jpg",
-      "author": "Bohnental.dev",
-      "genre": "Simulation",
-      "blurb": "A factory building game",
-      "sale_url": "https://itch.io/s/211670/mini-factory-launch-100-off-for-3-days",
-      "expires": "2026-10-30T20:16:00.000Z",
-      "expires_raw": "2026-10-30T20:16:00Z"
-    },
     {
       "id": "5242980",
       "title": "Invasion (Amstrad CPC)",
@@ -57,7 +45,7 @@
       "id": "5234555",
       "title": "Sonpoi",
       "url": "https://kikinndev.itch.io/sonpoi",
-      "image": "https://img.itch.zone/aW1nLzMxMzc4NDI5LnBuZw==/315x250%23c/%2Fwiiq0.png",
+      "image": "https://img.itch.zone/aW1nLzMxNDU5ODIzLnBuZw==/315x250%23c/MI%2BpAl.png",
       "author": "KikinnDev",
       "genre": "Strategy",
       "blurb": "Help Flint D. with killing the local cats.",
@@ -592,30 +580,6 @@
       "sale_url": "https://itch.io/s/206986/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5140696",
-      "title": "KaizokuOnline",
-      "url": "https://huenx.itch.io/kaizokuonline",
-      "image": "https://img.itch.zone/aW1nLzMxMjM0MzczLnBuZw==/315x250%23c/qHPxXQ.png",
-      "author": "huenx",
-      "genre": "Role Playing",
-      "blurb": "MMORPG NO-LINEAL GAME BASED IN ONE PIECE",
-      "sale_url": "https://itch.io/s/206450/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5138431",
-      "title": "Kingsport, 1921: The Legacy",
-      "url": "https://zhappo.itch.io/kingsport-1921",
-      "image": "https://img.itch.zone/aW1nLzMwNzU5NTE5LnBuZw==/315x250%23c/Mti3ah.png",
-      "author": "Zhappo",
-      "genre": "Visual Novel",
-      "blurb": "A Lovecraftian horror visual novel. Some doors should stay closed. / Uma visual novel de horror lovecraftiano.",
-      "sale_url": "https://itch.io/s/207344/halloween-free-sale",
-      "expires": "2026-10-31T23:59:00.000Z",
-      "expires_raw": "2026-10-31T23:59:00Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-28T19:59:14.285Z",
+  "scraped_at": "2026-10-28T23:49:11.959Z",
   "pages_scraped": 25,
-  "total_found": 50,
+  "total_found": 49,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -129,7 +129,7 @@
       "id": "5224011",
       "title": "Late Order",
       "url": "https://glodory-studio.itch.io/late-night",
-      "image": "https://img.itch.zone/aW1nLzMxMzEzNjEwLnBuZw==/315x250%23c/Eci0N6.png",
+      "image": "https://img.itch.zone/aW1nLzMxNDk4NzgzLnBuZw==/315x250%23c/UYcnp7.png",
       "author": "RyzexGames",
       "genre": "Simulation",
       "blurb": "Night shifts at a small-town pizza place, a girl nobody has seen in three weeks, and an order nobody placed.",
@@ -232,18 +232,6 @@
       "sale_url": "https://itch.io/s/208914/aeroage-24-hour-free-early-access-giveaway",
       "expires": "2026-10-30T17:00:00.000Z",
       "expires_raw": "2026-10-30T17:00:00Z"
-    },
-    {
-      "id": "5211274",
-      "title": "Terminal: The Brain Founding",
-      "url": "https://virtualsat-studio.itch.io/terminal-the-brain-founding",
-      "image": "https://img.itch.zone/aW1nLzMxMjI2NDY4LnBuZw==/315x250%23c/j8FqkL.png",
-      "author": "VirtualSat Studio",
-      "genre": "Platformer",
-      "blurb": "A mind-bending computer adventure filled with terminals, glitches, and a possible love story...",
-      "sale_url": "https://itch.io/s/210904/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5206497",

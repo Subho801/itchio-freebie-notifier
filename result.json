@@ -1,10 +1,34 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-29T09:13:48.939Z",
+  "scraped_at": "2026-10-29T16:10:04.495Z",
   "pages_scraped": 25,
-  "total_found": 50,
+  "total_found": 52,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5256860",
+      "title": "Worldstate",
+      "url": "https://zvenyyy.itch.io/worldstate",
+      "image": "https://img.itch.zone/aW1nLzMxNTI1MzY5LnBuZw==/315x250%23c/ccvYT4.png",
+      "author": "zvenyyy",
+      "genre": "Strategy",
+      "blurb": "Build your nation. Grow your economy. Command your military. Conquer the world.",
+      "sale_url": "https://itch.io/s/205696/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5256432",
+      "title": "Forever Run",
+      "url": "https://peakk-og.itch.io/forever-run",
+      "image": "https://img.itch.zone/aW1nLzMxNTIyMzY5LmpwZw==/315x250%23c/iJwoZ8.jpg",
+      "author": "Peakk",
+      "genre": "Role Playing",
+      "blurb": "love",
+      "sale_url": "https://itch.io/s/213704/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
     {
       "id": "5253096",
       "title": "Trick or Treat with Twitch Chat",
@@ -18,25 +42,13 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "5249796",
-      "title": "BYTEFALL",
-      "url": "https://xor-11.itch.io/bytefall",
-      "image": "https://img.itch.zone/aW1nLzMxNDc4NDI2LnBuZw==/315x250%23c/hAfGLp.png",
-      "author": "XOR-11",
-      "genre": "Puzzle",
-      "blurb": "Stack neon blocks, clear lines, and survive a cyber-grid that keeps getting faster.",
-      "sale_url": "https://itch.io/s/212936/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
       "id": "5246100",
       "title": "30 Coins: The Consequences",
       "url": "https://alimsmgfan.itch.io/30-coins-the-concequences",
       "image": "https://img.itch.zone/aW1nLzMxNDU5NDc1LnBuZw==/315x250%23c/O1YD5a.png",
       "author": "alimsmgfan",
       "genre": "Adventure",
-      "blurb": "short psychological horror about blood money, and the freezing cold.",
+      "blurb": "A short psychological horror about blood money, and the freezing cold.",
       "sale_url": "https://itch.io/s/212038/halloween-sale-2026",
       "expires": "2026-11-03T20:00:00.000Z",
       "expires_raw": "2026-11-03T20:00:00Z"
@@ -90,6 +102,18 @@
       "expires_raw": "2026-11-01T02:58:00Z"
     },
     {
+      "id": "5239790",
+      "title": "Knight Slide GBA",
+      "url": "https://precagames.itch.io/knight-slide-gba",
+      "image": "https://img.itch.zone/aW1nLzMxNDEzNzc0LnBuZw==/315x250%23c/CZ3jdJ.png",
+      "author": "precagames",
+      "genre": "Action",
+      "blurb": "Slide and save princess",
+      "sale_url": "https://itch.io/s/213829/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
       "id": "5234555",
       "title": "Sonpoi",
       "url": "https://kikinndev.itch.io/sonpoi",
@@ -124,6 +148,18 @@
       "sale_url": "https://itch.io/s/210340/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5229050",
+      "title": "EvsE",
+      "url": "https://gkolberg.itch.io/evse",
+      "image": "https://img.itch.zone/aW1nLzMxNTI5NTA4LnBuZw==/315x250%23c/jmlbXw.png",
+      "author": "Gkolberg",
+      "genre": "Survival",
+      "blurb": "Urban exploration. Get in, loot, film the evidence, resolve puzzle and get out alive.. if the entity lets you.",
+      "sale_url": "https://itch.io/s/213742/halloween-sale-",
+      "expires": "2026-11-10T22:59:00.000Z",
+      "expires_raw": "2026-11-10T22:59:00Z"
     },
     {
       "id": "5229662",
@@ -390,18 +426,6 @@
       "expires_raw": "2026-11-01T14:59:00Z"
     },
     {
-      "id": "5188200",
-      "title": "CODEX: 111 — The Last Ember",
-      "url": "https://xor-11.itch.io/codex-111",
-      "image": "https://img.itch.zone/aW1nLzMxMDcyOTkwLnBuZw==/315x250%23c/H1RmzR.png",
-      "author": "XOR-11",
-      "genre": "Platformer",
-      "blurb": "A painterly-noir precision platformer and philosophical riddle box.",
-      "sale_url": "https://itch.io/s/211404/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
       "id": "5129245",
       "title": "Galaxy Nebula",
       "url": "https://comix-studios.itch.io/galaxy-nebula",
@@ -484,6 +508,18 @@
       "sale_url": "https://itch.io/s/206724/halloween-sale-2026",
       "expires": "2026-11-04T21:59:00.000Z",
       "expires_raw": "2026-11-04T21:59:00Z"
+    },
+    {
+      "id": "3697219",
+      "title": "de citri natura",
+      "url": "https://nalio.itch.io/de-citri-natura",
+      "image": "https://img.itch.zone/aW1nLzIyMDAyNzMxLnBuZw==/315x250%23c/9BASjh.png",
+      "author": "NALIo",
+      "genre": "Puzzle",
+      "blurb": "Are you made for order?",
+      "sale_url": "https://itch.io/s/213723/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5170774",
@@ -590,18 +626,6 @@
       "genre": "Action",
       "blurb": "Its a @D Game Where You Shoot Space Entity",
       "sale_url": "https://itch.io/s/211244/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5163062",
-      "title": "Texas Hold'em Cat Tavern",
-      "url": "https://stevenchow.itch.io/texas-cat-tavern",
-      "image": "https://img.itch.zone/aW1nLzMwOTE4MjUyLnBuZw==/315x250%23c/AmCIn8.png",
-      "author": "stevenchow",
-      "genre": "Strategy",
-      "blurb": "Play Texas Hold'em by day, mix cocktails by night—run your own cozy cat tavern.",
-      "sale_url": "https://itch.io/s/205229/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     }

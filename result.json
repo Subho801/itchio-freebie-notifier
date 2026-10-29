@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-29T02:59:14.161Z",
+  "scraped_at": "2026-10-29T09:13:48.939Z",
   "pages_scraped": 25,
   "total_found": 50,
   "stopped_reason": "max_pages_reached",
@@ -280,6 +280,18 @@
       "sale_url": "https://itch.io/s/208187/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5192300",
+      "title": "Pumpkill Remastered",
+      "url": "https://cosmicraycast.itch.io/pumpkill",
+      "image": "https://img.itch.zone/aW1nLzMxMjA2OTc1LnBuZw==/315x250%23c/HRxhpB.png",
+      "author": "Cosmic Raycast",
+      "genre": "Shooter",
+      "blurb": "The Ultimate Halloween FPS",
+      "sale_url": "https://itch.io/s/208170/a-cosmic-raycast-halloween",
+      "expires": "2026-11-03T06:00:00.000Z",
+      "expires_raw": "2026-11-03T06:00:00Z"
     },
     {
       "id": "5196213",
@@ -592,18 +604,6 @@
       "sale_url": "https://itch.io/s/205229/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5162210",
-      "title": "Hollow Chess",
-      "url": "https://twindark.itch.io/hollow-chess",
-      "image": "https://img.itch.zone/aW1nLzMwOTA5NzYwLmpwZw==/315x250%23c/TlWLIa.jpg",
-      "author": "Twindark",
-      "genre": "Strategy",
-      "blurb": "Chess, but every piece has a power. Lead the last King, fuse your legends, break the board.",
-      "sale_url": "https://itch.io/s/210471/hollowchess-halloween-sale-2026",
-      "expires": "2026-11-01T18:00:00.000Z",
-      "expires_raw": "2026-11-01T18:00:00Z"
     }
   ]
 }

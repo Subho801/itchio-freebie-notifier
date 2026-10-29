@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-29T16:10:04.495Z",
+  "scraped_at": "2026-10-29T21:06:21.758Z",
   "pages_scraped": 25,
-  "total_found": 52,
+  "total_found": 54,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -26,6 +26,18 @@
       "genre": "Role Playing",
       "blurb": "love",
       "sale_url": "https://itch.io/s/213704/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5250308",
+      "title": "DRIFTERZ Alpha",
+      "url": "https://0bsessi0n.itch.io/drifterz-alpha",
+      "image": "https://img.itch.zone/aW1nLzMxNDgxNDQ3LmpwZw==/315x250%23c/RsGoT8.jpg",
+      "author": "obsession",
+      "genre": "Simulation",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/213983/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -268,6 +280,18 @@
       "sale_url": "https://itch.io/s/210094/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5210713",
+      "title": "Project Wild Weasel",
+      "url": "https://kevinpandya953.itch.io/project-wild-weasel",
+      "image": "https://img.itch.zone/aW1nLzMxMjIxNzMyLnBuZw==/315x250%23c/ya8i0a.png",
+      "author": "Kevinpandya953",
+      "genre": "Fighting",
+      "blurb": "A combat flight sim over real Caucasus terrain: SEAD, strike and CAP in the F-16, F-15, F/A-18 and A-10.",
+      "sale_url": "https://itch.io/s/213923/halloween-sale-project-wild-weasel",
+      "expires": "2026-11-12T18:02:00.000Z",
+      "expires_raw": "2026-11-12T18:02:00Z"
     },
     {
       "id": "5213161",
@@ -582,6 +606,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "4926344",
+      "title": "Blood Bond Bound: Grudges Past",
+      "url": "https://anethicalcannibal.itch.io/blood-bond-bound-grudges-past",
+      "image": "https://img.itch.zone/aW1nLzI5NzIwNDUxLnBuZw==/315x250%23c/is1E6b.png",
+      "author": "AnEthicalCannibal",
+      "genre": "Role Playing",
+      "blurb": "A supernatural Investigation RPG in 90s Japan",
+      "sale_url": "https://itch.io/s/209588/bx3-halloween-sale-2026",
+      "expires": "2026-11-04T21:00:00.000Z",
+      "expires_raw": "2026-11-04T21:00:00Z"
+    },
+    {
       "id": "5160338",
       "title": "Ruby's Trick or Treat [Halloween Anime Horror]",
       "url": "https://kripkode.itch.io/rubys-trick-or-treat",
@@ -614,18 +650,6 @@
       "genre": "Strategy",
       "blurb": "Win the vote. Or take the state.",
       "sale_url": "https://itch.io/s/210878/olaanst-hal-ndirimi-emergency-decree-sale",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5046861",
-      "title": "Space_Shooter_2D",
-      "url": "https://vishnu-jha.itch.io/space-shooter-2d",
-      "image": "https://img.itch.zone/aW1nLzMwMjE2OTczLmpwZWc=/315x250%23c/m2%2BPrg.jpeg",
-      "author": "vishnu_Jha",
-      "genre": "Action",
-      "blurb": "Its a @D Game Where You Shoot Space Entity",
-      "sale_url": "https://itch.io/s/211244/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     }

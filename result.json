@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-28T23:49:11.959Z",
+  "scraped_at": "2026-10-29T02:59:14.161Z",
   "pages_scraped": 25,
-  "total_found": 49,
+  "total_found": 50,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5253096",
+      "title": "Trick or Treat with Twitch Chat",
+      "url": "https://fruitcakes3317.itch.io/trickortreatwithtwitchchat",
+      "image": "https://img.itch.zone/aW1nLzMxNTAyMjU0LnBuZw==/315x250%23c/acjXO6.png",
+      "author": "Fruitcakes3317",
+      "genre": null,
+      "blurb": "chatplay game for twitch",
+      "sale_url": "https://itch.io/s/213493/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
     {
       "id": "5249796",
       "title": "BYTEFALL",
@@ -40,6 +52,18 @@
       "sale_url": "https://itch.io/s/211396/cyborg-unicorn-week-2-cpc-special",
       "expires": "2026-10-30T13:00:00.000Z",
       "expires_raw": "2026-10-30T13:00:00Z"
+    },
+    {
+      "id": "5242140",
+      "title": "Timeboxd",
+      "url": "https://fenetix.itch.io/timeboxd",
+      "image": "https://img.itch.zone/aW1nLzMxNDI5MDg3LnBuZw==/315x250%23c/z5AXNj.png",
+      "author": "Fenetix",
+      "genre": "Fighting",
+      "blurb": "boxd",
+      "sale_url": "https://itch.io/s/212842/halloween-sale-2026",
+      "expires": "2026-11-01T18:00:00.000Z",
+      "expires_raw": "2026-11-01T18:00:00Z"
     },
     {
       "id": "5241412",
@@ -580,18 +604,6 @@
       "sale_url": "https://itch.io/s/210471/hollowchess-halloween-sale-2026",
       "expires": "2026-11-01T18:00:00.000Z",
       "expires_raw": "2026-11-01T18:00:00Z"
-    },
-    {
-      "id": "5160570",
-      "title": "HELLBREAKERS",
-      "url": "https://rob6b.itch.io/hellbreakers",
-      "image": "https://img.itch.zone/aW1nLzMwODk5MTc3LnBuZw==/315x250%23c/hVc%2BGV.png",
-      "author": "rob6b",
-      "genre": "Survival",
-      "blurb": "Survivor-like demonology hunter",
-      "sale_url": "https://itch.io/s/204689/free-download-until-halloween-night",
-      "expires": "2026-10-31T03:53:00.000Z",
-      "expires_raw": "2026-10-31T03:53:00Z"
     }
   ]
 }

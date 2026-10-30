@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-29T21:06:21.758Z",
+  "scraped_at": "2026-10-30T00:54:45.014Z",
   "pages_scraped": 25,
-  "total_found": 54,
+  "total_found": 53,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -640,18 +640,6 @@
       "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
       "expires": "2026-11-05T21:00:00.000Z",
       "expires_raw": "2026-11-05T21:00:00Z"
-    },
-    {
-      "id": "5135282",
-      "title": "Ballot or Barracks",
-      "url": "https://tkngamesoffical.itch.io/ballot-or-barracks",
-      "image": "https://img.itch.zone/aW1nLzMxMTg4Mzg3LmpwZw==/315x250%23c/1hbC8W.jpg",
-      "author": "TKNGAMES",
-      "genre": "Strategy",
-      "blurb": "Win the vote. Or take the state.",
-      "sale_url": "https://itch.io/s/210878/olaanst-hal-ndirimi-emergency-decree-sale",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
     }
   ]
 }

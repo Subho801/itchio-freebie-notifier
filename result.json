@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-30T13:38:17.210Z",
+  "scraped_at": "2026-10-30T18:52:59.829Z",
   "pages_scraped": 25,
-  "total_found": 58,
+  "total_found": 57,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5264792",
+      "title": "PlanomallyA7",
+      "url": "https://davdion.itch.io/planomallya7",
+      "image": "https://img.itch.zone/aW1nLzMxNTc5MjU3LnBuZw==/315x250%23c/asoEHI.png",
+      "author": "DavdioN",
+      "genre": "Adventure",
+      "blurb": "A first-person anomaly horror game set aboard a mysterious aircraft. where you have to find what is strange.",
+      "sale_url": "https://itch.io/s/214281/halloween-sale-2026",
+      "expires": "2026-11-02T18:00:00.000Z",
+      "expires_raw": "2026-11-02T18:00:00Z"
+    },
     {
       "id": "5263487",
       "title": "Baba",
@@ -81,7 +93,7 @@
       "id": "4393279",
       "title": "Snowpine Strangers: FREE DEMO",
       "url": "https://fenixapple.itch.io/snowpine-strangers-demo",
-      "image": "https://img.itch.zone/aW1nLzMwMDc2MjEzLnBuZw==/315x250%23c/XxL7is.png",
+      "image": "https://img.itch.zone/aW1nLzMxNTg2MTgzLnBuZw==/315x250%23c/1CvyIy.png",
       "author": "Fenixapple",
       "genre": "Simulation",
       "blurb": "Matt was called in for one more haul. Will he make it back?",
@@ -306,6 +318,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "5215741",
+      "title": "Racing Legend",
+      "url": "https://superhasanali.itch.io/racinglegend",
+      "image": "https://img.itch.zone/aW1nLzMxMjU2Nzc2LnBuZw==/315x250%23c/gmkMmG.png",
+      "author": "SuperHasanAli",
+      "genre": null,
+      "blurb": "Speed & Arcade Focus (Best for fast racing or drifting)",
+      "sale_url": "https://itch.io/s/214325/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
       "id": "5210713",
       "title": "Project Wild Weasel",
       "url": "https://kevinpandya953.itch.io/project-wild-weasel",
@@ -316,18 +340,6 @@
       "sale_url": "https://itch.io/s/213923/halloween-sale-project-wild-weasel",
       "expires": "2026-11-12T18:02:00.000Z",
       "expires_raw": "2026-11-12T18:02:00Z"
-    },
-    {
-      "id": "5212102",
-      "title": "AeroAge",
-      "url": "https://momoawa0702.itch.io/aeroage",
-      "image": "https://img.itch.zone/aW1nLzMxMjMxOTM2LnBuZw==/315x250%23c/tR%2FVcE.png",
-      "author": "momoawa0702",
-      "genre": "Simulation",
-      "blurb": "Build your own airline, connect cities worldwide in a dynamic aviation market.",
-      "sale_url": "https://itch.io/s/208914/aeroage-24-hour-free-early-access-giveaway",
-      "expires": "2026-10-30T17:00:00.000Z",
-      "expires_raw": "2026-10-30T17:00:00Z"
     },
     {
       "id": "5211274",
@@ -420,7 +432,7 @@
       "image": "https://img.itch.zone/aW1nLzMxMjk2Njk3LmdpZg==/315x250%23c/GHpJK%2F.gif",
       "author": "Vinil",
       "genre": "Survival",
-      "blurb": "\"When survival becomes the law\".",
+      "blurb": "When survival comes at the cost of humanity.",
       "sale_url": "https://itch.io/s/214252/flash-sale",
       "expires": "2026-11-07T13:30:00.000Z",
       "expires_raw": "2026-11-07T13:30:00Z"
@@ -676,30 +688,6 @@
       "sale_url": "https://itch.io/s/211244/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5163062",
-      "title": "Texas Hold'em Cat Tavern",
-      "url": "https://stevenchow.itch.io/texas-cat-tavern",
-      "image": "https://img.itch.zone/aW1nLzMwOTE4MjUyLnBuZw==/315x250%23c/AmCIn8.png",
-      "author": "stevenchow",
-      "genre": "Strategy",
-      "blurb": "Play Texas Hold'em by day, mix cocktails by night—run your own cozy cat tavern.",
-      "sale_url": "https://itch.io/s/205229/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5162210",
-      "title": "Hollow Chess",
-      "url": "https://twindark.itch.io/hollow-chess",
-      "image": "https://img.itch.zone/aW1nLzMwOTA5NzYwLmpwZw==/315x250%23c/TlWLIa.jpg",
-      "author": "Twindark",
-      "genre": "Strategy",
-      "blurb": "Chess, but every piece has a power. Lead the last King, fuse your legends, break the board.",
-      "sale_url": "https://itch.io/s/210471/hollowchess-halloween-sale-2026",
-      "expires": "2026-11-01T18:00:00.000Z",
-      "expires_raw": "2026-11-01T18:00:00Z"
     }
   ]
 }

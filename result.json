@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-30T00:54:45.014Z",
+  "scraped_at": "2026-10-30T06:44:03.385Z",
   "pages_scraped": 25,
   "total_found": 53,
   "stopped_reason": "max_pages_reached",
@@ -124,6 +124,18 @@
       "sale_url": "https://itch.io/s/213829/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5142929",
+      "title": "Tekkk[Prototype]",
+      "url": "https://abc3dz.itch.io/tekkk",
+      "image": "https://img.itch.zone/aW1nLzMwNzg1MDcwLnBuZw==/315x250%23c/Zd2wSB.png",
+      "author": "ABC3Dz",
+      "genre": "Action",
+      "blurb": "A 3D Action-Adventure. No weapons. Just fists, combos, and elemental mastery.",
+      "sale_url": "https://itch.io/s/214123/lets-play",
+      "expires": "2026-11-07T04:05:00.000Z",
+      "expires_raw": "2026-11-07T04:05:00Z"
     },
     {
       "id": "5234555",
@@ -484,18 +496,6 @@
       "sale_url": "https://itch.io/s/207720/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5169400",
-      "title": "Family Manners",
-      "url": "https://nney.itch.io/family-manners",
-      "image": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
-      "author": "Ney",
-      "genre": "Adventure",
-      "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
-      "sale_url": "https://itch.io/s/211189/family-manners",
-      "expires": "2026-10-30T01:44:00.000Z",
-      "expires_raw": "2026-10-30T01:44:00Z"
     },
     {
       "id": "5181022",

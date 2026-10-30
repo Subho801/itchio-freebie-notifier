@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-30T18:52:59.829Z",
+  "scraped_at": "2026-10-30T22:44:59.018Z",
   "pages_scraped": 25,
-  "total_found": 57,
+  "total_found": 59,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -148,6 +148,18 @@
       "sale_url": "https://itch.io/s/210991/halloween-sale",
       "expires": "2026-11-01T02:58:00.000Z",
       "expires_raw": "2026-11-01T02:58:00Z"
+    },
+    {
+      "id": "5239903",
+      "title": "Astral Jack: Night of the Cosmic Relics Commodore 64",
+      "url": "https://tansoft.itch.io/astral-jack-night-of-the-cosmic-relics",
+      "image": "https://img.itch.zone/aW1nLzMxNDE0ODIxLnBuZw==/315x250%23c/fwYqUz.png",
+      "author": "Tansoft",
+      "genre": "Action",
+      "blurb": ": A moonlit arcade platformer for the real Commodore 64 – jump, float, collect.",
+      "sale_url": "https://itch.io/s/214431/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5142929",
@@ -520,6 +532,18 @@
       "sale_url": "https://itch.io/s/207720/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5169400",
+      "title": "Family Manners",
+      "url": "https://nney.itch.io/family-manners",
+      "image": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
+      "author": "Ney",
+      "genre": "Adventure",
+      "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
+      "sale_url": "https://itch.io/s/214377/family-manners",
+      "expires": "2026-11-06T21:12:00.000Z",
+      "expires_raw": "2026-11-06T21:12:00Z"
     },
     {
       "id": "5181022",

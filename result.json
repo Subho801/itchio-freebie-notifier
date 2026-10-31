@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-31T13:59:47.633Z",
+  "scraped_at": "2026-10-31T18:10:17.828Z",
   "pages_scraped": 25,
   "total_found": 65,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5251999",
+      "title": "Slasher Circus",
+      "url": "https://redwolfstudios-deg.itch.io/slasher-circus",
+      "image": "https://img.itch.zone/aW1nLzMxNjIwODU4LnBuZw==/315x250%23c/o%2F2k4O.png",
+      "author": "Redwolf Studios.",
+      "genre": "Adventure",
+      "blurb": "Circus themed PSX horror game about a boy who takes a step to find his presumed 'dead' father.",
+      "sale_url": "https://itch.io/s/214713/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
     {
       "id": "5269356",
       "title": "CaseOh’s House",
@@ -28,6 +40,30 @@
       "sale_url": "https://itch.io/s/214556/free-for-the-first-24-hours",
       "expires": "2026-11-01T06:43:00.000Z",
       "expires_raw": "2026-11-01T06:43:00Z"
+    },
+    {
+      "id": "5245193",
+      "title": "UNAWEKE",
+      "url": "https://play-at-work.itch.io/unaweke",
+      "image": "https://img.itch.zone/aW1nLzMxNDQ5NzM3LnBuZw==/315x250%23c/MlzsdD.png",
+      "author": "Play at work",
+      "genre": null,
+      "blurb": "The school is silent. Something is watching. And you are not alone.",
+      "sale_url": "https://itch.io/s/214743/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5267689",
+      "title": "Requiem Station",
+      "url": "https://batpan-games.itch.io/requiem-station",
+      "image": "https://img.itch.zone/aW1nLzMxNTk5MDI2LnBuZw==/315x250%23c/C3XUQi.png",
+      "author": "BATPAN GAMES",
+      "genre": "Adventure",
+      "blurb": "This Station Wasn't Supposed to Exist...",
+      "sale_url": "https://itch.io/s/214729/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5264792",
@@ -162,6 +198,18 @@
       "expires_raw": "2026-11-03T20:00:00Z"
     },
     {
+      "id": "5245174",
+      "title": "Wreck Club",
+      "url": "https://enmanuel-gutierrez.itch.io/wreck-club",
+      "image": "https://img.itch.zone/aW1nLzMxNDUwMDQxLnBuZw==/315x250%23c/Ft%2BBrz.png",
+      "author": "Jungle Pixel Studio",
+      "genre": "Strategy",
+      "blurb": "Plan the blast. Chain the collapse. Break the bank! A physics demolition roguelite.",
+      "sale_url": "https://itch.io/s/214746/halloween-sale-2026",
+      "expires": "2026-11-04T17:42:00.000Z",
+      "expires_raw": "2026-11-04T17:42:00Z"
+    },
+    {
       "id": "5242954",
       "title": "Brickstellar",
       "url": "https://pixalab.itch.io/brickstellar",
@@ -206,8 +254,8 @@
       "genre": "Simulation",
       "blurb": "Atmospheric reentry simulator. Manage critical heat, dynamic pressure & G-forces. It's survival",
       "sale_url": "https://itch.io/s/210991/halloween-sale",
-      "expires": "2026-11-01T02:58:00.000Z",
-      "expires_raw": "2026-11-01T02:58:00Z"
+      "expires": "2026-11-07T02:58:00.000Z",
+      "expires_raw": "2026-11-07T02:58:00Z"
     },
     {
       "id": "5239903",
@@ -220,18 +268,6 @@
       "sale_url": "https://itch.io/s/214431/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5239419",
-      "title": "Lost in the woods 2",
-      "url": "https://vrexvl.itch.io/lostinthewoods2",
-      "image": "https://img.itch.zone/aW1nLzMxNDExNDc4LmpwZw==/315x250%23c/f1j%2F6e.jpg",
-      "author": "VrexVL",
-      "genre": null,
-      "blurb": null,
-      "sale_url": "https://itch.io/s/214621/a-gift-from-vrexvl",
-      "expires": "2026-10-31T16:25:00.000Z",
-      "expires_raw": "2026-10-31T16:25:00Z"
     },
     {
       "id": "5142929",
@@ -366,18 +402,6 @@
       "expires_raw": "2026-11-08T17:27:00Z"
     },
     {
-      "id": "5211821",
-      "title": "ABSOLUTELY NOTHING GOOD",
-      "url": "https://emika-games.itch.io/absolutely-nothing-good",
-      "image": "https://img.itch.zone/aW1nLzMxMjYxMDY1LnBuZw==/315x250%23c/l6plpw.png",
-      "author": "EMIKA_GAMES",
-      "genre": "Adventure",
-      "blurb": "Atmospheric Horror / Store Simulation",
-      "sale_url": "https://itch.io/s/209065/absolutely-nothing-good",
-      "expires": "2026-10-31T20:04:00.000Z",
-      "expires_raw": "2026-10-31T20:04:00Z"
-    },
-    {
       "id": "5215623",
       "title": "Apricot Garden Mahjong",
       "url": "https://apricotgarden.itch.io/mahjong",
@@ -409,7 +433,7 @@
       "author": "VirtualSat Studio",
       "genre": "Platformer",
       "blurb": "A mind-bending computer adventure filled with terminals, glitches, and a possible love story...",
-      "sale_url": "https://itch.io/s/210904/halloween-sale-2026",
+      "sale_url": "https://itch.io/s/214720/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -484,18 +508,6 @@
       "sale_url": "https://itch.io/s/209853/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5196465",
-      "title": "Mind the Clown: Reborn (Demo)",
-      "url": "https://coastcitygames.itch.io/mind-the-clown-reborn",
-      "image": "https://img.itch.zone/aW1nLzMxMTI4MDExLnBuZw==/315x250%23c/sWuC1Y.png",
-      "author": "Coast City Games",
-      "genre": "Adventure",
-      "blurb": "Survive a cursed circus twisted by childhood memories.",
-      "sale_url": "https://itch.io/s/207598/flash-sale",
-      "expires": "2026-10-31T15:39:00.000Z",
-      "expires_raw": "2026-10-31T15:39:00Z"
     },
     {
       "id": "5094265",
@@ -640,18 +652,6 @@
       "sale_url": "https://itch.io/s/208291/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5177290",
-      "title": "Last Lantern",
-      "url": "https://whitewolflgd.itch.io/last-lantern",
-      "image": "https://img.itch.zone/aW1nLzMxMDAzNjcyLnBuZw==/315x250%23c/9vVejE.png",
-      "author": "WhiteWolfLGD",
-      "genre": "Simulation",
-      "blurb": "first-person horror game roadside business where every night is a fight for survival.",
-      "sale_url": "https://itch.io/s/206724/halloween-sale-2026",
-      "expires": "2026-11-04T21:59:00.000Z",
-      "expires_raw": "2026-11-04T21:59:00Z"
     },
     {
       "id": "3697219",

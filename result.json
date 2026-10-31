@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-31T18:10:17.828Z",
+  "scraped_at": "2026-10-31T21:31:20.609Z",
   "pages_scraped": 25,
   "total_found": 65,
   "stopped_reason": "max_pages_reached",
@@ -189,7 +189,7 @@
       "id": "5246100",
       "title": "30 Coins: The Consequences",
       "url": "https://alimsmgfan.itch.io/30-coins-the-concequences",
-      "image": "https://img.itch.zone/aW1nLzMxNDU5NDc1LnBuZw==/315x250%23c/O1YD5a.png",
+      "image": "https://img.itch.zone/aW1nLzMxNjQ1MjY1LnBuZw==/315x250%23c/0Y0SkP.png",
       "author": "alimsmgfan",
       "genre": "Adventure",
       "blurb": "A short psychological horror about blood money, and the freezing cold.",
@@ -426,6 +426,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "5210713",
+      "title": "Project Wild Weasel",
+      "url": "https://kevinpandya953.itch.io/project-wild-weasel",
+      "image": "https://img.itch.zone/aW1nLzMxMjIxNzMyLnBuZw==/315x250%23c/ya8i0a.png",
+      "author": "Kevinpandya953",
+      "genre": "Fighting",
+      "blurb": "A combat flight sim over real Caucasus terrain: SEAD, strike and CAP in the F-16, F-15, F/A-18 and A-10.",
+      "sale_url": "https://itch.io/s/213923/halloween-sale-project-wild-weasel",
+      "expires": "2026-11-12T18:02:00.000Z",
+      "expires_raw": "2026-11-12T18:02:00Z"
+    },
+    {
       "id": "5211274",
       "title": "Terminal: The Brain Founding",
       "url": "https://virtualsat-studio.itch.io/terminal-the-brain-founding",
@@ -510,6 +522,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "5196465",
+      "title": "Mind the Clown: Reborn (Demo)",
+      "url": "https://coastcitygames.itch.io/mind-the-clown-reborn",
+      "image": "https://img.itch.zone/aW1nLzMxMTI4MDExLnBuZw==/315x250%23c/sWuC1Y.png",
+      "author": "Coast City Games",
+      "genre": "Adventure",
+      "blurb": "Survive a cursed circus twisted by childhood memories.",
+      "sale_url": "https://itch.io/s/214807/flash-sale",
+      "expires": "2026-11-05T20:56:00.000Z",
+      "expires_raw": "2026-11-05T20:56:00Z"
+    },
+    {
       "id": "5094265",
       "title": "Trox The Reversal (Demo)",
       "url": "https://troj4nblazing.itch.io/trox-the-reversal",
@@ -520,18 +544,6 @@
       "sale_url": "https://itch.io/s/214252/flash-sale",
       "expires": "2026-11-07T13:30:00.000Z",
       "expires_raw": "2026-11-07T13:30:00Z"
-    },
-    {
-      "id": "4685877",
-      "title": "The Green Light",
-      "url": "https://waleedzo.itch.io/the-green-light",
-      "image": "https://img.itch.zone/aW1nLzI3OTI1MjMwLnBuZw==/315x250%23c/9OPXob.png",
-      "author": "waleedzo",
-      "genre": "Adventure",
-      "blurb": "A first-person horror game. Trapped in a dead-end job, Fred follows a voice promising peace through a green light.",
-      "sale_url": "https://itch.io/s/206340/-free-for-7-days",
-      "expires": "2026-10-31T20:55:00.000Z",
-      "expires_raw": "2026-10-31T20:55:00Z"
     },
     {
       "id": "5190995",
@@ -772,18 +784,6 @@
       "sale_url": "https://itch.io/s/205808/knock-knock-rubys-halloween-discount",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5165087",
-      "title": "Lights On My Screen",
-      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
-      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
-      "author": "Sleeper Vision",
-      "genre": "Role Playing",
-      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
-      "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
-      "expires": "2026-11-05T21:00:00.000Z",
-      "expires_raw": "2026-11-05T21:00:00Z"
     }
   ]
 }

@@ -1,10 +1,34 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-31T01:56:18.065Z",
+  "scraped_at": "2026-10-31T07:53:32.499Z",
   "pages_scraped": 25,
   "total_found": 61,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5269356",
+      "title": "CaseOh’s House",
+      "url": "https://ji10-games.itch.io/caseohs-house",
+      "image": "https://img.itch.zone/aW1nLzMxNjA5NjA3LnBuZw==/315x250%23c/5QjROS.png",
+      "author": "Ji+10 Studios",
+      "genre": "Survival",
+      "blurb": "Trapped in CaseOh's house. Find the items, open all 4 locks, and escape before he catches you.",
+      "sale_url": "https://itch.io/s/214541/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5269216",
+      "title": "Outlaw Empire",
+      "url": "https://flukiegames.itch.io/outlaw-empire",
+      "image": "https://img.itch.zone/aW1nLzMxNjA4NzkxLnBuZw==/315x250%23c/XWAOS1.png",
+      "author": "FlukieGames",
+      "genre": null,
+      "blurb": "Build your empire, conquer the streets and rise to power in Crown City.",
+      "sale_url": "https://itch.io/s/214556/free-for-the-first-24-hours",
+      "expires": "2026-11-01T06:43:00.000Z",
+      "expires_raw": "2026-11-01T06:43:00Z"
+    },
     {
       "id": "5264792",
       "title": "PlanomallyA7",
@@ -100,6 +124,18 @@
       "sale_url": "https://itch.io/s/208383/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5249441",
+      "title": "NeonTD: Hold the Grid",
+      "url": "https://hoehnheim.itch.io/neontd-hold-the-grid",
+      "image": "https://img.itch.zone/aW1nLzMxNDc2NTI5LnBuZw==/315x250%23c/IPoBL%2F.png",
+      "author": "Hoehnheim Studios",
+      "genre": "Strategy",
+      "blurb": "Hold the grid against waves of neon Glitches. A tower defense about shields, armor and the right tower for the job.",
+      "sale_url": "https://itch.io/s/214528/halloween-sale-2026",
+      "expires": "2026-11-05T05:59:00.000Z",
+      "expires_raw": "2026-11-05T05:59:00Z"
     },
     {
       "id": "5246100",
@@ -232,18 +268,6 @@
       "sale_url": "https://itch.io/s/213742/halloween-sale-",
       "expires": "2026-11-10T22:59:00.000Z",
       "expires_raw": "2026-11-10T22:59:00Z"
-    },
-    {
-      "id": "5229662",
-      "title": "Gridline GP",
-      "url": "https://crokedpixel.itch.io/gridline-gp",
-      "image": "https://img.itch.zone/aW1nLzMxMzQ2NDI3LnBuZw==/315x250%23c/OhyJVH.png",
-      "author": "crokedpixel",
-      "genre": "Racing",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/210779/halloween-sale-2026",
-      "expires": "2026-10-31T04:00:00.000Z",
-      "expires_raw": "2026-10-31T04:00:00Z"
     },
     {
       "id": "5213126",
@@ -712,30 +736,6 @@
       "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
       "expires": "2026-11-05T21:00:00.000Z",
       "expires_raw": "2026-11-05T21:00:00Z"
-    },
-    {
-      "id": "5135282",
-      "title": "Ballot or Barracks",
-      "url": "https://tkngamesoffical.itch.io/ballot-or-barracks",
-      "image": "https://img.itch.zone/aW1nLzMxMTg4Mzg3LmpwZw==/315x250%23c/1hbC8W.jpg",
-      "author": "TKNGAMES",
-      "genre": "Strategy",
-      "blurb": "Win the vote. Or take the state.",
-      "sale_url": "https://itch.io/s/210878/olaanst-hal-ndirimi-emergency-decree-sale",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5046861",
-      "title": "Space_Shooter_2D",
-      "url": "https://vishnu-jha.itch.io/space-shooter-2d",
-      "image": "https://img.itch.zone/aW1nLzMwMjE2OTczLmpwZWc=/315x250%23c/m2%2BPrg.jpeg",
-      "author": "vishnu_Jha",
-      "genre": "Action",
-      "blurb": "Its a @D Game Where You Shoot Space Entity",
-      "sale_url": "https://itch.io/s/211244/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
     }
   ]
 }

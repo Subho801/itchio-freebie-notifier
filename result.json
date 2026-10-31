@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-31T07:53:32.499Z",
+  "scraped_at": "2026-10-31T13:59:47.633Z",
   "pages_scraped": 25,
-  "total_found": 61,
+  "total_found": 65,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -98,6 +98,18 @@
       "genre": "Simulation",
       "blurb": null,
       "sale_url": "https://itch.io/s/213983/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5254117",
+      "title": "Mythical Marchen Saga: Tournament One",
+      "url": "https://kozarto.itch.io/mythical-marchen-saga-tournament-one",
+      "image": "https://img.itch.zone/aW1nLzMxNTA3NTEyLnBuZw==/315x250%23c/VDfT2w.png",
+      "author": "DRS",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/205081/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -210,6 +222,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "5239419",
+      "title": "Lost in the woods 2",
+      "url": "https://vrexvl.itch.io/lostinthewoods2",
+      "image": "https://img.itch.zone/aW1nLzMxNDExNDc4LmpwZw==/315x250%23c/f1j%2F6e.jpg",
+      "author": "VrexVL",
+      "genre": null,
+      "blurb": null,
+      "sale_url": "https://itch.io/s/214621/a-gift-from-vrexvl",
+      "expires": "2026-10-31T16:25:00.000Z",
+      "expires_raw": "2026-10-31T16:25:00Z"
+    },
+    {
       "id": "5142929",
       "title": "Tekkk[Prototype]",
       "url": "https://abc3dz.itch.io/tekkk",
@@ -282,18 +306,6 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "5224011",
-      "title": "Late Order",
-      "url": "https://glodory-studio.itch.io/late-night",
-      "image": "https://img.itch.zone/aW1nLzMxNDk4NzgzLnBuZw==/315x250%23c/UYcnp7.png",
-      "author": "RyzexGames",
-      "genre": "Simulation",
-      "blurb": "Night shifts at a small-town pizza place, a girl nobody has seen in three weeks, and an order nobody placed.",
-      "sale_url": "https://itch.io/s/206008/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
       "id": "5215984",
       "title": "Zombie Lost Memories",
       "url": "https://abattikhi.itch.io/zombie-lost-memories",
@@ -354,6 +366,18 @@
       "expires_raw": "2026-11-08T17:27:00Z"
     },
     {
+      "id": "5211821",
+      "title": "ABSOLUTELY NOTHING GOOD",
+      "url": "https://emika-games.itch.io/absolutely-nothing-good",
+      "image": "https://img.itch.zone/aW1nLzMxMjYxMDY1LnBuZw==/315x250%23c/l6plpw.png",
+      "author": "EMIKA_GAMES",
+      "genre": "Adventure",
+      "blurb": "Atmospheric Horror / Store Simulation",
+      "sale_url": "https://itch.io/s/209065/absolutely-nothing-good",
+      "expires": "2026-10-31T20:04:00.000Z",
+      "expires_raw": "2026-10-31T20:04:00Z"
+    },
+    {
       "id": "5215623",
       "title": "Apricot Garden Mahjong",
       "url": "https://apricotgarden.itch.io/mahjong",
@@ -378,18 +402,6 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "5210713",
-      "title": "Project Wild Weasel",
-      "url": "https://kevinpandya953.itch.io/project-wild-weasel",
-      "image": "https://img.itch.zone/aW1nLzMxMjIxNzMyLnBuZw==/315x250%23c/ya8i0a.png",
-      "author": "Kevinpandya953",
-      "genre": "Fighting",
-      "blurb": "A combat flight sim over real Caucasus terrain: SEAD, strike and CAP in the F-16, F-15, F/A-18 and A-10.",
-      "sale_url": "https://itch.io/s/213923/halloween-sale-project-wild-weasel",
-      "expires": "2026-11-12T18:02:00.000Z",
-      "expires_raw": "2026-11-12T18:02:00Z"
-    },
-    {
       "id": "5211274",
       "title": "Terminal: The Brain Founding",
       "url": "https://virtualsat-studio.itch.io/terminal-the-brain-founding",
@@ -398,6 +410,18 @@
       "genre": "Platformer",
       "blurb": "A mind-bending computer adventure filled with terminals, glitches, and a possible love story...",
       "sale_url": "https://itch.io/s/210904/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5210530",
+      "title": "Tactics of Reverie",
+      "url": "https://kozarto.itch.io/tactics-of-reverie",
+      "image": "https://img.itch.zone/aW1nLzMxMjczMzc2LnBuZw==/315x250%23c/SZ06U4.png",
+      "author": "DRS",
+      "genre": "Strategy",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/205081/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -702,6 +726,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "5148899",
+      "title": "Star Reverie (2026)",
+      "url": "https://kozarto.itch.io/star-reverie-ii",
+      "image": "https://img.itch.zone/aW1nLzMxMDUwNzUwLmpwZWc=/315x250%23c/qmTFy2.jpeg",
+      "author": "DRS",
+      "genre": "Role Playing",
+      "blurb": "It's back.",
+      "sale_url": "https://itch.io/s/205081/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
       "id": "4926344",
       "title": "Blood Bond Bound: Grudges Past",
       "url": "https://anethicalcannibal.itch.io/blood-bond-bound-grudges-past",
@@ -712,6 +748,18 @@
       "sale_url": "https://itch.io/s/209588/bx3-halloween-sale-2026",
       "expires": "2026-11-04T21:00:00.000Z",
       "expires_raw": "2026-11-04T21:00:00Z"
+    },
+    {
+      "id": "5135178",
+      "title": "DONT LEAVE — CHAPTER 1 THE SEVEN BEARS",
+      "url": "https://abmanstudio.itch.io/dont-leave-chapter-1-the-seven-bears",
+      "image": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png",
+      "author": "ABMANSTUDIO",
+      "genre": "Puzzle",
+      "blurb": "Explore a haunting maze, read the messages left behind, and uncover a truth better left hidden.",
+      "sale_url": "https://itch.io/s/198573/support-dont-leave-",
+      "expires": "2026-11-30T12:54:00.000Z",
+      "expires_raw": "2026-11-30T12:54:00Z"
     },
     {
       "id": "5160338",

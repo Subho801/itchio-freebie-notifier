@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-10-30T22:44:59.018Z",
+  "scraped_at": "2026-10-31T01:56:18.065Z",
   "pages_scraped": 25,
-  "total_found": 59,
+  "total_found": 61,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -112,6 +112,18 @@
       "sale_url": "https://itch.io/s/212038/halloween-sale-2026",
       "expires": "2026-11-03T20:00:00.000Z",
       "expires_raw": "2026-11-03T20:00:00Z"
+    },
+    {
+      "id": "5242954",
+      "title": "Brickstellar",
+      "url": "https://pixalab.itch.io/brickstellar",
+      "image": "https://img.itch.zone/aW1nLzMxNDM0MTQzLnBuZw==/315x250%23c/UD3K6p.png",
+      "author": "Tim Lai",
+      "genre": "Action",
+      "blurb": "Fly a gun ship paddle through 120 levels of shaped, moving bricks, beat a boss in every world",
+      "sale_url": "https://itch.io/s/212563/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5242140",
@@ -518,6 +530,18 @@
       "genre": "Strategy",
       "blurb": "A horror twist on the classic Guess Who deduction game",
       "sale_url": "https://itch.io/s/206925/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5181674",
+      "title": "The Murder Mass",
+      "url": "https://ansomnia.itch.io/the-murder-mass",
+      "image": "https://img.itch.zone/aW1nLzMxMDMyNjcyLnBuZw==/315x250%23c/u5E11l.png",
+      "author": "ansomnia",
+      "genre": "Visual Novel",
+      "blurb": "You're an eternity too late...",
+      "sale_url": "https://itch.io/s/214488/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },

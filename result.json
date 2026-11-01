@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-01T00:20:23.391Z",
+  "scraped_at": "2026-11-01T06:17:31.117Z",
   "pages_scraped": 25,
-  "total_found": 65,
+  "total_found": 63,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -134,18 +134,6 @@
       "genre": "Simulation",
       "blurb": null,
       "sale_url": "https://itch.io/s/213983/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5254117",
-      "title": "Mythical Marchen Saga: Tournament One",
-      "url": "https://kozarto.itch.io/mythical-marchen-saga-tournament-one",
-      "image": "https://img.itch.zone/aW1nLzMxNTA3NTEyLnBuZw==/315x250%23c/VDfT2w.png",
-      "author": "DRS",
-      "genre": "Adventure",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/205081/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -450,18 +438,6 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "5210530",
-      "title": "Tactics of Reverie",
-      "url": "https://kozarto.itch.io/tactics-of-reverie",
-      "image": "https://img.itch.zone/aW1nLzMxMjczMzc2LnBuZw==/315x250%23c/SZ06U4.png",
-      "author": "DRS",
-      "genre": "Strategy",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/205081/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
       "id": "5206497",
       "title": "PROJECT GARGANTUA",
       "url": "https://hobakbagames.itch.io/projectgargantua",
@@ -494,8 +470,20 @@
       "genre": "Shooter",
       "blurb": "The Ultimate Halloween FPS",
       "sale_url": "https://itch.io/s/208170/a-cosmic-raycast-halloween",
-      "expires": "2026-11-03T06:00:00.000Z",
-      "expires_raw": "2026-11-03T06:00:00Z"
+      "expires": "2026-11-05T06:00:00.000Z",
+      "expires_raw": "2026-11-05T06:00:00Z"
+    },
+    {
+      "id": "5173968",
+      "title": "HorriFied: Survive the Night!",
+      "url": "https://dentist-games.itch.io/horrified-survive-the-night",
+      "image": "https://img.itch.zone/aW1nLzMxMDIwNDI4LnBuZw==/315x250%23c/JsabyN.png",
+      "author": "DentistGames",
+      "genre": "Survival",
+      "blurb": "Rely on your sarcastic computer to prepare. A retro horror game where choices decide if you survive the night..",
+      "sale_url": "https://itch.io/s/208764/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5196213",
@@ -556,18 +544,6 @@
       "sale_url": "https://itch.io/s/212582/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5190868",
-      "title": "Spirit Box",
-      "url": "https://tattershallstudios.itch.io/spirit-box",
-      "image": "https://img.itch.zone/aW1nLzMxMDkwODI0LnBuZw==/315x250%23c/oPR2x7.png",
-      "author": "Tattershall Studios",
-      "genre": "Interactive Fiction",
-      "blurb": "A radio for the dead. Type anything; the ghosts answer, out loud, from an AI running on your own computer.",
-      "sale_url": "https://itch.io/s/207246/spirit-box-is-free-until-november-1",
-      "expires": "2026-11-01T05:00:00.000Z",
-      "expires_raw": "2026-11-01T05:00:00Z"
     },
     {
       "id": "5190471",
@@ -738,18 +714,6 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "5148899",
-      "title": "Star Reverie (2026)",
-      "url": "https://kozarto.itch.io/star-reverie-ii",
-      "image": "https://img.itch.zone/aW1nLzMxMDUwNzUwLmpwZWc=/315x250%23c/qmTFy2.jpeg",
-      "author": "DRS",
-      "genre": "Role Playing",
-      "blurb": "It's back.",
-      "sale_url": "https://itch.io/s/205081/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
       "id": "4926344",
       "title": "Blood Bond Bound: Grudges Past",
       "url": "https://anethicalcannibal.itch.io/blood-bond-bound-grudges-past",
@@ -784,6 +748,18 @@
       "sale_url": "https://itch.io/s/205808/knock-knock-rubys-halloween-discount",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5165087",
+      "title": "Lights On My Screen",
+      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
+      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
+      "author": "Sleeper Vision",
+      "genre": "Role Playing",
+      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
+      "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
+      "expires": "2026-11-05T21:00:00.000Z",
+      "expires_raw": "2026-11-05T21:00:00Z"
     }
   ]
 }

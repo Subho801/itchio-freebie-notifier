@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-01T06:17:31.117Z",
+  "scraped_at": "2026-11-01T13:34:20.997Z",
   "pages_scraped": 25,
   "total_found": 63,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5278975",
+      "title": "CREAK",
+      "url": "https://ji10-games.itch.io/creak",
+      "image": "https://img.itch.zone/aW1nLzMxNjc1MjU2LnBuZw==/315x250%23c/O6XBeM.png",
+      "author": "Ji+10 Studios",
+      "genre": "Survival",
+      "blurb": "Something is opening your doors and windows. Close them all before it gets in.",
+      "sale_url": "https://itch.io/s/215013/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
     {
       "id": "5251999",
       "title": "Slasher Circus",
@@ -30,18 +42,6 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "5269216",
-      "title": "Outlaw Empire",
-      "url": "https://flukiegames.itch.io/outlaw-empire",
-      "image": "https://img.itch.zone/aW1nLzMxNjA4NzkxLnBuZw==/315x250%23c/XWAOS1.png",
-      "author": "FlukieGames",
-      "genre": null,
-      "blurb": "Build your empire, conquer the streets and rise to power in Crown City.",
-      "sale_url": "https://itch.io/s/214556/free-for-the-first-24-hours",
-      "expires": "2026-11-01T06:43:00.000Z",
-      "expires_raw": "2026-11-01T06:43:00Z"
-    },
-    {
       "id": "5245193",
       "title": "UNAWEKE",
       "url": "https://play-at-work.itch.io/unaweke",
@@ -62,6 +62,18 @@
       "genre": "Adventure",
       "blurb": "This Station Wasn't Supposed to Exist...",
       "sale_url": "https://itch.io/s/214729/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5089722",
+      "title": "Destroy an AI Datacenter: The Game",
+      "url": "https://that-lemon-dev.itch.io/destroyanaidatacenter",
+      "image": "https://img.itch.zone/aW1nLzMxNDc1NTQ0LnBuZw==/315x250%23c/TSB3VW.png",
+      "author": "LemonDev",
+      "genre": null,
+      "blurb": "Yep, destroy an A.I data-center manually, server by server.",
+      "sale_url": "https://itch.io/s/214986/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -97,7 +109,7 @@
       "author": "vishnu_Jha",
       "genre": "Racing",
       "blurb": null,
-      "sale_url": "https://itch.io/s/214148/halloween-sale-2026",
+      "sale_url": "https://itch.io/s/214982/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -748,18 +760,6 @@
       "sale_url": "https://itch.io/s/205808/knock-knock-rubys-halloween-discount",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5165087",
-      "title": "Lights On My Screen",
-      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
-      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
-      "author": "Sleeper Vision",
-      "genre": "Role Playing",
-      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
-      "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
-      "expires": "2026-11-05T21:00:00.000Z",
-      "expires_raw": "2026-11-05T21:00:00Z"
     }
   ]
 }

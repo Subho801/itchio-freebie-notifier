@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-01T13:34:20.997Z",
+  "scraped_at": "2026-11-01T18:34:24.286Z",
   "pages_scraped": 25,
-  "total_found": 63,
+  "total_found": 62,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -26,18 +26,6 @@
       "genre": "Adventure",
       "blurb": "Circus themed PSX horror game about a boy who takes a step to find his presumed 'dead' father.",
       "sale_url": "https://itch.io/s/214713/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5269356",
-      "title": "CaseOh’s House",
-      "url": "https://ji10-games.itch.io/caseohs-house",
-      "image": "https://img.itch.zone/aW1nLzMxNjA5NjA3LnBuZw==/315x250%23c/5QjROS.png",
-      "author": "Ji+10 Studios",
-      "genre": "Survival",
-      "blurb": "Trapped in CaseOh's house. Find the items, open all 4 locks, and escape before he catches you.",
-      "sale_url": "https://itch.io/s/214541/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -220,18 +208,6 @@
       "sale_url": "https://itch.io/s/212563/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5242140",
-      "title": "Timeboxd",
-      "url": "https://fenetix.itch.io/timeboxd",
-      "image": "https://img.itch.zone/aW1nLzMxNDI5MDg3LnBuZw==/315x250%23c/z5AXNj.png",
-      "author": "Fenetix",
-      "genre": "Fighting",
-      "blurb": "boxd",
-      "sale_url": "https://itch.io/s/212842/halloween-sale-2026",
-      "expires": "2026-11-01T18:00:00.000Z",
-      "expires_raw": "2026-11-01T18:00:00Z"
     },
     {
       "id": "5241412",
@@ -558,18 +534,6 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "5190471",
-      "title": "One Always Lives",
-      "url": "https://powensjr.itch.io/one-always-lives",
-      "image": "https://img.itch.zone/aW1nLzMxMDg4MTgwLnBuZw==/315x250%23c/JaSLgo.png",
-      "author": "Powensjr",
-      "genre": "Survival",
-      "blurb": "Six kids. One house. It only takes five.",
-      "sale_url": "https://itch.io/s/210321/halloween-free-week",
-      "expires": "2026-11-01T14:59:00.000Z",
-      "expires_raw": "2026-11-01T14:59:00Z"
-    },
-    {
       "id": "5129245",
       "title": "Galaxy Nebula",
       "url": "https://comix-studios.itch.io/galaxy-nebula",
@@ -652,6 +616,18 @@
       "sale_url": "https://itch.io/s/208291/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5177290",
+      "title": "Last Lantern",
+      "url": "https://whitewolflgd.itch.io/last-lantern",
+      "image": "https://img.itch.zone/aW1nLzMxMDAzNjcyLnBuZw==/315x250%23c/9vVejE.png",
+      "author": "WhiteWolfLGD",
+      "genre": "Simulation",
+      "blurb": "first-person horror game roadside business where every night is a fight for survival.",
+      "sale_url": "https://itch.io/s/206724/halloween-sale-2026",
+      "expires": "2026-11-04T21:59:00.000Z",
+      "expires_raw": "2026-11-04T21:59:00Z"
     },
     {
       "id": "3697219",
@@ -760,6 +736,18 @@
       "sale_url": "https://itch.io/s/205808/knock-knock-rubys-halloween-discount",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5165087",
+      "title": "Lights On My Screen",
+      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
+      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
+      "author": "Sleeper Vision",
+      "genre": "Role Playing",
+      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
+      "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
+      "expires": "2026-11-05T21:00:00.000Z",
+      "expires_raw": "2026-11-05T21:00:00Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-01T18:34:24.286Z",
+  "scraped_at": "2026-11-01T22:20:36.570Z",
   "pages_scraped": 25,
   "total_found": 62,
   "stopped_reason": "max_pages_reached",
@@ -186,6 +186,18 @@
       "expires_raw": "2026-11-03T20:00:00Z"
     },
     {
+      "id": "5245571",
+      "title": "Cinderline: Fantasy Tower Defense — Full Browser Edition",
+      "url": "https://cinderline-studio.itch.io/cinderline-full-browser",
+      "image": "https://img.itch.zone/aW1nLzMxNDUyNDA5LnBuZw==/315x250%23c/S6Mxzh.png",
+      "author": "Cinderline Studio",
+      "genre": "Strategy",
+      "blurb": "Hold 160 gates in your browser. Full edition free to claim until 1 Dec 2026.",
+      "sale_url": "https://itch.io/s/215016/halloween-5-indie-games-7-free-editions",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
       "id": "5245174",
       "title": "Wreck Club",
       "url": "https://enmanuel-gutierrez.itch.io/wreck-club",
@@ -345,7 +357,7 @@
       "id": "5220638",
       "title": "Urania 96",
       "url": "https://kitwsousi.itch.io/urania-96",
-      "image": "https://img.itch.zone/aW1nLzMxMjkxMzg5LnBuZw==/315x250%23c/3o9vSM.png",
+      "image": "https://img.itch.zone/aW1nLzMxNjkyNDU1LnBuZw==/315x250%23c/%2Bvur39.png",
       "author": "kitwsousi",
       "genre": "Survival",
       "blurb": "Dystopian Winter Survival",
@@ -736,18 +748,6 @@
       "sale_url": "https://itch.io/s/205808/knock-knock-rubys-halloween-discount",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5165087",
-      "title": "Lights On My Screen",
-      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
-      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
-      "author": "Sleeper Vision",
-      "genre": "Role Playing",
-      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
-      "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
-      "expires": "2026-11-05T21:00:00.000Z",
-      "expires_raw": "2026-11-05T21:00:00Z"
     }
   ]
 }

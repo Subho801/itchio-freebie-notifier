@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-02T01:37:46.673Z",
+  "scraped_at": "2026-11-02T08:18:16.163Z",
   "pages_scraped": 25,
-  "total_found": 63,
+  "total_found": 60,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -45,7 +45,7 @@
       "id": "5267689",
       "title": "Requiem Station",
       "url": "https://batpan-games.itch.io/requiem-station",
-      "image": "https://img.itch.zone/aW1nLzMxNTk5MDI2LnBuZw==/315x250%23c/C3XUQi.png",
+      "image": "https://img.itch.zone/aW1nLzMxNzE1MTU1LmpwZWc=/315x250%23c/a5X44%2B.jpeg",
       "author": "BATPAN GAMES",
       "genre": "Adventure",
       "blurb": "This Station Wasn't Supposed to Exist...",
@@ -486,6 +486,18 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "4679974",
+      "title": "Garage Sale Odyssey",
+      "url": "https://spoonweaver.itch.io/garage-sale-odyssey",
+      "image": "https://img.itch.zone/aW1nLzMxMTUwNzQ3LnBuZw==/315x250%23c/oLnko8.png",
+      "author": "Spoonweaver",
+      "genre": "Simulation",
+      "blurb": "A game where you go to garage sales.",
+      "sale_url": "https://itch.io/s/207799/garage-sale",
+      "expires": "2030-10-19T15:11:00.000Z",
+      "expires_raw": "2030-10-19T15:11:00Z"
+    },
+    {
       "id": "5196213",
       "title": "Still awake?",
       "url": "https://0bsessi0n.itch.io/still-awake",
@@ -712,54 +724,6 @@
       "sale_url": "https://itch.io/s/208188/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "4926344",
-      "title": "Blood Bond Bound: Grudges Past",
-      "url": "https://anethicalcannibal.itch.io/blood-bond-bound-grudges-past",
-      "image": "https://img.itch.zone/aW1nLzI5NzIwNDUxLnBuZw==/315x250%23c/is1E6b.png",
-      "author": "AnEthicalCannibal",
-      "genre": "Role Playing",
-      "blurb": "A supernatural Investigation RPG in 90s Japan",
-      "sale_url": "https://itch.io/s/209588/bx3-halloween-sale-2026",
-      "expires": "2026-11-04T21:00:00.000Z",
-      "expires_raw": "2026-11-04T21:00:00Z"
-    },
-    {
-      "id": "5135178",
-      "title": "DONT LEAVE — CHAPTER 1 THE SEVEN BEARS",
-      "url": "https://abmanstudio.itch.io/dont-leave-chapter-1-the-seven-bears",
-      "image": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png",
-      "author": "ABMANSTUDIO",
-      "genre": "Puzzle",
-      "blurb": "Explore a haunting maze, read the messages left behind, and uncover a truth better left hidden.",
-      "sale_url": "https://itch.io/s/198573/support-dont-leave-",
-      "expires": "2026-11-30T12:54:00.000Z",
-      "expires_raw": "2026-11-30T12:54:00Z"
-    },
-    {
-      "id": "5160338",
-      "title": "Ruby's Trick or Treat [Halloween Anime Horror]",
-      "url": "https://kripkode.itch.io/rubys-trick-or-treat",
-      "image": "https://img.itch.zone/aW1nLzMxMDY3MTA0LnBuZw==/315x250%23c/LNbvX7.png",
-      "author": "KripKode",
-      "genre": "Survival",
-      "blurb": "She's back for more. An anime horror game where breaking the rules has deadly consequences.",
-      "sale_url": "https://itch.io/s/205808/knock-knock-rubys-halloween-discount",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5165087",
-      "title": "Lights On My Screen",
-      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
-      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
-      "author": "Sleeper Vision",
-      "genre": "Role Playing",
-      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
-      "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
-      "expires": "2026-11-05T21:00:00.000Z",
-      "expires_raw": "2026-11-05T21:00:00Z"
     }
   ]
 }

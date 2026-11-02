@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-02T08:18:16.163Z",
+  "scraped_at": "2026-11-02T18:30:27.804Z",
   "pages_scraped": 25,
-  "total_found": 60,
+  "total_found": 52,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5287149",
+      "title": "The Haunting at Fox Hollow",
+      "url": "https://adrenelin.itch.io/the-haunting",
+      "image": "https://img.itch.zone/aW1nLzMxNzI5NjQzLnBuZw==/315x250%23c/hjujKB.png",
+      "author": "adrenelin",
+      "genre": "Adventure",
+      "blurb": "The Haunting at Fox Hollow Playdate Game",
+      "sale_url": "https://itch.io/s/215403/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
     {
       "id": "5278975",
       "title": "CREAK",
@@ -14,6 +26,18 @@
       "genre": "Survival",
       "blurb": "Something is opening your doors and windows. Close them all before it gets in.",
       "sale_url": "https://itch.io/s/215013/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5272610",
+      "title": "MonkeyPizza_Demo",
+      "url": "https://iosyp.itch.io/monkeypizza-demo",
+      "image": "https://img.itch.zone/aW1nLzMxNjMzMDQ1LnBuZw==/315x250%23c/Se0iS8.png",
+      "author": "iosyp",
+      "genre": null,
+      "blurb": null,
+      "sale_url": "https://itch.io/s/215291/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -66,16 +90,16 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "5264792",
-      "title": "PlanomallyA7",
-      "url": "https://davdion.itch.io/planomallya7",
-      "image": "https://img.itch.zone/aW1nLzMxNTc5MjU3LnBuZw==/315x250%23c/asoEHI.png",
-      "author": "DavdioN",
-      "genre": "Adventure",
-      "blurb": "A first-person anomaly horror game set aboard a mysterious aircraft. where you have to find what is strange.",
-      "sale_url": "https://itch.io/s/214281/halloween-sale-2026",
-      "expires": "2026-11-02T18:00:00.000Z",
-      "expires_raw": "2026-11-02T18:00:00Z"
+      "id": "5265306",
+      "title": "Midnight Defender",
+      "url": "https://darksaki9.itch.io/midnight-defender",
+      "image": "https://img.itch.zone/aW1nLzMxNTgyODc4LnBuZw==/315x250%23c/%2B1Iqap.png",
+      "author": "Darksaki9",
+      "genre": "Shooter",
+      "blurb": "20 waves. 6 bosses. One candle. Survive Halloween night alone or with up to three friends.",
+      "sale_url": "https://itch.io/s/214733/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5263487",
@@ -132,7 +156,7 @@
       "image": "https://img.itch.zone/aW1nLzMxNDgxNDQ3LmpwZw==/315x250%23c/RsGoT8.jpg",
       "author": "obsession",
       "genre": "Simulation",
-      "blurb": null,
+      "blurb": "Immerse yourself in the racing atmosphere and feel like a drift racer",
       "sale_url": "https://itch.io/s/213983/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
@@ -602,126 +626,6 @@
       "genre": "Adventure",
       "blurb": null,
       "sale_url": "https://itch.io/s/207720/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5169400",
-      "title": "Family Manners",
-      "url": "https://nney.itch.io/family-manners",
-      "image": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
-      "author": "Ney",
-      "genre": "Adventure",
-      "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
-      "sale_url": "https://itch.io/s/214377/family-manners",
-      "expires": "2026-11-06T21:12:00.000Z",
-      "expires_raw": "2026-11-06T21:12:00Z"
-    },
-    {
-      "id": "5181022",
-      "title": "Time Travel Imperfectus",
-      "url": "https://indie-neuron-studio.itch.io/time-travel-imperfectus",
-      "image": "https://img.itch.zone/aW1nLzMxMDI4ODc4LnBuZw==/315x250%23c/jz4OsW.png",
-      "author": "Indie Neuron Studio",
-      "genre": "Visual Novel",
-      "blurb": "A short, visual novel about time travel",
-      "sale_url": "https://itch.io/s/206717/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5176678",
-      "title": "WELCOME HOME.exe",
-      "url": "https://rookiero.itch.io/welcome-home",
-      "image": "https://img.itch.zone/aW1nLzMxMDAxODM4LnBuZw==/315x250%23c/P34rH%2B.png",
-      "author": "ROOKIERO",
-      "genre": "Adventure",
-      "blurb": "A pixel-art about the neighbours in apartment 201, and the cost of being kept safe",
-      "sale_url": "https://itch.io/s/208291/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5177290",
-      "title": "Last Lantern",
-      "url": "https://whitewolflgd.itch.io/last-lantern",
-      "image": "https://img.itch.zone/aW1nLzMxMDAzNjcyLnBuZw==/315x250%23c/9vVejE.png",
-      "author": "WhiteWolfLGD",
-      "genre": "Simulation",
-      "blurb": "first-person horror game roadside business where every night is a fight for survival.",
-      "sale_url": "https://itch.io/s/206724/halloween-sale-2026",
-      "expires": "2026-11-04T21:59:00.000Z",
-      "expires_raw": "2026-11-04T21:59:00Z"
-    },
-    {
-      "id": "3697219",
-      "title": "de citri natura",
-      "url": "https://nalio.itch.io/de-citri-natura",
-      "image": "https://img.itch.zone/aW1nLzIyMDAyNzMxLnBuZw==/315x250%23c/9BASjh.png",
-      "author": "NALIo",
-      "genre": "Puzzle",
-      "blurb": "Are you made for order?",
-      "sale_url": "https://itch.io/s/213723/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5170774",
-      "title": "BUBBLE GROTTO",
-      "url": "https://tansoft.itch.io/bubble-grotto",
-      "image": "https://img.itch.zone/aW1nLzMwOTY0OTk3LmpwZw==/315x250%23c/47YDrm.jpg",
-      "author": "Tansoft",
-      "genre": "Platformer",
-      "blurb": "A retro bubble-popping platformer  with 30 levels, 3 difficulties and SID-style chiptune music.",
-      "sale_url": "https://itch.io/s/208190/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5170432",
-      "title": "Runebound Depths Short",
-      "url": "https://tansoft.itch.io/runebound-depths-short",
-      "image": "https://img.itch.zone/aW1nLzMwOTY1MjE1LmpwZw==/315x250%23c/QYHxtW.jpg",
-      "author": "Tansoft",
-      "genre": "Role Playing",
-      "blurb": "Retro dungeon crawler with 40 levels, boss floors and C64-style SID music.",
-      "sale_url": "https://itch.io/s/208189/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5172669",
-      "title": "Duck X Goose TD",
-      "url": "https://leojordano.itch.io/duck-x-goose-td",
-      "image": "https://img.itch.zone/aW1nLzMwOTc1NjEzLnBuZw==/315x250%23c/CYsQVg.png",
-      "author": "leojordano",
-      "genre": "Strategy",
-      "blurb": "Uma guerra macabra entre patos e gansos pelo controle de um lago esquecido.",
-      "sale_url": "https://itch.io/s/207200/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5170729",
-      "title": "iSLAUGHTER",
-      "url": "https://kziira.itch.io/islaughter",
-      "image": "https://img.itch.zone/aW1nLzMwOTcyODAzLnBuZw==/315x250%23c/nhzKZW.png",
-      "author": "kziira",
-      "genre": "Action",
-      "blurb": "Enter the Ashen Wilds. Conquer the slaughter. Defeat Varkhul.",
-      "sale_url": "https://itch.io/s/206269/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5171895",
-      "title": "NEON ROADSTER: VOID RUNNER",
-      "url": "https://tansoft.itch.io/neon-roadster-void-runner",
-      "image": "https://img.itch.zone/aW1nLzMwOTcxMzQ5LmpwZw==/315x250%23c/Ku9tXa.jpg",
-      "author": "Tansoft",
-      "genre": "Shooter",
-      "blurb": "Pilot a flying neon roadster through a pitch-black wireframe galaxy – 30 levels, boss fights,",
-      "sale_url": "https://itch.io/s/208188/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     }

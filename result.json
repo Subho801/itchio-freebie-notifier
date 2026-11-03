@@ -1,10 +1,22 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-02T18:30:27.804Z",
+  "scraped_at": "2026-11-03T01:13:09.359Z",
   "pages_scraped": 25,
-  "total_found": 52,
+  "total_found": 56,
   "stopped_reason": "max_pages_reached",
   "games": [
+    {
+      "id": "5288386",
+      "title": "Clown Hotel",
+      "url": "https://paradoc-games.itch.io/clown-hotel",
+      "image": "https://img.itch.zone/aW1nLzMxNzM3MzE4LnBuZw==/315x250%23c/TQo9NO.png",
+      "author": "paradoc",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/215459/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
     {
       "id": "5287149",
       "title": "The Haunting at Fox Hollow",
@@ -14,6 +26,18 @@
       "genre": "Adventure",
       "blurb": "The Haunting at Fox Hollow Playdate Game",
       "sale_url": "https://itch.io/s/215403/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5284937",
+      "title": "Kinstead",
+      "url": "https://alindamian98.itch.io/kinstead",
+      "image": "https://img.itch.zone/aW1nLzMxNzE1MDM4LnBuZw==/315x250%23c/awSxm%2F.png",
+      "author": "alindamian98",
+      "genre": "Simulation",
+      "blurb": "Medieval colony builder: raise a village, research, trade and fight across a living world.",
+      "sale_url": "https://itch.io/s/215286/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -628,6 +652,30 @@
       "sale_url": "https://itch.io/s/207720/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5172085",
+      "title": "NEON ROADSTER: VOID RUNNER 2",
+      "url": "https://tansoft.itch.io/neon-roadster-void-runner-2",
+      "image": "https://img.itch.zone/aW1nLzMxMTAyMTMxLnBuZw==/315x250%23c/Y550k4.png",
+      "author": "Tansoft",
+      "genre": "Racing",
+      "blurb": "Race a flying neon roadster  2 down wireframe highways – outrun police, choppers and F-35 jets  with boss fights.",
+      "sale_url": "https://itch.io/s/215477/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5169400",
+      "title": "Family Manners",
+      "url": "https://nney.itch.io/family-manners",
+      "image": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
+      "author": "Ney",
+      "genre": "Adventure",
+      "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
+      "sale_url": "https://itch.io/s/214377/family-manners",
+      "expires": "2026-11-06T21:12:00.000Z",
+      "expires_raw": "2026-11-06T21:12:00Z"
     }
   ]
 }

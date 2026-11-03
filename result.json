@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-03T01:13:09.359Z",
+  "scraped_at": "2026-11-03T07:56:44.820Z",
   "pages_scraped": 25,
-  "total_found": 56,
+  "total_found": 55,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -664,18 +664,6 @@
       "sale_url": "https://itch.io/s/215477/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5169400",
-      "title": "Family Manners",
-      "url": "https://nney.itch.io/family-manners",
-      "image": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
-      "author": "Ney",
-      "genre": "Adventure",
-      "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
-      "sale_url": "https://itch.io/s/214377/family-manners",
-      "expires": "2026-11-06T21:12:00.000Z",
-      "expires_raw": "2026-11-06T21:12:00Z"
     }
   ]
 }

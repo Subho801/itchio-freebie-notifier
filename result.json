@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-03T15:46:28.988Z",
+  "scraped_at": "2026-11-03T21:20:41.256Z",
   "pages_scraped": 25,
-  "total_found": 54,
+  "total_found": 53,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
@@ -222,18 +222,6 @@
       "expires_raw": "2026-11-05T05:59:00Z"
     },
     {
-      "id": "5246100",
-      "title": "30 Coins: The Consequences",
-      "url": "https://alimsmgfan.itch.io/30-coins-the-concequences",
-      "image": "https://img.itch.zone/aW1nLzMxNjQ1MjY1LnBuZw==/315x250%23c/0Y0SkP.png",
-      "author": "alimsmgfan",
-      "genre": "Adventure",
-      "blurb": "A short psychological horror about blood money, and the freezing cold.",
-      "sale_url": "https://itch.io/s/212038/halloween-sale-2026",
-      "expires": "2026-11-03T20:00:00.000Z",
-      "expires_raw": "2026-11-03T20:00:00Z"
-    },
-    {
       "id": "5245571",
       "title": "Cinderline: Fantasy Tower Defense — Full Browser Edition",
       "url": "https://ankh-studio.itch.io/cinderline-full-browser",
@@ -330,18 +318,6 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
-      "id": "5231339",
-      "title": "One move of seed! 2",
-      "url": "https://s0per-neko7.itch.io/one-move-of-seed-2",
-      "image": "https://img.itch.zone/aW1nLzMxMzU3NjI0LnBuZw==/315x250%23c/%2FaQkAd.png",
-      "author": "s0per_neko7",
-      "genre": "Simulation",
-      "blurb": "keep you seed alive",
-      "sale_url": "https://itch.io/s/210340/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
       "id": "5229050",
       "title": "EvsE",
       "url": "https://gkolberg.itch.io/evse",
@@ -352,6 +328,18 @@
       "sale_url": "https://itch.io/s/213742/halloween-sale-",
       "expires": "2026-11-10T22:59:00.000Z",
       "expires_raw": "2026-11-10T22:59:00Z"
+    },
+    {
+      "id": "5229662",
+      "title": "Gridline GP",
+      "url": "https://crokedpixel.itch.io/gridline-gp",
+      "image": "https://img.itch.zone/aW1nLzMxMzQ2NDI3LnBuZw==/315x250%23c/OhyJVH.png",
+      "author": "crokedpixel",
+      "genre": "Racing",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/210779/halloween-sale-2026",
+      "expires": "2026-11-08T04:00:00.000Z",
+      "expires_raw": "2026-11-08T04:00:00Z"
     },
     {
       "id": "5213126",
@@ -386,6 +374,18 @@
       "genre": "Shooter",
       "blurb": "Outlast the undead solo or online. Loot and fight across five biomes on desktop or mobile browser.",
       "sale_url": "https://itch.io/s/209715/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
+      "id": "5209396",
+      "title": "Dummy ER: Ragdoll Physics Game",
+      "url": "https://omis-games.itch.io/dummy-er-ragdoll-physics-game",
+      "image": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg",
+      "author": "OMIS GAMES",
+      "genre": "Simulation",
+      "blurb": "Free ragdoll sandbox: realistic cuts, bones snapping on X-ray, guns and surgery. Break dummy 07, then save him.",
+      "sale_url": "https://itch.io/s/215227/dummy-er-halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -638,18 +638,6 @@
       "genre": "Adventure",
       "blurb": null,
       "sale_url": "https://itch.io/s/207720/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5172085",
-      "title": "NEON ROADSTER: VOID RUNNER 2",
-      "url": "https://tansoft.itch.io/neon-roadster-void-runner-2",
-      "image": "https://img.itch.zone/aW1nLzMxMTAyMTMxLnBuZw==/315x250%23c/Y550k4.png",
-      "author": "Tansoft",
-      "genre": "Racing",
-      "blurb": "Race a flying neon roadster  2 down wireframe highways – outrun police, choppers and F-35 jets  with boss fights.",
-      "sale_url": "https://itch.io/s/215477/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     }

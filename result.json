@@ -1,19 +1,19 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-03T07:56:44.820Z",
+  "scraped_at": "2026-11-03T15:46:28.988Z",
   "pages_scraped": 25,
-  "total_found": 55,
+  "total_found": 54,
   "stopped_reason": "max_pages_reached",
   "games": [
     {
-      "id": "5288386",
-      "title": "Clown Hotel",
-      "url": "https://paradoc-games.itch.io/clown-hotel",
-      "image": "https://img.itch.zone/aW1nLzMxNzM3MzE4LnBuZw==/315x250%23c/TQo9NO.png",
-      "author": "paradoc",
-      "genre": "Adventure",
+      "id": "4402719",
+      "title": "MOLOKAUST",
+      "url": "https://elp3luca.itch.io/molokaust",
+      "image": "https://img.itch.zone/aW1nLzI2MjU0MzkyLmpwZw==/315x250%23c/c8KbYq.jpg",
+      "author": "elp3luca",
+      "genre": "Action",
       "blurb": null,
-      "sale_url": "https://itch.io/s/215459/halloween-sale-2026",
+      "sale_url": "https://itch.io/s/206740/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -175,9 +175,9 @@
     },
     {
       "id": "5250308",
-      "title": "DRIFTERZ Alpha",
-      "url": "https://0bsessi0n.itch.io/drifterz-alpha",
-      "image": "https://img.itch.zone/aW1nLzMxNDgxNDQ3LmpwZw==/315x250%23c/RsGoT8.jpg",
+      "title": "DRIFTERZ Demo",
+      "url": "https://obsessionsoul.itch.io/drifterz-demo",
+      "image": "https://img.itch.zone/aW1nLzMxNzY5NDI2LnBuZw==/315x250%23c/mW2gga.png",
       "author": "obsession",
       "genre": "Simulation",
       "blurb": "Immerse yourself in the racing atmosphere and feel like a drift racer",
@@ -236,9 +236,9 @@
     {
       "id": "5245571",
       "title": "Cinderline: Fantasy Tower Defense — Full Browser Edition",
-      "url": "https://cinderline-studio.itch.io/cinderline-full-browser",
+      "url": "https://ankh-studio.itch.io/cinderline-full-browser",
       "image": "https://img.itch.zone/aW1nLzMxNDUyNDA5LnBuZw==/315x250%23c/S6Mxzh.png",
-      "author": "Cinderline Studio",
+      "author": "ANKH GAMES STUDIO",
       "genre": "Strategy",
       "blurb": "Hold 160 gates in your browser. Full edition free to claim until 1 Dec 2026.",
       "sale_url": "https://itch.io/s/215016/halloween-5-indie-games-7-free-editions",
@@ -316,18 +316,6 @@
       "sale_url": "https://itch.io/s/214123/lets-play",
       "expires": "2026-11-07T04:05:00.000Z",
       "expires_raw": "2026-11-07T04:05:00Z"
-    },
-    {
-      "id": "5234555",
-      "title": "Sonpoi",
-      "url": "https://kikinndev.itch.io/sonpoi",
-      "image": "https://img.itch.zone/aW1nLzMxNDU5ODIzLnBuZw==/315x250%23c/MI%2BpAl.png",
-      "author": "KikinnDev",
-      "genre": "Strategy",
-      "blurb": "Help Flint D. with killing the local cats.",
-      "sale_url": "https://itch.io/s/210637/sonpoi",
-      "expires": "2026-11-03T11:00:00.000Z",
-      "expires_raw": "2026-11-03T11:00:00Z"
     },
     {
       "id": "5226116",
@@ -548,7 +536,7 @@
     {
       "id": "5196213",
       "title": "Still awake?",
-      "url": "https://0bsessi0n.itch.io/still-awake",
+      "url": "https://obsessionsoul.itch.io/still-awake",
       "image": "https://img.itch.zone/aW1nLzMxMTM1NTk5LnBuZw==/315x250%23c/Gcoi9L.png",
       "author": "obsession",
       "genre": "Simulation",

@@ -1,4 +1,3 @@
-
 name: Itch.io Freebie Notifier
 
 on:
@@ -12,6 +11,7 @@ permissions:
 jobs:
   check-games:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
@@ -44,12 +44,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add result.json itch_state.json
+          # Include expiry_cache.json so itch.io date requests stay cached across runs
+          git add result.json itch_state.json expiry_cache.json
 
           if git diff --cached --quiet; then
             echo "No feed or state changes."
             exit 0
           fi
 
-          git commit -m "Update itch.io giveaway feed and state"
+          git commit -m "Update itch.io giveaway feed, state, and expiry cache"
+          git pull --rebase
           git push

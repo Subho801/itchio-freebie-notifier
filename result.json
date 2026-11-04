@@ -1,7 +1,7 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-04T13:17:39.001Z",
-  "pages_scraped": 177,
+  "scraped_at": "2026-11-04T15:48:19.577Z",
+  "pages_scraped": 176,
   "total_found": 370,
   "stopped_reason": "last_page_reached",
   "games": [
@@ -175,6 +175,19 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "5257425",
+      "title": "Pitch Riot",
+      "url": "https://cphoenix.itch.io/pitch-riot",
+      "author": "cPhoenix",
+      "author_url": "https://cphoenix.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNTI5MDUwLnBuZw==/315x250%23c/v0BgSD.png",
+      "genre": "Action",
+      "blurb": "One striker. A whole rival team. Survive 30 minutes of football mayhem.",
+      "sale_url": "https://itch.io/s/215882/halloween-sale-2026",
+      "expires": "2026-11-11T18:00:00.000Z",
+      "expires_raw": "2026-11-11T18:00:00Z"
+    },
+    {
       "id": "5256432",
       "title": "Forever Run",
       "url": "https://peakk-og.itch.io/forever-run",
@@ -238,19 +251,6 @@
       "sale_url": "https://itch.io/s/214528/halloween-sale-2026",
       "expires": "2026-11-05T05:59:00.000Z",
       "expires_raw": "2026-11-05T05:59:00Z"
-    },
-    {
-      "id": "5245571",
-      "title": "Cinderline: Fantasy Tower Defense — Full Browser Edition",
-      "url": "https://ankh-studio.itch.io/cinderline-full-browser",
-      "author": "ANKH GAMES STUDIO",
-      "author_url": "https://ankh-studio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNDUyNDA5LnBuZw==/315x250%23c/S6Mxzh.png",
-      "genre": "Strategy",
-      "blurb": "Hold 160 gates in your browser. Full edition free to claim until 1 Dec 2026.",
-      "sale_url": "https://itch.io/s/215016/halloween-5-indie-games-7-free-editions",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
       "id": "5245174",

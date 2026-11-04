@@ -1,22 +1,10 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-04T01:31:07.994Z",
-  "pages_scraped": 23,
-  "total_found": 51,
-  "stopped_reason": "request to https://itch.io/games/newest/on-sale?page=24 failed, reason: read ECONNRESET",
+  "scraped_at": "2026-11-04T07:48:55.641Z",
+  "pages_scraped": 25,
+  "total_found": 50,
+  "stopped_reason": "max_pages_reached",
   "games": [
-    {
-      "id": "5294294",
-      "title": "Rebote Neón",
-      "url": "https://crouaut.itch.io/rebote-nen",
-      "image": "https://img.itch.zone/aW1nLzMxNzc4MjQ2LnBuZw==/315x250%23c/lj8rfG.png",
-      "author": "Crouaut",
-      "genre": "Platformer",
-      "blurb": "Dibuja líneas, guía la bola neón y destruye todas las dianas antes de quedarte sin tinta.",
-      "sale_url": "https://itch.io/s/215752/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
     {
       "id": "4402719",
       "title": "MOLOKAUST",
@@ -26,18 +14,6 @@
       "genre": "Action",
       "blurb": null,
       "sale_url": "https://itch.io/s/206740/halloween-sale-2026",
-      "expires": "2026-11-04T18:00:00.000Z",
-      "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5291402",
-      "title": "Cuenta Regresiva",
-      "url": "https://crouaut.itch.io/cuenta-regresiva",
-      "image": "https://img.itch.zone/aW1nLzMxNzU4Njg1LnBuZw==/315x250%23c/ek4EtI.png",
-      "author": "Crouaut",
-      "genre": "Puzzle",
-      "blurb": "A fast-paced math puzzle game where every second counts. Match numbers, build combos, and survive the countdown!",
-      "sale_url": "https://itch.io/s/215746/halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
     },
@@ -616,6 +592,18 @@
       "sale_url": "https://itch.io/s/214252/flash-sale",
       "expires": "2026-11-07T13:30:00.000Z",
       "expires_raw": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "5190995",
+      "title": "Black Craft",
+      "url": "https://nicodemusss.itch.io/blackcraft",
+      "image": "https://img.itch.zone/aW1nLzMxMjQzNDY3LmdpZg==/315x250%23c/tAMBJD.gif",
+      "author": "Nicodemus",
+      "genre": "Survival",
+      "blurb": "Become the diora-master of voxels...",
+      "sale_url": "https://itch.io/s/212582/halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
     }
   ]
 }

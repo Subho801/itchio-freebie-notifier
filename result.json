@@ -1,13 +1,13 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-05T08:32:50.310Z",
-  "pages_scraped": 28,
-  "total_found": 78,
+  "scraped_at": "2026-11-05T22:21:08.747Z",
+  "pages_scraped": 27,
+  "total_found": 79,
   "stopped_reason": "last_page_reached",
   "games": [
     {
       "id": "5301311",
-      "title": "Dead Air",
+      "title": "DEAD AIR",
       "url": "https://digitaldro.itch.io/dead-air",
       "author": "Digital Dro",
       "author_url": "https://digitaldro.itch.io/",
@@ -26,7 +26,7 @@
       "author_url": "https://bayte-realization.itch.io/",
       "image": "https://img.itch.zone/aW1nLzMxODIxNTg0LnBuZw==/315x250%23c/372X8R.png",
       "genre": "Strategy",
-      "blurb": "Run a country in a world that is doomed to Eternal Struggle. An organically simulated open-source grand strategy game.",
+      "blurb": "Run a country in a World that is doomed to Eternal Struggle. An organically simulated open-source grand strategy game.",
       "sale_url": "https://itch.io/s/216013/deal-or-force-public-release-giveaway",
       "expires": "2026-11-14T21:00:00.000Z",
       "expires_raw": "2026-11-14T21:00:00Z"
@@ -162,19 +162,6 @@
       "expires_raw": "2026-11-12T18:02:00Z"
     },
     {
-      "id": "5196465",
-      "title": "Mind the Clown: Reborn (Demo)",
-      "url": "https://coastcitygames.itch.io/mind-the-clown-reborn",
-      "author": "Coast City Games",
-      "author_url": "https://coastcitygames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMTI4MDExLnBuZw==/315x250%23c/sWuC1Y.png",
-      "genre": "Adventure",
-      "blurb": "Survive a cursed circus twisted by childhood memories.",
-      "sale_url": "https://itch.io/s/214807/flash-sale",
-      "expires": "2026-11-05T20:56:00.000Z",
-      "expires_raw": "2026-11-05T20:56:00Z"
-    },
-    {
       "id": "5094265",
       "title": "Trox The Reversal (Demo)",
       "url": "https://troj4nblazing.itch.io/trox-the-reversal",
@@ -201,19 +188,6 @@
       "expires_raw": "2026-11-06T21:12:00Z"
     },
     {
-      "id": "4926344",
-      "title": "Blood Bond Bound: Grudges Past",
-      "url": "https://anethicalcannibal.itch.io/blood-bond-bound-grudges-past",
-      "author": "AnEthicalCannibal",
-      "author_url": "https://anethicalcannibal.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5NzIwNDUxLnBuZw==/315x250%23c/is1E6b.png",
-      "genre": "Role Playing",
-      "blurb": "A supernatural Investigation RPG in 90s Japan",
-      "sale_url": "https://itch.io/s/209588/bx3-halloween-sale-2026",
-      "expires": "2026-11-04T21:00:00.000Z",
-      "expires_raw": "2026-11-04T21:00:00Z"
-    },
-    {
       "id": "5135178",
       "title": "DONT LEAVE — CHAPTER 1 THE SEVEN BEARS",
       "url": "https://abmanstudio.itch.io/dont-leave-chapter-1-the-seven-bears",
@@ -225,19 +199,6 @@
       "sale_url": "https://itch.io/s/198573/support-dont-leave-",
       "expires": "2026-11-30T12:54:00.000Z",
       "expires_raw": "2026-11-30T12:54:00Z"
-    },
-    {
-      "id": "5165087",
-      "title": "Lights On My Screen",
-      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
-      "author": "Sleeper Vision",
-      "author_url": "https://sleeper-vision.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
-      "genre": "Role Playing",
-      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
-      "sale_url": "https://itch.io/s/205326/ligts-on-my-screen-launch-sale",
-      "expires": "2026-11-05T21:00:00.000Z",
-      "expires_raw": "2026-11-05T21:00:00Z"
     },
     {
       "id": "5148758",
@@ -264,6 +225,19 @@
       "sale_url": "https://itch.io/s/214042/sleep-in-fear-halloween-sale-2026",
       "expires": "2026-11-07T18:00:00.000Z",
       "expires_raw": "2026-11-07T18:00:00Z"
+    },
+    {
+      "id": "5102250",
+      "title": "Cyberia Protocol : Tower Defense",
+      "url": "https://baris1.itch.io/cyberia-protocol",
+      "author": "Baris",
+      "author_url": "https://baris1.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwNjA1NjcwLnBuZw==/315x250%23c/CgNQtO.png",
+      "genre": "Strategy",
+      "blurb": "Build your defenses and protect the digital world from waves of viruses.",
+      "sale_url": "https://itch.io/s/216193/discount-discounts",
+      "expires": "2026-11-30T20:07:00.000Z",
+      "expires_raw": "2026-11-30T20:07:00Z"
     },
     {
       "id": "5056674",
@@ -329,6 +303,19 @@
       "sale_url": "https://itch.io/s/214204/halloween-sale-2026",
       "expires": "2026-11-06T12:00:00.000Z",
       "expires_raw": "2026-11-06T12:00:00Z"
+    },
+    {
+      "id": "4739386",
+      "title": "Shadows We Share - Unaware",
+      "url": "https://bennyboygames.itch.io/unaware",
+      "author": "BennyBoy",
+      "author_url": "https://bennyboygames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNDM3NzM3LmdpZg==/315x250%23c/7iTdek.gif",
+      "genre": "Adventure",
+      "blurb": "A psychological narrative horror game",
+      "sale_url": "https://itch.io/s/216139/shadows-we-share-fall-sale-100",
+      "expires": "2026-11-12T13:58:00.000Z",
+      "expires_raw": "2026-11-12T13:58:00Z"
     },
     {
       "id": "4973081",
@@ -485,19 +472,6 @@
       "sale_url": "https://itch.io/s/210229/bubuworks-free-halloween-sale-2026",
       "expires": "2026-11-12T18:00:00.000Z",
       "expires_raw": "2026-11-12T18:00:00Z"
-    },
-    {
-      "id": "4690393",
-      "title": "FastWait",
-      "url": "https://jimmydave.itch.io/fastwait",
-      "author": "jimmydave",
-      "author_url": "https://jimmydave.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5NTY5NTcwLnBuZw==/315x250%23c/daH0IL.png",
-      "genre": null,
-      "blurb": "Don't  make them wait",
-      "sale_url": "https://itch.io/s/196239/fastwait",
-      "expires": "2026-11-05T14:19:00.000Z",
-      "expires_raw": "2026-11-05T14:19:00Z"
     },
     {
       "id": "4669793",
@@ -734,6 +708,19 @@
       "expires_raw": "2026-11-11T16:45:00Z"
     },
     {
+      "id": "3789917",
+      "title": "Liho",
+      "url": "https://merai.itch.io/liho",
+      "author": "merai",
+      "author_url": "https://merai.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI0NzE5NTc1LmdpZg==/315x250%23c/gtPhq2.gif",
+      "genre": "Survival",
+      "blurb": "City Emergency Broadcast: Try to survive until morning",
+      "sale_url": "https://itch.io/s/205407/merais-sale-100",
+      "expires": "2026-11-06T18:00:00.000Z",
+      "expires_raw": "2026-11-06T18:00:00Z"
+    },
+    {
       "id": "3858283",
       "title": "Very Realistic Game Dev Simulator",
       "url": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
@@ -745,6 +732,19 @@
       "sale_url": "https://itch.io/s/197970/fall-sale",
       "expires": "2026-11-05T22:54:00.000Z",
       "expires_raw": "2026-11-05T22:54:00Z"
+    },
+    {
+      "id": "3799948",
+      "title": "Dream Holiday",
+      "url": "https://baris1.itch.io/dream-holiday",
+      "author": "Baris",
+      "author_url": "https://baris1.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5MDE2NDkzLnBuZw==/315x250%23c/EJ%2FlbA.png",
+      "genre": "Adventure",
+      "blurb": "A horror game blurring dream and reality, where mystery and terror grow with every step.",
+      "sale_url": "https://itch.io/s/216193/discount-discounts",
+      "expires": "2026-11-30T20:07:00.000Z",
+      "expires_raw": "2026-11-30T20:07:00Z"
     },
     {
       "id": "3765569",
@@ -875,6 +875,19 @@
       "sale_url": "https://itch.io/s/202866/free-british-bonfire-night-the-thanksgiving-of-the-uk",
       "expires": "2026-11-08T03:46:00.000Z",
       "expires_raw": "2026-11-08T03:46:00Z"
+    },
+    {
+      "id": "2293242",
+      "title": "Octane100",
+      "url": "https://murchikstudio.itch.io/octane100",
+      "author": "murchikstudio",
+      "author_url": "https://murchikstudio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI0OTM5MTM4LnBuZw==/315x250%23c/JLgP7i.png",
+      "genre": "Adventure",
+      "blurb": "Roguelite",
+      "sale_url": "https://itch.io/s/215825/prerelease-demo-sale",
+      "expires": "2026-12-01T08:49:00.000Z",
+      "expires_raw": "2026-12-01T08:49:00Z"
     },
     {
       "id": "2265537",

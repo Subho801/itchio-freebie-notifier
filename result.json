@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-04T21:33:12.400Z",
-  "pages_scraped": 30,
-  "total_found": 84,
+  "scraped_at": "2026-11-05T01:45:26.146Z",
+  "pages_scraped": 29,
+  "total_found": 85,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5293430",
+      "title": "Deal or Force",
+      "url": "https://bayte-realization.itch.io/deal-or-force",
+      "author": "Bayte Realization",
+      "author_url": "https://bayte-realization.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODIxNTg0LnBuZw==/315x250%23c/372X8R.png",
+      "genre": "Strategy",
+      "blurb": "Run a country in a world that is doomed to Eternal Struggle. An organically simulated open-source grand strategy game.",
+      "sale_url": "https://itch.io/s/216013/deal-or-force-public-release-giveaway",
+      "expires": "2026-11-14T21:00:00.000Z",
+      "expires_raw": "2026-11-14T21:00:00Z"
+    },
     {
       "id": "5300193",
       "title": "Inkpire: World Map Empire Builder",
@@ -201,19 +214,6 @@
       "expires_raw": "2026-11-06T21:12:00Z"
     },
     {
-      "id": "5177290",
-      "title": "Last Lantern",
-      "url": "https://whitewolflgd.itch.io/last-lantern",
-      "author": "WhiteWolfLGD",
-      "author_url": "https://whitewolflgd.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMDAzNjcyLnBuZw==/315x250%23c/9vVejE.png",
-      "genre": "Simulation",
-      "blurb": "first-person horror game roadside business where every night is a fight for survival.",
-      "sale_url": "https://itch.io/s/206724/halloween-sale-2026",
-      "expires": "2026-11-04T21:59:00.000Z",
-      "expires_raw": "2026-11-04T21:59:00Z"
-    },
-    {
       "id": "4926344",
       "title": "Blood Bond Bound: Grudges Past",
       "url": "https://anethicalcannibal.itch.io/blood-bond-bound-grudges-past",
@@ -225,6 +225,19 @@
       "sale_url": "https://itch.io/s/209588/bx3-halloween-sale-2026",
       "expires": "2026-11-04T21:00:00.000Z",
       "expires_raw": "2026-11-04T21:00:00Z"
+    },
+    {
+      "id": "5135178",
+      "title": "DONT LEAVE — CHAPTER 1 THE SEVEN BEARS",
+      "url": "https://abmanstudio.itch.io/dont-leave-chapter-1-the-seven-bears",
+      "author": "ABMANSTUDIO",
+      "author_url": "https://abmanstudio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png",
+      "genre": "Puzzle",
+      "blurb": "Explore a haunting maze, read the messages left behind, and uncover a truth better left hidden.",
+      "sale_url": "https://itch.io/s/198573/support-dont-leave-",
+      "expires": "2026-11-30T12:54:00.000Z",
+      "expires_raw": "2026-11-30T12:54:00Z"
     },
     {
       "id": "5165087",
@@ -760,19 +773,6 @@
       "expires_raw": "2026-11-05T22:54:00Z"
     },
     {
-      "id": "3313167",
-      "title": "Smiling Terror",
-      "url": "https://poisonicestudios.itch.io/smiling-terror",
-      "author": "PoisonIce Studios",
-      "author_url": "https://poisonicestudios.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif",
-      "genre": "Survival",
-      "blurb": "90's Style Retro Survival Horror",
-      "sale_url": "https://itch.io/s/179743/smiling-terror-free-100-discount",
-      "expires": "2026-11-04T23:00:00.000Z",
-      "expires_raw": "2026-11-04T23:00:00Z"
-    },
-    {
       "id": "3765569",
       "title": "Burnt",
       "url": "https://sleepycatstudio.itch.io/burnt",
@@ -797,6 +797,19 @@
       "sale_url": "https://itch.io/s/212180/halloween-sale",
       "expires": "2026-11-05T03:13:00.000Z",
       "expires_raw": "2026-11-05T03:13:00Z"
+    },
+    {
+      "id": "3618213",
+      "title": "Sir Apples Remastered",
+      "url": "https://aerobison.itch.io/sir-apples",
+      "author": "Aerobison",
+      "author_url": "https://aerobison.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIxNjU0NDIzLnBuZw==/315x250%23c/rPfTWl.png",
+      "genre": "Survival",
+      "blurb": "Save Sir Apples tree",
+      "sale_url": "https://itch.io/s/216021/sir-apples-remastered-free-copy",
+      "expires": "2026-11-08T22:50:00.000Z",
+      "expires_raw": "2026-11-08T22:50:00Z"
     },
     {
       "id": "3411949",

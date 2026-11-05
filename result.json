@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-05T01:45:26.146Z",
-  "pages_scraped": 29,
-  "total_found": 85,
+  "scraped_at": "2026-11-05T08:32:50.310Z",
+  "pages_scraped": 28,
+  "total_found": 78,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5301311",
+      "title": "Dead Air",
+      "url": "https://digitaldro.itch.io/dead-air",
+      "author": "Digital Dro",
+      "author_url": "https://digitaldro.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODQzMjkzLmdpZg==/315x250%23c/to9BoJ.gif",
+      "genre": "Strategy",
+      "blurb": "Wheel of Fortune Roguelike In Retro 3D",
+      "sale_url": "https://itch.io/s/216065/dead-air-launch-week-",
+      "expires": "2026-11-08T23:01:00.000Z",
+      "expires_raw": "2026-11-08T23:01:00Z"
+    },
     {
       "id": "5293430",
       "title": "Deal or Force",
@@ -32,6 +45,19 @@
       "expires_raw": "2026-11-11T20:59:00Z"
     },
     {
+      "id": "5284632",
+      "title": "Don't Come First",
+      "url": "https://scrap-yard-games.itch.io/dont-come-first",
+      "author": "Scrapyard Games",
+      "author_url": "https://scrap-yard-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNzY2ODIzLnBuZw==/315x250%23c/y1A9KW.png",
+      "genre": "Racing",
+      "blurb": "Race, shoot, and whatever you do, don't come first.",
+      "sale_url": "https://itch.io/s/215832/halloween-sale-2026",
+      "expires": "2026-11-30T18:00:00.000Z",
+      "expires_raw": "2026-11-30T18:00:00Z"
+    },
+    {
       "id": "5263487",
       "title": "Baba",
       "url": "https://light-inspiration-studio.itch.io/baba",
@@ -56,19 +82,6 @@
       "sale_url": "https://itch.io/s/215881/halloween-sale-2026",
       "expires": "2026-11-14T23:00:00.000Z",
       "expires_raw": "2026-11-14T23:00:00Z"
-    },
-    {
-      "id": "5249441",
-      "title": "NeonTD: Hold the Grid",
-      "url": "https://hoehnheim.itch.io/neontd-hold-the-grid",
-      "author": "Hoehnheim Studios",
-      "author_url": "https://hoehnheim.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNDc2NTI5LnBuZw==/315x250%23c/IPoBL%2F.png",
-      "genre": "Strategy",
-      "blurb": "Hold the grid against waves of neon Glitches. A tower defense about shields, armor and the right tower for the job.",
-      "sale_url": "https://itch.io/s/214528/halloween-sale-2026",
-      "expires": "2026-11-05T05:59:00.000Z",
-      "expires_raw": "2026-11-05T05:59:00Z"
     },
     {
       "id": "5236855",
@@ -147,32 +160,6 @@
       "sale_url": "https://itch.io/s/213923/halloween-sale-project-wild-weasel",
       "expires": "2026-11-12T18:02:00.000Z",
       "expires_raw": "2026-11-12T18:02:00Z"
-    },
-    {
-      "id": "5206497",
-      "title": "PROJECT GARGANTUA",
-      "url": "https://hobakbagames.itch.io/projectgargantua",
-      "author": "Hobakba Games",
-      "author_url": "https://hobakbagames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMTkzNTk1LmpwZw==/315x250%23c/UCelKw.jpg",
-      "genre": "Adventure",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/208298/10",
-      "expires": "2026-11-05T06:58:00.000Z",
-      "expires_raw": "2026-11-05T06:58:00Z"
-    },
-    {
-      "id": "5192300",
-      "title": "Pumpkill Remastered",
-      "url": "https://cosmicraycast.itch.io/pumpkill",
-      "author": "Cosmic Raycast",
-      "author_url": "https://cosmicraycast.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMjA2OTc1LnBuZw==/315x250%23c/HRxhpB.png",
-      "genre": "Shooter",
-      "blurb": "The Ultimate Halloween FPS",
-      "sale_url": "https://itch.io/s/208170/a-cosmic-raycast-halloween",
-      "expires": "2026-11-05T06:00:00.000Z",
-      "expires_raw": "2026-11-05T06:00:00Z"
     },
     {
       "id": "5196465",
@@ -277,19 +264,6 @@
       "sale_url": "https://itch.io/s/214042/sleep-in-fear-halloween-sale-2026",
       "expires": "2026-11-07T18:00:00.000Z",
       "expires_raw": "2026-11-07T18:00:00Z"
-    },
-    {
-      "id": "5123713",
-      "title": "Margin Brawl",
-      "url": "https://hoehnheim.itch.io/margin-brawl",
-      "author": "Hoehnheim Studios",
-      "author_url": "https://hoehnheim.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwNjc0NDk3LnBuZw==/315x250%23c/nMmym9.png",
-      "genre": "Fighting",
-      "blurb": "Knock your friends off the notebook page! A doodle stick-figure platform fighter for 1 to 4 players, local or online.",
-      "sale_url": "https://itch.io/s/214528/halloween-sale-2026",
-      "expires": "2026-11-05T05:59:00.000Z",
-      "expires_raw": "2026-11-05T05:59:00Z"
     },
     {
       "id": "5056674",
@@ -786,19 +760,6 @@
       "expires_raw": "2026-11-10T21:59:00Z"
     },
     {
-      "id": "3414043",
-      "title": "Aestheta",
-      "url": "https://aplovestudio.itch.io/aestheta",
-      "author": "aplove",
-      "author_url": "https://aplovestudio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIxNTI5NTg3LnBuZw==/315x250%23c/cjkYNf.png",
-      "genre": "Strategy",
-      "blurb": "roguelike royalelike",
-      "sale_url": "https://itch.io/s/212180/halloween-sale",
-      "expires": "2026-11-05T03:13:00.000Z",
-      "expires_raw": "2026-11-05T03:13:00Z"
-    },
-    {
       "id": "3618213",
       "title": "Sir Apples Remastered",
       "url": "https://aerobison.itch.io/sir-apples",
@@ -836,19 +797,6 @@
       "sale_url": "https://itch.io/s/215358/november-sale",
       "expires": "2026-11-30T12:56:00.000Z",
       "expires_raw": "2026-11-30T12:56:00Z"
-    },
-    {
-      "id": "2879173",
-      "title": "Dead Mall",
-      "url": "https://cosmicraycast.itch.io/deadmall",
-      "author": "Cosmic Raycast",
-      "author_url": "https://cosmicraycast.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5OTUwNzQxLnBuZw==/315x250%23c/Jm8v1x.png",
-      "genre": "Survival",
-      "blurb": "Halloween shopping in an abandoned liminal mall",
-      "sale_url": "https://itch.io/s/208170/a-cosmic-raycast-halloween",
-      "expires": "2026-11-05T06:00:00.000Z",
-      "expires_raw": "2026-11-05T06:00:00Z"
     },
     {
       "id": "2982722",
@@ -903,17 +851,30 @@
       "expires_raw": "2027-02-28T11:05:00Z"
     },
     {
-      "id": "2289159",
-      "title": "Solace Inc.",
-      "url": "https://aplovestudio.itch.io/solace-inc",
-      "author": "aplove",
-      "author_url": "https://aplovestudio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwNTcxMzUyLnBuZw==/315x250%23c/qqiPP3.png",
-      "genre": "Survival",
-      "blurb": "recruit your employees and fight baddies",
-      "sale_url": "https://itch.io/s/212180/halloween-sale",
-      "expires": "2026-11-05T03:13:00.000Z",
-      "expires_raw": "2026-11-05T03:13:00Z"
+      "id": "2352093",
+      "title": "Guy Fawkes & The Gun Powder Plot",
+      "url": "https://jbo.itch.io/guy-fawkes-the-gun-powder-plot",
+      "author": "JBo",
+      "author_url": "https://jbo.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzEzOTMyNzg3LmpwZw==/315x250%23c/P23skG.jpg",
+      "genre": "Educational",
+      "blurb": "A story heavy game about British Guy Fawkes day/ Bonfire night",
+      "sale_url": "https://itch.io/s/202866/free-british-bonfire-night-the-thanksgiving-of-the-uk",
+      "expires": "2026-11-08T03:46:00.000Z",
+      "expires_raw": "2026-11-08T03:46:00Z"
+    },
+    {
+      "id": "2298905",
+      "title": "The Luddites A Local Revolt",
+      "url": "https://jbo.itch.io/the-luddites-a-local-revolt",
+      "author": "JBo",
+      "author_url": "https://jbo.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzEzNjI5NTY3LnBuZw==/315x250%23c/yDqdFq.png",
+      "genre": "Role Playing",
+      "blurb": "A short history or revolt in old England",
+      "sale_url": "https://itch.io/s/202866/free-british-bonfire-night-the-thanksgiving-of-the-uk",
+      "expires": "2026-11-08T03:46:00.000Z",
+      "expires_raw": "2026-11-08T03:46:00Z"
     },
     {
       "id": "2265537",
@@ -994,19 +955,6 @@
       "expires_raw": "2026-11-29T23:00:00Z"
     },
     {
-      "id": "1560585",
-      "title": "Project Malice",
-      "url": "https://aplovestudio.itch.io/malice",
-      "author": "aplove",
-      "author_url": "https://aplovestudio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzEwOTM4NTk3LnBuZw==/315x250%23c/57bpuy.png",
-      "genre": "Shooter",
-      "blurb": "roguelike about a ruined earth",
-      "sale_url": "https://itch.io/s/212180/halloween-sale",
-      "expires": "2026-11-05T03:13:00.000Z",
-      "expires_raw": "2026-11-05T03:13:00Z"
-    },
-    {
       "id": "1508937",
       "title": "Baldi's Basics Songkran In Education And Learning X",
       "url": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
@@ -1033,19 +981,6 @@
       "expires_raw": "2026-11-24T00:00:00Z"
     },
     {
-      "id": "50053",
-      "title": "CTHON",
-      "url": "https://gravitygames.itch.io/cthon",
-      "author": "GravityGames",
-      "author_url": "https://gravitygames.itch.io/",
-      "image": "https://img.itch.zone/aW1hZ2UvNTAwNTMvMzUwNjU4LnBuZw==/315x250%23c/phvLg7.png",
-      "genre": "Shooter",
-      "blurb": "Battle the legions of the damned in the depths of space - and beyond.",
-      "sale_url": "https://itch.io/s/213562/evil-never-dies",
-      "expires": "2026-11-05T06:59:00.000Z",
-      "expires_raw": "2026-11-05T06:59:00Z"
-    },
-    {
       "id": "1119726",
       "title": "Dracula Memory Puzzle",
       "url": "https://unaux-25917242.itch.io/dracula-memory-puzzle",
@@ -1057,32 +992,6 @@
       "sale_url": "https://itch.io/s/201868/morse-comunikator-free-and-more",
       "expires": "2026-11-30T17:02:00.000Z",
       "expires_raw": "2026-11-30T17:02:00Z"
-    },
-    {
-      "id": "612904",
-      "title": "Roseblight",
-      "url": "https://aplovestudio.itch.io/roseblight",
-      "author": "aplove",
-      "author_url": "https://aplovestudio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzY4MTUxMjQucG5n/315x250%23c/M9izRy.png",
-      "genre": "Adventure",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/212180/halloween-sale",
-      "expires": "2026-11-05T03:13:00.000Z",
-      "expires_raw": "2026-11-05T03:13:00Z"
-    },
-    {
-      "id": "346579",
-      "title": "Buckler 2",
-      "url": "https://aplovestudio.itch.io/buckler2",
-      "author": "aplove",
-      "author_url": "https://aplovestudio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwNzkyODAuZ2lm/315x250%23c/oQgAEp.gif",
-      "genre": "Platformer",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/212180/halloween-sale",
-      "expires": "2026-11-05T03:13:00.000Z",
-      "expires_raw": "2026-11-05T03:13:00Z"
     },
     {
       "id": "223069",

@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-06T02:39:29.707Z",
-  "pages_scraped": 27,
-  "total_found": 77,
+  "scraped_at": "2026-11-06T09:51:50.505Z",
+  "pages_scraped": 28,
+  "total_found": 81,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -84,6 +84,19 @@
       "expires_raw": "2026-11-30T13:15:00Z"
     },
     {
+      "id": "5278975",
+      "title": "CREAK",
+      "url": "https://ji10-games.itch.io/creak",
+      "author": "Ji+10 Studios",
+      "author_url": "https://ji10-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNjc1MjU2LnBuZw==/315x250%23c/O6XBeM.png",
+      "genre": "Survival",
+      "blurb": "Something is opening your doors and windows. Close them all before it gets in.",
+      "sale_url": "https://itch.io/s/216229/ji10-games-sale",
+      "expires": "2026-12-06T05:41:00.000Z",
+      "expires_raw": "2026-12-06T05:41:00Z"
+    },
+    {
       "id": "5263487",
       "title": "Baba",
       "url": "https://light-inspiration-studio.itch.io/baba",
@@ -108,6 +121,19 @@
       "sale_url": "https://itch.io/s/215881/halloween-sale-2026",
       "expires": "2026-11-14T23:00:00.000Z",
       "expires_raw": "2026-11-14T23:00:00Z"
+    },
+    {
+      "id": "5241412",
+      "title": "Don't Finish the Donut",
+      "url": "https://ji10-games.itch.io/dont-finish-the-donut",
+      "author": "Ji+10 Studios",
+      "author_url": "https://ji10-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNDIzNTUxLnBuZw==/315x250%23c/f6B7Zh.png",
+      "genre": "Adventure",
+      "blurb": "Spot the anomaly in a lonely night diner, or start over from Day 1.”",
+      "sale_url": "https://itch.io/s/216229/ji10-games-sale",
+      "expires": "2026-12-06T05:41:00.000Z",
+      "expires_raw": "2026-12-06T05:41:00Z"
     },
     {
       "id": "5236855",
@@ -199,6 +225,19 @@
       "sale_url": "https://itch.io/s/213923/halloween-sale-project-wild-weasel",
       "expires": "2026-11-12T18:02:00.000Z",
       "expires_raw": "2026-11-12T18:02:00Z"
+    },
+    {
+      "id": "5196465",
+      "title": "Mind the Clown: Reborn (Demo)",
+      "url": "https://coastcitygames.itch.io/mind-the-clown-reborn",
+      "author": "Coast City Games",
+      "author_url": "https://coastcitygames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTI4MDExLnBuZw==/315x250%23c/sWuC1Y.png",
+      "genre": "Adventure",
+      "blurb": "Survive a cursed circus twisted by childhood memories.",
+      "sale_url": "https://itch.io/s/216250/flash-sale",
+      "expires": "2026-11-30T04:08:00.000Z",
+      "expires_raw": "2026-11-30T04:08:00Z"
     },
     {
       "id": "5094265",
@@ -303,6 +342,19 @@
       "sale_url": "https://itch.io/s/210229/bubuworks-free-halloween-sale-2026",
       "expires": "2026-11-12T18:00:00.000Z",
       "expires_raw": "2026-11-12T18:00:00Z"
+    },
+    {
+      "id": "5038769",
+      "title": "What Grandpa Left",
+      "url": "https://ji10-games.itch.io/what-grandpa-left",
+      "author": "Ji+10 Studios",
+      "author_url": "https://ji10-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwMTcwMzE5LnBuZw==/315x250%23c/FMPcdz.png",
+      "genre": "Adventure",
+      "blurb": "A PSX-style horror game about inheriting a farm that isn't as quiet as it looks.",
+      "sale_url": "https://itch.io/s/216229/ji10-games-sale",
+      "expires": "2026-12-06T05:41:00.000Z",
+      "expires_raw": "2026-12-06T05:41:00Z"
     },
     {
       "id": "5017122",

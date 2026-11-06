@@ -1046,5 +1046,13 @@
   "https://itch.io/s/215825/prerelease-demo-sale": {
     "raw": "2026-12-01T08:49:00Z",
     "iso": "2026-12-01T08:49:00.000Z"
+  },
+  "https://itch.io/s/216131/promotion-special": {
+    "raw": "2026-11-30T13:15:00Z",
+    "iso": "2026-11-30T13:15:00.000Z"
+  },
+  "https://itch.io/s/216052/free-weekend": {
+    "raw": "2026-11-09T00:00:00Z",
+    "iso": "2026-11-09T00:00:00.000Z"
   }
 }

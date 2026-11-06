@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-05T22:21:08.747Z",
+  "scraped_at": "2026-11-06T02:39:29.707Z",
   "pages_scraped": 27,
-  "total_found": 79,
+  "total_found": 77,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5304037",
+      "title": "DOG SHOW",
+      "url": "https://theo-tgames.itch.io/dog-show",
+      "author": "Theo T’GAMES",
+      "author_url": "https://theo-tgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODU0MTcxLnBuZw==/315x250%23c/TWvNI%2B.png",
+      "genre": "Rhythm",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/216131/promotion-special",
+      "expires": "2026-11-30T13:15:00.000Z",
+      "expires_raw": "2026-11-30T13:15:00Z"
+    },
     {
       "id": "5301311",
       "title": "DEAD AIR",
@@ -56,6 +69,19 @@
       "sale_url": "https://itch.io/s/215832/halloween-sale-2026",
       "expires": "2026-11-30T18:00:00.000Z",
       "expires_raw": "2026-11-30T18:00:00Z"
+    },
+    {
+      "id": "5294753",
+      "title": "Shenx e amigos - Resgate da Sun",
+      "url": "https://theo-tgames.itch.io/shenx-e-amigos-resgate-da-sun",
+      "author": "Theo T’GAMES",
+      "author_url": "https://theo-tgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNzg1NDcyLnBuZw==/315x250%23c/0LzSn%2F.png",
+      "genre": "Platformer",
+      "blurb": "Viaje por uma aventura mega legal de plataforma!",
+      "sale_url": "https://itch.io/s/216131/promotion-special",
+      "expires": "2026-11-30T13:15:00.000Z",
+      "expires_raw": "2026-11-30T13:15:00Z"
     },
     {
       "id": "5263487",
@@ -136,6 +162,19 @@
       "expires_raw": "2026-11-08T04:00:00Z"
     },
     {
+      "id": "5209396",
+      "title": "Dummy ER: Ragdoll Physics Game",
+      "url": "https://omis-games.itch.io/dummy-er-ragdoll-physics-game",
+      "author": "OMIS GAMES",
+      "author_url": "https://omis-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg",
+      "genre": "Simulation",
+      "blurb": "Free ragdoll sandbox: realistic cuts, bones snapping on X-ray, guns and surgery. Break dummy 07, then save him.",
+      "sale_url": "https://itch.io/s/215227/dummy-er-halloween-sale-2026",
+      "expires": "2026-11-04T18:00:00.000Z",
+      "expires_raw": "2026-11-04T18:00:00Z"
+    },
+    {
       "id": "5216042",
       "title": "Alex",
       "url": "https://jonathan-linux.itch.io/alex",
@@ -199,6 +238,19 @@
       "sale_url": "https://itch.io/s/198573/support-dont-leave-",
       "expires": "2026-11-30T12:54:00.000Z",
       "expires_raw": "2026-11-30T12:54:00Z"
+    },
+    {
+      "id": "5160346",
+      "title": "Agnadul",
+      "url": "https://leshii413.itch.io/agnadulofficial",
+      "author": "Leshii413",
+      "author_url": "https://leshii413.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwODk4NjIzLnBuZw==/315x250%23c/psGi0V.png",
+      "genre": "Simulation",
+      "blurb": "Version 0.8.00 - Alpha Full Version, Alpha Demo version of the game. Pre-Alpha MAC Version playable, but outdated.",
+      "sale_url": "https://itch.io/s/216052/free-weekend",
+      "expires": "2026-11-09T00:00:00.000Z",
+      "expires_raw": "2026-11-09T00:00:00Z"
     },
     {
       "id": "5148758",
@@ -474,32 +526,6 @@
       "expires_raw": "2026-11-12T18:00:00Z"
     },
     {
-      "id": "4669793",
-      "title": "The Enemy",
-      "url": "https://worsteventgames.itch.io/the-enemy",
-      "author": "Worst Event Games",
-      "author_url": "https://worsteventgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI3ODc1NTE4LnBuZw==/315x250%23c/Birnuj.png",
-      "genre": "Action",
-      "blurb": "Riding through the woods on a mission with your pal.",
-      "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-11-05T22:54:00.000Z",
-      "expires_raw": "2026-11-05T22:54:00Z"
-    },
-    {
-      "id": "4551771",
-      "title": "Backrooms Crawlers",
-      "url": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "author": "Worst Event Games",
-      "author_url": "https://worsteventgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI3MTcwMzA2LnBuZw==/315x250%23c/Zd2zRm.png",
-      "genre": "Role Playing",
-      "blurb": "An Incremental Dungeon Crawler",
-      "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-11-05T22:54:00.000Z",
-      "expires_raw": "2026-11-05T22:54:00Z"
-    },
-    {
       "id": "4565310",
       "title": "Last Friday",
       "url": "https://reganc.itch.io/last-friday",
@@ -721,19 +747,6 @@
       "expires_raw": "2026-11-06T18:00:00Z"
     },
     {
-      "id": "3858283",
-      "title": "Very Realistic Game Dev Simulator",
-      "url": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-      "author": "Worst Event Games",
-      "author_url": "https://worsteventgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png",
-      "genre": "Simulation",
-      "blurb": "I’d better start working on the game. I’ve run out of cigarettes again.",
-      "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-11-05T22:54:00.000Z",
-      "expires_raw": "2026-11-05T22:54:00Z"
-    },
-    {
       "id": "3799948",
       "title": "Dream Holiday",
       "url": "https://baris1.itch.io/dream-holiday",
@@ -773,19 +786,6 @@
       "expires_raw": "2026-11-08T22:50:00Z"
     },
     {
-      "id": "3411949",
-      "title": "At Sixes And Sevens Case I",
-      "url": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-      "author": "Worst Event Games",
-      "author_url": "https://worsteventgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png",
-      "genre": "Interactive Fiction",
-      "blurb": "A PSX Detective Mystery Game",
-      "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-11-05T22:54:00.000Z",
-      "expires_raw": "2026-11-05T22:54:00Z"
-    },
-    {
       "id": "3405495",
       "title": "Liminal Lane",
       "url": "https://ravenhome.itch.io/liminal-lane",
@@ -799,19 +799,6 @@
       "expires_raw": "2026-11-30T12:56:00Z"
     },
     {
-      "id": "2982722",
-      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-      "url": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-      "author": "Worst Event Games",
-      "author_url": "https://worsteventgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg",
-      "genre": "Card Game",
-      "blurb": "As a missionary, you go to spread your message to a wicked man.  He, however, wants to play a card game with you.",
-      "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-11-05T22:54:00.000Z",
-      "expires_raw": "2026-11-05T22:54:00Z"
-    },
-    {
       "id": "2393159",
       "title": "THE MIDNIGHT BUS",
       "url": "https://itandfeel.itch.io/the-midnight-bus",
@@ -823,19 +810,6 @@
       "sale_url": "https://itch.io/s/171469/the-midnight-bus-remake",
       "expires": "2026-11-06T20:40:00.000Z",
       "expires_raw": "2026-11-06T20:40:00Z"
-    },
-    {
-      "id": "2680770",
-      "title": "Cherophobia",
-      "url": "https://worsteventgames.itch.io/cherophobia",
-      "author": "Worst Event Games",
-      "author_url": "https://worsteventgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg",
-      "genre": "Adventure",
-      "blurb": "​You find yourself stranded in a forest after your car breaks down.",
-      "sale_url": "https://itch.io/s/197970/fall-sale",
-      "expires": "2026-11-05T22:54:00.000Z",
-      "expires_raw": "2026-11-05T22:54:00Z"
     },
     {
       "id": "2577979",

@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-06T17:03:42.918Z",
-  "pages_scraped": 29,
-  "total_found": 84,
+  "scraped_at": "2026-11-06T22:01:43.841Z",
+  "pages_scraped": 27,
+  "total_found": 83,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -245,7 +245,7 @@
       "url": "https://dephra.itch.io/charta-mundi",
       "author": "dephra",
       "author_url": "https://dephra.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMTAyNTEzLnBuZw==/315x250%23c/5Rb9CJ.png",
+      "image": "https://img.itch.zone/aW1nLzMxOTAyMjk1LnBuZw==/315x250%23c/y7lQKi.png",
       "genre": "Strategy",
       "blurb": "A map based Strategy game.",
       "sale_url": "https://itch.io/s/216307/charta-mundi",
@@ -277,19 +277,6 @@
       "sale_url": "https://itch.io/s/214252/flash-sale",
       "expires": "2026-11-07T13:30:00.000Z",
       "expires_raw": "2026-11-07T13:30:00Z"
-    },
-    {
-      "id": "5169400",
-      "title": "Family Manners",
-      "url": "https://nney.itch.io/family-manners",
-      "author": "Ney",
-      "author_url": "https://nney.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
-      "genre": "Adventure",
-      "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
-      "sale_url": "https://itch.io/s/214377/family-manners",
-      "expires": "2026-11-06T21:12:00.000Z",
-      "expires_raw": "2026-11-06T21:12:00Z"
     },
     {
       "id": "5135178",
@@ -591,6 +578,19 @@
       "expires_raw": "2026-11-24T15:00:00Z"
     },
     {
+      "id": "4792265",
+      "title": "A Backrooms Escape",
+      "url": "https://rabbit3d-studio-games.itch.io/a-backrooms-escape",
+      "author": "Rabbit3d Studios",
+      "author_url": "https://rabbit3d-studio-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwOTkwMTgyLnBuZw==/315x250%23c/mqaI4Z.png",
+      "genre": "Survival",
+      "blurb": "Survival , first-person,  psychological , backrooms",
+      "sale_url": "https://itch.io/s/216406/a-backrooms-escape-sale",
+      "expires": "2026-11-09T20:44:00.000Z",
+      "expires_raw": "2026-11-09T20:44:00Z"
+    },
+    {
       "id": "3986156",
       "title": "Static Voice",
       "url": "https://kadderagames.itch.io/static-voice",
@@ -823,19 +823,6 @@
       "sale_url": "https://itch.io/s/215924/penance-100-off",
       "expires": "2026-11-11T16:45:00.000Z",
       "expires_raw": "2026-11-11T16:45:00Z"
-    },
-    {
-      "id": "3789917",
-      "title": "Liho",
-      "url": "https://merai.itch.io/liho",
-      "author": "merai",
-      "author_url": "https://merai.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI0NzE5NTc1LmdpZg==/315x250%23c/gtPhq2.gif",
-      "genre": "Survival",
-      "blurb": "City Emergency Broadcast: Try to survive until morning",
-      "sale_url": "https://itch.io/s/205407/merais-sale-100",
-      "expires": "2026-11-06T18:00:00.000Z",
-      "expires_raw": "2026-11-06T18:00:00Z"
     },
     {
       "id": "3799948",

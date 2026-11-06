@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-06T09:51:50.505Z",
-  "pages_scraped": 28,
-  "total_found": 81,
+  "scraped_at": "2026-11-06T17:03:42.918Z",
+  "pages_scraped": 29,
+  "total_found": 84,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5304512",
+      "title": "Flintlock Fast-Food",
+      "url": "https://caynman.itch.io/flintlock-fast-food",
+      "author": "Caynman",
+      "author_url": "https://caynman.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png",
+      "genre": "Action",
+      "blurb": "Ale, Pork and Flintlocks",
+      "sale_url": "https://itch.io/s/216329/free-99",
+      "expires": "2026-11-07T04:59:00.000Z",
+      "expires_raw": "2026-11-07T04:59:00Z"
+    },
     {
       "id": "5304037",
       "title": "DOG SHOW",
@@ -58,6 +71,19 @@
       "expires_raw": "2026-11-11T20:59:00Z"
     },
     {
+      "id": "5298772",
+      "title": "RC Flyer: Model Plane & Helicopter Simulator",
+      "url": "https://emberlineworld.itch.io/rc-flyer-model-plane-helicopter-simulator",
+      "author": "emberlineworld",
+      "author_url": "https://emberlineworld.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODEzODY5LnBuZw==/315x250%23c/1cXkd2.png",
+      "genre": "Simulation",
+      "blurb": "Fly with your real radio or the keyboard: 11 aircraft, real wind, and drills that score you.",
+      "sale_url": "https://itch.io/s/216354/limited-free-offer",
+      "expires": "2026-11-23T04:50:00.000Z",
+      "expires_raw": "2026-11-23T04:50:00Z"
+    },
+    {
       "id": "5284632",
       "title": "Don't Come First",
       "url": "https://scrap-yard-games.itch.io/dont-come-first",
@@ -84,6 +110,19 @@
       "expires_raw": "2026-11-30T13:15:00Z"
     },
     {
+      "id": "5294808",
+      "title": "Wonders of the Hidden World",
+      "url": "https://emberlineworld.itch.io/wonders-of-the-hidden-world",
+      "author": "emberlineworld",
+      "author_url": "https://emberlineworld.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNzgzNTUxLnBuZw==/315x250%23c/FotJnM.png",
+      "genre": "Adventure",
+      "blurb": "Long ago, the world hid its greatest wonders. Find them with your camera, lens and microscope.",
+      "sale_url": "https://itch.io/s/216354/limited-free-offer",
+      "expires": "2026-11-23T04:50:00.000Z",
+      "expires_raw": "2026-11-23T04:50:00Z"
+    },
+    {
       "id": "5278975",
       "title": "CREAK",
       "url": "https://ji10-games.itch.io/creak",
@@ -95,32 +134,6 @@
       "sale_url": "https://itch.io/s/216229/ji10-games-sale",
       "expires": "2026-12-06T05:41:00.000Z",
       "expires_raw": "2026-12-06T05:41:00Z"
-    },
-    {
-      "id": "5263487",
-      "title": "Baba",
-      "url": "https://light-inspiration-studio.itch.io/baba",
-      "author": "Light Inspiration Studio",
-      "author_url": "https://light-inspiration-studio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNTcwODcwLnBuZw==/315x250%23c/ZAye2s.png",
-      "genre": "Survival",
-      "blurb": "Hide-and-Seek",
-      "sale_url": "https://itch.io/s/214204/halloween-sale-2026",
-      "expires": "2026-11-06T12:00:00.000Z",
-      "expires_raw": "2026-11-06T12:00:00Z"
-    },
-    {
-      "id": "5257425",
-      "title": "Pitch Riot",
-      "url": "https://cphoenix.itch.io/pitch-riot",
-      "author": "cPhoenix",
-      "author_url": "https://cphoenix.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNTI5MDUwLnBuZw==/315x250%23c/v0BgSD.png",
-      "genre": "Action",
-      "blurb": "One striker. A whole rival team. Survive 30 minutes of football mayhem.",
-      "sale_url": "https://itch.io/s/215881/halloween-sale-2026",
-      "expires": "2026-11-14T23:00:00.000Z",
-      "expires_raw": "2026-11-14T23:00:00Z"
     },
     {
       "id": "5241412",
@@ -227,6 +240,19 @@
       "expires_raw": "2026-11-12T18:02:00Z"
     },
     {
+      "id": "5192559",
+      "title": "Charta Mundi",
+      "url": "https://dephra.itch.io/charta-mundi",
+      "author": "dephra",
+      "author_url": "https://dephra.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTAyNTEzLnBuZw==/315x250%23c/5Rb9CJ.png",
+      "genre": "Strategy",
+      "blurb": "A map based Strategy game.",
+      "sale_url": "https://itch.io/s/216307/charta-mundi",
+      "expires": "2026-11-13T09:00:00.000Z",
+      "expires_raw": "2026-11-13T09:00:00Z"
+    },
+    {
       "id": "5196465",
       "title": "Mind the Clown: Reborn (Demo)",
       "url": "https://coastcitygames.itch.io/mind-the-clown-reborn",
@@ -305,6 +331,19 @@
       "expires_raw": "2026-11-13T05:59:00Z"
     },
     {
+      "id": "5145691",
+      "title": "Little Worlds",
+      "url": "https://emberlineworld.itch.io/little-worlds",
+      "author": "emberlineworld",
+      "author_url": "https://emberlineworld.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwODA1MTQ3LnBuZw==/315x250%23c/c0dc38.png",
+      "genre": "Simulation",
+      "blurb": "Build a colony on a tiny planet where you can see the horizon curve.",
+      "sale_url": "https://itch.io/s/216354/limited-free-offer",
+      "expires": "2026-11-23T04:50:00.000Z",
+      "expires_raw": "2026-11-23T04:50:00Z"
+    },
+    {
       "id": "5129443",
       "title": "Sleep in Fear",
       "url": "https://bennyboygames.itch.io/sleep-in-fear",
@@ -342,6 +381,19 @@
       "sale_url": "https://itch.io/s/210229/bubuworks-free-halloween-sale-2026",
       "expires": "2026-11-12T18:00:00.000Z",
       "expires_raw": "2026-11-12T18:00:00Z"
+    },
+    {
+      "id": "4298360",
+      "title": "Evertrust Life And Beyond (Full Game)",
+      "url": "https://after-life-craft.itch.io/evertrust-life-beyond",
+      "author": "After Life Craft",
+      "author_url": "https://after-life-craft.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2NjA3OTM3LnBuZw==/315x250%23c/1AiyLq.png",
+      "genre": "Adventure",
+      "blurb": "A narrative-driven psychological horror set inside an insurance office where some things refuse to stay buried.",
+      "sale_url": "https://itch.io/s/216328/november-policy-violation-prices-murdered",
+      "expires": "2026-11-14T12:30:00.000Z",
+      "expires_raw": "2026-11-14T12:30:00Z"
     },
     {
       "id": "5038769",
@@ -394,19 +446,6 @@
       "sale_url": "https://itch.io/s/210781/franks-trail",
       "expires": "2026-11-08T11:06:00.000Z",
       "expires_raw": "2026-11-08T11:06:00Z"
-    },
-    {
-      "id": "4972695",
-      "title": "Levov School",
-      "url": "https://light-inspiration-studio.itch.io/levov-school",
-      "author": "Light Inspiration Studio",
-      "author_url": "https://light-inspiration-studio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5NzYyNjUzLnBuZw==/315x250%23c/%2FglPFL.png",
-      "genre": "Survival",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/214204/halloween-sale-2026",
-      "expires": "2026-11-06T12:00:00.000Z",
-      "expires_raw": "2026-11-06T12:00:00Z"
     },
     {
       "id": "4739386",

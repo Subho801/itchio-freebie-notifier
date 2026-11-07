@@ -1,23 +1,10 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-07T01:49:41.705Z",
+  "scraped_at": "2026-11-07T07:50:41.627Z",
   "pages_scraped": 28,
-  "total_found": 83,
+  "total_found": 80,
   "stopped_reason": "last_page_reached",
   "games": [
-    {
-      "id": "5304512",
-      "title": "Flintlock Fast-Food",
-      "url": "https://caynman.itch.io/flintlock-fast-food",
-      "author": "Caynman",
-      "author_url": "https://caynman.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png",
-      "genre": "Action",
-      "blurb": "Ale, Pork and Flintlocks",
-      "sale_url": "https://itch.io/s/216329/free-99",
-      "expires": "2026-11-07T04:59:00.000Z",
-      "expires_raw": "2026-11-07T04:59:00Z"
-    },
     {
       "id": "5304037",
       "title": "DOG SHOW",
@@ -147,32 +134,6 @@
       "sale_url": "https://itch.io/s/216229/ji10-games-sale",
       "expires": "2026-12-06T05:41:00.000Z",
       "expires_raw": "2026-12-06T05:41:00Z"
-    },
-    {
-      "id": "5236855",
-      "title": "Entry Vector",
-      "url": "https://athanode.itch.io/entry-vector",
-      "author": "Athanode Game Studio",
-      "author_url": "https://athanode.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNDAxNDY0LnBuZw==/315x250%23c/a9bVGl.png",
-      "genre": "Simulation",
-      "blurb": "Atmospheric reentry simulator. Manage critical heat, dynamic pressure & G-forces. It's survival",
-      "sale_url": "https://itch.io/s/210991/halloween-sale",
-      "expires": "2026-11-07T02:58:00.000Z",
-      "expires_raw": "2026-11-07T02:58:00Z"
-    },
-    {
-      "id": "5142929",
-      "title": "Tekkk[Prototype]",
-      "url": "https://abc3dz.itch.io/tekkk",
-      "author": "ABC3Dz",
-      "author_url": "https://abc3dz.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwNzg1MDcwLnBuZw==/315x250%23c/Zd2wSB.png",
-      "genre": "Action",
-      "blurb": "A 3D Action-Adventure. No weapons. Just fists, combos, and elemental mastery.",
-      "sale_url": "https://itch.io/s/214123/lets-play",
-      "expires": "2026-11-07T04:05:00.000Z",
-      "expires_raw": "2026-11-07T04:05:00Z"
     },
     {
       "id": "5229050",

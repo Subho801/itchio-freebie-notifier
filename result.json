@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-07T19:00:48.387Z",
+  "scraped_at": "2026-11-07T22:40:14.912Z",
   "pages_scraped": 28,
-  "total_found": 86,
+  "total_found": 88,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -24,7 +24,7 @@
       "url": "https://epicurusgames.itch.io/mosslight-hollow",
       "author": "Eppie",
       "author_url": "https://epicurusgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxOTE0NDIxLmpwZw==/315x250%23c/1JweMa.jpg",
+      "image": "https://img.itch.zone/aW1nLzMxOTU0Nzk3LmdpZg==/315x250%23c/Uwxumr.gif",
       "genre": "Simulation",
       "blurb": "Build a cozy woodland colony. Grow food, forge friendships, and defend the home you make.",
       "sale_url": "https://itch.io/s/216535/mosslight-hollow-free-for-3-days",
@@ -290,6 +290,32 @@
       "sale_url": "https://itch.io/s/214252/flash-sale",
       "expires": "2026-11-07T13:30:00.000Z",
       "expires_raw": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "5163894",
+      "title": "Syntra",
+      "url": "https://syntra.itch.io/syntra",
+      "author": "SyntraDev",
+      "author_url": "https://syntra.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNDMxMDQ5LnBuZw==/315x250%23c/V7iDTT.png",
+      "genre": "Action",
+      "blurb": "Master sword-and-shield combat, collect powerful relics and conquer five corrupted dungeons.",
+      "sale_url": "https://itch.io/s/216595/syntra-100-free",
+      "expires": "2026-11-14T22:37:00.000Z",
+      "expires_raw": "2026-11-14T22:37:00Z"
+    },
+    {
+      "id": "5169400",
+      "title": "Family Manners",
+      "url": "https://nney.itch.io/family-manners",
+      "author": "Ney",
+      "author_url": "https://nney.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
+      "genre": "Adventure",
+      "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
+      "sale_url": "https://itch.io/s/216565/family-manners",
+      "expires": "2026-11-21T20:05:00.000Z",
+      "expires_raw": "2026-11-21T20:05:00Z"
     },
     {
       "id": "5135178",

@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-07T14:33:12.674Z",
+  "scraped_at": "2026-11-07T19:00:48.387Z",
   "pages_scraped": 28,
   "total_found": 86,
   "stopped_reason": "last_page_reached",
@@ -17,6 +17,19 @@
       "sale_url": "https://itch.io/s/216498/last-light-launch-week-",
       "expires": "2026-11-13T09:44:00.000Z",
       "expires_raw": "2026-11-13T09:44:00Z"
+    },
+    {
+      "id": "5312574",
+      "title": "Mosslight Hollow",
+      "url": "https://epicurusgames.itch.io/mosslight-hollow",
+      "author": "Eppie",
+      "author_url": "https://epicurusgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxOTE0NDIxLmpwZw==/315x250%23c/1JweMa.jpg",
+      "genre": "Simulation",
+      "blurb": "Build a cozy woodland colony. Grow food, forge friendships, and defend the home you make.",
+      "sale_url": "https://itch.io/s/216535/mosslight-hollow-free-for-3-days",
+      "expires": "2026-11-10T14:34:00.000Z",
+      "expires_raw": "2026-11-10T14:34:00Z"
     },
     {
       "id": "4551771",
@@ -208,7 +221,7 @@
       "author_url": "https://omis-games.itch.io/",
       "image": "https://img.itch.zone/aW1nLzMxNzc1NzE5LmpwZWc=/315x250%23c/lwFpS%2F.jpeg",
       "genre": "Simulation",
-      "blurb": "Free ragdoll sandbox: realistic cuts, bones snapping on X-ray, guns and surgery. Break dummy 07, then save him.",
+      "blurb": "Ragdoll ER sandbox: see each bullet's path on X-ray, watch dummy 07 limp, crawl and burn, then save him.",
       "sale_url": "https://itch.io/s/215227/dummy-er-halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
@@ -329,19 +342,6 @@
       "sale_url": "https://itch.io/s/216354/limited-free-offer",
       "expires": "2026-11-23T04:50:00.000Z",
       "expires_raw": "2026-11-23T04:50:00Z"
-    },
-    {
-      "id": "5129443",
-      "title": "Sleep in Fear",
-      "url": "https://bennyboygames.itch.io/sleep-in-fear",
-      "author": "BennyBoy",
-      "author_url": "https://bennyboygames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif",
-      "genre": "Adventure",
-      "blurb": "A PSX-style sleep paralysis horror game",
-      "sale_url": "https://itch.io/s/214042/sleep-in-fear-halloween-sale-2026",
-      "expires": "2026-11-07T18:00:00.000Z",
-      "expires_raw": "2026-11-07T18:00:00Z"
     },
     {
       "id": "5102250",

@@ -1,10 +1,49 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-07T07:50:41.627Z",
+  "scraped_at": "2026-11-07T14:33:12.674Z",
   "pages_scraped": 28,
-  "total_found": 80,
+  "total_found": 86,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5302106",
+      "title": "Last Light",
+      "url": "https://digitaldro.itch.io/last-light",
+      "author": "Digital Dro",
+      "author_url": "https://digitaldro.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODQxOTM2LmdpZg==/315x250%23c/Pb9GJe.gif",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/216498/last-light-launch-week-",
+      "expires": "2026-11-13T09:44:00.000Z",
+      "expires_raw": "2026-11-13T09:44:00Z"
+    },
+    {
+      "id": "4551771",
+      "title": "Backrooms Crawlers",
+      "url": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "author": "Worst Event Games",
+      "author_url": "https://worsteventgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png",
+      "genre": "Role Playing",
+      "blurb": "An Incremental Dungeon Crawler",
+      "sale_url": "https://itch.io/s/216490/next-level-fund-raising",
+      "expires": "2026-11-21T08:07:00.000Z",
+      "expires_raw": "2026-11-21T08:07:00Z"
+    },
+    {
+      "id": "5304512",
+      "title": "Flintlock Fast-Food",
+      "url": "https://caynman.itch.io/flintlock-fast-food",
+      "author": "Caynman",
+      "author_url": "https://caynman.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png",
+      "genre": "Action",
+      "blurb": "Ale, Pork and Flintlocks",
+      "sale_url": "https://itch.io/s/216525/freaknd",
+      "expires": "2026-11-09T13:25:00.000Z",
+      "expires_raw": "2026-11-09T13:25:00Z"
+    },
     {
       "id": "5304037",
       "title": "DOG SHOW",
@@ -604,19 +643,6 @@
       "expires_raw": "2026-11-11T18:00:00Z"
     },
     {
-      "id": "4329027",
-      "title": "MiniMine",
-      "url": "https://foca-do-estudios.itch.io/minimine",
-      "author": "Foca-do Estúdios",
-      "author_url": "https://foca-do-estudios.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI1ODQ1MDgxLnBuZw==/315x250%23c/pa7ll5.png",
-      "genre": "Adventure",
-      "blurb": "Jogo de exploração e construção de mundo procedural",
-      "sale_url": "https://itch.io/s/215331/teste",
-      "expires": "2026-11-07T11:35:00.000Z",
-      "expires_raw": "2026-11-07T11:35:00Z"
-    },
-    {
       "id": "4465335",
       "title": "mushy's big adventure",
       "url": "https://gusguidancegames.itch.io/mushys-big-adventure",
@@ -760,6 +786,19 @@
       "expires_raw": "2026-11-30T10:59:00Z"
     },
     {
+      "id": "3898794",
+      "title": "SUPER Euli Beuli",
+      "url": "https://roega.itch.io/super-euli-beuli",
+      "author": "ROEGA™",
+      "author_url": "https://roega.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzNTc1ODEwLmpwZw==/315x250%23c/TaQrjR.jpg",
+      "genre": "Platformer",
+      "blurb": "A little owl. A big adventure.",
+      "sale_url": "https://itch.io/s/216411/november-sale",
+      "expires": "2026-11-10T22:00:00.000Z",
+      "expires_raw": "2026-11-10T22:00:00Z"
+    },
+    {
       "id": "3891802",
       "title": "Backmare",
       "url": "https://joao-acelino-official.itch.io/backmare",
@@ -838,6 +877,19 @@
       "expires_raw": "2026-11-30T12:56:00Z"
     },
     {
+      "id": "2950730",
+      "title": "Survivor",
+      "url": "https://soowekgames.itch.io/survivor",
+      "author": "SoowekGames",
+      "author_url": "https://soowekgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE3NjU5NDEzLnBuZw==/315x250%23c/8l3KxY.png",
+      "genre": "Shooter",
+      "blurb": "In mysterious, grim military facility you need to find Panaceum, cure for all disease.",
+      "sale_url": "https://itch.io/s/216524/sale-without-context",
+      "expires": "2026-11-30T13:21:00.000Z",
+      "expires_raw": "2026-11-30T13:21:00Z"
+    },
+    {
       "id": "2393159",
       "title": "THE MIDNIGHT BUS",
       "url": "https://itandfeel.itch.io/the-midnight-bus",
@@ -849,6 +901,19 @@
       "sale_url": "https://itch.io/s/171469/the-midnight-bus-remake",
       "expires": "2026-11-06T20:40:00.000Z",
       "expires_raw": "2026-11-06T20:40:00Z"
+    },
+    {
+      "id": "2740827",
+      "title": "Żmij Wyvern",
+      "url": "https://soowekgames.itch.io/mij-wyvern",
+      "author": "SoowekGames",
+      "author_url": "https://soowekgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE2MzUyOTYyLnBuZw==/315x250%23c/Hx29vi.png",
+      "genre": "Adventure",
+      "blurb": "Discover story of Czersk's wyvern",
+      "sale_url": "https://itch.io/s/216524/sale-without-context",
+      "expires": "2026-11-30T13:21:00.000Z",
+      "expires_raw": "2026-11-30T13:21:00Z"
     },
     {
       "id": "2577979",
@@ -979,6 +1044,19 @@
       "sale_url": "https://itch.io/s/199226/floors-for-free-",
       "expires": "2026-11-29T23:00:00.000Z",
       "expires_raw": "2026-11-29T23:00:00Z"
+    },
+    {
+      "id": "1756451",
+      "title": "Dungeon: Maze of Fate",
+      "url": "https://soowekgames.itch.io/dungeon-maze-of-fate",
+      "author": "SoowekGames",
+      "author_url": "https://soowekgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzEwMzUzODUxLnBuZw==/315x250%23c/R0ryVC.png",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/216524/sale-without-context",
+      "expires": "2026-11-30T13:21:00.000Z",
+      "expires_raw": "2026-11-30T13:21:00Z"
     },
     {
       "id": "1508937",

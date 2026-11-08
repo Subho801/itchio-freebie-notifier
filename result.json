@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-07T22:40:14.912Z",
+  "scraped_at": "2026-11-08T01:48:53.151Z",
   "pages_scraped": 28,
-  "total_found": 88,
+  "total_found": 87,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -537,19 +537,6 @@
       "sale_url": "https://itch.io/s/204619/indie-neuron-studio-free-games",
       "expires": "2026-11-14T04:02:00.000Z",
       "expires_raw": "2026-11-14T04:02:00Z"
-    },
-    {
-      "id": "4898590",
-      "title": "THE NIGHT TICKLER",
-      "url": "https://requiem-games-xoxo.itch.io/the-night-tickler",
-      "author": "Requiem Games",
-      "author_url": "https://requiem-games-xoxo.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNTk5MjM3LmpwZw==/315x250%23c/E2rBAR.jpg",
-      "genre": "Simulation",
-      "blurb": "psx horror game",
-      "sale_url": "https://itch.io/s/214463/halloween-yay-spooky",
-      "expires": "2026-11-08T00:26:00.000Z",
-      "expires_raw": "2026-11-08T00:26:00Z"
     },
     {
       "id": "4865475",

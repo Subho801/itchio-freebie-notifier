@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-08T08:02:09.405Z",
-  "pages_scraped": 28,
-  "total_found": 86,
+  "scraped_at": "2026-11-08T15:03:12.513Z",
+  "pages_scraped": 27,
+  "total_found": 84,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -435,19 +435,6 @@
       "expires_raw": "2026-11-18T02:40:00Z"
     },
     {
-      "id": "5012540",
-      "title": "Frank's Trail",
-      "url": "https://wiktor-games.itch.io/franks-trail",
-      "author": "Wiktor Games",
-      "author_url": "https://wiktor-games.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwMDA4ODMxLnBuZw==/315x250%23c/VVWdH7.png",
-      "genre": "Survival",
-      "blurb": "Voxel Horror Game",
-      "sale_url": "https://itch.io/s/210781/franks-trail",
-      "expires": "2026-11-08T11:06:00.000Z",
-      "expires_raw": "2026-11-08T11:06:00Z"
-    },
-    {
       "id": "4739386",
       "title": "Shadows We Share - Unaware",
       "url": "https://bennyboygames.itch.io/unaware",
@@ -547,9 +534,9 @@
       "image": "https://img.itch.zone/aW1nLzI4OTQ2MzYwLnBuZw==/315x250%23c/ZjdSCf.png",
       "genre": "Adventure",
       "blurb": "The next package is waiting.",
-      "sale_url": "https://itch.io/s/209701/100-sale",
-      "expires": "2026-11-08T08:46:00.000Z",
-      "expires_raw": "2026-11-08T08:46:00Z"
+      "sale_url": "https://itch.io/s/216681/100-sale",
+      "expires": "2026-11-22T10:57:00.000Z",
+      "expires_raw": "2026-11-22T10:57:00Z"
     },
     {
       "id": "4760803",
@@ -690,9 +677,9 @@
       "image": "https://img.itch.zone/aW1nLzIyOTg1MTMyLnBuZw==/315x250%23c/3DE%2FDo.png",
       "genre": "Adventure",
       "blurb": "Some doors should never be opened",
-      "sale_url": "https://itch.io/s/209701/100-sale",
-      "expires": "2026-11-08T08:46:00.000Z",
-      "expires_raw": "2026-11-08T08:46:00Z"
+      "sale_url": "https://itch.io/s/216681/100-sale",
+      "expires": "2026-11-22T10:57:00.000Z",
+      "expires_raw": "2026-11-22T10:57:00Z"
     },
     {
       "id": "4314628",
@@ -1031,19 +1018,6 @@
       "sale_url": "https://itch.io/s/198787/2026-fall-sale",
       "expires": "2026-11-19T05:00:00.000Z",
       "expires_raw": "2026-11-19T05:00:00Z"
-    },
-    {
-      "id": "1955177",
-      "title": "Floor unknown",
-      "url": "https://thehandcrafter.itch.io/floor-unknown",
-      "author": "TheHandCrafter",
-      "author_url": "https://thehandcrafter.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNjgyMjQyLnBuZw==/315x250%23c/um3cro.png",
-      "genre": "Puzzle",
-      "blurb": "Explore. Puzzle. Horror.",
-      "sale_url": "https://itch.io/s/199226/floors-for-free-",
-      "expires": "2026-11-29T23:00:00.000Z",
-      "expires_raw": "2026-11-29T23:00:00Z"
     },
     {
       "id": "1756451",

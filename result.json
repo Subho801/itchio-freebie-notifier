@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-08T01:48:53.151Z",
+  "scraped_at": "2026-11-08T08:02:09.405Z",
   "pages_scraped": 28,
-  "total_found": 87,
+  "total_found": 86,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -199,19 +199,6 @@
       "sale_url": "https://itch.io/s/213742/halloween-sale-",
       "expires": "2026-11-10T22:59:00.000Z",
       "expires_raw": "2026-11-10T22:59:00Z"
-    },
-    {
-      "id": "5229662",
-      "title": "Gridline GP",
-      "url": "https://crokedpixel.itch.io/gridline-gp",
-      "author": "crokedpixel",
-      "author_url": "https://crokedpixel.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMzQ2NDI3LnBuZw==/315x250%23c/OhyJVH.png",
-      "genre": "Racing",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/210779/halloween-sale-2026",
-      "expires": "2026-11-08T04:00:00.000Z",
-      "expires_raw": "2026-11-08T04:00:00Z"
     },
     {
       "id": "5209396",
@@ -864,6 +851,19 @@
       "expires_raw": "2026-11-10T21:59:00Z"
     },
     {
+      "id": "3614958",
+      "title": "Kill The Creator",
+      "url": "https://deeplookgames.itch.io/kill-the-creator",
+      "author": "DeepLookGames",
+      "author_url": "https://deeplookgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg",
+      "genre": "Adventure",
+      "blurb": "Just for Hardcore gamers",
+      "sale_url": "https://itch.io/s/215742/halloween",
+      "expires": "2026-12-04T18:00:00.000Z",
+      "expires_raw": "2026-12-04T18:00:00Z"
+    },
+    {
       "id": "3618213",
       "title": "Sir Apples Remastered",
       "url": "https://aerobison.itch.io/sir-apples",
@@ -875,6 +875,19 @@
       "sale_url": "https://itch.io/s/216021/sir-apples-remastered-free-copy",
       "expires": "2026-11-08T22:50:00.000Z",
       "expires_raw": "2026-11-08T22:50:00Z"
+    },
+    {
+      "id": "3142863",
+      "title": "It's Not Human",
+      "url": "https://deeplookgames.itch.io/its-not-human",
+      "author": "DeepLookGames",
+      "author_url": "https://deeplookgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE4ODY3MzQyLmpwZw==/315x250%23c/D8OeNq.jpg",
+      "genre": "Survival",
+      "blurb": "VHS Horror Game",
+      "sale_url": "https://itch.io/s/215742/halloween",
+      "expires": "2026-12-04T18:00:00.000Z",
+      "expires_raw": "2026-12-04T18:00:00Z"
     },
     {
       "id": "3405495",
@@ -940,32 +953,6 @@
       "sale_url": "https://itch.io/s/149951/free-100-off-sale",
       "expires": "2027-02-28T11:05:00.000Z",
       "expires_raw": "2027-02-28T11:05:00Z"
-    },
-    {
-      "id": "2352093",
-      "title": "Guy Fawkes & The Gun Powder Plot",
-      "url": "https://jbo.itch.io/guy-fawkes-the-gun-powder-plot",
-      "author": "JBo",
-      "author_url": "https://jbo.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzEzOTMyNzg3LmpwZw==/315x250%23c/P23skG.jpg",
-      "genre": "Educational",
-      "blurb": "A story heavy game about British Guy Fawkes day/ Bonfire night",
-      "sale_url": "https://itch.io/s/202866/free-british-bonfire-night-the-thanksgiving-of-the-uk",
-      "expires": "2026-11-08T03:46:00.000Z",
-      "expires_raw": "2026-11-08T03:46:00Z"
-    },
-    {
-      "id": "2298905",
-      "title": "The Luddites A Local Revolt",
-      "url": "https://jbo.itch.io/the-luddites-a-local-revolt",
-      "author": "JBo",
-      "author_url": "https://jbo.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzEzNjI5NTY3LnBuZw==/315x250%23c/yDqdFq.png",
-      "genre": "Role Playing",
-      "blurb": "A short history or revolt in old England",
-      "sale_url": "https://itch.io/s/202866/free-british-bonfire-night-the-thanksgiving-of-the-uk",
-      "expires": "2026-11-08T03:46:00.000Z",
-      "expires_raw": "2026-11-08T03:46:00Z"
     },
     {
       "id": "2293242",

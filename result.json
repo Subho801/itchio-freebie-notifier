@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-09T10:16:16.062Z",
-  "pages_scraped": 24,
-  "total_found": 86,
+  "scraped_at": "2026-11-09T20:48:09.987Z",
+  "pages_scraped": 25,
+  "total_found": 84,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5325373",
+      "title": "HOUSE CALL",
+      "url": "https://midnight-desktop.itch.io/house-call",
+      "author": "Midnight Desktop",
+      "author_url": "https://midnight-desktop.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMDEzMDI2LnBuZw==/315x250%23c/4BI0Bi.png",
+      "genre": "Simulation",
+      "blurb": "You're a computer repair technician called out to fix an old man's PC.",
+      "sale_url": "https://itch.io/s/216869/house-call-72-hour-free-launch",
+      "expires": "2026-11-12T15:00:00.000Z",
+      "expires_raw": "2026-11-12T15:00:00Z"
+    },
     {
       "id": "5323420",
       "title": "Dungeon Quest",
@@ -69,19 +82,6 @@
       "sale_url": "https://itch.io/s/216490/next-level-fund-raising",
       "expires": "2026-11-21T08:07:00.000Z",
       "expires_raw": "2026-11-21T08:07:00Z"
-    },
-    {
-      "id": "5304512",
-      "title": "Flintlock Fast-Food",
-      "url": "https://caynman.itch.io/flintlock-fast-food",
-      "author": "Caynman",
-      "author_url": "https://caynman.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png",
-      "genre": "Action",
-      "blurb": "Ale, Pork and Flintlocks",
-      "sale_url": "https://itch.io/s/216525/freaknd",
-      "expires": "2026-11-09T13:25:00.000Z",
-      "expires_raw": "2026-11-09T13:25:00Z"
     },
     {
       "id": "5304037",
@@ -173,19 +173,6 @@
       "sale_url": "https://itch.io/s/216354/limited-free-offer",
       "expires": "2026-11-23T04:50:00.000Z",
       "expires_raw": "2026-11-23T04:50:00Z"
-    },
-    {
-      "id": "3718649",
-      "title": "LIMINAL STATE",
-      "url": "https://syntaxlevel.itch.io/liminal-state",
-      "author": "SyntaxLevel",
-      "author_url": "https://syntaxlevel.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNzY1NDQ3LnBuZw==/315x250%23c/MXfRuT.png",
-      "genre": "Adventure",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/215870/liminal-state-suport",
-      "expires": "2026-11-30T13:02:00.000Z",
-      "expires_raw": "2026-11-30T13:02:00Z"
     },
     {
       "id": "5278975",
@@ -355,6 +342,19 @@
       "sale_url": "https://itch.io/s/216354/limited-free-offer",
       "expires": "2026-11-23T04:50:00.000Z",
       "expires_raw": "2026-11-23T04:50:00Z"
+    },
+    {
+      "id": "5129443",
+      "title": "Sleep in Fear",
+      "url": "https://bennyboygames.itch.io/sleep-in-fear",
+      "author": "BennyBoy",
+      "author_url": "https://bennyboygames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif",
+      "genre": "Adventure",
+      "blurb": "A PSX-style sleep paralysis horror game",
+      "sale_url": "https://itch.io/s/216875/sleep-in-fear-night-two-sale-100-off",
+      "expires": "2026-11-23T15:09:00.000Z",
+      "expires_raw": "2026-11-23T15:09:00Z"
     },
     {
       "id": "5102250",
@@ -539,19 +539,6 @@
       "expires_raw": "2026-11-22T10:57:00Z"
     },
     {
-      "id": "4760803",
-      "title": "The Killer Bunny",
-      "url": "https://northsignal.itch.io/the-killer-bunny",
-      "author": "NORTH SIGNAL",
-      "author_url": "https://northsignal.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwNDY3OTMzLnBuZw==/315x250%23c/unXuyc.png",
-      "genre": "Adventure",
-      "blurb": "A PS2-inspired horror game where a late-night grocery run becomes a nightmare.",
-      "sale_url": "https://itch.io/s/213614/halloween-sale-2026",
-      "expires": "2026-11-06T18:00:00.000Z",
-      "expires_raw": "2026-11-06T18:00:00Z"
-    },
-    {
       "id": "4808087",
       "title": "Aria Fantasy Adventure",
       "url": "https://farisahmed.itch.io/aria-fantasy-adventure",
@@ -563,19 +550,6 @@
       "sale_url": "https://itch.io/s/196620/launch-sale-50",
       "expires": "2026-11-24T15:00:00.000Z",
       "expires_raw": "2026-11-24T15:00:00Z"
-    },
-    {
-      "id": "4792265",
-      "title": "A Backrooms Escape",
-      "url": "https://rabbit3d-studio-games.itch.io/a-backrooms-escape",
-      "author": "Rabbit3d Studios",
-      "author_url": "https://rabbit3d-studio-games.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwOTkwMTgyLnBuZw==/315x250%23c/mqaI4Z.png",
-      "genre": "Survival",
-      "blurb": "Survival , first-person,  psychological , backrooms",
-      "sale_url": "https://itch.io/s/216406/a-backrooms-escape-sale",
-      "expires": "2026-11-09T20:44:00.000Z",
-      "expires_raw": "2026-11-09T20:44:00Z"
     },
     {
       "id": "4493023",

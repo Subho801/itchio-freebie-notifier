@@ -1,9 +1,9 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-08T23:05:52.939Z",
+  "scraped_at": "2026-11-09T02:36:08.151Z",
   "pages_scraped": 25,
-  "total_found": 87,
-  "stopped_reason": "last_page_reached",
+  "total_found": 85,
+  "stopped_reason": "end_of_results",
   "games": [
     {
       "id": "5323420",
@@ -95,19 +95,6 @@
       "sale_url": "https://itch.io/s/216131/promotion-special",
       "expires": "2026-11-30T13:15:00.000Z",
       "expires_raw": "2026-11-30T13:15:00Z"
-    },
-    {
-      "id": "5301311",
-      "title": "DEAD AIR",
-      "url": "https://digitaldro.itch.io/dead-air",
-      "author": "Digital Dro",
-      "author_url": "https://digitaldro.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxODQzMjkzLmdpZg==/315x250%23c/to9BoJ.gif",
-      "genre": "Strategy",
-      "blurb": "Wheel of Fortune Roguelike In Retro 3D",
-      "sale_url": "https://itch.io/s/216065/dead-air-launch-week-",
-      "expires": "2026-11-08T23:01:00.000Z",
-      "expires_raw": "2026-11-08T23:01:00Z"
     },
     {
       "id": "5293430",
@@ -342,19 +329,6 @@
       "sale_url": "https://itch.io/s/198573/support-dont-leave-",
       "expires": "2026-11-30T12:54:00.000Z",
       "expires_raw": "2026-11-30T12:54:00Z"
-    },
-    {
-      "id": "5160346",
-      "title": "Agnadul",
-      "url": "https://leshii413.itch.io/agnadulofficial",
-      "author": "Leshii413",
-      "author_url": "https://leshii413.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwODk4NjIzLnBuZw==/315x250%23c/psGi0V.png",
-      "genre": "Simulation",
-      "blurb": "Version 0.8.00 - Alpha Full Version, Alpha Demo version of the game. Pre-Alpha MAC Version playable, but outdated.",
-      "sale_url": "https://itch.io/s/216052/free-weekend",
-      "expires": "2026-11-09T00:00:00.000Z",
-      "expires_raw": "2026-11-09T00:00:00Z"
     },
     {
       "id": "5148758",

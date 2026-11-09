@@ -1,9 +1,9 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-09T02:36:08.151Z",
-  "pages_scraped": 25,
-  "total_found": 85,
-  "stopped_reason": "end_of_results",
+  "scraped_at": "2026-11-09T10:16:16.062Z",
+  "pages_scraped": 24,
+  "total_found": 86,
+  "stopped_reason": "last_page_reached",
   "games": [
     {
       "id": "5323420",
@@ -578,19 +578,6 @@
       "expires_raw": "2026-11-09T20:44:00Z"
     },
     {
-      "id": "3986156",
-      "title": "Static Voice",
-      "url": "https://kadderagames.itch.io/static-voice",
-      "author": "KadderaGames",
-      "author_url": "https://kadderagames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI0NTgwNjE0LnBuZw==/315x250%23c/ees3jN.png",
-      "genre": "Survival",
-      "blurb": "I scavenge the toxic block for parts to build Viktor's radio on the roof and signal for help.",
-      "sale_url": "https://itch.io/s/214137/static-voice",
-      "expires": "2026-11-09T06:04:00.000Z",
-      "expires_raw": "2026-11-09T06:04:00Z"
-    },
-    {
       "id": "4493023",
       "title": "Late Pizza Delivery",
       "url": "https://bubu07.itch.io/late-pizza-delivery",
@@ -875,6 +862,32 @@
       "sale_url": "https://itch.io/s/215358/november-sale",
       "expires": "2026-11-30T12:56:00.000Z",
       "expires_raw": "2026-11-30T12:56:00Z"
+    },
+    {
+      "id": "3301246",
+      "title": "Concrete Veil",
+      "url": "https://p3trol.itch.io/concrete-veil",
+      "author": "petrol",
+      "author_url": "https://p3trol.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png",
+      "genre": "Shooter",
+      "blurb": "Fast paced Half-Like FPS",
+      "sale_url": "https://itch.io/s/216377/polyphonic-petrol-sale",
+      "expires": "2026-12-09T00:52:00.000Z",
+      "expires_raw": "2026-12-09T00:52:00Z"
+    },
+    {
+      "id": "2931190",
+      "title": "The Copper Hill",
+      "url": "https://p3trol.itch.io/the-copper-hill",
+      "author": "petrol",
+      "author_url": "https://p3trol.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png",
+      "genre": "Adventure",
+      "blurb": "Short horror game about metal theft in eastern europe.",
+      "sale_url": "https://itch.io/s/216377/polyphonic-petrol-sale",
+      "expires": "2026-12-09T00:52:00.000Z",
+      "expires_raw": "2026-12-09T00:52:00Z"
     },
     {
       "id": "2950730",

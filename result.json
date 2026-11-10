@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-10T02:58:14.419Z",
+  "scraped_at": "2026-11-10T10:49:14.472Z",
   "pages_scraped": 25,
-  "total_found": 83,
+  "total_found": 85,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5331912",
+      "title": "Feeling Tanky",
+      "url": "https://braindeadgames.itch.io/feeling-tanky",
+      "author": "BrainDead Games Studio",
+      "author_url": "https://braindeadgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMDQ5NDAwLnBuZw==/315x250%23c/ByfFj9.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/216922/flash-sale",
+      "expires": "2026-11-17T04:59:00.000Z",
+      "expires_raw": "2026-11-17T04:59:00Z"
+    },
     {
       "id": "5325373",
       "title": "HOUSE CALL",
@@ -17,6 +30,19 @@
       "sale_url": "https://itch.io/s/216869/house-call-72-hour-free-launch",
       "expires": "2026-11-12T15:00:00.000Z",
       "expires_raw": "2026-11-12T15:00:00Z"
+    },
+    {
+      "id": "5324027",
+      "title": "Dreadwick",
+      "url": "https://tensorwerk.itch.io/dreadwick",
+      "author": "tensorwerk",
+      "author_url": "https://tensorwerk.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxOTkzMDg0LnBuZw==/315x250%23c/wAxom7.png",
+      "genre": "Survival",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/216783/launch-dreadwick",
+      "expires": "2026-11-22T21:50:00.000Z",
+      "expires_raw": "2026-11-22T21:50:00Z"
     },
     {
       "id": "5316682",

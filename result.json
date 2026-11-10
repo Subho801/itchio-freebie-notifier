@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-10T18:18:36.564Z",
+  "scraped_at": "2026-11-10T23:30:45.269Z",
   "pages_scraped": 24,
-  "total_found": 84,
+  "total_found": 82,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -17,6 +17,19 @@
       "sale_url": "https://itch.io/s/216922/flash-sale",
       "expires": "2026-11-17T04:59:00.000Z",
       "expires_raw": "2026-11-17T04:59:00Z"
+    },
+    {
+      "id": "5329444",
+      "title": "THE GATE – CHAPTER 1",
+      "url": "https://abmanstudio.itch.io/the-gate-chapter-1-demo",
+      "author": "ABMANSTUDIO",
+      "author_url": "https://abmanstudio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMDMyMTIxLnBuZw==/315x250%23c/F1s5pi.png",
+      "genre": "Puzzle",
+      "blurb": "Years after his sister Luna disappeared, Jack returns to the place where it all began.",
+      "sale_url": "https://itch.io/s/198573/support-dont-leave-",
+      "expires": "2026-11-30T12:54:00.000Z",
+      "expires_raw": "2026-11-30T12:54:00Z"
     },
     {
       "id": "5325373",
@@ -37,7 +50,7 @@
       "url": "https://tensorwerk.itch.io/dreadwick",
       "author": "tensorwerk",
       "author_url": "https://tensorwerk.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxOTkzMDg0LnBuZw==/315x250%23c/wAxom7.png",
+      "image": "https://img.itch.zone/aW1nLzMyMDgwNzYyLnBuZw==/315x250%23c/oRM%2FFV.png",
       "genre": "Survival",
       "blurb": null,
       "sale_url": "https://itch.io/s/216783/launch-dreadwick",
@@ -53,9 +66,9 @@
       "image": "https://img.itch.zone/aW1nLzMxOTQzNDM4LmpwZw==/315x250%23c/XteNgf.jpg",
       "genre": "Simulation",
       "blurb": null,
-      "sale_url": "https://itch.io/s/216630/7-to-take-off-launch-week",
-      "expires": "2026-11-15T02:00:00.000Z",
-      "expires_raw": "2026-11-15T02:00:00Z"
+      "sale_url": "https://itch.io/s/216630/7-to-take-off-launch-month",
+      "expires": "2026-12-08T02:00:00.000Z",
+      "expires_raw": "2026-12-08T02:00:00Z"
     },
     {
       "id": "5302106",
@@ -175,6 +188,19 @@
       "expires_raw": "2026-11-23T04:50:00Z"
     },
     {
+      "id": "3718649",
+      "title": "LIMINAL STATE",
+      "url": "https://syntaxlevel.itch.io/liminal-state",
+      "author": "SyntaxLevel",
+      "author_url": "https://syntaxlevel.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNzY1NDQ3LnBuZw==/315x250%23c/MXfRuT.png",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/215870/liminal-state-suport",
+      "expires": "2026-11-30T13:02:00.000Z",
+      "expires_raw": "2026-11-30T13:02:00Z"
+    },
+    {
       "id": "5278975",
       "title": "CREAK",
       "url": "https://ji10-games.itch.io/creak",
@@ -212,19 +238,6 @@
       "sale_url": "https://itch.io/s/216229/ji10-games-sale",
       "expires": "2026-12-06T05:41:00.000Z",
       "expires_raw": "2026-12-06T05:41:00Z"
-    },
-    {
-      "id": "5229050",
-      "title": "EvsE",
-      "url": "https://gkolberg.itch.io/evse",
-      "author": "Gkolberg",
-      "author_url": "https://gkolberg.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNTI5NTA4LnBuZw==/315x250%23c/jmlbXw.png",
-      "genre": "Survival",
-      "blurb": "Urban exploration. Get in, loot, film the evidence, resolve puzzle and get out alive.. if the entity lets you.",
-      "sale_url": "https://itch.io/s/213742/halloween-sale-",
-      "expires": "2026-11-10T22:59:00.000Z",
-      "expires_raw": "2026-11-10T22:59:00Z"
     },
     {
       "id": "5209396",
@@ -461,19 +474,6 @@
       "expires_raw": "2026-11-06T23:42:00Z"
     },
     {
-      "id": "4795895",
-      "title": "Sabado: Day One",
-      "url": "https://kiwidreams-01.itch.io/sabado-day-one",
-      "author": "Kiwi Dreams",
-      "author_url": "https://kiwidreams-01.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI4OTYwODY4LmpwZw==/315x250%23c/P5P0sT.jpg",
-      "genre": "Simulation",
-      "blurb": "3D Mystery Anime Horror",
-      "sale_url": "https://itch.io/s/198364/sabado-100-free-extended",
-      "expires": "2026-11-29T16:00:00.000Z",
-      "expires_raw": "2026-11-29T16:00:00Z"
-    },
-    {
       "id": "4914631",
       "title": "Bleached",
       "url": "https://cheeri0s.itch.io/bleached",
@@ -482,9 +482,9 @@
       "image": "https://img.itch.zone/aW1nLzI5NDE0NDEyLmpwZw==/315x250%23c/Ofs%2BCH.jpg",
       "genre": "Visual Novel",
       "blurb": "A post apocalyptic visual novel",
-      "sale_url": "https://itch.io/s/215620/halloween-sale-2026",
-      "expires": "2026-11-11T18:00:00.000Z",
-      "expires_raw": "2026-11-11T18:00:00Z"
+      "sale_url": "https://itch.io/s/215620/new",
+      "expires": "2026-11-25T18:00:00.000Z",
+      "expires_raw": "2026-11-25T18:00:00Z"
     },
     {
       "id": "4920479",
@@ -721,19 +721,6 @@
       "expires_raw": "2026-11-30T10:59:00Z"
     },
     {
-      "id": "3898794",
-      "title": "SUPER Euli Beuli",
-      "url": "https://roega.itch.io/super-euli-beuli",
-      "author": "ROEGA™",
-      "author_url": "https://roega.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIzNTc1ODEwLmpwZw==/315x250%23c/TaQrjR.jpg",
-      "genre": "Platformer",
-      "blurb": "A little owl. A big adventure.",
-      "sale_url": "https://itch.io/s/216411/november-sale",
-      "expires": "2026-11-10T22:00:00.000Z",
-      "expires_raw": "2026-11-10T22:00:00Z"
-    },
-    {
       "id": "3891802",
       "title": "Backmare",
       "url": "https://joao-acelino-official.itch.io/backmare",
@@ -771,19 +758,6 @@
       "sale_url": "https://itch.io/s/216193/discount-discounts",
       "expires": "2026-11-30T20:07:00.000Z",
       "expires_raw": "2026-11-30T20:07:00Z"
-    },
-    {
-      "id": "3765569",
-      "title": "Burnt",
-      "url": "https://sleepycatstudio.itch.io/burnt",
-      "author": "SleepyCatStudio",
-      "author_url": "https://sleepycatstudio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png",
-      "genre": null,
-      "blurb": null,
-      "sale_url": "https://itch.io/s/215973/november-sale",
-      "expires": "2026-11-10T21:59:00.000Z",
-      "expires_raw": "2026-11-10T21:59:00Z"
     },
     {
       "id": "3614958",

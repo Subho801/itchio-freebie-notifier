@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-09T20:48:09.987Z",
+  "scraped_at": "2026-11-10T02:58:14.419Z",
   "pages_scraped": 25,
-  "total_found": 84,
+  "total_found": 83,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -17,19 +17,6 @@
       "sale_url": "https://itch.io/s/216869/house-call-72-hour-free-launch",
       "expires": "2026-11-12T15:00:00.000Z",
       "expires_raw": "2026-11-12T15:00:00Z"
-    },
-    {
-      "id": "5323420",
-      "title": "Dungeon Quest",
-      "url": "https://pro2500.itch.io/dungeon-quest",
-      "author": "pro2500",
-      "author_url": "https://pro2500.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxOTkxODk0LnBuZw==/315x250%23c/CxD1g1.png",
-      "genre": "Interactive Fiction",
-      "blurb": "The website for the tracker.",
-      "sale_url": "https://itch.io/s/216785/early-viewer",
-      "expires": "2026-11-30T22:08:00.000Z",
-      "expires_raw": "2026-11-30T22:08:00Z"
     },
     {
       "id": "5316682",

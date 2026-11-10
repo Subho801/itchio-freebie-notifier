@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-10T10:49:14.472Z",
-  "pages_scraped": 25,
-  "total_found": 85,
+  "scraped_at": "2026-11-10T18:18:36.564Z",
+  "pages_scraped": 24,
+  "total_found": 84,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -69,19 +69,6 @@
       "sale_url": "https://itch.io/s/216498/last-light-launch-week-",
       "expires": "2026-11-13T09:44:00.000Z",
       "expires_raw": "2026-11-13T09:44:00Z"
-    },
-    {
-      "id": "5312574",
-      "title": "Mosslight Hollow",
-      "url": "https://epicurusgames.itch.io/mosslight-hollow",
-      "author": "Eppie",
-      "author_url": "https://epicurusgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxOTU0Nzk3LmdpZg==/315x250%23c/Uwxumr.gif",
-      "genre": "Simulation",
-      "blurb": "Build a cozy woodland colony. Grow food, forge friendships, and defend the home you make.",
-      "sale_url": "https://itch.io/s/216535/mosslight-hollow-free-for-3-days",
-      "expires": "2026-11-10T14:34:00.000Z",
-      "expires_raw": "2026-11-10T14:34:00Z"
     },
     {
       "id": "4551771",
@@ -201,6 +188,19 @@
       "expires_raw": "2026-12-06T05:41:00Z"
     },
     {
+      "id": "5265723",
+      "title": "WARD 09: The Last Patient",
+      "url": "https://heropro16.itch.io/ward-09-the-last-patient",
+      "author": "Heropro16",
+      "author_url": "https://heropro16.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNjY0MTMwLnBuZw==/315x250%23c/iuOtzr.png",
+      "genre": "Survival",
+      "blurb": "Explore an abandoned hospital, solve its puzzles, and escape the patient who never left.",
+      "sale_url": "https://itch.io/s/217064/ward-09-the-last-patient-is-free-for-a-limited-time",
+      "expires": "2026-11-15T10:52:00.000Z",
+      "expires_raw": "2026-11-15T10:52:00Z"
+    },
+    {
       "id": "5241412",
       "title": "Don't Finish the Donut",
       "url": "https://ji10-games.itch.io/dont-finish-the-donut",
@@ -238,19 +238,6 @@
       "sale_url": "https://itch.io/s/215227/dummy-er-halloween-sale-2026",
       "expires": "2026-11-04T18:00:00.000Z",
       "expires_raw": "2026-11-04T18:00:00Z"
-    },
-    {
-      "id": "5210713",
-      "title": "Project Wild Weasel",
-      "url": "https://kevinpandya953.itch.io/project-wild-weasel",
-      "author": "Kevinpandya953",
-      "author_url": "https://kevinpandya953.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMjIxNzMyLnBuZw==/315x250%23c/ya8i0a.png",
-      "genre": "Fighting",
-      "blurb": "A combat flight sim over real Caucasus terrain: SEAD, strike and CAP in the F-16, F-15, F/A-18 and A-10.",
-      "sale_url": "https://itch.io/s/213923/halloween-sale-project-wild-weasel",
-      "expires": "2026-11-12T18:02:00.000Z",
-      "expires_raw": "2026-11-12T18:02:00Z"
     },
     {
       "id": "5192559",

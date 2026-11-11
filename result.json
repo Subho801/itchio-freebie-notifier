@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-11T10:26:30.028Z",
-  "pages_scraped": 25,
-  "total_found": 92,
+  "scraped_at": "2026-11-11T17:58:28.983Z",
+  "pages_scraped": 26,
+  "total_found": 95,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5339332",
+      "title": "FLUSH IT!",
+      "url": "https://midnight-desktop.itch.io/flush-it",
+      "author": "Midnight Desktop",
+      "author_url": "https://midnight-desktop.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMTAxMTM1LnBuZw==/315x250%23c/0qxwyz.png",
+      "genre": "Action",
+      "blurb": "Hoarding toilet paper is a felony, you've got three minutes, FLUSH IT!",
+      "sale_url": "https://itch.io/s/217281/flush-it-48-hour-free-launch",
+      "expires": "2026-11-13T13:06:00.000Z",
+      "expires_raw": "2026-11-13T13:06:00Z"
+    },
     {
       "id": "5338247",
       "title": "The Last Laugh",
@@ -95,6 +108,19 @@
       "sale_url": "https://itch.io/s/216490/next-level-fund-raising",
       "expires": "2026-11-21T08:07:00.000Z",
       "expires_raw": "2026-11-21T08:07:00Z"
+    },
+    {
+      "id": "5304512",
+      "title": "Flintlock Fast-Food",
+      "url": "https://caynman.itch.io/flintlock-fast-food",
+      "author": "Caynman",
+      "author_url": "https://caynman.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png",
+      "genre": "Action",
+      "blurb": "Ale, Pork and Flintlocks",
+      "sale_url": "https://itch.io/s/217274/its-the-most-wonderful-before-december",
+      "expires": "2026-12-11T12:23:00.000Z",
+      "expires_raw": "2026-12-11T12:23:00Z"
     },
     {
       "id": "5304037",
@@ -578,6 +604,19 @@
       "expires_raw": "2026-11-12T18:00:00Z"
     },
     {
+      "id": "4698507",
+      "title": "Eternity Defenders",
+      "url": "https://kakaritogames.itch.io/eternity-defenders",
+      "author": "Pixxele",
+      "author_url": "https://kakaritogames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4MDY2NzE3LmdpZg==/315x250%23c/tLNOnH.gif",
+      "genre": "Action",
+      "blurb": "Defend the Ocean in this endless Tower Defense game.",
+      "sale_url": "https://itch.io/s/217304/free-to-keep-giveaway",
+      "expires": "2026-11-18T12:00:00.000Z",
+      "expires_raw": "2026-11-18T12:00:00Z"
+    },
+    {
       "id": "4669793",
       "title": "The Enemy",
       "url": "https://worsteventgames.itch.io/the-enemy",
@@ -617,19 +656,6 @@
       "expires_raw": "2026-11-11T18:00:00Z"
     },
     {
-      "id": "4465335",
-      "title": "mushy's big adventure",
-      "url": "https://gusguidancegames.itch.io/mushys-big-adventure",
-      "author": "gusguidancegames",
-      "author_url": "https://gusguidancegames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI2NjIwMzU0LnBuZw==/315x250%23c/z0sAyf.png",
-      "genre": "Platformer",
-      "blurb": "a big adventure, for a small mushroom",
-      "sale_url": "https://itch.io/s/204237/mushy-be-free-for-now",
-      "expires": "2026-11-11T17:00:00.000Z",
-      "expires_raw": "2026-11-11T17:00:00Z"
-    },
-    {
       "id": "4363959",
       "title": "Inkspace",
       "url": "https://kai4pr3sident.itch.io/inkspace",
@@ -654,6 +680,19 @@
       "sale_url": "https://itch.io/s/182780/lord-of-chaos-on-sale-for-a-limited-time",
       "expires": "2026-11-07T18:00:00.000Z",
       "expires_raw": "2026-11-07T18:00:00Z"
+    },
+    {
+      "id": "4347058",
+      "title": "Labbit:  Escape Protocol",
+      "url": "https://artlanea-games.itch.io/labbit-escape-protocol",
+      "author": "Yorhan David",
+      "author_url": "https://artlanea-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI1OTYxMTQxLmpwZw==/315x250%23c/UNLd76.jpg",
+      "genre": "Platformer",
+      "blurb": "Use your skills and genetically modified carrots to escape from the laboratory.",
+      "sale_url": "https://itch.io/s/217288/biohazard-promotion",
+      "expires": "2026-11-13T13:30:00.000Z",
+      "expires_raw": "2026-11-13T13:30:00Z"
     },
     {
       "id": "3951915",

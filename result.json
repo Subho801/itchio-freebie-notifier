@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-11T02:58:31.762Z",
-  "pages_scraped": 24,
-  "total_found": 84,
+  "scraped_at": "2026-11-11T10:26:30.028Z",
+  "pages_scraped": 25,
+  "total_found": 92,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5338247",
+      "title": "The Last Laugh",
+      "url": "https://ji10-games.itch.io/the-last-laugh",
+      "author": "Ji+10 Studios",
+      "author_url": "https://ji10-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMDkxOTMxLnBuZw==/315x250%23c/MYzBlN.png",
+      "genre": "Adventure",
+      "blurb": "Mom's away. The lights are out. Something is laughing in the dark.",
+      "sale_url": "https://itch.io/s/217215/help-this-game-to-reach-this-goal",
+      "expires": "2026-11-30T04:06:00.000Z",
+      "expires_raw": "2026-11-30T04:06:00Z"
+    },
     {
       "id": "5331912",
       "title": "Feeling Tanky",
@@ -27,22 +40,9 @@
       "image": "https://img.itch.zone/aW1nLzMyMDMyMTIxLnBuZw==/315x250%23c/F1s5pi.png",
       "genre": "Puzzle",
       "blurb": "Years after his sister Luna disappeared, Jack returns to the place where it all began.",
-      "sale_url": "https://itch.io/s/198573/support-dont-leave-",
+      "sale_url": "https://itch.io/s/198573/support-abman-studio-",
       "expires": "2026-11-30T12:54:00.000Z",
       "expires_raw": "2026-11-30T12:54:00Z"
-    },
-    {
-      "id": "5325373",
-      "title": "HOUSE CALL",
-      "url": "https://midnight-desktop.itch.io/house-call",
-      "author": "Midnight Desktop",
-      "author_url": "https://midnight-desktop.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMDEzMDI2LnBuZw==/315x250%23c/4BI0Bi.png",
-      "genre": "Simulation",
-      "blurb": "You're a computer repair technician called out to fix an old man's PC.",
-      "sale_url": "https://itch.io/s/216869/house-call-72-hour-free-launch",
-      "expires": "2026-11-12T15:00:00.000Z",
-      "expires_raw": "2026-11-12T15:00:00Z"
     },
     {
       "id": "5324027",
@@ -339,7 +339,7 @@
       "image": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png",
       "genre": "Puzzle",
       "blurb": "Explore a haunting maze, read the messages left behind, and uncover a truth better left hidden.",
-      "sale_url": "https://itch.io/s/198573/support-dont-leave-",
+      "sale_url": "https://itch.io/s/198573/support-abman-studio-",
       "expires": "2026-11-30T12:54:00.000Z",
       "expires_raw": "2026-11-30T12:54:00Z"
     },
@@ -578,6 +578,19 @@
       "expires_raw": "2026-11-12T18:00:00Z"
     },
     {
+      "id": "4669793",
+      "title": "The Enemy",
+      "url": "https://worsteventgames.itch.io/the-enemy",
+      "author": "Worst Event Games",
+      "author_url": "https://worsteventgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3ODc1NTE4LnBuZw==/315x250%23c/Birnuj.png",
+      "genre": "Action",
+      "blurb": "Riding through the woods on a mission with your pal.",
+      "sale_url": "https://itch.io/s/217222/dog-ate-fund-raising",
+      "expires": "2026-11-25T05:25:00.000Z",
+      "expires_raw": "2026-11-25T05:25:00Z"
+    },
+    {
       "id": "4565310",
       "title": "Last Friday",
       "url": "https://reganc.itch.io/last-friday",
@@ -773,6 +786,19 @@
       "expires_raw": "2026-11-11T16:45:00Z"
     },
     {
+      "id": "3858283",
+      "title": "Very Realistic Game Dev Simulator",
+      "url": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
+      "author": "Worst Event Games",
+      "author_url": "https://worsteventgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzMDIwMDUwLnBuZw==/315x250%23c/%2BObOOm.png",
+      "genre": "Simulation",
+      "blurb": "I’d better start working on the game. I’ve run out of cigarettes again.",
+      "sale_url": "https://itch.io/s/217222/dog-ate-fund-raising",
+      "expires": "2026-11-25T05:25:00.000Z",
+      "expires_raw": "2026-11-25T05:25:00Z"
+    },
+    {
       "id": "3799948",
       "title": "Dream Holiday",
       "url": "https://baris1.itch.io/dream-holiday",
@@ -784,6 +810,19 @@
       "sale_url": "https://itch.io/s/216193/discount-discounts",
       "expires": "2026-11-30T20:07:00.000Z",
       "expires_raw": "2026-11-30T20:07:00Z"
+    },
+    {
+      "id": "3765569",
+      "title": "Burnt",
+      "url": "https://sleepycatstudio.itch.io/burnt",
+      "author": "SleepyCatStudio",
+      "author_url": "https://sleepycatstudio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIyNDYzNTk0LnBuZw==/315x250%23c/bmFhXb.png",
+      "genre": null,
+      "blurb": null,
+      "sale_url": "https://itch.io/s/217217/november-sale",
+      "expires": "2026-11-18T05:20:00.000Z",
+      "expires_raw": "2026-11-18T05:20:00Z"
     },
     {
       "id": "3614958",
@@ -825,6 +864,19 @@
       "expires_raw": "2026-12-04T18:00:00Z"
     },
     {
+      "id": "3411949",
+      "title": "At Sixes And Sevens Case I",
+      "url": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+      "author": "Worst Event Games",
+      "author_url": "https://worsteventgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzODkxMDAxLnBuZw==/315x250%23c/63OxRx.png",
+      "genre": "Interactive Fiction",
+      "blurb": "A PSX Detective Mystery Game",
+      "sale_url": "https://itch.io/s/217222/dog-ate-fund-raising",
+      "expires": "2026-11-25T05:25:00.000Z",
+      "expires_raw": "2026-11-25T05:25:00Z"
+    },
+    {
       "id": "3405495",
       "title": "Liminal Lane",
       "url": "https://ravenhome.itch.io/liminal-lane",
@@ -864,6 +916,19 @@
       "expires_raw": "2026-12-09T00:52:00Z"
     },
     {
+      "id": "2982722",
+      "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+      "url": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+      "author": "Worst Event Games",
+      "author_url": "https://worsteventgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE4MDY2NzIyLmpwZWc=/315x250%23c/vGnSSV.jpeg",
+      "genre": "Card Game",
+      "blurb": "As a missionary, you go to spread your message to a wicked man.  He, however, wants to play a card game with you.",
+      "sale_url": "https://itch.io/s/217222/dog-ate-fund-raising",
+      "expires": "2026-11-25T05:25:00.000Z",
+      "expires_raw": "2026-11-25T05:25:00Z"
+    },
+    {
       "id": "2950730",
       "title": "Survivor",
       "url": "https://soowekgames.itch.io/survivor",
@@ -901,6 +966,19 @@
       "sale_url": "https://itch.io/s/216524/sale-without-context",
       "expires": "2026-11-30T13:21:00.000Z",
       "expires_raw": "2026-11-30T13:21:00Z"
+    },
+    {
+      "id": "2680770",
+      "title": "Cherophobia",
+      "url": "https://worsteventgames.itch.io/cherophobia",
+      "author": "Worst Event Games",
+      "author_url": "https://worsteventgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE1OTgwMjk2LmpwZw==/315x250%23c/OIQ5Ad.jpg",
+      "genre": "Adventure",
+      "blurb": "​You find yourself stranded in a forest after your car breaks down.",
+      "sale_url": "https://itch.io/s/217222/dog-ate-fund-raising",
+      "expires": "2026-11-25T05:25:00.000Z",
+      "expires_raw": "2026-11-25T05:25:00Z"
     },
     {
       "id": "2577979",
@@ -1072,6 +1150,19 @@
       "expires_raw": "2026-11-30T17:02:00Z"
     },
     {
+      "id": "16339",
+      "title": "Cosmic Zephyr DX / 宇宙の風DX",
+      "url": "https://dylancassidy.itch.io/cosmic-zephyr",
+      "author": "Dylan Cassidy",
+      "author_url": "https://dylancassidy.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzM3Mjc3NjIucG5n/315x250%23c/1zhVlZ.png",
+      "genre": "Shooter",
+      "blurb": "the original 3d bullet hell",
+      "sale_url": "https://itch.io/s/180473/cosmic-zephyr-dx-friday-the-13th-giveaway",
+      "expires": "2026-11-16T05:59:00.000Z",
+      "expires_raw": "2026-11-16T05:59:00Z"
+    },
+    {
       "id": "223069",
       "title": "Banknotes Memory Puzzle",
       "url": "https://unaux-25917242.itch.io/banknotes-memory-puzzle",
@@ -1096,6 +1187,19 @@
       "sale_url": "https://itch.io/s/201868/morse-comunikator-free-and-more",
       "expires": "2026-11-30T17:02:00.000Z",
       "expires_raw": "2026-11-30T17:02:00Z"
+    },
+    {
+      "id": "16349",
+      "title": "A Starspangled Zephyr / 星条旗の風",
+      "url": "https://dylancassidy.itch.io/a-starspangled-zephyr",
+      "author": "Dylan Cassidy",
+      "author_url": "https://dylancassidy.itch.io/",
+      "image": "https://img.itch.zone/aW1hZ2UvMTYzNDkvNjQyOTMucG5n/315x250%23c/D3arZg.png",
+      "genre": "Shooter",
+      "blurb": "a psychedelic shoot-em-up",
+      "sale_url": "https://itch.io/s/180473/cosmic-zephyr-dx-friday-the-13th-giveaway",
+      "expires": "2026-11-16T05:59:00.000Z",
+      "expires_raw": "2026-11-16T05:59:00Z"
     }
   ]
 }

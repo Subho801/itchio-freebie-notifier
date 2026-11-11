@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-10T23:30:45.269Z",
+  "scraped_at": "2026-11-11T02:58:31.762Z",
   "pages_scraped": 24,
-  "total_found": 82,
+  "total_found": 84,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -238,6 +238,19 @@
       "sale_url": "https://itch.io/s/216229/ji10-games-sale",
       "expires": "2026-12-06T05:41:00.000Z",
       "expires_raw": "2026-12-06T05:41:00Z"
+    },
+    {
+      "id": "5223668",
+      "title": "SubjectZERO",
+      "url": "https://braindeadgames.itch.io/subjectzero",
+      "author": "BrainDead Games Studio",
+      "author_url": "https://braindeadgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMDM2MDExLmpwZw==/315x250%23c/TZZuw8.jpg",
+      "genre": "Survival",
+      "blurb": "Psychological Horror",
+      "sale_url": "https://itch.io/s/216922/flash-sale",
+      "expires": "2026-11-17T04:59:00.000Z",
+      "expires_raw": "2026-11-17T04:59:00Z"
     },
     {
       "id": "5209396",
@@ -602,6 +615,19 @@
       "sale_url": "https://itch.io/s/204237/mushy-be-free-for-now",
       "expires": "2026-11-11T17:00:00.000Z",
       "expires_raw": "2026-11-11T17:00:00Z"
+    },
+    {
+      "id": "4363959",
+      "title": "Inkspace",
+      "url": "https://kai4pr3sident.itch.io/inkspace",
+      "author": "kai",
+      "author_url": "https://kai4pr3sident.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3MjQwNTQ1LnBuZw==/315x250%23c/xthrLy.png",
+      "genre": "Survival",
+      "blurb": "Welcome to Inkspace, yale's own nightmare.",
+      "sale_url": "https://itch.io/s/217197/-inkspace-free-to-play-november-sale-",
+      "expires": "2026-11-29T05:00:00.000Z",
+      "expires_raw": "2026-11-29T05:00:00Z"
     },
     {
       "id": "4405770",

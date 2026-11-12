@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-12T07:03:51.449Z",
-  "pages_scraped": 28,
-  "total_found": 94,
+  "scraped_at": "2026-11-12T15:55:46.155Z",
+  "pages_scraped": 29,
+  "total_found": 96,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5341716",
+      "title": "Sillwalker",
+      "url": "https://victor-basset.itch.io/sillwalker",
+      "author": "victor-basset",
+      "author_url": "https://victor-basset.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMTE0Mjc3LnBuZw==/315x250%23c/L7VVtH.png",
+      "genre": "Role Playing",
+      "blurb": "An idle RPG that lives on the edge of your screen.",
+      "sale_url": "https://itch.io/s/217467/sillwalker-launch-month-free-for-everyone",
+      "expires": "2026-12-12T12:46:00.000Z",
+      "expires_raw": "2026-12-12T12:46:00Z"
+    },
     {
       "id": "5339332",
       "title": "FLUSH IT!",
@@ -331,19 +344,6 @@
       "expires_raw": "2026-11-07T13:30:00Z"
     },
     {
-      "id": "5163894",
-      "title": "Syntra",
-      "url": "https://syntra.itch.io/syntra",
-      "author": "SyntraDev",
-      "author_url": "https://syntra.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNDMxMDQ5LnBuZw==/315x250%23c/V7iDTT.png",
-      "genre": "Action",
-      "blurb": "Master sword-and-shield combat, collect powerful relics and conquer five corrupted dungeons.",
-      "sale_url": "https://itch.io/s/216595/syntra-100-free",
-      "expires": "2026-11-14T22:37:00.000Z",
-      "expires_raw": "2026-11-14T22:37:00Z"
-    },
-    {
       "id": "5169400",
       "title": "Family Manners",
       "url": "https://nney.itch.io/family-manners",
@@ -495,9 +495,9 @@
       "image": "https://img.itch.zone/aW1nLzMxNDM3NzM3LmdpZg==/315x250%23c/7iTdek.gif",
       "genre": "Adventure",
       "blurb": "A psychological narrative horror game",
-      "sale_url": "https://itch.io/s/216139/shadows-we-share-fall-sale-100",
-      "expires": "2026-11-12T13:58:00.000Z",
-      "expires_raw": "2026-11-12T13:58:00Z"
+      "sale_url": "https://itch.io/s/217478/shadows-we-share-special-100-off-sale",
+      "expires": "2026-11-26T14:25:00.000Z",
+      "expires_raw": "2026-11-26T14:25:00Z"
     },
     {
       "id": "4973081",
@@ -550,6 +550,19 @@
       "sale_url": "https://itch.io/s/204619/indie-neuron-studio-free-games",
       "expires": "2026-11-14T04:02:00.000Z",
       "expires_raw": "2026-11-14T04:02:00Z"
+    },
+    {
+      "id": "4886550",
+      "title": "Shoku Pain",
+      "url": "https://archille.itch.io/shoku-pain",
+      "author": "Archille",
+      "author_url": "https://archille.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5MjM1MTI2LnBuZw==/315x250%23c/xOE05e.png",
+      "genre": "Simulation",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/198242/launch-discount",
+      "expires": "2026-12-12T15:54:00.000Z",
+      "expires_raw": "2026-12-12T15:54:00Z"
     },
     {
       "id": "4865475",
@@ -628,6 +641,19 @@
       "sale_url": "https://itch.io/s/217222/dog-ate-fund-raising",
       "expires": "2026-11-25T05:25:00.000Z",
       "expires_raw": "2026-11-25T05:25:00Z"
+    },
+    {
+      "id": "4644348",
+      "title": "Tea Party For 4",
+      "url": "https://evekehat.itch.io/tea-party-for-4",
+      "author": "EveKehat",
+      "author_url": "https://evekehat.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif",
+      "genre": "Puzzle",
+      "blurb": "Cozy Horror Anomaly Puzzle Game.",
+      "sale_url": "https://itch.io/s/217487/tea-party-for-4-100-off",
+      "expires": "2026-11-14T14:56:00.000Z",
+      "expires_raw": "2026-11-14T14:56:00Z"
     },
     {
       "id": "4565310",

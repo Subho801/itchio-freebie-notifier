@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-12T15:55:46.155Z",
+  "scraped_at": "2026-11-12T21:59:30.759Z",
   "pages_scraped": 29,
-  "total_found": 96,
+  "total_found": 94,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -422,19 +422,6 @@
       "expires_raw": "2026-11-30T20:07:00Z"
     },
     {
-      "id": "5056674",
-      "title": "The Noise Inside",
-      "url": "https://bubu07.itch.io/the-noise-inside",
-      "author": "BubuWorks",
-      "author_url": "https://bubu07.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg",
-      "genre": "Survival",
-      "blurb": "Take your pills, but tonight, there are no left.",
-      "sale_url": "https://itch.io/s/210229/bubuworks-free-halloween-sale-2026",
-      "expires": "2026-11-12T18:00:00.000Z",
-      "expires_raw": "2026-11-12T18:00:00Z"
-    },
-    {
       "id": "4298360",
       "title": "Evertrust Life And Beyond (Full Game)",
       "url": "https://after-life-craft.itch.io/evertrust-life-beyond",
@@ -602,19 +589,6 @@
       "sale_url": "https://itch.io/s/196620/launch-sale-50",
       "expires": "2026-11-24T15:00:00.000Z",
       "expires_raw": "2026-11-24T15:00:00Z"
-    },
-    {
-      "id": "4493023",
-      "title": "Late Pizza Delivery",
-      "url": "https://bubu07.itch.io/late-pizza-delivery",
-      "author": "BubuWorks",
-      "author_url": "https://bubu07.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI3MjIyNzE3LmpwZw==/315x250%23c/x5f4tu.jpg",
-      "genre": "Simulation",
-      "blurb": "Deliver the pizza. Survive. What can go wrong?",
-      "sale_url": "https://itch.io/s/210229/bubuworks-free-halloween-sale-2026",
-      "expires": "2026-11-12T18:00:00.000Z",
-      "expires_raw": "2026-11-12T18:00:00Z"
     },
     {
       "id": "4698507",

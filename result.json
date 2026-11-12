@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-11T17:58:28.983Z",
-  "pages_scraped": 26,
-  "total_found": 95,
+  "scraped_at": "2026-11-12T00:09:00.500Z",
+  "pages_scraped": 25,
+  "total_found": 94,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -149,19 +149,6 @@
       "expires_raw": "2026-11-14T21:00:00Z"
     },
     {
-      "id": "5300193",
-      "title": "Inkpire: World Map Empire Builder",
-      "url": "https://omis-lab.itch.io/inkpire",
-      "author": "OMIS LAB",
-      "author_url": "https://omis-lab.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxODI3MDU0LmpwZw==/315x250%23c/4a5eMt.jpg",
-      "genre": "Simulation",
-      "blurb": "A cosy sandbox game where you paint empires, draw a card each turn and rewrite history.",
-      "sale_url": "https://itch.io/s/216000/launch-week-free",
-      "expires": "2026-11-11T20:59:00.000Z",
-      "expires_raw": "2026-11-11T20:59:00Z"
-    },
-    {
       "id": "5298772",
       "title": "RC Flyer: Model Plane & Helicopter Simulator",
       "url": "https://emberlineworld.itch.io/rc-flyer-model-plane-helicopter-simulator",
@@ -251,6 +238,19 @@
       "sale_url": "https://itch.io/s/217064/ward-09-the-last-patient-is-free-for-a-limited-time",
       "expires": "2026-11-15T10:52:00.000Z",
       "expires_raw": "2026-11-15T10:52:00Z"
+    },
+    {
+      "id": "4947041",
+      "title": "Until Midnight Pastry Shop",
+      "url": "https://quickedges.itch.io/until-midnight-pastry-shop",
+      "author": "Quick edges",
+      "author_url": "https://quickedges.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMjYwODMyLnBuZw==/315x250%23c/U1PA3w.png",
+      "genre": "Simulation",
+      "blurb": "Pastry Shop Job Simulator",
+      "sale_url": "https://itch.io/s/214032/until-midnight-pastry-shop-is-currently-free",
+      "expires": "2026-12-11T22:55:00.000Z",
+      "expires_raw": "2026-12-11T22:55:00Z"
     },
     {
       "id": "5241412",
@@ -641,19 +641,6 @@
       "sale_url": "https://itch.io/s/215502/last-friday-full-release-sale",
       "expires": "2026-11-18T22:59:00.000Z",
       "expires_raw": "2026-11-18T22:59:00Z"
-    },
-    {
-      "id": "4566428",
-      "title": "Trian3",
-      "url": "https://trian3-studio.itch.io/trian3",
-      "author": "Trian3 Studio",
-      "author_url": "https://trian3-studio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI3MjE1NzE0LnBuZw==/315x250%23c/yXg5V%2B.png",
-      "genre": "Puzzle",
-      "blurb": "Make triangles, earn points, play Trian3!",
-      "sale_url": "https://itch.io/s/215904/halloween-sale-2026",
-      "expires": "2026-11-11T18:00:00.000Z",
-      "expires_raw": "2026-11-11T18:00:00Z"
     },
     {
       "id": "4363959",

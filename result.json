@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-13T09:52:02.039Z",
-  "pages_scraped": 29,
-  "total_found": 92,
+  "scraped_at": "2026-11-13T17:26:26.892Z",
+  "pages_scraped": 30,
+  "total_found": 94,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -19,6 +19,19 @@
       "expires_raw": "2026-11-18T18:23:00Z"
     },
     {
+      "id": "5348598",
+      "title": "Fainted Memories - The Third Line",
+      "url": "https://elacior.itch.io/faintedmemories",
+      "author": "Elacior",
+      "author_url": "https://elacior.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMjA2OTEwLnBuZw==/315x250%23c/gZjdXR.png",
+      "genre": null,
+      "blurb": "The last night shift at a small radio station. Whatever you do, don't answer line three.",
+      "sale_url": "https://itch.io/s/217721/fainted-memories-the-third-line",
+      "expires": "2026-11-15T17:00:00.000Z",
+      "expires_raw": "2026-11-15T17:00:00Z"
+    },
+    {
       "id": "5341716",
       "title": "Sillwalker",
       "url": "https://victor-basset.itch.io/sillwalker",
@@ -30,19 +43,6 @@
       "sale_url": "https://itch.io/s/217467/sillwalker-launch-month-free-for-everyone",
       "expires": "2026-12-12T12:46:00.000Z",
       "expires_raw": "2026-12-12T12:46:00Z"
-    },
-    {
-      "id": "5339332",
-      "title": "FLUSH IT!",
-      "url": "https://midnight-desktop.itch.io/flush-it",
-      "author": "Midnight Desktop",
-      "author_url": "https://midnight-desktop.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMTAxMTM1LnBuZw==/315x250%23c/0qxwyz.png",
-      "genre": "Action",
-      "blurb": "Hoarding toilet paper is a felony, you've got three minutes, FLUSH IT!",
-      "sale_url": "https://itch.io/s/217281/flush-it-48-hour-free-launch",
-      "expires": "2026-11-13T13:06:00.000Z",
-      "expires_raw": "2026-11-13T13:06:00Z"
     },
     {
       "id": "5338247",
@@ -617,6 +617,19 @@
       "expires_raw": "2026-11-18T22:59:00Z"
     },
     {
+      "id": "4273225",
+      "title": "World's Greatest Author",
+      "url": "https://deklaration.itch.io/worlds-greatest-author",
+      "author": "Deklaration",
+      "author_url": "https://deklaration.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI1ODA2NzU1LmpwZw==/315x250%23c/aY6Gtt.jpg",
+      "genre": null,
+      "blurb": "Do you have what it takes to be the WORLD'S GREATEST AUTHOR?",
+      "sale_url": "https://itch.io/s/217264/free-for-a-very-short-time",
+      "expires": "2026-11-13T22:59:00.000Z",
+      "expires_raw": "2026-11-13T22:59:00Z"
+    },
+    {
       "id": "4363959",
       "title": "Inkspace",
       "url": "https://kai4pr3sident.itch.io/inkspace",
@@ -651,9 +664,9 @@
       "image": "https://img.itch.zone/aW1nLzI1OTYxMTQxLmpwZw==/315x250%23c/UNLd76.jpg",
       "genre": "Platformer",
       "blurb": "Use your skills and genetically modified carrots to escape from the laboratory.",
-      "sale_url": "https://itch.io/s/217288/biohazard-promotion",
-      "expires": "2026-11-13T13:30:00.000Z",
-      "expires_raw": "2026-11-13T13:30:00Z"
+      "sale_url": "https://itch.io/s/217725/flash-sale-",
+      "expires": "2026-11-14T17:15:00.000Z",
+      "expires_raw": "2026-11-14T17:15:00Z"
     },
     {
       "id": "3951915",
@@ -758,6 +771,19 @@
       "sale_url": "https://itch.io/s/199516/summerfall-sale-geb",
       "expires": "2026-11-30T10:59:00.000Z",
       "expires_raw": "2026-11-30T10:59:00Z"
+    },
+    {
+      "id": "3898794",
+      "title": "SUPER Euli Beuli",
+      "url": "https://roega.itch.io/super-euli-beuli",
+      "author": "ROEGA™",
+      "author_url": "https://roega.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzNTc1ODEwLmpwZw==/315x250%23c/TaQrjR.jpg",
+      "genre": "Platformer",
+      "blurb": "A little owl. A big adventure.",
+      "sale_url": "https://itch.io/s/217711/november-sale",
+      "expires": "2026-11-16T16:00:00.000Z",
+      "expires_raw": "2026-11-16T16:00:00Z"
     },
     {
       "id": "3891802",

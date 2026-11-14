@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-14T02:42:39.641Z",
+  "scraped_at": "2026-11-14T09:28:30.023Z",
   "pages_scraped": 28,
-  "total_found": 92,
+  "total_found": 91,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5358409",
+      "title": "Hide or Die",
+      "url": "https://ji10-games.itch.io/hide-or-die",
+      "author": "Ji+10 Studios",
+      "author_url": "https://ji10-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMjM3MTE4LnBuZw==/315x250%23c/3sHs%2BJ.png",
+      "genre": "Survival",
+      "blurb": "A killer is searching the house. Hide, hold your breath, and survive the timer.",
+      "sale_url": "https://itch.io/s/217846/help-this-game-to-reach-this-goal",
+      "expires": "2026-11-30T07:56:00.000Z",
+      "expires_raw": "2026-11-30T07:56:00Z"
+    },
     {
       "id": "3941707",
       "title": "Don't Fix Her Pipes",
@@ -459,32 +472,6 @@
       "sale_url": "https://itch.io/s/215620/new",
       "expires": "2026-11-25T18:00:00.000Z",
       "expires_raw": "2026-11-25T18:00:00Z"
-    },
-    {
-      "id": "4920479",
-      "title": "GRAV RUSH EDGE",
-      "url": "https://indie-neuron-studio.itch.io/grav-rush-edge",
-      "author": "Indie Neuron Studio",
-      "author_url": "https://indie-neuron-studio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5NDE1MDc2LnBuZw==/315x250%23c/oAUR43.png",
-      "genre": "Action",
-      "blurb": "Pull, survive. Master gravity across 20 levels of chaos!",
-      "sale_url": "https://itch.io/s/204619/indie-neuron-studio-free-games",
-      "expires": "2026-11-14T04:02:00.000Z",
-      "expires_raw": "2026-11-14T04:02:00Z"
-    },
-    {
-      "id": "4904590",
-      "title": "Watermelon FruitRush",
-      "url": "https://indie-neuron-studio.itch.io/watermelon-fruitrush",
-      "author": "Indie Neuron Studio",
-      "author_url": "https://indie-neuron-studio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5MzIwNDAzLnBuZw==/315x250%23c/5ogr89.png",
-      "genre": "Action",
-      "blurb": "Catch watermelons, dodge enemies, survive the chaos!",
-      "sale_url": "https://itch.io/s/204619/indie-neuron-studio-free-games",
-      "expires": "2026-11-14T04:02:00.000Z",
-      "expires_raw": "2026-11-14T04:02:00Z"
     },
     {
       "id": "4886550",

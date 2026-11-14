@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-14T15:57:18.739Z",
-  "pages_scraped": 28,
-  "total_found": 84,
+  "scraped_at": "2026-11-14T20:24:20.807Z",
+  "pages_scraped": 29,
+  "total_found": 87,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -50,7 +50,7 @@
       "url": "https://victor-basset.itch.io/sillwalker",
       "author": "victor-basset",
       "author_url": "https://victor-basset.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMTE0Mjc3LnBuZw==/315x250%23c/L7VVtH.png",
+      "image": "https://img.itch.zone/aW1nLzMyMjYwNzA3LnBuZw==/315x250%23c/ekC7GS.png",
       "genre": "Role Playing",
       "blurb": "An idle RPG that lives on the edge of your screen.",
       "sale_url": "https://itch.io/s/217467/sillwalker-launch-month-free-for-everyone",
@@ -383,6 +383,19 @@
       "expires_raw": "2026-11-30T20:07:00Z"
     },
     {
+      "id": "5056674",
+      "title": "The Noise Inside",
+      "url": "https://bubu07.itch.io/the-noise-inside",
+      "author": "BubuWorks",
+      "author_url": "https://bubu07.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwMjc3MzI0LmpwZw==/315x250%23c/dFDwqI.jpg",
+      "genre": "Survival",
+      "blurb": "Take your pills, but tonight, there are no left.",
+      "sale_url": "https://itch.io/s/217713/2-free-horror-games",
+      "expires": "2026-12-01T16:20:00.000Z",
+      "expires_raw": "2026-12-01T16:20:00Z"
+    },
+    {
       "id": "5038769",
       "title": "What Grandpa Left",
       "url": "https://ji10-games.itch.io/what-grandpa-left",
@@ -420,6 +433,19 @@
       "sale_url": "https://itch.io/s/209136/halloween-sale-2026",
       "expires": "2026-11-18T02:40:00.000Z",
       "expires_raw": "2026-11-18T02:40:00Z"
+    },
+    {
+      "id": "5003407",
+      "title": "The Shape of a Forgotten Memory",
+      "url": "https://kazaaa6.itch.io/the-shape-of-a-forgotten-memory",
+      "author": "kazaaa6",
+      "author_url": "https://kazaaa6.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5OTUzODI0LmdpZg==/315x250%23c/6rhCZw.gif",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/201083/100-off",
+      "expires": "2026-12-14T18:50:00.000Z",
+      "expires_raw": "2026-12-14T18:50:00Z"
     },
     {
       "id": "4739386",
@@ -513,6 +539,19 @@
       "expires_raw": "2026-11-24T15:00:00Z"
     },
     {
+      "id": "4493023",
+      "title": "Late Pizza Delivery",
+      "url": "https://bubu07.itch.io/late-pizza-delivery",
+      "author": "BubuWorks",
+      "author_url": "https://bubu07.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3MjIyNzE3LmpwZw==/315x250%23c/x5f4tu.jpg",
+      "genre": "Simulation",
+      "blurb": "Deliver the pizza. Survive. What can go wrong?",
+      "sale_url": "https://itch.io/s/217713/2-free-horror-games",
+      "expires": "2026-12-01T16:20:00.000Z",
+      "expires_raw": "2026-12-01T16:20:00Z"
+    },
+    {
       "id": "4698507",
       "title": "Eternity Defenders",
       "url": "https://kakaritogames.itch.io/eternity-defenders",
@@ -565,19 +604,6 @@
       "expires_raw": "2026-11-07T18:00:00Z"
     },
     {
-      "id": "4347058",
-      "title": "Labbit:  Escape Protocol",
-      "url": "https://artlanea-games.itch.io/labbit-escape-protocol",
-      "author": "Yorhan David",
-      "author_url": "https://artlanea-games.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI1OTYxMTQxLmpwZw==/315x250%23c/UNLd76.jpg",
-      "genre": "Platformer",
-      "blurb": "Use your skills and genetically modified carrots to escape from the laboratory.",
-      "sale_url": "https://itch.io/s/217725/flash-sale-",
-      "expires": "2026-11-14T17:15:00.000Z",
-      "expires_raw": "2026-11-14T17:15:00Z"
-    },
-    {
       "id": "3951915",
       "title": "The Lost Painter",
       "url": "https://ravenhome.itch.io/the-lost-painter",
@@ -628,6 +654,19 @@
       "sale_url": "https://itch.io/s/209136/halloween-sale-2026",
       "expires": "2026-11-18T02:40:00.000Z",
       "expires_raw": "2026-11-18T02:40:00Z"
+    },
+    {
+      "id": "4077647",
+      "title": "Cute Anime Girl Hikari",
+      "url": "https://kasujin.itch.io/anime-girl-hikari",
+      "author": "Kasujin𓅂",
+      "author_url": "https://kasujin.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI0MzA1NTk4LnBuZw==/315x250%23c/xQTpJo.png",
+      "genre": null,
+      "blurb": "Hikari Chan`",
+      "sale_url": "https://itch.io/s/171196/8-anime-girls-characters-pack",
+      "expires": "2026-11-22T18:29:00.000Z",
+      "expires_raw": "2026-11-22T18:29:00Z"
     },
     {
       "id": "2379761",

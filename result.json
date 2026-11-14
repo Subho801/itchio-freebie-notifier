@@ -1,7 +1,7 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-13T22:44:43.647Z",
-  "pages_scraped": 27,
+  "scraped_at": "2026-11-14T02:42:39.641Z",
+  "pages_scraped": 28,
   "total_found": 92,
   "stopped_reason": "last_page_reached",
   "games": [
@@ -591,19 +591,6 @@
       "expires_raw": "2026-11-18T22:59:00Z"
     },
     {
-      "id": "4273225",
-      "title": "World's Greatest Author",
-      "url": "https://deklaration.itch.io/worlds-greatest-author",
-      "author": "Deklaration",
-      "author_url": "https://deklaration.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI1ODA2NzU1LmpwZw==/315x250%23c/aY6Gtt.jpg",
-      "genre": null,
-      "blurb": "Do you have what it takes to be the WORLD'S GREATEST AUTHOR?",
-      "sale_url": "https://itch.io/s/217264/free-for-a-very-short-time",
-      "expires": "2026-11-13T22:59:00.000Z",
-      "expires_raw": "2026-11-13T22:59:00Z"
-    },
-    {
       "id": "4363959",
       "title": "Inkspace",
       "url": "https://kai4pr3sident.itch.io/inkspace",
@@ -823,6 +810,19 @@
       "sale_url": "https://itch.io/s/217217/november-sale",
       "expires": "2026-11-18T05:20:00.000Z",
       "expires_raw": "2026-11-18T05:20:00Z"
+    },
+    {
+      "id": "3683740",
+      "title": "Thunder Defenders Star Heroes",
+      "url": "https://greygames1000.itch.io/thunder-defenders-star-heroes",
+      "author": "Grey Games",
+      "author_url": "https://greygames1000.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIxOTE3ODc5LnBuZw==/315x250%23c/Dnvl65.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/217794/thunder-defenders",
+      "expires": "2026-11-15T23:53:00.000Z",
+      "expires_raw": "2026-11-15T23:53:00Z"
     },
     {
       "id": "3614958",

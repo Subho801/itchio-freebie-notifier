@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-15T12:58:53.645Z",
+  "scraped_at": "2026-11-15T19:16:31.926Z",
   "pages_scraped": 29,
-  "total_found": 87,
+  "total_found": 88,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -17,19 +17,6 @@
       "sale_url": "https://itch.io/s/161890/dont-fix-her-pipes",
       "expires": "2026-11-18T18:23:00.000Z",
       "expires_raw": "2026-11-18T18:23:00Z"
-    },
-    {
-      "id": "5348598",
-      "title": "Fainted Memories - The Third Line",
-      "url": "https://elacior.itch.io/faintedmemories",
-      "author": "Elacior",
-      "author_url": "https://elacior.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMjA2OTEwLnBuZw==/315x250%23c/gZjdXR.png",
-      "genre": null,
-      "blurb": "The last night shift at a small radio station. Whatever you do, don't answer line three.",
-      "sale_url": "https://itch.io/s/217721/fainted-memories-the-third-line",
-      "expires": "2026-11-15T17:00:00.000Z",
-      "expires_raw": "2026-11-15T17:00:00Z"
     },
     {
       "id": "5341716",
@@ -95,6 +82,19 @@
       "sale_url": "https://itch.io/s/216630/7-to-take-off-launch-month",
       "expires": "2026-12-08T02:00:00.000Z",
       "expires_raw": "2026-12-08T02:00:00Z"
+    },
+    {
+      "id": "5312574",
+      "title": "Mosslight Hollow",
+      "url": "https://epicurusgames.itch.io/mosslight-hollow",
+      "author": "Eppie",
+      "author_url": "https://epicurusgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxOTU0Nzk3LmdpZg==/315x250%23c/Uwxumr.gif",
+      "genre": "Simulation",
+      "blurb": "Build a cozy woodland colony. Grow food, forge friendships, and defend the home you make.",
+      "sale_url": "https://itch.io/s/217413/mosslight-hollow-free-download-development-fund",
+      "expires": "2026-11-18T15:53:00.000Z",
+      "expires_raw": "2026-11-18T15:53:00Z"
     },
     {
       "id": "4551771",
@@ -446,6 +446,19 @@
       "sale_url": "https://itch.io/s/201083/100-off",
       "expires": "2026-12-14T18:50:00.000Z",
       "expires_raw": "2026-12-14T18:50:00Z"
+    },
+    {
+      "id": "4965575",
+      "title": "Snakehead",
+      "url": "https://woodchair.itch.io/snakehead",
+      "author": "woodchair",
+      "author_url": "https://woodchair.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwMTk2NzQxLmdpZg==/315x250%23c/b4FFdr.gif",
+      "genre": "Adventure",
+      "blurb": "we come in peace.",
+      "sale_url": "https://itch.io/s/200756/support",
+      "expires": "2026-11-23T19:01:00.000Z",
+      "expires_raw": "2026-11-23T19:01:00Z"
     },
     {
       "id": "4739386",
@@ -812,19 +825,6 @@
       "expires_raw": "2026-12-04T18:00:00Z"
     },
     {
-      "id": "3321751",
-      "title": "Weapon Rearing",
-      "url": "https://jiyutorisei.itch.io/weapon-rearing",
-      "author": "JIYUTORISEI",
-      "author_url": "https://jiyutorisei.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIwNTg0NDg4LnBuZw==/315x250%23c/944bYF.png",
-      "genre": "Role Playing",
-      "blurb": "Idle weapon collection and weapon development game. Legendary weapons can be automatically obtained.",
-      "sale_url": "https://itch.io/s/171369/weeklong-deal",
-      "expires": "2026-11-15T15:00:00.000Z",
-      "expires_raw": "2026-11-15T15:00:00Z"
-    },
-    {
       "id": "3142863",
       "title": "It's Not Human",
       "url": "https://deeplookgames.itch.io/its-not-human",
@@ -836,6 +836,19 @@
       "sale_url": "https://itch.io/s/215742/halloween",
       "expires": "2026-12-04T18:00:00.000Z",
       "expires_raw": "2026-12-04T18:00:00Z"
+    },
+    {
+      "id": "3449152",
+      "title": "Burner Runner",
+      "url": "https://mateitzu.itch.io/burner-runner1",
+      "author": "Mateitzu",
+      "author_url": "https://mateitzu.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIwNTc2ODkwLnBuZw==/315x250%23c/66KY0A.png",
+      "genre": "Racing",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/217909/sunday-sale",
+      "expires": "2026-11-16T14:36:00.000Z",
+      "expires_raw": "2026-11-16T14:36:00Z"
     },
     {
       "id": "3405495",

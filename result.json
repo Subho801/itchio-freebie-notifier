@@ -1,23 +1,10 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-15T00:00:13.702Z",
+  "scraped_at": "2026-11-15T05:47:47.001Z",
   "pages_scraped": 29,
-  "total_found": 87,
+  "total_found": 86,
   "stopped_reason": "last_page_reached",
   "games": [
-    {
-      "id": "5358409",
-      "title": "Hide or Die",
-      "url": "https://ji10-games.itch.io/hide-or-die",
-      "author": "Ji+10 Studios",
-      "author_url": "https://ji10-games.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMjM3MTE4LnBuZw==/315x250%23c/3sHs%2BJ.png",
-      "genre": "Survival",
-      "blurb": "A killer is searching the house. Hide, hold your breath, and survive the timer.",
-      "sale_url": "https://itch.io/s/217846/help-this-game-to-reach-this-goal",
-      "expires": "2026-11-30T07:56:00.000Z",
-      "expires_raw": "2026-11-30T07:56:00Z"
-    },
     {
       "id": "3941707",
       "title": "Don't Fix Her Pipes",

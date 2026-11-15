@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-15T05:47:47.001Z",
+  "scraped_at": "2026-11-15T12:58:53.645Z",
   "pages_scraped": 29,
-  "total_found": 86,
+  "total_found": 87,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -173,6 +173,19 @@
       "sale_url": "https://itch.io/s/215832/halloween-sale-2026",
       "expires": "2026-11-30T18:00:00.000Z",
       "expires_raw": "2026-11-30T18:00:00Z"
+    },
+    {
+      "id": "5155782",
+      "title": "Fix Her Pipes",
+      "url": "https://deeplookgames.itch.io/fix-her-pipes",
+      "author": "DeepLookGames",
+      "author_url": "https://deeplookgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMjQ0ODM2LmdpZg==/315x250%23c/ehOGF8.gif",
+      "genre": "Survival",
+      "blurb": "Escape from Pipe Granny.",
+      "sale_url": "https://itch.io/s/215736/fix-her-pipes",
+      "expires": "2026-11-19T21:34:00.000Z",
+      "expires_raw": "2026-11-19T21:34:00Z"
     },
     {
       "id": "5294753",

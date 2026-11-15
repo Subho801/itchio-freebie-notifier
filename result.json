@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-15T19:16:31.926Z",
+  "scraped_at": "2026-11-15T23:24:04.975Z",
   "pages_scraped": 29,
-  "total_found": 88,
+  "total_found": 89,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5366866",
+      "title": "Strings Of Malakai",
+      "url": "https://stringsofmalakai.itch.io/strings-of-malakai",
+      "author": "stringsofmalakai",
+      "author_url": "https://stringsofmalakai.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMjg4NjU3LnBuZw==/315x250%23c/Ia0UL6.png",
+      "genre": "Action",
+      "blurb": "Where the impossible is ordinary, and nothing is quite as it seems.",
+      "sale_url": "https://itch.io/s/218229/strings-of-malakai-alpha-release-freebie",
+      "expires": "2026-11-17T23:02:00.000Z",
+      "expires_raw": "2026-11-17T23:02:00Z"
+    },
     {
       "id": "3941707",
       "title": "Don't Fix Her Pipes",

@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-14T20:24:20.807Z",
+  "scraped_at": "2026-11-15T00:00:13.702Z",
   "pages_scraped": 29,
   "total_found": 87,
   "stopped_reason": "last_page_reached",
@@ -157,9 +157,9 @@
       "image": "https://img.itch.zone/aW1nLzMxODIxNTg0LnBuZw==/315x250%23c/372X8R.png",
       "genre": "Strategy",
       "blurb": "Run a country in a World that is doomed to Eternal Struggle. An organically simulated open-source grand strategy game.",
-      "sale_url": "https://itch.io/s/216013/deal-or-force-public-release-giveaway",
-      "expires": "2026-11-14T21:00:00.000Z",
-      "expires_raw": "2026-11-14T21:00:00Z"
+      "sale_url": "https://itch.io/s/217929/deal-or-force-giveaway-continuation",
+      "expires": "2026-11-24T21:00:00.000Z",
+      "expires_raw": "2026-11-24T21:00:00Z"
     },
     {
       "id": "5298772",

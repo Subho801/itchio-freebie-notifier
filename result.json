@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-16T10:25:50.428Z",
+  "scraped_at": "2026-11-16T20:36:40.949Z",
   "pages_scraped": 29,
-  "total_found": 88,
+  "total_found": 87,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -30,6 +30,19 @@
       "sale_url": "https://itch.io/s/161890/dont-fix-her-pipes",
       "expires": "2026-11-18T18:23:00.000Z",
       "expires_raw": "2026-11-18T18:23:00Z"
+    },
+    {
+      "id": "5348598",
+      "title": "Fainted Memories - The Third Line",
+      "url": "https://elacior.itch.io/faintedmemories",
+      "author": "Elacior",
+      "author_url": "https://elacior.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMjA2OTEwLnBuZw==/315x250%23c/gZjdXR.png",
+      "genre": null,
+      "blurb": "The last night shift at a small radio station. Whatever you do, don't answer line three.",
+      "sale_url": "https://itch.io/s/218163/fainted-memories-the-third-line",
+      "expires": "2026-11-22T17:10:00.000Z",
+      "expires_raw": "2026-11-22T17:10:00Z"
     },
     {
       "id": "5341716",
@@ -121,19 +134,6 @@
       "sale_url": "https://itch.io/s/216490/next-level-fund-raising",
       "expires": "2026-11-21T08:07:00.000Z",
       "expires_raw": "2026-11-21T08:07:00Z"
-    },
-    {
-      "id": "5304512",
-      "title": "Flintlock Fast-Food",
-      "url": "https://caynman.itch.io/flintlock-fast-food",
-      "author": "Caynman",
-      "author_url": "https://caynman.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxODcwNzQzLnBuZw==/315x250%23c/5Tvbkb.png",
-      "genre": "Action",
-      "blurb": "Ale, Pork and Flintlocks",
-      "sale_url": "https://itch.io/s/217274/its-the-most-wonderful-before-december",
-      "expires": "2026-12-11T12:23:00.000Z",
-      "expires_raw": "2026-12-11T12:23:00Z"
     },
     {
       "id": "5304037",
@@ -238,6 +238,19 @@
       "sale_url": "https://itch.io/s/215870/liminal-state-suport",
       "expires": "2026-11-30T13:02:00.000Z",
       "expires_raw": "2026-11-30T13:02:00Z"
+    },
+    {
+      "id": "5288242",
+      "title": "Don't answer",
+      "url": "https://tempe3k.itch.io/dont-answer",
+      "author": "tempe3k",
+      "author_url": "https://tempe3k.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNzM3MTQwLnBuZw==/315x250%23c/%2BFrcRh.png",
+      "genre": "Adventure",
+      "blurb": "A pixel-art psychological horror about ignoring the person on the other side of the door. 5 endings.",
+      "sale_url": "https://itch.io/s/218402/free-game-this-month",
+      "expires": "2026-11-30T18:17:00.000Z",
+      "expires_raw": "2026-11-30T18:17:00Z"
     },
     {
       "id": "5278975",
@@ -630,6 +643,19 @@
       "expires_raw": "2026-11-07T18:00:00Z"
     },
     {
+      "id": "4347058",
+      "title": "Labbit:  Escape Protocol",
+      "url": "https://artlanea-games.itch.io/labbit-escape-protocol",
+      "author": "Yorhan David",
+      "author_url": "https://artlanea-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI1OTYxMTQxLmpwZw==/315x250%23c/UNLd76.jpg",
+      "genre": "Platformer",
+      "blurb": "Use your skills and genetically modified carrots to escape from the laboratory.",
+      "sale_url": "https://itch.io/s/218354/flash-sale-",
+      "expires": "2026-11-18T03:00:00.000Z",
+      "expires_raw": "2026-11-18T03:00:00Z"
+    },
+    {
       "id": "3951915",
       "title": "The Lost Painter",
       "url": "https://ravenhome.itch.io/the-lost-painter",
@@ -747,19 +773,6 @@
       "expires_raw": "2026-11-30T10:59:00Z"
     },
     {
-      "id": "3898794",
-      "title": "SUPER Euli Beuli",
-      "url": "https://roega.itch.io/super-euli-beuli",
-      "author": "ROEGA™",
-      "author_url": "https://roega.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIzNTc1ODEwLmpwZw==/315x250%23c/TaQrjR.jpg",
-      "genre": "Platformer",
-      "blurb": "A little owl. A big adventure.",
-      "sale_url": "https://itch.io/s/217711/november-sale",
-      "expires": "2026-11-16T16:00:00.000Z",
-      "expires_raw": "2026-11-16T16:00:00Z"
-    },
-    {
       "id": "3891802",
       "title": "Backmare",
       "url": "https://joao-acelino-official.itch.io/backmare",
@@ -771,19 +784,6 @@
       "sale_url": "https://itch.io/s/209136/halloween-sale-2026",
       "expires": "2026-11-18T02:40:00.000Z",
       "expires_raw": "2026-11-18T02:40:00Z"
-    },
-    {
-      "id": "3392246",
-      "title": "Penance",
-      "url": "https://pehriska.itch.io/penance",
-      "author": "Pehriska",
-      "author_url": "https://pehriska.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png",
-      "genre": "Adventure",
-      "blurb": "Goodrich Castle, England, 1221AD",
-      "sale_url": "https://itch.io/s/215924/penance-100-off",
-      "expires": "2026-11-11T16:45:00.000Z",
-      "expires_raw": "2026-11-11T16:45:00Z"
     },
     {
       "id": "3799948",
@@ -836,19 +836,6 @@
       "sale_url": "https://itch.io/s/215742/halloween",
       "expires": "2026-12-04T18:00:00.000Z",
       "expires_raw": "2026-12-04T18:00:00Z"
-    },
-    {
-      "id": "3449152",
-      "title": "Burner Runner",
-      "url": "https://mateitzu.itch.io/burner-runner1",
-      "author": "Mateitzu",
-      "author_url": "https://mateitzu.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIwNTc2ODkwLnBuZw==/315x250%23c/66KY0A.png",
-      "genre": "Racing",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/217909/sunday-sale",
-      "expires": "2026-11-16T14:36:00.000Z",
-      "expires_raw": "2026-11-16T14:36:00Z"
     },
     {
       "id": "3405495",

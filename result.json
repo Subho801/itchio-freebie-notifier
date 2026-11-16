@@ -1,6 +1,6 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-16T02:54:40.074Z",
+  "scraped_at": "2026-11-16T10:25:50.428Z",
   "pages_scraped": 29,
   "total_found": 88,
   "stopped_reason": "last_page_reached",
@@ -9,7 +9,7 @@
       "id": "5366866",
       "title": "Strings Of Malakai",
       "url": "https://stringsofmalakai.itch.io/strings-of-malakai",
-      "author": "stringsofmalakai",
+      "author": "Strings Dev",
       "author_url": "https://stringsofmalakai.itch.io/",
       "image": "https://img.itch.zone/aW1nLzMyMjg4NjU3LnBuZw==/315x250%23c/Ia0UL6.png",
       "genre": "Action",
@@ -45,17 +45,17 @@
       "expires_raw": "2026-12-12T12:46:00Z"
     },
     {
-      "id": "5338247",
-      "title": "The Last Laugh",
-      "url": "https://ji10-games.itch.io/the-last-laugh",
-      "author": "Ji+10 Studios",
-      "author_url": "https://ji10-games.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMDkxOTMxLnBuZw==/315x250%23c/MYzBlN.png",
+      "id": "5341751",
+      "title": "Night Maniac 3: The Origin Of Steven",
+      "url": "https://noxusgamesstudio.itch.io/night-maniac-the-origin-of-steven",
+      "author": "Noxus Games Studio",
+      "author_url": "https://noxusgamesstudio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMTE0MTYxLnBuZw==/315x250%23c/YxMJFH.png",
       "genre": "Adventure",
-      "blurb": "Mom's away. The lights are out. Something is laughing in the dark.",
-      "sale_url": "https://itch.io/s/217215/help-this-game-to-reach-this-goal",
-      "expires": "2026-11-30T04:06:00.000Z",
-      "expires_raw": "2026-11-30T04:06:00Z"
+      "blurb": "A 1948 narrative horror. Witness Steven Watson's dark descent in a rotting town and the bloody origin of a legend.",
+      "sale_url": "https://itch.io/s/218289/sale-maniac",
+      "expires": "2026-11-18T00:00:00.000Z",
+      "expires_raw": "2026-11-18T00:00:00Z"
     },
     {
       "id": "5331912",
@@ -864,6 +864,19 @@
       "expires_raw": "2026-11-30T12:56:00Z"
     },
     {
+      "id": "3373544",
+      "title": "Night Maniac 2: The Legacy Of Blood",
+      "url": "https://noxusgamesstudio.itch.io/nightmaniac2",
+      "author": "Noxus Games Studio",
+      "author_url": "https://noxusgamesstudio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIwMTQxMjEzLmpwZw==/315x250%23c/muT17v.jpg",
+      "genre": "Adventure",
+      "blurb": "The Red Valley Killer returned! and is now in GreenFord!",
+      "sale_url": "https://itch.io/s/218289/sale-maniac",
+      "expires": "2026-11-18T00:00:00.000Z",
+      "expires_raw": "2026-11-18T00:00:00Z"
+    },
+    {
       "id": "3301246",
       "title": "Concrete Veil",
       "url": "https://p3trol.itch.io/concrete-veil",
@@ -888,6 +901,19 @@
       "sale_url": "https://itch.io/s/216377/polyphonic-petrol-sale",
       "expires": "2026-12-09T00:52:00.000Z",
       "expires_raw": "2026-12-09T00:52:00Z"
+    },
+    {
+      "id": "3045552",
+      "title": "Night Maniac",
+      "url": "https://noxusgamesstudio.itch.io/nightmaniac",
+      "author": "Noxus Games Studio",
+      "author_url": "https://noxusgamesstudio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE4Mzc4MTc2LnBuZw==/315x250%23c/A3Kk1l.png",
+      "genre": "Adventure",
+      "blurb": "Night Maniac is a horror game where Jonathan faces a deadly threat after a dangerous fugitive escapes. Survive!",
+      "sale_url": "https://itch.io/s/218289/sale-maniac",
+      "expires": "2026-11-18T00:00:00.000Z",
+      "expires_raw": "2026-11-18T00:00:00Z"
     },
     {
       "id": "2950730",
@@ -1098,19 +1124,6 @@
       "expires_raw": "2026-11-30T17:02:00Z"
     },
     {
-      "id": "16339",
-      "title": "Cosmic Zephyr DX / 宇宙の風DX",
-      "url": "https://dylancassidy.itch.io/cosmic-zephyr",
-      "author": "Dylan Cassidy",
-      "author_url": "https://dylancassidy.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzM3Mjc3NjIucG5n/315x250%23c/1zhVlZ.png",
-      "genre": "Shooter",
-      "blurb": "the original 3d bullet hell",
-      "sale_url": "https://itch.io/s/180473/cosmic-zephyr-dx-friday-the-13th-giveaway",
-      "expires": "2026-11-16T05:59:00.000Z",
-      "expires_raw": "2026-11-16T05:59:00Z"
-    },
-    {
       "id": "223069",
       "title": "Banknotes Memory Puzzle",
       "url": "https://unaux-25917242.itch.io/banknotes-memory-puzzle",
@@ -1135,19 +1148,6 @@
       "sale_url": "https://itch.io/s/201868/morse-comunikator-free-and-more",
       "expires": "2026-11-30T17:02:00.000Z",
       "expires_raw": "2026-11-30T17:02:00Z"
-    },
-    {
-      "id": "16349",
-      "title": "A Starspangled Zephyr / 星条旗の風",
-      "url": "https://dylancassidy.itch.io/a-starspangled-zephyr",
-      "author": "Dylan Cassidy",
-      "author_url": "https://dylancassidy.itch.io/",
-      "image": "https://img.itch.zone/aW1hZ2UvMTYzNDkvNjQyOTMucG5n/315x250%23c/D3arZg.png",
-      "genre": "Shooter",
-      "blurb": "a psychedelic shoot-em-up",
-      "sale_url": "https://itch.io/s/180473/cosmic-zephyr-dx-friday-the-13th-giveaway",
-      "expires": "2026-11-16T05:59:00.000Z",
-      "expires_raw": "2026-11-16T05:59:00Z"
     }
   ]
 }

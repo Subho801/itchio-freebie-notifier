@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-17T03:07:54.797Z",
-  "pages_scraped": 29,
-  "total_found": 87,
+  "scraped_at": "2026-11-17T11:43:15.133Z",
+  "pages_scraped": 30,
+  "total_found": 85,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -30,19 +30,6 @@
       "sale_url": "https://itch.io/s/218229/strings-of-malakai-alpha-release-freebie",
       "expires": "2026-11-17T23:02:00.000Z",
       "expires_raw": "2026-11-17T23:02:00Z"
-    },
-    {
-      "id": "3941707",
-      "title": "Don't Fix Her Pipes",
-      "url": "https://deeplookgames.itch.io/dont-fix-her-pipes",
-      "author": "DeepLookGames",
-      "author_url": "https://deeplookgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIzNzAwMzUyLmpwZw==/315x250%23c/2w7wDb.jpg",
-      "genre": "Adventure",
-      "blurb": "Based on real murders from the 1980s.",
-      "sale_url": "https://itch.io/s/161890/dont-fix-her-pipes",
-      "expires": "2026-11-18T18:23:00.000Z",
-      "expires_raw": "2026-11-18T18:23:00Z"
     },
     {
       "id": "5348598",
@@ -82,19 +69,6 @@
       "sale_url": "https://itch.io/s/218289/sale-maniac",
       "expires": "2026-11-18T00:00:00.000Z",
       "expires_raw": "2026-11-18T00:00:00Z"
-    },
-    {
-      "id": "5331912",
-      "title": "Feeling Tanky",
-      "url": "https://braindeadgames.itch.io/feeling-tanky",
-      "author": "BrainDead Games Studio",
-      "author_url": "https://braindeadgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMDQ5NDAwLnBuZw==/315x250%23c/ByfFj9.png",
-      "genre": "Action",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/216922/flash-sale",
-      "expires": "2026-11-17T04:59:00.000Z",
-      "expires_raw": "2026-11-17T04:59:00Z"
     },
     {
       "id": "5324027",
@@ -201,19 +175,6 @@
       "expires_raw": "2026-11-30T18:00:00Z"
     },
     {
-      "id": "5155782",
-      "title": "Fix Her Pipes",
-      "url": "https://deeplookgames.itch.io/fix-her-pipes",
-      "author": "DeepLookGames",
-      "author_url": "https://deeplookgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMjQ0ODM2LmdpZg==/315x250%23c/ehOGF8.gif",
-      "genre": "Survival",
-      "blurb": "Escape from Pipe Granny.",
-      "sale_url": "https://itch.io/s/215736/fix-her-pipes",
-      "expires": "2026-11-19T21:34:00.000Z",
-      "expires_raw": "2026-11-19T21:34:00Z"
-    },
-    {
       "id": "5294753",
       "title": "Shenx e amigos - Resgate da Sun",
       "url": "https://theo-tgames.itch.io/shenx-e-amigos-resgate-da-sun",
@@ -316,19 +277,6 @@
       "sale_url": "https://itch.io/s/216229/ji10-games-sale",
       "expires": "2026-12-06T05:41:00.000Z",
       "expires_raw": "2026-12-06T05:41:00Z"
-    },
-    {
-      "id": "5223668",
-      "title": "SubjectZERO",
-      "url": "https://braindeadgames.itch.io/subjectzero",
-      "author": "BrainDead Games Studio",
-      "author_url": "https://braindeadgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMDM2MDExLmpwZw==/315x250%23c/TZZuw8.jpg",
-      "genre": "Survival",
-      "blurb": "Psychological Horror",
-      "sale_url": "https://itch.io/s/216922/flash-sale",
-      "expires": "2026-11-17T04:59:00.000Z",
-      "expires_raw": "2026-11-17T04:59:00Z"
     },
     {
       "id": "5209396",
@@ -773,6 +721,19 @@
       "expires_raw": "2026-11-30T10:59:00Z"
     },
     {
+      "id": "3898794",
+      "title": "SUPER Euli Beuli",
+      "url": "https://roega.itch.io/super-euli-beuli",
+      "author": "ROEGA™",
+      "author_url": "https://roega.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzNTc1ODEwLmpwZw==/315x250%23c/TaQrjR.jpg",
+      "genre": "Platformer",
+      "blurb": "A little owl. A big adventure.",
+      "sale_url": "https://itch.io/s/218740/ultra-limited-sale",
+      "expires": "2026-11-19T07:46:00.000Z",
+      "expires_raw": "2026-11-19T07:46:00Z"
+    },
+    {
       "id": "3891802",
       "title": "Backmare",
       "url": "https://joao-acelino-official.itch.io/backmare",
@@ -836,6 +797,19 @@
       "sale_url": "https://itch.io/s/215742/halloween",
       "expires": "2026-12-04T18:00:00.000Z",
       "expires_raw": "2026-12-04T18:00:00Z"
+    },
+    {
+      "id": "3440115",
+      "title": "NIGHT DUTY",
+      "url": "https://kyezdev.itch.io/night-duty",
+      "author": "kyezdev",
+      "author_url": "https://kyezdev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIwNTI0MDkzLnBuZw==/315x250%23c/AcUIP1.png",
+      "genre": "Adventure",
+      "blurb": "A routine night shift... turns into a nightmare",
+      "sale_url": "https://itch.io/s/190409/night-duty-special-sale",
+      "expires": "2026-12-17T05:01:00.000Z",
+      "expires_raw": "2026-12-17T05:01:00Z"
     },
     {
       "id": "3405495",

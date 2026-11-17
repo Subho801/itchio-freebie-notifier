@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-17T11:43:15.133Z",
-  "pages_scraped": 30,
-  "total_found": 85,
+  "scraped_at": "2026-11-17T20:03:01.981Z",
+  "pages_scraped": 32,
+  "total_found": 86,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5378328",
+      "title": "Little Lighthouse Town",
+      "url": "https://brokenbunnystudios.itch.io/little-lighthouse-town",
+      "author": "BrokenBunnyStudios",
+      "author_url": "https://brokenbunnystudios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNDM2NDg5LnBuZw==/315x250%23c/IBz0wp.png",
+      "genre": "Simulation",
+      "blurb": "A cozy idle builder: grow a pastel seaside town around a lighthouse and keep it glowing, even while the game is closed.",
+      "sale_url": "https://itch.io/s/219273/ea-of-little-lighthouse",
+      "expires": "2026-11-20T15:20:00.000Z",
+      "expires_raw": "2026-11-20T15:20:00Z"
+    },
     {
       "id": "5378934",
       "title": "CRUMBWELL'S SLOBBER NUGGETS!",
@@ -24,8 +37,8 @@
       "url": "https://stringsofmalakai.itch.io/strings-of-malakai",
       "author": "Strings Dev",
       "author_url": "https://stringsofmalakai.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMjg4NjU3LnBuZw==/315x250%23c/Ia0UL6.png",
-      "genre": "Action",
+      "image": "https://img.itch.zone/aW1nLzMyNDQ1MDUzLnBuZw==/315x250%23c/jBUuDR.png",
+      "genre": "Role Playing",
       "blurb": "Where the impossible is ordinary, and nothing is quite as it seems.",
       "sale_url": "https://itch.io/s/218229/strings-of-malakai-alpha-release-freebie",
       "expires": "2026-11-17T23:02:00.000Z",
@@ -487,19 +500,6 @@
       "expires_raw": "2026-12-12T15:54:00Z"
     },
     {
-      "id": "4865475",
-      "title": "AUTHORIZATION REQUIRED",
-      "url": "https://awkwardviolentstories.itch.io/authorization-required",
-      "author": "Awkward Violent Stories",
-      "author_url": "https://awkwardviolentstories.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5MDcxNDk4LnBuZw==/315x250%23c/LxqpQj.png",
-      "genre": "Simulation",
-      "blurb": "You are an immigration officer inside a remote bunker. Examine documents. Verify identities. Decide who enters.",
-      "sale_url": "https://itch.io/s/201322/help-authorization-required-reach-steam",
-      "expires": "2026-11-17T17:30:00.000Z",
-      "expires_raw": "2026-11-17T17:30:00Z"
-    },
-    {
       "id": "4765346",
       "title": "Lost In Transit",
       "url": "https://boxer-gaming.itch.io/lost-in-transit",
@@ -550,6 +550,19 @@
       "sale_url": "https://itch.io/s/217304/free-to-keep-giveaway",
       "expires": "2026-11-18T12:00:00.000Z",
       "expires_raw": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "4657116",
+      "title": "poppy playtime quiz powerpoint new update v.4.0.0 coming soon...",
+      "url": "https://funny-powerpoints.itch.io/poppy-playtime-quiz-powerpoint",
+      "author": "Mob crack",
+      "author_url": "https://funny-powerpoints.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5ODM1MjczLnBuZw==/315x250%23c/Vk3WYI.png",
+      "genre": "Puzzle",
+      "blurb": "The Ppoppy Playtime quiz. featuring a mix of easy and hard questions—over 20 fun ones in total.  Try it now!",
+      "sale_url": "https://itch.io/s/219979/powerpoints-funny-duo",
+      "expires": "2026-11-26T19:34:00.000Z",
+      "expires_raw": "2026-11-26T19:34:00Z"
     },
     {
       "id": "4565310",
@@ -656,19 +669,6 @@
       "expires_raw": "2026-11-18T02:40:00Z"
     },
     {
-      "id": "4077647",
-      "title": "Cute Anime Girl Hikari",
-      "url": "https://kasujin.itch.io/anime-girl-hikari",
-      "author": "Kasujin𓅂",
-      "author_url": "https://kasujin.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI0MzA1NTk4LnBuZw==/315x250%23c/xQTpJo.png",
-      "genre": null,
-      "blurb": "Hikari Chan`",
-      "sale_url": "https://itch.io/s/171196/8-anime-girls-characters-pack",
-      "expires": "2026-11-22T18:29:00.000Z",
-      "expires_raw": "2026-11-22T18:29:00Z"
-    },
-    {
       "id": "2379761",
       "title": "Dorman's Attraction: Upgraded and Advanced",
       "url": "https://frexcellor.itch.io/dormans-attraction",
@@ -745,6 +745,19 @@
       "sale_url": "https://itch.io/s/209136/halloween-sale-2026",
       "expires": "2026-11-18T02:40:00.000Z",
       "expires_raw": "2026-11-18T02:40:00Z"
+    },
+    {
+      "id": "3392246",
+      "title": "Penance",
+      "url": "https://pehriska.itch.io/penance",
+      "author": "Pehriska",
+      "author_url": "https://pehriska.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png",
+      "genre": "Adventure",
+      "blurb": "Goodrich Castle, England, 1221AD",
+      "sale_url": "https://itch.io/s/215924/penance-100-off",
+      "expires": "2026-11-11T16:45:00.000Z",
+      "expires_raw": "2026-11-11T16:45:00Z"
     },
     {
       "id": "3799948",

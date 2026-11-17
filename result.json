@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-16T20:36:40.949Z",
+  "scraped_at": "2026-11-17T03:07:54.797Z",
   "pages_scraped": 29,
   "total_found": 87,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5378934",
+      "title": "CRUMBWELL'S SLOBBER NUGGETS!",
+      "url": "https://midnight-desktop.itch.io/crumbwells-slobber-nuggets",
+      "author": "Midnight Desktop",
+      "author_url": "https://midnight-desktop.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMzcwNTU0LnBuZw==/315x250%23c/KXunh8.png",
+      "genre": "Simulation",
+      "blurb": "Wild n Wacky Stadium Concession Stand!",
+      "sale_url": "https://itch.io/s/218287/crumbwells-slobber-nuggets-is-just-free",
+      "expires": "2026-11-21T08:03:00.000Z",
+      "expires_raw": "2026-11-21T08:03:00Z"
+    },
     {
       "id": "5366866",
       "title": "Strings Of Malakai",
@@ -433,19 +446,6 @@
       "sale_url": "https://itch.io/s/216229/ji10-games-sale",
       "expires": "2026-12-06T05:41:00.000Z",
       "expires_raw": "2026-12-06T05:41:00Z"
-    },
-    {
-      "id": "5017122",
-      "title": "DRAW • PLACE • RUN",
-      "url": "https://all-kinds-of-games.itch.io/draw-place-run",
-      "author": "All kinds of games",
-      "author_url": "https://all-kinds-of-games.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwMDM4MjI4LnBuZw==/315x250%23c/wCj0gz.png",
-      "genre": null,
-      "blurb": "Draw the path, place it, and guide the cube through 100 puzzle levels.",
-      "sale_url": "https://itch.io/s/201260/draw-place-run-demo-launch-sale",
-      "expires": "2026-11-16T21:06:00.000Z",
-      "expires_raw": "2026-11-16T21:06:00Z"
     },
     {
       "id": "5014042",

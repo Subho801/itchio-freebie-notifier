@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-18T02:21:15.598Z",
+  "scraped_at": "2026-11-18T10:26:41.034Z",
   "pages_scraped": 34,
-  "total_found": 82,
+  "total_found": 79,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -396,19 +396,6 @@
       "expires_raw": "2026-12-06T05:41:00Z"
     },
     {
-      "id": "5014042",
-      "title": "The Broken Horn",
-      "url": "https://joao-acelino-official.itch.io/the-broken-horn",
-      "author": "joao_acelino_official",
-      "author_url": "https://joao-acelino-official.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwMDE5MjEyLmdpZg==/315x250%23c/QlQi1G.gif",
-      "genre": "Survival",
-      "blurb": "Survive the horror of the dark forest",
-      "sale_url": "https://itch.io/s/209136/halloween-sale-2026",
-      "expires": "2026-11-18T02:40:00.000Z",
-      "expires_raw": "2026-11-18T02:40:00Z"
-    },
-    {
       "id": "5003407",
       "title": "The Shape of a Forgotten Memory",
       "url": "https://kazaaa6.itch.io/the-shape-of-a-forgotten-memory",
@@ -446,6 +433,19 @@
       "sale_url": "https://itch.io/s/217478/shadows-we-share-special-100-off-sale",
       "expires": "2026-11-26T14:25:00.000Z",
       "expires_raw": "2026-11-26T14:25:00Z"
+    },
+    {
+      "id": "4914631",
+      "title": "Bleached",
+      "url": "https://cheeri0s.itch.io/bleached",
+      "author": "cheeri0s",
+      "author_url": "https://cheeri0s.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5NDE0NDEyLmpwZw==/315x250%23c/Ofs%2BCH.jpg",
+      "genre": "Visual Novel",
+      "blurb": "A post apocalyptic visual novel",
+      "sale_url": "https://itch.io/s/220076/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "4886550",
@@ -578,19 +578,6 @@
       "expires_raw": "2026-11-07T18:00:00Z"
     },
     {
-      "id": "4347058",
-      "title": "Labbit:  Escape Protocol",
-      "url": "https://artlanea-games.itch.io/labbit-escape-protocol",
-      "author": "Yorhan David",
-      "author_url": "https://artlanea-games.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI1OTYxMTQxLmpwZw==/315x250%23c/UNLd76.jpg",
-      "genre": "Platformer",
-      "blurb": "Use your skills and genetically modified carrots to escape from the laboratory.",
-      "sale_url": "https://itch.io/s/218354/flash-sale-",
-      "expires": "2026-11-18T03:00:00.000Z",
-      "expires_raw": "2026-11-18T03:00:00Z"
-    },
-    {
       "id": "3951915",
       "title": "The Lost Painter",
       "url": "https://ravenhome.itch.io/the-lost-painter",
@@ -628,19 +615,6 @@
       "sale_url": "https://itch.io/s/215358/november-sale",
       "expires": "2026-11-30T12:56:00.000Z",
       "expires_raw": "2026-11-30T12:56:00Z"
-    },
-    {
-      "id": "4180270",
-      "title": "Backmare: Android Version",
-      "url": "https://joao-acelino-official.itch.io/backmare-android-version",
-      "author": "joao_acelino_official",
-      "author_url": "https://joao-acelino-official.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwNDc2MDAzLmpwZw==/315x250%23c/9MsSbO.jpg",
-      "genre": "Survival",
-      "blurb": "Defeat nightmares of the past",
-      "sale_url": "https://itch.io/s/209136/halloween-sale-2026",
-      "expires": "2026-11-18T02:40:00.000Z",
-      "expires_raw": "2026-11-18T02:40:00Z"
     },
     {
       "id": "2379761",
@@ -706,19 +680,6 @@
       "sale_url": "https://itch.io/s/218740/ultra-limited-sale",
       "expires": "2026-11-19T07:46:00.000Z",
       "expires_raw": "2026-11-19T07:46:00Z"
-    },
-    {
-      "id": "3891802",
-      "title": "Backmare",
-      "url": "https://joao-acelino-official.itch.io/backmare",
-      "author": "joao_acelino_official",
-      "author_url": "https://joao-acelino-official.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwNDEzMzM5LnBuZw==/315x250%23c/OKLBS0.png",
-      "genre": "Survival",
-      "blurb": "Defeat nightmares of the past",
-      "sale_url": "https://itch.io/s/209136/halloween-sale-2026",
-      "expires": "2026-11-18T02:40:00.000Z",
-      "expires_raw": "2026-11-18T02:40:00Z"
     },
     {
       "id": "3392246",

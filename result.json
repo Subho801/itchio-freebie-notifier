@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-17T20:03:01.981Z",
-  "pages_scraped": 32,
-  "total_found": 86,
+  "scraped_at": "2026-11-18T02:21:15.598Z",
+  "pages_scraped": 34,
+  "total_found": 82,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -69,19 +69,6 @@
       "sale_url": "https://itch.io/s/217467/sillwalker-launch-month-free-for-everyone",
       "expires": "2026-12-12T12:46:00.000Z",
       "expires_raw": "2026-12-12T12:46:00Z"
-    },
-    {
-      "id": "5341751",
-      "title": "Night Maniac 3: The Origin Of Steven",
-      "url": "https://noxusgamesstudio.itch.io/night-maniac-the-origin-of-steven",
-      "author": "Noxus Games Studio",
-      "author_url": "https://noxusgamesstudio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMTE0MTYxLnBuZw==/315x250%23c/YxMJFH.png",
-      "genre": "Adventure",
-      "blurb": "A 1948 narrative horror. Witness Steven Watson's dark descent in a rotting town and the bloody origin of a legend.",
-      "sale_url": "https://itch.io/s/218289/sale-maniac",
-      "expires": "2026-11-18T00:00:00.000Z",
-      "expires_raw": "2026-11-18T00:00:00Z"
     },
     {
       "id": "5324027",
@@ -461,32 +448,6 @@
       "expires_raw": "2026-11-26T14:25:00Z"
     },
     {
-      "id": "4973081",
-      "title": "Final Witness",
-      "url": "https://hexnut-studios.itch.io/final-witness",
-      "author": "Hexnut Studios",
-      "author_url": "https://hexnut-studios.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png",
-      "genre": "Adventure",
-      "blurb": "You found the truth. Can you survive? A PSX-style horror game.",
-      "sale_url": "https://itch.io/s/200189/final-witness-on-sale-for-a-limited-time",
-      "expires": "2026-11-06T23:42:00.000Z",
-      "expires_raw": "2026-11-06T23:42:00Z"
-    },
-    {
-      "id": "4914631",
-      "title": "Bleached",
-      "url": "https://cheeri0s.itch.io/bleached",
-      "author": "cheeri0s",
-      "author_url": "https://cheeri0s.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5NDE0NDEyLmpwZw==/315x250%23c/Ofs%2BCH.jpg",
-      "genre": "Visual Novel",
-      "blurb": "A post apocalyptic visual novel",
-      "sale_url": "https://itch.io/s/215620/new",
-      "expires": "2026-11-25T18:00:00.000Z",
-      "expires_raw": "2026-11-25T18:00:00Z"
-    },
-    {
       "id": "4886550",
       "title": "Shoku Pain",
       "url": "https://archille.itch.io/shoku-pain",
@@ -563,6 +524,19 @@
       "sale_url": "https://itch.io/s/219979/powerpoints-funny-duo",
       "expires": "2026-11-26T19:34:00.000Z",
       "expires_raw": "2026-11-26T19:34:00Z"
+    },
+    {
+      "id": "4580621",
+      "title": "No One Inside",
+      "url": "https://phoenixszone.itch.io/no-one-inside",
+      "author": "PHOENIX'sZone",
+      "author_url": "https://phoenixszone.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4MTUxMzE5LnBuZw==/315x250%23c/8ZWVAS.png",
+      "genre": "Survival",
+      "blurb": "No One Inside",
+      "sale_url": "https://itch.io/s/196473/no-one-inside",
+      "expires": "2026-12-01T00:29:00.000Z",
+      "expires_raw": "2026-12-01T00:29:00Z"
     },
     {
       "id": "4565310",
@@ -838,19 +812,6 @@
       "expires_raw": "2026-11-30T12:56:00Z"
     },
     {
-      "id": "3373544",
-      "title": "Night Maniac 2: The Legacy Of Blood",
-      "url": "https://noxusgamesstudio.itch.io/nightmaniac2",
-      "author": "Noxus Games Studio",
-      "author_url": "https://noxusgamesstudio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIwMTQxMjEzLmpwZw==/315x250%23c/muT17v.jpg",
-      "genre": "Adventure",
-      "blurb": "The Red Valley Killer returned! and is now in GreenFord!",
-      "sale_url": "https://itch.io/s/218289/sale-maniac",
-      "expires": "2026-11-18T00:00:00.000Z",
-      "expires_raw": "2026-11-18T00:00:00Z"
-    },
-    {
       "id": "3301246",
       "title": "Concrete Veil",
       "url": "https://p3trol.itch.io/concrete-veil",
@@ -875,19 +836,6 @@
       "sale_url": "https://itch.io/s/216377/polyphonic-petrol-sale",
       "expires": "2026-12-09T00:52:00.000Z",
       "expires_raw": "2026-12-09T00:52:00Z"
-    },
-    {
-      "id": "3045552",
-      "title": "Night Maniac",
-      "url": "https://noxusgamesstudio.itch.io/nightmaniac",
-      "author": "Noxus Games Studio",
-      "author_url": "https://noxusgamesstudio.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzE4Mzc4MTc2LnBuZw==/315x250%23c/A3Kk1l.png",
-      "genre": "Adventure",
-      "blurb": "Night Maniac is a horror game where Jonathan faces a deadly threat after a dangerous fugitive escapes. Survive!",
-      "sale_url": "https://itch.io/s/218289/sale-maniac",
-      "expires": "2026-11-18T00:00:00.000Z",
-      "expires_raw": "2026-11-18T00:00:00Z"
     },
     {
       "id": "2950730",

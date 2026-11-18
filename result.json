@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-18T10:26:41.034Z",
-  "pages_scraped": 34,
-  "total_found": 79,
+  "scraped_at": "2026-11-18T18:57:24.081Z",
+  "pages_scraped": 33,
+  "total_found": 81,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5383717",
+      "title": "Hellabyte",
+      "url": "https://braindeadgames.itch.io/hellabyte",
+      "author": "BrainDead Games Studio",
+      "author_url": "https://braindeadgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNDAyODQyLmpwZw==/315x250%23c/jUJ6yE.jpg",
+      "genre": "Adventure",
+      "blurb": "Will you fix the glitch, or will you become a permanent part of the system?",
+      "sale_url": "https://itch.io/s/220929/hellabyte-early-access-release",
+      "expires": "2026-11-25T03:00:00.000Z",
+      "expires_raw": "2026-11-25T03:00:00Z"
+    },
     {
       "id": "5378328",
       "title": "Little Lighthouse Town",
@@ -95,19 +108,6 @@
       "sale_url": "https://itch.io/s/216630/7-to-take-off-launch-month",
       "expires": "2026-12-08T02:00:00.000Z",
       "expires_raw": "2026-12-08T02:00:00Z"
-    },
-    {
-      "id": "5312574",
-      "title": "Mosslight Hollow",
-      "url": "https://epicurusgames.itch.io/mosslight-hollow",
-      "author": "Eppie",
-      "author_url": "https://epicurusgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxOTU0Nzk3LmdpZg==/315x250%23c/Uwxumr.gif",
-      "genre": "Simulation",
-      "blurb": "Build a cozy woodland colony. Grow food, forge friendships, and defend the home you make.",
-      "sale_url": "https://itch.io/s/217413/mosslight-hollow-free-download-development-fund",
-      "expires": "2026-11-18T15:53:00.000Z",
-      "expires_raw": "2026-11-18T15:53:00Z"
     },
     {
       "id": "4551771",
@@ -318,6 +318,19 @@
       "expires_raw": "2026-11-07T13:30:00Z"
     },
     {
+      "id": "5111394",
+      "title": "Demon Sweeper",
+      "url": "https://fameca.itch.io/demonsweeper",
+      "author": "Fameca GAMES",
+      "author_url": "https://fameca.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNTMyNzg2LmpwZw==/315x250%23c/3ErexM.jpg",
+      "genre": "Puzzle",
+      "blurb": "A horror recreation of a popular classic.",
+      "sale_url": "https://itch.io/s/221005/free-for-two-weeks",
+      "expires": "2026-12-03T04:59:00.000Z",
+      "expires_raw": "2026-12-03T04:59:00Z"
+    },
+    {
       "id": "5169400",
       "title": "Family Manners",
       "url": "https://nney.itch.io/family-manners",
@@ -329,6 +342,19 @@
       "sale_url": "https://itch.io/s/216565/family-manners",
       "expires": "2026-11-21T20:05:00.000Z",
       "expires_raw": "2026-11-21T20:05:00Z"
+    },
+    {
+      "id": "5163778",
+      "title": "LandLatch",
+      "url": "https://fameca.itch.io/landlatch",
+      "author": "Fameca GAMES",
+      "author_url": "https://fameca.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwOTM1MjUxLnBuZw==/315x250%23c/qayWSF.png",
+      "genre": "Survival",
+      "blurb": "A survival-exploration game taking place in the world of two gods.",
+      "sale_url": "https://itch.io/s/221005/free-for-two-weeks",
+      "expires": "2026-12-03T04:59:00.000Z",
+      "expires_raw": "2026-12-03T04:59:00Z"
     },
     {
       "id": "5145691",
@@ -500,19 +526,6 @@
       "expires_raw": "2026-12-01T16:20:00Z"
     },
     {
-      "id": "4698507",
-      "title": "Eternity Defenders",
-      "url": "https://kakaritogames.itch.io/eternity-defenders",
-      "author": "Pixxele",
-      "author_url": "https://kakaritogames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI4MDY2NzE3LmdpZg==/315x250%23c/tLNOnH.gif",
-      "genre": "Action",
-      "blurb": "Defend the Ocean in this endless Tower Defense game.",
-      "sale_url": "https://itch.io/s/217304/free-to-keep-giveaway",
-      "expires": "2026-11-18T12:00:00.000Z",
-      "expires_raw": "2026-11-18T12:00:00Z"
-    },
-    {
       "id": "4657116",
       "title": "poppy playtime quiz powerpoint new update v.4.0.0 coming soon...",
       "url": "https://funny-powerpoints.itch.io/poppy-playtime-quiz-powerpoint",
@@ -576,6 +589,19 @@
       "sale_url": "https://itch.io/s/182780/lord-of-chaos-on-sale-for-a-limited-time",
       "expires": "2026-11-07T18:00:00.000Z",
       "expires_raw": "2026-11-07T18:00:00Z"
+    },
+    {
+      "id": "4347058",
+      "title": "Labbit:  Escape Protocol",
+      "url": "https://artlanea-games.itch.io/labbit-escape-protocol",
+      "author": "Yorhan David",
+      "author_url": "https://artlanea-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI1OTYxMTQxLmpwZw==/315x250%23c/UNLd76.jpg",
+      "genre": "Platformer",
+      "blurb": "Use your skills and genetically modified carrots to escape from the laboratory.",
+      "sale_url": "https://itch.io/s/221012/creator-day-black-friday-2026",
+      "expires": "2026-11-27T15:00:00.000Z",
+      "expires_raw": "2026-11-27T15:00:00Z"
     },
     {
       "id": "3951915",

@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-19T00:57:49.123Z",
+  "scraped_at": "2026-11-19T08:24:49.377Z",
   "pages_scraped": 34,
-  "total_found": 80,
+  "total_found": 76,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -43,6 +43,19 @@
       "sale_url": "https://itch.io/s/218287/crumbwells-slobber-nuggets-is-just-free",
       "expires": "2026-11-21T08:03:00.000Z",
       "expires_raw": "2026-11-21T08:03:00Z"
+    },
+    {
+      "id": "5366866",
+      "title": "Strings Of Malakai",
+      "url": "https://stringsofmalakai.itch.io/strings-of-malakai",
+      "author": "Strings Dev",
+      "author_url": "https://stringsofmalakai.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNDQ1MDUzLnBuZw==/315x250%23c/jBUuDR.png",
+      "genre": "Role Playing",
+      "blurb": "Where the impossible is ordinary, and nothing is quite as it seems.",
+      "sale_url": "https://itch.io/s/218229/strings-of-malakai-alpha-release-freebie",
+      "expires": "2026-11-17T23:02:00.000Z",
+      "expires_raw": "2026-11-17T23:02:00Z"
     },
     {
       "id": "5356922",
@@ -461,6 +474,19 @@
       "expires_raw": "2026-11-26T14:25:00Z"
     },
     {
+      "id": "4973081",
+      "title": "Final Witness",
+      "url": "https://hexnut-studios.itch.io/final-witness",
+      "author": "Hexnut Studios",
+      "author_url": "https://hexnut-studios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5NzY1MjM4LnBuZw==/315x250%23c/2gh88V.png",
+      "genre": "Adventure",
+      "blurb": "You found the truth. Can you survive? A PSX-style horror game.",
+      "sale_url": "https://itch.io/s/200189/final-witness-on-sale-for-a-limited-time",
+      "expires": "2026-11-06T23:42:00.000Z",
+      "expires_raw": "2026-11-06T23:42:00Z"
+    },
+    {
       "id": "4914631",
       "title": "Bleached",
       "url": "https://cheeri0s.itch.io/bleached",
@@ -630,17 +656,17 @@
       "expires_raw": "2026-11-30T12:56:00Z"
     },
     {
-      "id": "2379761",
-      "title": "Dorman's Attraction: Upgraded and Advanced",
-      "url": "https://frexcellor.itch.io/dormans-attraction",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "author_url": "https://frexcellor.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzE5MjI5NzM1LnBuZw==/315x250%23c/6IJrLW.png",
-      "genre": "Survival",
-      "blurb": "Make it up to her...it's the least you can do.",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
+      "id": "3695137",
+      "title": "AeroDream (Early Access)",
+      "url": "https://cg-games0.itch.io/aerodream",
+      "author": "CG Games",
+      "author_url": "https://cg-games0.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3NjE1MjIxLmpwZw==/315x250%23c/vSZOww.jpg",
+      "genre": null,
+      "blurb": "Frutiger Aero",
+      "sale_url": "https://itch.io/s/182541/donate-me-to-grow-bigger-",
+      "expires": "2026-12-19T04:58:00.000Z",
+      "expires_raw": "2026-12-19T04:58:00Z"
     },
     {
       "id": "3898062",
@@ -680,19 +706,6 @@
       "sale_url": "https://itch.io/s/199516/summerfall-sale-geb",
       "expires": "2026-11-30T10:59:00.000Z",
       "expires_raw": "2026-11-30T10:59:00Z"
-    },
-    {
-      "id": "3898794",
-      "title": "SUPER Euli Beuli",
-      "url": "https://roega.itch.io/super-euli-beuli",
-      "author": "ROEGA™",
-      "author_url": "https://roega.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIzNTc1ODEwLmpwZw==/315x250%23c/TaQrjR.jpg",
-      "genre": "Platformer",
-      "blurb": "A little owl. A big adventure.",
-      "sale_url": "https://itch.io/s/218740/ultra-limited-sale",
-      "expires": "2026-11-19T07:46:00.000Z",
-      "expires_raw": "2026-11-19T07:46:00Z"
     },
     {
       "id": "3392246",
@@ -875,71 +888,6 @@
       "sale_url": "https://itch.io/s/215825/prerelease-demo-sale",
       "expires": "2026-12-01T08:49:00.000Z",
       "expires_raw": "2026-12-01T08:49:00Z"
-    },
-    {
-      "id": "2265537",
-      "title": "Dorman & Nightmares",
-      "url": "https://frexcellor.itch.io/dfd5",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "author_url": "https://frexcellor.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIzNDI5NTE3LnBuZw==/315x250%23c/FVv4rs.png",
-      "genre": "Survival",
-      "blurb": "Can You Survive The Nightmares?",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
-    },
-    {
-      "id": "2265529",
-      "title": "Dorman & Friends' Diner - The Open Park",
-      "url": "https://frexcellor.itch.io/dfd4",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "author_url": "https://frexcellor.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzE5MjMwMTI3LnBuZw==/315x250%23c/47TrBZ.png",
-      "genre": "Survival",
-      "blurb": "Dorman and Friends' Diner 4",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
-    },
-    {
-      "id": "2264812",
-      "title": "Dorman & Friends' Abandoned Diner",
-      "url": "https://frexcellor.itch.io/dfd3",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "author_url": "https://frexcellor.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzE5MjMwMDg1LnBuZw==/315x250%23c/QnhZAQ.png",
-      "genre": "Survival",
-      "blurb": "Dorman's and Friends' Diner 3",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
-    },
-    {
-      "id": "2264785",
-      "title": "Dorman & Friends' Animated Diner",
-      "url": "https://frexcellor.itch.io/dfd2",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "author_url": "https://frexcellor.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzE5MjMwMDI0LnBuZw==/315x250%23c/i5QBwV.png",
-      "genre": "Survival",
-      "blurb": "Dorman and Friends' Diner 2",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
-    },
-    {
-      "id": "2264702",
-      "title": "Dorman & Friends Diner",
-      "url": "https://frexcellor.itch.io/dfd1",
-      "author": "Fɾҽxƈҽʅʅσɾ",
-      "author_url": "https://frexcellor.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzE5MjI5OTY4LnBuZw==/315x250%23c/Lfx5Hf.png",
-      "genre": "Survival",
-      "blurb": "Can you survive Dorman and Friends' Diner?",
-      "sale_url": "https://itch.io/s/198787/2026-fall-sale",
-      "expires": "2026-11-19T05:00:00.000Z",
-      "expires_raw": "2026-11-19T05:00:00Z"
     },
     {
       "id": "2223223",

@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-18T18:57:24.081Z",
-  "pages_scraped": 33,
-  "total_found": 81,
+  "scraped_at": "2026-11-19T00:57:49.123Z",
+  "pages_scraped": 34,
+  "total_found": 80,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -45,17 +45,17 @@
       "expires_raw": "2026-11-21T08:03:00Z"
     },
     {
-      "id": "5366866",
-      "title": "Strings Of Malakai",
-      "url": "https://stringsofmalakai.itch.io/strings-of-malakai",
-      "author": "Strings Dev",
-      "author_url": "https://stringsofmalakai.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyNDQ1MDUzLnBuZw==/315x250%23c/jBUuDR.png",
-      "genre": "Role Playing",
-      "blurb": "Where the impossible is ordinary, and nothing is quite as it seems.",
-      "sale_url": "https://itch.io/s/218229/strings-of-malakai-alpha-release-freebie",
-      "expires": "2026-11-17T23:02:00.000Z",
-      "expires_raw": "2026-11-17T23:02:00Z"
+      "id": "5356922",
+      "title": "Bilboquet: Twelve in a Row",
+      "url": "https://bbkadum-studio.itch.io/bilboquet",
+      "author": "BBKadum Studio - Solo Dev",
+      "author_url": "https://bbkadum-studio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMjI2NjEzLnBuZw==/315x250%23c/ovUx4B.png",
+      "genre": null,
+      "blurb": "One button. Twelve in a row. A cup-and-ball game in a smoky jazz bar.",
+      "sale_url": "https://itch.io/s/221064/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "5348598",
@@ -565,19 +565,6 @@
       "expires_raw": "2026-11-18T22:59:00Z"
     },
     {
-      "id": "4363959",
-      "title": "Inkspace",
-      "url": "https://kai4pr3sident.itch.io/inkspace",
-      "author": "kai",
-      "author_url": "https://kai4pr3sident.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI3MjQwNTQ1LnBuZw==/315x250%23c/xthrLy.png",
-      "genre": "Survival",
-      "blurb": "Welcome to Inkspace, yale's own nightmare.",
-      "sale_url": "https://itch.io/s/217197/-inkspace-free-to-play-november-sale-",
-      "expires": "2026-11-29T05:00:00.000Z",
-      "expires_raw": "2026-11-29T05:00:00Z"
-    },
-    {
       "id": "4405770",
       "title": "Lord of Chaos",
       "url": "https://hexnut-studios.itch.io/lord-of-chaos",
@@ -747,6 +734,19 @@
       "expires_raw": "2026-11-18T05:20:00Z"
     },
     {
+      "id": "3683740",
+      "title": "Thunder Defenders Star Heroes",
+      "url": "https://greygames1000.itch.io/thunder-defenders-star-heroes",
+      "author": "Grey Games",
+      "author_url": "https://greygames1000.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIxOTE3ODc5LnBuZw==/315x250%23c/Dnvl65.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/221180/thunder-defenders",
+      "expires": "2026-11-19T23:24:00.000Z",
+      "expires_raw": "2026-11-19T23:24:00Z"
+    },
+    {
       "id": "3614958",
       "title": "Kill The Creator",
       "url": "https://deeplookgames.itch.io/kill-the-creator",
@@ -836,19 +836,6 @@
       "sale_url": "https://itch.io/s/216524/sale-without-context",
       "expires": "2026-11-30T13:21:00.000Z",
       "expires_raw": "2026-11-30T13:21:00Z"
-    },
-    {
-      "id": "2393159",
-      "title": "THE MIDNIGHT BUS",
-      "url": "https://itandfeel.itch.io/the-midnight-bus",
-      "author": "itandfeel",
-      "author_url": "https://itandfeel.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
-      "genre": "Adventure",
-      "blurb": "No way out - Psychological Horror",
-      "sale_url": "https://itch.io/s/171469/the-midnight-bus-remake",
-      "expires": "2026-11-06T20:40:00.000Z",
-      "expires_raw": "2026-11-06T20:40:00Z"
     },
     {
       "id": "2740827",

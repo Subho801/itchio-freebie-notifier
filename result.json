@@ -1,7 +1,7 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-19T17:30:08.839Z",
-  "pages_scraped": 36,
+  "scraped_at": "2026-11-19T23:43:42.074Z",
+  "pages_scraped": 37,
   "total_found": 75,
   "stopped_reason": "last_page_reached",
   "games": [
@@ -82,19 +82,6 @@
       "sale_url": "https://itch.io/s/221064/creator-day-black-friday-2026",
       "expires": "2026-12-02T18:00:00.000Z",
       "expires_raw": "2026-12-02T18:00:00Z"
-    },
-    {
-      "id": "5348598",
-      "title": "Fainted Memories - The Third Line",
-      "url": "https://elacior.itch.io/faintedmemories",
-      "author": "Elacior",
-      "author_url": "https://elacior.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMjA2OTEwLnBuZw==/315x250%23c/gZjdXR.png",
-      "genre": null,
-      "blurb": "The last night shift at a small radio station. Whatever you do, don't answer line three.",
-      "sale_url": "https://itch.io/s/218163/fainted-memories-the-third-line",
-      "expires": "2026-11-22T17:10:00.000Z",
-      "expires_raw": "2026-11-22T17:10:00Z"
     },
     {
       "id": "5341716",
@@ -383,6 +370,19 @@
       "expires_raw": "2026-12-03T04:59:00Z"
     },
     {
+      "id": "5165087",
+      "title": "Lights On My Screen",
+      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
+      "author": "Sleeper Vision",
+      "author_url": "https://sleeper-vision.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
+      "genre": "Role Playing",
+      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
+      "sale_url": "https://itch.io/s/221637/short-sale",
+      "expires": "2026-11-21T21:00:00.000Z",
+      "expires_raw": "2026-11-21T21:00:00Z"
+    },
+    {
       "id": "5145691",
       "title": "Little Worlds",
       "url": "https://emberlineworld.itch.io/little-worlds",
@@ -498,6 +498,19 @@
       "sale_url": "https://itch.io/s/200189/final-witness-on-sale-for-a-limited-time",
       "expires": "2026-11-06T23:42:00.000Z",
       "expires_raw": "2026-11-06T23:42:00Z"
+    },
+    {
+      "id": "4939440",
+      "title": "Deck Of Ruin",
+      "url": "https://darthdane.itch.io/dor",
+      "author": "DarthDane",
+      "author_url": "https://darthdane.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5NTQ3NDI0LmpwZw==/315x250%23c/zuLCZR.jpg",
+      "genre": "Card Game",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/221666/black-dor",
+      "expires": "2026-11-24T19:57:00.000Z",
+      "expires_raw": "2026-11-24T19:57:00Z"
     },
     {
       "id": "4914631",
@@ -745,19 +758,6 @@
       "sale_url": "https://itch.io/s/217217/november-sale",
       "expires": "2026-11-18T05:20:00.000Z",
       "expires_raw": "2026-11-18T05:20:00Z"
-    },
-    {
-      "id": "3683740",
-      "title": "Thunder Defenders Star Heroes",
-      "url": "https://greygames1000.itch.io/thunder-defenders-star-heroes",
-      "author": "Grey Games",
-      "author_url": "https://greygames1000.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIxOTE3ODc5LnBuZw==/315x250%23c/Dnvl65.png",
-      "genre": "Action",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/221180/thunder-defenders",
-      "expires": "2026-11-19T23:24:00.000Z",
-      "expires_raw": "2026-11-19T23:24:00Z"
     },
     {
       "id": "3440115",

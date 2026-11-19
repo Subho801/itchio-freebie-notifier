@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-19T08:24:49.377Z",
-  "pages_scraped": 34,
-  "total_found": 76,
+  "scraped_at": "2026-11-19T17:30:08.839Z",
+  "pages_scraped": 36,
+  "total_found": 75,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5401530",
+      "title": "TinyCraft V0.1",
+      "url": "https://redx9067.itch.io/tinycraft",
+      "author": "RedX9067",
+      "author_url": "https://redx9067.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNTMwNDU4LnBuZw==/315x250%23c/yoEPc%2F.png",
+      "genre": "Simulation",
+      "blurb": "Tinycraft is a compact block game specifically programmed with algorithms to heavily reduce the size.",
+      "sale_url": "https://itch.io/s/221542/tinycraft-launch-giveaway",
+      "expires": "2026-11-30T20:59:00.000Z",
+      "expires_raw": "2026-11-30T20:59:00Z"
+    },
     {
       "id": "5383717",
       "title": "Hellabyte",
@@ -253,19 +266,6 @@
       "expires_raw": "2026-12-06T05:41:00Z"
     },
     {
-      "id": "5265723",
-      "title": "WARD 09: The Last Patient",
-      "url": "https://heropro16.itch.io/ward-09-the-last-patient",
-      "author": "Heropro16",
-      "author_url": "https://heropro16.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNjY0MTMwLnBuZw==/315x250%23c/iuOtzr.png",
-      "genre": "Survival",
-      "blurb": "Explore an abandoned hospital, solve its puzzles, and escape the patient who never left.",
-      "sale_url": "https://itch.io/s/217064/ward-09-the-last-patient-is-free-for-a-limited-time",
-      "expires": "2026-11-15T10:52:00.000Z",
-      "expires_raw": "2026-11-15T10:52:00Z"
-    },
-    {
       "id": "4947041",
       "title": "Until Midnight Pastry Shop",
       "url": "https://quickedges.itch.io/until-midnight-pastry-shop",
@@ -355,6 +355,19 @@
       "sale_url": "https://itch.io/s/216565/family-manners",
       "expires": "2026-11-21T20:05:00.000Z",
       "expires_raw": "2026-11-21T20:05:00Z"
+    },
+    {
+      "id": "5135178",
+      "title": "DONT LEAVE — CHAPTER 1 THE SEVEN BEARS",
+      "url": "https://abmanstudio.itch.io/dont-leave-chapter-1-the-seven-bears",
+      "author": "ABMANSTUDIO",
+      "author_url": "https://abmanstudio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTg4MjI5LnBuZw==/315x250%23c/bakm%2F1.png",
+      "genre": "Puzzle",
+      "blurb": "Explore a haunting maze, read the messages left behind, and uncover a truth better left hidden.",
+      "sale_url": "https://itch.io/s/198573/support-abman-studio",
+      "expires": "2026-11-30T12:54:00.000Z",
+      "expires_raw": "2026-11-30T12:54:00Z"
     },
     {
       "id": "5163778",
@@ -708,19 +721,6 @@
       "expires_raw": "2026-11-30T10:59:00Z"
     },
     {
-      "id": "3392246",
-      "title": "Penance",
-      "url": "https://pehriska.itch.io/penance",
-      "author": "Pehriska",
-      "author_url": "https://pehriska.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png",
-      "genre": "Adventure",
-      "blurb": "Goodrich Castle, England, 1221AD",
-      "sale_url": "https://itch.io/s/215924/penance-100-off",
-      "expires": "2026-11-11T16:45:00.000Z",
-      "expires_raw": "2026-11-11T16:45:00Z"
-    },
-    {
       "id": "3799948",
       "title": "Dream Holiday",
       "url": "https://baris1.itch.io/dream-holiday",
@@ -758,32 +758,6 @@
       "sale_url": "https://itch.io/s/221180/thunder-defenders",
       "expires": "2026-11-19T23:24:00.000Z",
       "expires_raw": "2026-11-19T23:24:00Z"
-    },
-    {
-      "id": "3614958",
-      "title": "Kill The Creator",
-      "url": "https://deeplookgames.itch.io/kill-the-creator",
-      "author": "DeepLookGames",
-      "author_url": "https://deeplookgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIxNjY2NDQ4LmpwZw==/315x250%23c/Ypkksm.jpg",
-      "genre": "Adventure",
-      "blurb": "Just for Hardcore gamers",
-      "sale_url": "https://itch.io/s/215742/halloween",
-      "expires": "2026-12-04T18:00:00.000Z",
-      "expires_raw": "2026-12-04T18:00:00Z"
-    },
-    {
-      "id": "3142863",
-      "title": "It's Not Human",
-      "url": "https://deeplookgames.itch.io/its-not-human",
-      "author": "DeepLookGames",
-      "author_url": "https://deeplookgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzE4ODY3MzQyLmpwZw==/315x250%23c/D8OeNq.jpg",
-      "genre": "Survival",
-      "blurb": "VHS Horror Game",
-      "sale_url": "https://itch.io/s/215742/halloween",
-      "expires": "2026-12-04T18:00:00.000Z",
-      "expires_raw": "2026-12-04T18:00:00Z"
     },
     {
       "id": "3440115",
@@ -849,6 +823,19 @@
       "sale_url": "https://itch.io/s/216524/sale-without-context",
       "expires": "2026-11-30T13:21:00.000Z",
       "expires_raw": "2026-11-30T13:21:00Z"
+    },
+    {
+      "id": "2393159",
+      "title": "THE MIDNIGHT BUS",
+      "url": "https://itandfeel.itch.io/the-midnight-bus",
+      "author": "itandfeel",
+      "author_url": "https://itandfeel.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE2NzQ5ODExLnBuZw==/315x250%23c/BXy8h%2F.png",
+      "genre": "Adventure",
+      "blurb": "No way out - Psychological Horror",
+      "sale_url": "https://itch.io/s/171469/the-midnight-bus-remake",
+      "expires": "2026-11-06T20:40:00.000Z",
+      "expires_raw": "2026-11-06T20:40:00Z"
     },
     {
       "id": "2740827",

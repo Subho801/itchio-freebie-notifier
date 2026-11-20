@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-19T23:43:42.074Z",
+  "scraped_at": "2026-11-20T04:21:33.362Z",
   "pages_scraped": 37,
-  "total_found": 75,
+  "total_found": 77,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5405254",
+      "title": "White Static",
+      "url": "https://valentynnemichev.itch.io/white-static",
+      "author": "Dosevz",
+      "author_url": "https://valentynnemichev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNTU1NzExLnBuZw==/315x250%23c/oduZ2X.png",
+      "genre": "Adventure",
+      "blurb": "A PSX survival-horror set in a blizzard. Stay warm and don't stop.",
+      "sale_url": "https://itch.io/s/221785/sale",
+      "expires": "2026-11-22T02:45:00.000Z",
+      "expires_raw": "2026-11-22T02:45:00Z"
+    },
     {
       "id": "5401530",
       "title": "TinyCraft V0.1",
@@ -615,6 +628,19 @@
       "sale_url": "https://itch.io/s/215502/last-friday-full-release-sale",
       "expires": "2026-11-18T22:59:00.000Z",
       "expires_raw": "2026-11-18T22:59:00Z"
+    },
+    {
+      "id": "4503773",
+      "title": "Mazeraka",
+      "url": "https://batw453.itch.io/mazeraka",
+      "author": "Batw453",
+      "author_url": "https://batw453.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2ODgzMjE1LnBuZw==/315x250%23c/wHQ50C.png",
+      "genre": "Platformer",
+      "blurb": "ObyyyyyyyyyyyyyyARGGGHHHHHHH",
+      "sale_url": "https://itch.io/s/221756/limited",
+      "expires": "2026-11-28T00:26:00.000Z",
+      "expires_raw": "2026-11-28T00:26:00Z"
     },
     {
       "id": "4405770",

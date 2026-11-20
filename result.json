@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-20T13:21:33.142Z",
-  "pages_scraped": 36,
-  "total_found": 77,
+  "scraped_at": "2026-11-20T21:23:20.720Z",
+  "pages_scraped": 35,
+  "total_found": 78,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -43,19 +43,6 @@
       "sale_url": "https://itch.io/s/220929/hellabyte-early-access-release",
       "expires": "2026-11-25T03:00:00.000Z",
       "expires_raw": "2026-11-25T03:00:00Z"
-    },
-    {
-      "id": "5378328",
-      "title": "Little Lighthouse Town",
-      "url": "https://brokenbunnystudios.itch.io/little-lighthouse-town",
-      "author": "BrokenBunnyStudios",
-      "author_url": "https://brokenbunnystudios.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyNDM2NDg5LnBuZw==/315x250%23c/IBz0wp.png",
-      "genre": "Simulation",
-      "blurb": "A cozy idle builder: grow a pastel seaside town around a lighthouse and keep it glowing, even while the game is closed.",
-      "sale_url": "https://itch.io/s/219273/ea-of-little-lighthouse",
-      "expires": "2026-11-20T15:20:00.000Z",
-      "expires_raw": "2026-11-20T15:20:00Z"
     },
     {
       "id": "5378934",
@@ -227,17 +214,17 @@
       "expires_raw": "2026-11-23T04:50:00Z"
     },
     {
-      "id": "3718649",
-      "title": "LIMINAL STATE",
-      "url": "https://syntaxlevel.itch.io/liminal-state",
-      "author": "SyntaxLevel",
-      "author_url": "https://syntaxlevel.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNzY1NDQ3LnBuZw==/315x250%23c/MXfRuT.png",
-      "genre": "Adventure",
+      "id": "4402719",
+      "title": "MOLOKAUST",
+      "url": "https://elp3luca.itch.io/molokaust",
+      "author": "elp3luca",
+      "author_url": "https://elp3luca.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2MjU0MzkyLmpwZw==/315x250%23c/c8KbYq.jpg",
+      "genre": "Action",
       "blurb": null,
-      "sale_url": "https://itch.io/s/215870/liminal-state-suport",
-      "expires": "2026-11-30T13:02:00.000Z",
-      "expires_raw": "2026-11-30T13:02:00Z"
+      "sale_url": "https://itch.io/s/222178/horror-just-for-free-",
+      "expires": "2026-12-20T16:18:00.000Z",
+      "expires_raw": "2026-12-20T16:18:00Z"
     },
     {
       "id": "5288242",
@@ -264,6 +251,19 @@
       "sale_url": "https://itch.io/s/216229/ji10-games-sale",
       "expires": "2026-12-06T05:41:00.000Z",
       "expires_raw": "2026-12-06T05:41:00Z"
+    },
+    {
+      "id": "5265723",
+      "title": "WARD 09: The Last Patient",
+      "url": "https://heropro16.itch.io/ward-09-the-last-patient",
+      "author": "Heropro16",
+      "author_url": "https://heropro16.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNjY0MTMwLnBuZw==/315x250%23c/iuOtzr.png",
+      "genre": "Survival",
+      "blurb": "Explore an abandoned hospital, solve its puzzles, and escape the patient who never left.",
+      "sale_url": "https://itch.io/s/217064/ward-09-the-last-patient-is-free-for-a-limited-time",
+      "expires": "2026-11-15T10:52:00.000Z",
+      "expires_raw": "2026-11-15T10:52:00Z"
     },
     {
       "id": "4947041",
@@ -511,6 +511,19 @@
       "sale_url": "https://itch.io/s/200189/final-witness-on-sale-for-a-limited-time",
       "expires": "2026-11-06T23:42:00.000Z",
       "expires_raw": "2026-11-06T23:42:00Z"
+    },
+    {
+      "id": "4985877",
+      "title": "FURRYMOJI",
+      "url": "https://mssso.itch.io/furrymoji",
+      "author": "M$O",
+      "author_url": "https://mssso.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5ODQ2OTU3LmpwZw==/315x250%23c/hVkQ3Q.jpg",
+      "genre": "Simulation",
+      "blurb": "A tiny furry virtual pet with real-time consequences. Feed it. Care for it. Don't forget it.",
+      "sale_url": "https://itch.io/s/222032/furrymoji-thanksgiving-celebration-100-off",
+      "expires": "2026-12-01T07:59:00.000Z",
+      "expires_raw": "2026-12-01T07:59:00Z"
     },
     {
       "id": "4939440",

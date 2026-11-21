@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-21T02:38:22.087Z",
+  "scraped_at": "2026-11-21T10:11:31.683Z",
   "pages_scraped": 35,
-  "total_found": 78,
+  "total_found": 77,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -45,19 +45,6 @@
       "expires_raw": "2026-11-25T03:00:00Z"
     },
     {
-      "id": "5378934",
-      "title": "CRUMBWELL'S SLOBBER NUGGETS!",
-      "url": "https://midnight-desktop.itch.io/crumbwells-slobber-nuggets",
-      "author": "Midnight Desktop",
-      "author_url": "https://midnight-desktop.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMzcwNTU0LnBuZw==/315x250%23c/KXunh8.png",
-      "genre": "Simulation",
-      "blurb": "Wild n Wacky Stadium Concession Stand!",
-      "sale_url": "https://itch.io/s/218287/crumbwells-slobber-nuggets-is-just-free",
-      "expires": "2026-11-21T08:03:00.000Z",
-      "expires_raw": "2026-11-21T08:03:00Z"
-    },
-    {
       "id": "5366866",
       "title": "Strings Of Malakai",
       "url": "https://stringsofmalakai.itch.io/strings-of-malakai",
@@ -82,6 +69,19 @@
       "sale_url": "https://itch.io/s/221064/creator-day-black-friday-2026",
       "expires": "2026-12-02T18:00:00.000Z",
       "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5347847",
+      "title": "Room Call",
+      "url": "https://dechitj.itch.io/room-call",
+      "author": "DechiTJ",
+      "author_url": "https://dechitj.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMTU3OTA5LmpwZw==/315x250%23c/sTb4zW.jpg",
+      "genre": "Visual Novel",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/218869/creator-day-black-friday-2026",
+      "expires": "2026-11-24T05:00:00.000Z",
+      "expires_raw": "2026-11-24T05:00:00Z"
     },
     {
       "id": "5341716",
@@ -121,19 +121,6 @@
       "sale_url": "https://itch.io/s/216630/7-to-take-off-launch-month",
       "expires": "2026-12-08T02:00:00.000Z",
       "expires_raw": "2026-12-08T02:00:00Z"
-    },
-    {
-      "id": "4551771",
-      "title": "Backrooms Crawlers",
-      "url": "https://worsteventgames.itch.io/backrooms-crawlers",
-      "author": "Worst Event Games",
-      "author_url": "https://worsteventgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png",
-      "genre": "Role Playing",
-      "blurb": "An Incremental Dungeon Crawler",
-      "sale_url": "https://itch.io/s/216490/next-level-fund-raising",
-      "expires": "2026-11-21T08:07:00.000Z",
-      "expires_raw": "2026-11-21T08:07:00Z"
     },
     {
       "id": "5304037",

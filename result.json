@@ -1,7 +1,7 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-21T10:11:31.683Z",
-  "pages_scraped": 35,
+  "scraped_at": "2026-11-21T17:35:43.945Z",
+  "pages_scraped": 36,
   "total_found": 77,
   "stopped_reason": "last_page_reached",
   "games": [
@@ -43,19 +43,6 @@
       "sale_url": "https://itch.io/s/220929/hellabyte-early-access-release",
       "expires": "2026-11-25T03:00:00.000Z",
       "expires_raw": "2026-11-25T03:00:00Z"
-    },
-    {
-      "id": "5366866",
-      "title": "Strings Of Malakai",
-      "url": "https://stringsofmalakai.itch.io/strings-of-malakai",
-      "author": "Strings Dev",
-      "author_url": "https://stringsofmalakai.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyNDQ1MDUzLnBuZw==/315x250%23c/jBUuDR.png",
-      "genre": "Role Playing",
-      "blurb": "Where the impossible is ordinary, and nothing is quite as it seems.",
-      "sale_url": "https://itch.io/s/218229/strings-of-malakai-alpha-release-freebie",
-      "expires": "2026-11-17T23:02:00.000Z",
-      "expires_raw": "2026-11-17T23:02:00Z"
     },
     {
       "id": "5356922",
@@ -121,6 +108,19 @@
       "sale_url": "https://itch.io/s/216630/7-to-take-off-launch-month",
       "expires": "2026-12-08T02:00:00.000Z",
       "expires_raw": "2026-12-08T02:00:00Z"
+    },
+    {
+      "id": "4551771",
+      "title": "Backrooms Crawlers",
+      "url": "https://worsteventgames.itch.io/backrooms-crawlers",
+      "author": "Worst Event Games",
+      "author_url": "https://worsteventgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODg5ODc4LnBuZw==/315x250%23c/WuiYsE.png",
+      "genre": "Role Playing",
+      "blurb": "An Incremental Dungeon Crawler",
+      "sale_url": "https://itch.io/s/216490/next-level-fund-raising",
+      "expires": "2026-11-21T08:07:00.000Z",
+      "expires_raw": "2026-11-21T08:07:00Z"
     },
     {
       "id": "5304037",

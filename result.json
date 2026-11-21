@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-21T17:35:43.945Z",
+  "scraped_at": "2026-11-21T22:20:22.461Z",
   "pages_scraped": 36,
-  "total_found": 77,
+  "total_found": 76,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -43,6 +43,19 @@
       "sale_url": "https://itch.io/s/220929/hellabyte-early-access-release",
       "expires": "2026-11-25T03:00:00.000Z",
       "expires_raw": "2026-11-25T03:00:00Z"
+    },
+    {
+      "id": "5374303",
+      "title": "Afterglow: Memecoin Market Simulator",
+      "url": "https://meepman22.itch.io/afterglow",
+      "author": "Meepman22",
+      "author_url": "https://meepman22.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNjI0NTY1LnBuZw==/315x250%23c/S2LasL.png",
+      "genre": "Simulation",
+      "blurb": "Launch a coin, build a following, and trade through rallies and crashes in a simulated market.",
+      "sale_url": "https://itch.io/s/222583/afterglow-free-for-12-hours",
+      "expires": "2026-11-22T05:34:00.000Z",
+      "expires_raw": "2026-11-22T05:34:00Z"
     },
     {
       "id": "5356922",
@@ -370,19 +383,6 @@
       "expires_raw": "2026-12-03T04:59:00Z"
     },
     {
-      "id": "5165087",
-      "title": "Lights On My Screen",
-      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
-      "author": "Sleeper Vision",
-      "author_url": "https://sleeper-vision.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
-      "genre": "Role Playing",
-      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
-      "sale_url": "https://itch.io/s/221637/short-sale",
-      "expires": "2026-11-21T21:00:00.000Z",
-      "expires_raw": "2026-11-21T21:00:00Z"
-    },
-    {
       "id": "5145691",
       "title": "Little Worlds",
       "url": "https://emberlineworld.itch.io/little-worlds",
@@ -628,19 +628,6 @@
       "sale_url": "https://itch.io/s/215502/last-friday-full-release-sale",
       "expires": "2026-11-18T22:59:00.000Z",
       "expires_raw": "2026-11-18T22:59:00Z"
-    },
-    {
-      "id": "4503773",
-      "title": "Mazeraka",
-      "url": "https://batw453.itch.io/mazeraka",
-      "author": "Batw453",
-      "author_url": "https://batw453.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI2ODgzMjE1LnBuZw==/315x250%23c/wHQ50C.png",
-      "genre": "Platformer",
-      "blurb": "ObyyyyyyyyyyyyyyARGGGHHHHHHH",
-      "sale_url": "https://itch.io/s/221756/limited",
-      "expires": "2026-11-28T00:26:00.000Z",
-      "expires_raw": "2026-11-28T00:26:00Z"
     },
     {
       "id": "4405770",

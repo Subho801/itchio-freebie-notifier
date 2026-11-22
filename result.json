@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-22T17:46:02.248Z",
+  "scraped_at": "2026-11-22T22:49:14.683Z",
   "pages_scraped": 34,
-  "total_found": 75,
+  "total_found": 73,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -69,19 +69,6 @@
       "sale_url": "https://itch.io/s/217467/sillwalker-launch-month-free-for-everyone",
       "expires": "2026-12-12T12:46:00.000Z",
       "expires_raw": "2026-12-12T12:46:00Z"
-    },
-    {
-      "id": "5324027",
-      "title": "Dreadwick",
-      "url": "https://tensorwerk.itch.io/dreadwick",
-      "author": "tensorwerk",
-      "author_url": "https://tensorwerk.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMDgwNzYyLnBuZw==/315x250%23c/oRM%2FFV.png",
-      "genre": "Survival",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/216783/launch-dreadwick",
-      "expires": "2026-11-22T21:50:00.000Z",
-      "expires_raw": "2026-11-22T21:50:00Z"
     },
     {
       "id": "5316682",
@@ -368,19 +355,6 @@
       "sale_url": "https://itch.io/s/216354/limited-free-offer",
       "expires": "2026-11-23T04:50:00.000Z",
       "expires_raw": "2026-11-23T04:50:00Z"
-    },
-    {
-      "id": "5129443",
-      "title": "Sleep in Fear",
-      "url": "https://bennyboygames.itch.io/sleep-in-fear",
-      "author": "BennyBoy",
-      "author_url": "https://bennyboygames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif",
-      "genre": "Adventure",
-      "blurb": "A PSX-style sleep paralysis horror game",
-      "sale_url": "https://itch.io/s/216875/sleep-in-fear-night-two-sale-100-off",
-      "expires": "2026-11-23T15:09:00.000Z",
-      "expires_raw": "2026-11-23T15:09:00Z"
     },
     {
       "id": "5102250",

@@ -1,23 +1,10 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-22T02:21:21.843Z",
-  "pages_scraped": 35,
-  "total_found": 76,
+  "scraped_at": "2026-11-22T10:00:35.507Z",
+  "pages_scraped": 36,
+  "total_found": 75,
   "stopped_reason": "last_page_reached",
   "games": [
-    {
-      "id": "5405254",
-      "title": "White Static",
-      "url": "https://valentynnemichev.itch.io/white-static",
-      "author": "Dosevz",
-      "author_url": "https://valentynnemichev.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyNTU1NzExLnBuZw==/315x250%23c/oduZ2X.png",
-      "genre": "Adventure",
-      "blurb": "A PSX survival-horror set in a blizzard. Stay warm and don't stop.",
-      "sale_url": "https://itch.io/s/221785/sale",
-      "expires": "2026-11-22T02:45:00.000Z",
-      "expires_raw": "2026-11-22T02:45:00Z"
-    },
     {
       "id": "5401530",
       "title": "TinyCraft V0.1",
@@ -43,19 +30,6 @@
       "sale_url": "https://itch.io/s/220929/hellabyte-early-access-release",
       "expires": "2026-11-25T03:00:00.000Z",
       "expires_raw": "2026-11-25T03:00:00Z"
-    },
-    {
-      "id": "5374303",
-      "title": "Afterglow: Memecoin Market Simulator",
-      "url": "https://meepman22.itch.io/afterglow",
-      "author": "Meepman22",
-      "author_url": "https://meepman22.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyNjI0NTY1LnBuZw==/315x250%23c/S2LasL.png",
-      "genre": "Simulation",
-      "blurb": "Launch a coin, build a following, and trade through rallies and crashes in a simulated market.",
-      "sale_url": "https://itch.io/s/222583/afterglow-free-for-12-hours",
-      "expires": "2026-11-22T05:34:00.000Z",
-      "expires_raw": "2026-11-22T05:34:00Z"
     },
     {
       "id": "5356922",
@@ -771,6 +745,19 @@
       "sale_url": "https://itch.io/s/217217/november-sale",
       "expires": "2026-11-18T05:20:00.000Z",
       "expires_raw": "2026-11-18T05:20:00Z"
+    },
+    {
+      "id": "3683740",
+      "title": "Thunder Defenders Star Heroes",
+      "url": "https://greygames1000.itch.io/thunder-defenders-star-heroes",
+      "author": "Grey Games",
+      "author_url": "https://greygames1000.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIxOTE3ODc5LnBuZw==/315x250%23c/Dnvl65.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/222771/thunder-defenders",
+      "expires": "2026-11-25T02:59:00.000Z",
+      "expires_raw": "2026-11-25T02:59:00Z"
     },
     {
       "id": "3440115",

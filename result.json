@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-22T22:49:14.683Z",
+  "scraped_at": "2026-11-23T03:14:07.800Z",
   "pages_scraped": 34,
-  "total_found": 73,
+  "total_found": 75,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -30,6 +30,19 @@
       "sale_url": "https://itch.io/s/220929/hellabyte-early-access-release",
       "expires": "2026-11-25T03:00:00.000Z",
       "expires_raw": "2026-11-25T03:00:00Z"
+    },
+    {
+      "id": "5366866",
+      "title": "Strings Of Malakai",
+      "url": "https://stringsofmalakai.itch.io/strings-of-malakai",
+      "author": "Strings Dev",
+      "author_url": "https://stringsofmalakai.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNDQ1MDUzLnBuZw==/315x250%23c/jBUuDR.png",
+      "genre": "Role Playing",
+      "blurb": "Where the impossible is ordinary, and nothing is quite as it seems.",
+      "sale_url": "https://itch.io/s/222737/early-access-release-free-download",
+      "expires": "2026-12-06T00:44:00.000Z",
+      "expires_raw": "2026-12-06T00:44:00Z"
     },
     {
       "id": "5356922",
@@ -299,7 +312,7 @@
       "author_url": "https://fameca.itch.io/",
       "image": "https://img.itch.zone/aW1nLzMxNTMyNzg2LmpwZw==/315x250%23c/3ErexM.jpg",
       "genre": "Puzzle",
-      "blurb": "A horror recreation of a popular classic.",
+      "blurb": "A 3D atmospheric horror Minesweeper variant.",
       "sale_url": "https://itch.io/s/221005/free-for-two-weeks",
       "expires": "2026-12-03T04:59:00.000Z",
       "expires_raw": "2026-12-03T04:59:00Z"
@@ -485,6 +498,19 @@
       "sale_url": "https://itch.io/s/220076/creator-day-black-friday-2026",
       "expires": "2026-12-02T18:00:00.000Z",
       "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4891172",
+      "title": "Wasteland Drifter",
+      "url": "https://jarppix.itch.io/wasteland-drifter",
+      "author": "Jarp.pix",
+      "author_url": "https://jarppix.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5MjM3NzM5LnBuZw==/315x250%23c/lQ0jiy.png",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/198261/wasteland-drifter",
+      "expires": "2026-12-23T00:06:00.000Z",
+      "expires_raw": "2026-12-23T00:06:00Z"
     },
     {
       "id": "4886550",

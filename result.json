@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-24T10:19:21.755Z",
-  "pages_scraped": 37,
-  "total_found": 75,
-  "stopped_reason": "end_of_results",
+  "scraped_at": "2026-11-24T20:42:35.882Z",
+  "pages_scraped": 39,
+  "total_found": 76,
+  "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5436106",
+      "title": "island",
+      "url": "https://shin-games.itch.io/island",
+      "author": "Surprise  games",
+      "author_url": "https://shin-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNzYyNTUzLnBuZw==/315x250%23c/UQ1GQv.png",
+      "genre": "Survival",
+      "blurb": "fun!!!",
+      "sale_url": "https://itch.io/s/224013/sale",
+      "expires": "2026-11-27T14:59:00.000Z",
+      "expires_raw": "2026-11-27T14:59:00Z"
+    },
     {
       "id": "5401530",
       "title": "TinyCraft V0.1",
@@ -24,7 +37,7 @@
       "url": "https://braindeadgames.itch.io/hellabyte",
       "author": "BrainDead Games Studio",
       "author_url": "https://braindeadgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyNDAyODQyLmpwZw==/315x250%23c/jUJ6yE.jpg",
+      "image": "https://img.itch.zone/aW1nLzMyNzY2OTA2LnBuZw==/315x250%23c/X0jJom.png",
       "genre": "Adventure",
       "blurb": "Will you fix the glitch, or will you become a permanent part of the system?",
       "sale_url": "https://itch.io/s/220929/hellabyte-early-access-release",
@@ -240,17 +253,17 @@
       "expires_raw": "2026-12-06T05:41:00Z"
     },
     {
-      "id": "5265723",
-      "title": "WARD 09: The Last Patient",
-      "url": "https://heropro16.itch.io/ward-09-the-last-patient",
-      "author": "Heropro16",
-      "author_url": "https://heropro16.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNjY0MTMwLnBuZw==/315x250%23c/iuOtzr.png",
-      "genre": "Survival",
-      "blurb": "Explore an abandoned hospital, solve its puzzles, and escape the patient who never left.",
-      "sale_url": "https://itch.io/s/217064/ward-09-the-last-patient-is-free-for-a-limited-time",
-      "expires": "2026-11-15T10:52:00.000Z",
-      "expires_raw": "2026-11-15T10:52:00Z"
+      "id": "5271929",
+      "title": "The Hospital",
+      "url": "https://kiwi-game333.itch.io/the-hospital",
+      "author": "Kiwi Game",
+      "author_url": "https://kiwi-game333.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNjI3NDY4LnBuZw==/315x250%23c/KZSc9f.png",
+      "genre": null,
+      "blurb": null,
+      "sale_url": "https://itch.io/s/224082/the-hospital",
+      "expires": "2026-12-01T16:57:00.000Z",
+      "expires_raw": "2026-12-01T16:57:00Z"
     },
     {
       "id": "4947041",
@@ -370,6 +383,19 @@
       "expires_raw": "2026-12-03T04:59:00Z"
     },
     {
+      "id": "5129443",
+      "title": "Sleep in Fear",
+      "url": "https://bennyboygames.itch.io/sleep-in-fear",
+      "author": "BennyBoy",
+      "author_url": "https://bennyboygames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwOTY3MDQ0LmdpZg==/315x250%23c/Gqy5ns.gif",
+      "genre": "Adventure",
+      "blurb": "A PSX-style sleep paralysis horror game",
+      "sale_url": "https://itch.io/s/224040/sleep-in-fear-100-thanksgiving-sale",
+      "expires": "2026-11-27T15:43:00.000Z",
+      "expires_raw": "2026-11-27T15:43:00Z"
+    },
+    {
       "id": "5102250",
       "title": "Cyberia Protocol : Tower Defense",
       "url": "https://baris1.itch.io/cyberia-protocol",
@@ -461,19 +487,6 @@
       "expires_raw": "2026-12-01T07:59:00Z"
     },
     {
-      "id": "4939440",
-      "title": "Deck Of Ruin",
-      "url": "https://darthdane.itch.io/dor",
-      "author": "DarthDane",
-      "author_url": "https://darthdane.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5NTQ3NDI0LmpwZw==/315x250%23c/zuLCZR.jpg",
-      "genre": "Card Game",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/221666/black-dor",
-      "expires": "2026-11-24T19:57:00.000Z",
-      "expires_raw": "2026-11-24T19:57:00Z"
-    },
-    {
       "id": "4914631",
       "title": "Bleached",
       "url": "https://cheeri0s.itch.io/bleached",
@@ -526,19 +539,6 @@
       "expires_raw": "2026-11-22T10:57:00Z"
     },
     {
-      "id": "4808087",
-      "title": "Aria Fantasy Adventure",
-      "url": "https://farisahmed.itch.io/aria-fantasy-adventure",
-      "author": "FarisAhmed",
-      "author_url": "https://farisahmed.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI4Njc3ODgyLmpwZw==/315x250%23c/dlv4H0.jpg",
-      "genre": "Platformer",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/196620/launch-sale-50",
-      "expires": "2026-11-24T15:00:00.000Z",
-      "expires_raw": "2026-11-24T15:00:00Z"
-    },
-    {
       "id": "4493023",
       "title": "Late Pizza Delivery",
       "url": "https://bubu07.itch.io/late-pizza-delivery",
@@ -570,7 +570,7 @@
       "url": "https://dreamdev1.itch.io/evergreen-meadows",
       "author": "DREAMDEV",
       "author_url": "https://dreamdev1.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5MDM0MDUzLmdpZg==/315x250%23c/AoGNY9.gif",
+      "image": "https://img.itch.zone/aW1nLzMyNzY3OTQ1LnBuZw==/315x250%23c/FNTduF.png",
       "genre": "Survival",
       "blurb": "Pixel art top down game",
       "sale_url": "https://itch.io/s/223390/evergreen-meadows-sale",
@@ -771,6 +771,19 @@
       "sale_url": "https://itch.io/s/190409/night-duty-special-sale",
       "expires": "2026-12-17T05:01:00.000Z",
       "expires_raw": "2026-12-17T05:01:00Z"
+    },
+    {
+      "id": "3461134",
+      "title": "The end of Childhood",
+      "url": "https://xeniaexe.itch.io/the-end-of-childhood",
+      "author": "xenia.exe",
+      "author_url": "https://xeniaexe.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIxMjA3NjcwLnBuZw==/315x250%23c/aNxiAd.png",
+      "genre": "Visual Novel",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/224057/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "3405495",

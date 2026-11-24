@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-23T12:53:17.885Z",
-  "pages_scraped": 35,
-  "total_found": 74,
+  "scraped_at": "2026-11-24T00:30:44.971Z",
+  "pages_scraped": 36,
+  "total_found": 76,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -30,6 +30,19 @@
       "sale_url": "https://itch.io/s/220929/hellabyte-early-access-release",
       "expires": "2026-11-25T03:00:00.000Z",
       "expires_raw": "2026-11-25T03:00:00Z"
+    },
+    {
+      "id": "5374303",
+      "title": "Afterglow: Memecoin Market Simulator",
+      "url": "https://meepman22.itch.io/afterglow",
+      "author": "Meepman22",
+      "author_url": "https://meepman22.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNjI0NTY1LnBuZw==/315x250%23c/S2LasL.png",
+      "genre": "Simulation",
+      "blurb": "Launch a coin, build a following, and trade through rallies and crashes in a simulated market.",
+      "sale_url": "https://itch.io/s/222583/afterglow-the-free-sale-is-back",
+      "expires": "2026-11-24T23:37:00.000Z",
+      "expires_raw": "2026-11-24T23:37:00Z"
     },
     {
       "id": "5366866",
@@ -69,6 +82,19 @@
       "sale_url": "https://itch.io/s/218869/creator-day-black-friday-2026",
       "expires": "2026-11-24T05:00:00.000Z",
       "expires_raw": "2026-11-24T05:00:00Z"
+    },
+    {
+      "id": "5344535",
+      "title": "Vigília",
+      "url": "https://znego.itch.io/vigilia",
+      "author": "zNego",
+      "author_url": "https://znego.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMTMzOTM0LmpwZw==/315x250%23c/8hCa4X.jpg",
+      "genre": "Survival",
+      "blurb": "Investigue três locais assombrados, reúna evidências e descubra o que está caçando você.",
+      "sale_url": "https://itch.io/s/223699/viglia-grtis-por-3-dias",
+      "expires": "2026-11-26T22:38:00.000Z",
+      "expires_raw": "2026-11-26T22:38:00Z"
     },
     {
       "id": "5341716",
@@ -136,6 +162,19 @@
       "expires_raw": "2026-11-24T21:00:00Z"
     },
     {
+      "id": "5300193",
+      "title": "World Map Sandbox",
+      "url": "https://omis-lab.itch.io/inkpire",
+      "author": "OMIS LAB",
+      "author_url": "https://omis-lab.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODI3MDU0LmpwZw==/315x250%23c/4a5eMt.jpg",
+      "genre": "Simulation",
+      "blurb": "A cosy sandbox game where you paint empires, draw a card each turn and rewrite history.",
+      "sale_url": "https://itch.io/s/223570/launch-week-free",
+      "expires": "2026-11-30T17:11:00.000Z",
+      "expires_raw": "2026-11-30T17:11:00Z"
+    },
+    {
       "id": "5284632",
       "title": "Don't Come First",
       "url": "https://scrap-yard-games.itch.io/dont-come-first",
@@ -186,6 +225,19 @@
       "sale_url": "https://itch.io/s/218402/free-game-this-month",
       "expires": "2026-11-30T18:17:00.000Z",
       "expires_raw": "2026-11-30T18:17:00Z"
+    },
+    {
+      "id": "5279217",
+      "title": "GregMillow",
+      "url": "https://jonathan-linux.itch.io/gregmillow",
+      "author": "Jonathan Steadman",
+      "author_url": "https://jonathan-linux.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMzA3Mzc2LnBuZw==/315x250%23c/2ie0dn.png",
+      "genre": "Racing",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/223618/free-sale",
+      "expires": "2026-11-29T18:56:00.000Z",
+      "expires_raw": "2026-11-29T18:56:00Z"
     },
     {
       "id": "5278975",
@@ -383,19 +435,6 @@
       "expires_raw": "2026-12-14T18:50:00Z"
     },
     {
-      "id": "4965575",
-      "title": "Snakehead",
-      "url": "https://woodchair.itch.io/snakehead",
-      "author": "woodchair",
-      "author_url": "https://woodchair.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMwMTk2NzQxLmdpZg==/315x250%23c/b4FFdr.gif",
-      "genre": "Adventure",
-      "blurb": "we come in peace.",
-      "sale_url": "https://itch.io/s/200756/support",
-      "expires": "2026-11-23T19:01:00.000Z",
-      "expires_raw": "2026-11-23T19:01:00Z"
-    },
-    {
       "id": "4739386",
       "title": "Shadows We Share - Unaware",
       "url": "https://bennyboygames.itch.io/unaware",
@@ -526,17 +565,17 @@
       "expires_raw": "2026-12-01T16:20:00Z"
     },
     {
-      "id": "4657116",
-      "title": "poppy playtime quiz powerpoint new update v.4.0.0 coming soon...",
-      "url": "https://funny-powerpoints.itch.io/poppy-playtime-quiz-powerpoint",
-      "author": "Mob crack",
-      "author_url": "https://funny-powerpoints.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI5ODM1MjczLnBuZw==/315x250%23c/Vk3WYI.png",
-      "genre": "Puzzle",
-      "blurb": "The Ppoppy Playtime quiz. featuring a mix of easy and hard questions—over 20 fun ones in total.  Try it now!",
-      "sale_url": "https://itch.io/s/219979/powerpoints-funny-duo",
-      "expires": "2026-11-26T19:34:00.000Z",
-      "expires_raw": "2026-11-26T19:34:00Z"
+      "id": "4686020",
+      "title": "Immaginification",
+      "url": "https://theeagle-games.itch.io/immaginification",
+      "author": "TheEagle Games",
+      "author_url": "https://theeagle-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3OTM4MTg4LnBuZw==/315x250%23c/3lLJML.png",
+      "genre": "Platformer",
+      "blurb": "Who doesn't love hand drawings? Everyone loves th- wait...you don't like them!?",
+      "sale_url": "https://itch.io/s/207885/immaginification",
+      "expires": "2026-12-23T18:00:00.000Z",
+      "expires_raw": "2026-12-23T18:00:00Z"
     },
     {
       "id": "2565179",
@@ -914,19 +953,6 @@
       "sale_url": "https://itch.io/s/214989/baldis-songkran-thanksgiving-day-2026-sale-100",
       "expires": "2026-11-29T13:35:00.000Z",
       "expires_raw": "2026-11-29T13:35:00Z"
-    },
-    {
-      "id": "1336145",
-      "title": "Días contados",
-      "url": "https://folustecno.itch.io/dias-contados",
-      "author": "folusTecno",
-      "author_url": "https://folustecno.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMjc1NTIyLnBuZw==/315x250%23c/py7udq.png",
-      "genre": "Action",
-      "blurb": "Sobrevive al apocalipsis zombie: saquea, construye tu base, caza y aguanta las noches y las hordas. Versión 2.1",
-      "sale_url": "https://itch.io/s/209157/gratis-por-lanzamiento-de-la-version-20",
-      "expires": "2026-11-24T00:00:00.000Z",
-      "expires_raw": "2026-11-24T00:00:00Z"
     },
     {
       "id": "1119726",

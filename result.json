@@ -1,9 +1,9 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-24T00:30:44.971Z",
-  "pages_scraped": 36,
-  "total_found": 76,
-  "stopped_reason": "last_page_reached",
+  "scraped_at": "2026-11-24T10:19:21.755Z",
+  "pages_scraped": 37,
+  "total_found": 75,
+  "stopped_reason": "end_of_results",
   "games": [
     {
       "id": "5401530",
@@ -69,19 +69,6 @@
       "sale_url": "https://itch.io/s/221064/creator-day-black-friday-2026",
       "expires": "2026-12-02T18:00:00.000Z",
       "expires_raw": "2026-12-02T18:00:00Z"
-    },
-    {
-      "id": "5347847",
-      "title": "Room Call",
-      "url": "https://dechitj.itch.io/room-call",
-      "author": "DechiTJ",
-      "author_url": "https://dechitj.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMTU3OTA5LmpwZw==/315x250%23c/sTb4zW.jpg",
-      "genre": "Visual Novel",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/218869/creator-day-black-friday-2026",
-      "expires": "2026-11-24T05:00:00.000Z",
-      "expires_raw": "2026-11-24T05:00:00Z"
     },
     {
       "id": "5344535",

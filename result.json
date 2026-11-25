@@ -1,10 +1,36 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-25T13:35:23.625Z",
-  "pages_scraped": 38,
-  "total_found": 88,
+  "scraped_at": "2026-11-25T22:42:33.385Z",
+  "pages_scraped": 42,
+  "total_found": 95,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5444982",
+      "title": "The 66th Depth",
+      "url": "https://tazek.itch.io/the-66th-depth",
+      "author": "Tazek",
+      "author_url": "https://tazek.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyODIwNzYxLnBuZw==/315x250%23c/iSYHkY.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/224677/creator-day-black-friday-2026",
+      "expires": "2026-11-26T18:00:00.000Z",
+      "expires_raw": "2026-11-26T18:00:00Z"
+    },
+    {
+      "id": "5444596",
+      "title": "Seven Days Before the Wedding",
+      "url": "https://barhe.itch.io/seven-days-before-the-wedding",
+      "author": "B.H",
+      "author_url": "https://barhe.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyODE3NjQ4LmdpZg==/315x250%23c/A4aTiq.gif",
+      "genre": "Adventure",
+      "blurb": "A week with his family. They're lovely. Truly.",
+      "sale_url": "https://itch.io/s/224642/free-for-limited-time",
+      "expires": "2026-11-27T20:00:00.000Z",
+      "expires_raw": "2026-11-27T20:00:00Z"
+    },
     {
       "id": "5436106",
       "title": "island",
@@ -30,6 +56,19 @@
       "sale_url": "https://itch.io/s/224341/logic-cube",
       "expires": "2026-12-09T06:48:00.000Z",
       "expires_raw": "2026-12-09T06:48:00Z"
+    },
+    {
+      "id": "5408825",
+      "title": "Tunnel Rat",
+      "url": "https://slaughtergamesstudio.itch.io/tunnel-rat",
+      "author": "SlaughterGamesStudio",
+      "author_url": "https://slaughtergamesstudio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNTg5OTczLmdpZg==/315x250%23c/C8P2HI.gif",
+      "genre": "Adventure",
+      "blurb": "Trapped in the Vietcong tunnels. Something is crawling in the dark.",
+      "sale_url": "https://itch.io/s/224617/black-friday-deals",
+      "expires": "2026-12-01T18:22:00.000Z",
+      "expires_raw": "2026-12-01T18:22:00Z"
     },
     {
       "id": "5401530",
@@ -409,6 +448,19 @@
       "expires_raw": "2026-11-30T20:07:00Z"
     },
     {
+      "id": "4955735",
+      "title": "Owner",
+      "url": "https://nilefox717.itch.io/owner",
+      "author": "nilefox717",
+      "author_url": "https://nilefox717.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwODI3Mjg5LnBuZw==/315x250%23c/LBdQCG.png",
+      "genre": "Adventure",
+      "blurb": "A short PSX horror game about your acquired dream home and the nightmare it came with.",
+      "sale_url": "https://itch.io/s/202951/free",
+      "expires": "2028-12-02T14:43:00.000Z",
+      "expires_raw": "2028-12-02T14:43:00Z"
+    },
+    {
       "id": "5081731",
       "title": "The Civilization Beneath",
       "url": "https://thelonegamedev.itch.io/the-civilization-beneath",
@@ -524,6 +576,19 @@
       "sale_url": "https://itch.io/s/198261/wasteland-drifter",
       "expires": "2026-12-23T00:06:00.000Z",
       "expires_raw": "2026-12-23T00:06:00Z"
+    },
+    {
+      "id": "4889743",
+      "title": "M. Demons",
+      "url": "https://kiwi-game333.itch.io/m-demons",
+      "author": "Kiwi Game",
+      "author_url": "https://kiwi-game333.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5MjI5MTQ4LnBuZw==/315x250%23c/hAaJzd.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/224484/m-demons",
+      "expires": "2026-12-09T13:34:00.000Z",
+      "expires_raw": "2026-12-09T13:34:00Z"
     },
     {
       "id": "4886550",
@@ -786,6 +851,19 @@
       "expires_raw": "2026-12-19T04:58:00Z"
     },
     {
+      "id": "3990679",
+      "title": "Echoes of Freedom",
+      "url": "https://thelonegamedev.itch.io/echos-of-freedom",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3Mzc1MTYxLmdpZg==/315x250%23c/xs%2Fsg7.gif",
+      "genre": "Shooter",
+      "blurb": "“Hold the line. Don’t give them an inch.”",
+      "sale_url": "https://itch.io/s/185134/historical-games",
+      "expires": "2026-12-25T21:30:00.000Z",
+      "expires_raw": "2026-12-25T21:30:00Z"
+    },
+    {
       "id": "3898062",
       "title": "Miss Denvers v0.01 (DEMO - CENSORED)",
       "url": "https://popdoggy.itch.io/miss-denvers-demo-01",
@@ -836,6 +914,19 @@
       "sale_url": "https://itch.io/s/179994/horror-game-bundle",
       "expires": "2026-12-24T22:43:00.000Z",
       "expires_raw": "2026-12-24T22:43:00Z"
+    },
+    {
+      "id": "3841048",
+      "title": "Circus Honōris",
+      "url": "https://thelonegamedev.itch.io/circus-honris",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3Mzc1MjgxLmdpZg==/315x250%23c/mzOUkt.gif",
+      "genre": "Action",
+      "blurb": "Step into the sandals of a gladiator. Survive the arena, conquer waves of enemies, or design your own brutal spectacles",
+      "sale_url": "https://itch.io/s/185134/historical-games",
+      "expires": "2026-12-25T21:30:00.000Z",
+      "expires_raw": "2026-12-25T21:30:00Z"
     },
     {
       "id": "3799948",

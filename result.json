@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-24T20:42:35.882Z",
+  "scraped_at": "2026-11-25T03:47:05.193Z",
   "pages_scraped": 39,
-  "total_found": 76,
+  "total_found": 84,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -30,32 +30,6 @@
       "sale_url": "https://itch.io/s/221542/tinycraft-launch-giveaway",
       "expires": "2026-11-30T20:59:00.000Z",
       "expires_raw": "2026-11-30T20:59:00Z"
-    },
-    {
-      "id": "5383717",
-      "title": "Hellabyte",
-      "url": "https://braindeadgames.itch.io/hellabyte",
-      "author": "BrainDead Games Studio",
-      "author_url": "https://braindeadgames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyNzY2OTA2LnBuZw==/315x250%23c/X0jJom.png",
-      "genre": "Adventure",
-      "blurb": "Will you fix the glitch, or will you become a permanent part of the system?",
-      "sale_url": "https://itch.io/s/220929/hellabyte-early-access-release",
-      "expires": "2026-11-25T03:00:00.000Z",
-      "expires_raw": "2026-11-25T03:00:00Z"
-    },
-    {
-      "id": "5374303",
-      "title": "Afterglow: Memecoin Market Simulator",
-      "url": "https://meepman22.itch.io/afterglow",
-      "author": "Meepman22",
-      "author_url": "https://meepman22.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyNjI0NTY1LnBuZw==/315x250%23c/S2LasL.png",
-      "genre": "Simulation",
-      "blurb": "Launch a coin, build a following, and trade through rallies and crashes in a simulated market.",
-      "sale_url": "https://itch.io/s/222583/afterglow-the-free-sale-is-back",
-      "expires": "2026-11-24T23:37:00.000Z",
-      "expires_raw": "2026-11-24T23:37:00Z"
     },
     {
       "id": "5366866",
@@ -157,9 +131,9 @@
       "image": "https://img.itch.zone/aW1nLzMxODIxNTg0LnBuZw==/315x250%23c/372X8R.png",
       "genre": "Strategy",
       "blurb": "Run a country in a World that is doomed to Eternal Struggle. An organically simulated open-source grand strategy game.",
-      "sale_url": "https://itch.io/s/217929/deal-or-force-giveaway-continuation",
-      "expires": "2026-11-24T21:00:00.000Z",
-      "expires_raw": "2026-11-24T21:00:00Z"
+      "sale_url": "https://itch.io/s/224128/deal-or-force-giveaway-continuation-part-2",
+      "expires": "2026-12-01T21:00:00.000Z",
+      "expires_raw": "2026-12-01T21:00:00Z"
     },
     {
       "id": "5300193",
@@ -409,6 +383,19 @@
       "expires_raw": "2026-11-30T20:07:00Z"
     },
     {
+      "id": "5081731",
+      "title": "The Civilization Beneath",
+      "url": "https://thelonegamedev.itch.io/the-civilization-beneath",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwNDYzNTc1LmdpZg==/315x250%23c/S4x0es.gif",
+      "genre": "Educational",
+      "blurb": "Journey to a coastal Minoan settlement , where life continues beneath the shadow of a magnificent palace.",
+      "sale_url": "https://itch.io/s/185134/historical-games",
+      "expires": "2026-12-25T21:30:00.000Z",
+      "expires_raw": "2026-12-25T21:30:00Z"
+    },
+    {
       "id": "5056674",
       "title": "The Noise Inside",
       "url": "https://bubu07.itch.io/the-noise-inside",
@@ -539,6 +526,19 @@
       "expires_raw": "2026-11-22T10:57:00Z"
     },
     {
+      "id": "4766348",
+      "title": "Toymakers Doll",
+      "url": "https://thelonegamedev.itch.io/toymakers-doll",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4OTEyOTI1LmdpZg==/315x250%23c/%2F659KW.gif",
+      "genre": null,
+      "blurb": "Stay alert, because the house hides more than one mystery, and not every decision leads to the same ending.",
+      "sale_url": "https://itch.io/s/179994/horror-game-bundle",
+      "expires": "2026-12-24T22:43:00.000Z",
+      "expires_raw": "2026-12-24T22:43:00Z"
+    },
+    {
       "id": "4493023",
       "title": "Late Pizza Delivery",
       "url": "https://bubu07.itch.io/late-pizza-delivery",
@@ -604,6 +604,32 @@
       "expires_raw": "2026-11-18T22:59:00Z"
     },
     {
+      "id": "4525257",
+      "title": "Buzzed & Brainless",
+      "url": "https://thelonegamedev.itch.io/alchol-is-free",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3Mzc1NjkxLmdpZg==/315x250%23c/kgR6AB.gif",
+      "genre": "Survival",
+      "blurb": "A new virus has emerged you have to face it with a gun and a bottle",
+      "sale_url": "https://itch.io/s/179994/horror-game-bundle",
+      "expires": "2026-12-24T22:43:00.000Z",
+      "expires_raw": "2026-12-24T22:43:00Z"
+    },
+    {
+      "id": "4407428",
+      "title": "Rat Life",
+      "url": "https://thelonegamedev.itch.io/rat-life",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2MjY1NTYxLnBuZw==/315x250%23c/To%2BdVo.png",
+      "genre": "Platformer",
+      "blurb": "​You are a hungry, hungry rat! Collect all the breadcrumbs to fill your belly.",
+      "sale_url": "https://itch.io/s/179994/horror-game-bundle",
+      "expires": "2026-12-24T22:43:00.000Z",
+      "expires_raw": "2026-12-24T22:43:00Z"
+    },
+    {
       "id": "4405770",
       "title": "Lord of Chaos",
       "url": "https://hexnut-studios.itch.io/lord-of-chaos",
@@ -628,6 +654,19 @@
       "sale_url": "https://itch.io/s/221012/creator-day-black-friday-2026",
       "expires": "2026-11-27T15:00:00.000Z",
       "expires_raw": "2026-11-27T15:00:00Z"
+    },
+    {
+      "id": "4323765",
+      "title": "WW1 Demo",
+      "url": "https://thelonegamedev.itch.io/ww1-demo",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3Mzc2NDE2LmdpZg==/315x250%23c/pSSkME.gif",
+      "genre": "Role Playing",
+      "blurb": "A short atmospheric horror demo set on the Western Front of World War I.",
+      "sale_url": "https://itch.io/s/185134/historical-games",
+      "expires": "2026-12-25T21:30:00.000Z",
+      "expires_raw": "2026-12-25T21:30:00Z"
     },
     {
       "id": "3951915",
@@ -667,6 +706,19 @@
       "sale_url": "https://itch.io/s/215358/november-sale",
       "expires": "2026-11-30T12:56:00.000Z",
       "expires_raw": "2026-11-30T12:56:00Z"
+    },
+    {
+      "id": "4227332",
+      "title": "Mine Cleaners",
+      "url": "https://thelonegamedev.itch.io/mine-cleaners",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3Mzc1NTg0LmdpZg==/315x250%23c/kYtk4L.gif",
+      "genre": "Survival",
+      "blurb": "Clean the field",
+      "sale_url": "https://itch.io/s/179994/horror-game-bundle",
+      "expires": "2026-12-24T22:43:00.000Z",
+      "expires_raw": "2026-12-24T22:43:00Z"
     },
     {
       "id": "3695137",
@@ -721,6 +773,19 @@
       "expires_raw": "2026-11-30T10:59:00Z"
     },
     {
+      "id": "3936185",
+      "title": "Let The Past Die",
+      "url": "https://thelonegamedev.itch.io/let-the-past-die",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3Mzc1OTY1LmdpZg==/315x250%23c/qanx0G.gif",
+      "genre": "Survival",
+      "blurb": "don't get engulfed in the loop",
+      "sale_url": "https://itch.io/s/179994/horror-game-bundle",
+      "expires": "2026-12-24T22:43:00.000Z",
+      "expires_raw": "2026-12-24T22:43:00Z"
+    },
+    {
       "id": "3799948",
       "title": "Dream Holiday",
       "url": "https://baris1.itch.io/dream-holiday",
@@ -747,17 +812,43 @@
       "expires_raw": "2026-11-18T05:20:00Z"
     },
     {
-      "id": "3683740",
-      "title": "Thunder Defenders Star Heroes",
-      "url": "https://greygames1000.itch.io/thunder-defenders-star-heroes",
-      "author": "Grey Games",
-      "author_url": "https://greygames1000.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIxOTE3ODc5LnBuZw==/315x250%23c/Dnvl65.png",
-      "genre": "Action",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/222771/thunder-defenders",
-      "expires": "2026-11-25T02:59:00.000Z",
-      "expires_raw": "2026-11-25T02:59:00Z"
+      "id": "3676729",
+      "title": "The Wolfman",
+      "url": "https://thelonegamedev.itch.io/the-wolfman",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3Mzc1NDk1LmdpZg==/315x250%23c/oFYf7T.gif",
+      "genre": null,
+      "blurb": "He always sees you",
+      "sale_url": "https://itch.io/s/179994/horror-game-bundle",
+      "expires": "2026-12-24T22:43:00.000Z",
+      "expires_raw": "2026-12-24T22:43:00Z"
+    },
+    {
+      "id": "3668942",
+      "title": "The Cave’s Secrets",
+      "url": "https://thelonegamedev.itch.io/the-caves-secrets",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI1Mjk5NTgyLmdpZg==/315x250%23c/pQo0i3.gif",
+      "genre": null,
+      "blurb": "Stop before its to late",
+      "sale_url": "https://itch.io/s/179994/horror-game-bundle",
+      "expires": "2026-12-24T22:43:00.000Z",
+      "expires_raw": "2026-12-24T22:43:00Z"
+    },
+    {
+      "id": "3527740",
+      "title": "The Library : Horror Game",
+      "url": "https://thelonegamedev.itch.io/the-library-horror-game",
+      "author": "TheLoneGameDev",
+      "author_url": "https://thelonegamedev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3Mzc2MjA4LmdpZg==/315x250%23c/3g8Wn7.gif",
+      "genre": null,
+      "blurb": "my first short horror game you have to find 3 books and escape",
+      "sale_url": "https://itch.io/s/179994/horror-game-bundle",
+      "expires": "2026-12-24T22:43:00.000Z",
+      "expires_raw": "2026-12-24T22:43:00Z"
     },
     {
       "id": "3440115",
@@ -927,6 +1018,19 @@
       "sale_url": "https://itch.io/s/215994/sale",
       "expires": "2026-12-08T20:45:00.000Z",
       "expires_raw": "2026-12-08T20:45:00Z"
+    },
+    {
+      "id": "1576559",
+      "title": "Boots Quest DX",
+      "url": "https://discountrealms.itch.io/boots-quest-dx",
+      "author": "Discount Realms",
+      "author_url": "https://discountrealms.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzEwNjAyNTk3LnBuZw==/315x250%23c/GuCrfz.png",
+      "genre": "Adventure",
+      "blurb": "An offbeat adventure about finding the best boots in the world",
+      "sale_url": "https://itch.io/s/224292/boots-quest-3rd-anniverstravaganza",
+      "expires": "2026-11-30T05:00:00.000Z",
+      "expires_raw": "2026-11-30T05:00:00Z"
     },
     {
       "id": "1756451",

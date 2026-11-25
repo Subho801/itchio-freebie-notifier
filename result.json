@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-25T03:47:05.193Z",
-  "pages_scraped": 39,
-  "total_found": 84,
+  "scraped_at": "2026-11-25T13:35:23.625Z",
+  "pages_scraped": 38,
+  "total_found": 88,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -19,6 +19,19 @@
       "expires_raw": "2026-11-27T14:59:00Z"
     },
     {
+      "id": "5416313",
+      "title": "Logic cube",
+      "url": "https://kiwi-game333.itch.io/logic-cube",
+      "author": "Kiwi Game",
+      "author_url": "https://kiwi-game333.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNjI4MjEwLnBuZw==/315x250%23c/UxtkpI.png",
+      "genre": "Puzzle",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/224341/logic-cube",
+      "expires": "2026-12-09T06:48:00.000Z",
+      "expires_raw": "2026-12-09T06:48:00Z"
+    },
+    {
       "id": "5401530",
       "title": "TinyCraft V0.1",
       "url": "https://redx9067.itch.io/tinycraft",
@@ -30,6 +43,19 @@
       "sale_url": "https://itch.io/s/221542/tinycraft-launch-giveaway",
       "expires": "2026-11-30T20:59:00.000Z",
       "expires_raw": "2026-11-30T20:59:00Z"
+    },
+    {
+      "id": "5337265",
+      "title": "IslandBar",
+      "url": "https://andresantoniosantisteban.itch.io/islandbar",
+      "author": "Andresantoniosantisteban",
+      "author_url": "https://andresantoniosantisteban.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMzg2ODY4LnBuZw==/315x250%23c/j3ymz8.png",
+      "genre": "Shooter",
+      "blurb": "Online co-op island · up to 16 players",
+      "sale_url": "https://itch.io/s/224397/-gratis-hasta-el-14-de-diciembre-free-until-dec-14",
+      "expires": "2026-12-14T22:59:00.000Z",
+      "expires_raw": "2026-12-14T22:59:00Z"
     },
     {
       "id": "5366866",
@@ -565,6 +591,19 @@
       "expires_raw": "2026-12-23T18:00:00Z"
     },
     {
+      "id": "4680992",
+      "title": "Rotate 2: Early Access",
+      "url": "https://kodanjf1313.itch.io/rotate-2-e",
+      "author": "Kodanjf1313",
+      "author_url": "https://kodanjf1313.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3ODk1Nzg4LnBuZw==/315x250%23c/Rn7uOd.png",
+      "genre": null,
+      "blurb": "November",
+      "sale_url": "https://itch.io/s/216776/rotate-2",
+      "expires": "2026-11-30T04:01:00.000Z",
+      "expires_raw": "2026-11-30T04:01:00Z"
+    },
+    {
       "id": "2565179",
       "title": "Evergreen Meadows",
       "url": "https://dreamdev1.itch.io/evergreen-meadows",
@@ -572,7 +611,7 @@
       "author_url": "https://dreamdev1.itch.io/",
       "image": "https://img.itch.zone/aW1nLzMyNzY3OTQ1LnBuZw==/315x250%23c/FNTduF.png",
       "genre": "Survival",
-      "blurb": "Pixel art top down game",
+      "blurb": "A pixel art top down survival game",
       "sale_url": "https://itch.io/s/223390/evergreen-meadows-sale",
       "expires": "2026-11-29T23:00:00.000Z",
       "expires_raw": "2026-11-29T23:00:00Z"
@@ -641,6 +680,19 @@
       "sale_url": "https://itch.io/s/182780/lord-of-chaos-on-sale-for-a-limited-time",
       "expires": "2026-11-07T18:00:00.000Z",
       "expires_raw": "2026-11-07T18:00:00Z"
+    },
+    {
+      "id": "4359651",
+      "title": "Bunny's Quest",
+      "url": "https://friendlychickens.itch.io/bunnys-quest",
+      "author": "FriendlyChickens",
+      "author_url": "https://friendlychickens.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2MDc3ODg5LnBuZw==/315x250%23c/nM7Ecx.png",
+      "genre": "Action",
+      "blurb": "Guide Bunny through ever-changing mazes, outsmart dangerous enemies, and defend your turf!",
+      "sale_url": "https://itch.io/s/221987/creator-day-black-friday-2026",
+      "expires": "2026-12-03T05:59:00.000Z",
+      "expires_raw": "2026-12-03T05:59:00Z"
     },
     {
       "id": "4347058",

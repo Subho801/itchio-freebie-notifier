@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-26T14:10:50.634Z",
+  "scraped_at": "2026-11-26T23:00:33.257Z",
   "pages_scraped": 44,
   "total_found": 103,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5453316",
+      "title": "Guildmaster Beginnings",
+      "url": "https://twistymeat.itch.io/guildmaster-beginnings",
+      "author": "TwistyMeat",
+      "author_url": "https://twistymeat.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyODY1NzczLnBuZw==/315x250%23c/QqwEtd.png",
+      "genre": "Simulation",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/225376/need-early-beta-testers",
+      "expires": "2026-11-27T00:00:00.000Z",
+      "expires_raw": "2026-11-27T00:00:00Z"
+    },
     {
       "id": "5444982",
       "title": "The 66th Depth",
@@ -14,9 +27,9 @@
       "image": "https://img.itch.zone/aW1nLzMyODIwNzYxLnBuZw==/315x250%23c/iSYHkY.png",
       "genre": "Action",
       "blurb": null,
-      "sale_url": "https://itch.io/s/224677/creator-day-black-friday-2026",
-      "expires": "2026-11-26T18:00:00.000Z",
-      "expires_raw": "2026-11-26T18:00:00Z"
+      "sale_url": "https://itch.io/s/225406/creator-day-black-friday-2026",
+      "expires": "2026-11-28T18:00:00.000Z",
+      "expires_raw": "2026-11-28T18:00:00Z"
     },
     {
       "id": "5444596",
@@ -121,19 +134,6 @@
       "sale_url": "https://itch.io/s/221064/creator-day-black-friday-2026",
       "expires": "2026-12-02T18:00:00.000Z",
       "expires_raw": "2026-12-02T18:00:00Z"
-    },
-    {
-      "id": "5344535",
-      "title": "Vigília",
-      "url": "https://znego.itch.io/vigilia",
-      "author": "zNego",
-      "author_url": "https://znego.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyMTMzOTM0LmpwZw==/315x250%23c/8hCa4X.jpg",
-      "genre": "Survival",
-      "blurb": "Investigue três locais assombrados, reúna evidências e descubra o que está caçando você.",
-      "sale_url": "https://itch.io/s/223699/viglia-grtis-por-3-dias",
-      "expires": "2026-11-26T22:38:00.000Z",
-      "expires_raw": "2026-11-26T22:38:00Z"
     },
     {
       "id": "5341716",
@@ -357,6 +357,19 @@
       "expires_raw": "2026-11-04T18:00:00Z"
     },
     {
+      "id": "5207496",
+      "title": "Dino World",
+      "url": "https://chrisipice.itch.io/pixel-dino-island",
+      "author": "Chrisipice",
+      "author_url": "https://chrisipice.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMjAwMjE1LnBuZw==/315x250%23c/CFYXO4.png",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/217842/weinachts-sale",
+      "expires": "2026-12-02T05:30:00.000Z",
+      "expires_raw": "2026-12-02T05:30:00Z"
+    },
+    {
       "id": "5196465",
       "title": "Mind the Clown: Reborn (Demo)",
       "url": "https://coastcitygames.itch.io/mind-the-clown-reborn",
@@ -433,6 +446,19 @@
       "sale_url": "https://itch.io/s/221005/free-for-two-weeks",
       "expires": "2026-12-03T04:59:00.000Z",
       "expires_raw": "2026-12-03T04:59:00Z"
+    },
+    {
+      "id": "5155120",
+      "title": "Dodge and Earn",
+      "url": "https://kiwi-game333.itch.io/dodge-and-earn",
+      "author": "Kiwi Game",
+      "author_url": "https://kiwi-game333.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwODU4OTU1LnBuZw==/315x250%23c/DQiBJ%2B.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/225310/dodge-and-earn",
+      "expires": "2026-12-10T16:27:00.000Z",
+      "expires_raw": "2026-12-10T16:27:00Z"
     },
     {
       "id": "5129443",
@@ -524,19 +550,6 @@
       "sale_url": "https://itch.io/s/201083/100-off",
       "expires": "2026-12-14T18:50:00.000Z",
       "expires_raw": "2026-12-14T18:50:00Z"
-    },
-    {
-      "id": "4739386",
-      "title": "Shadows We Share - Unaware",
-      "url": "https://bennyboygames.itch.io/unaware",
-      "author": "BennyBoy",
-      "author_url": "https://bennyboygames.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxNDM3NzM3LmdpZg==/315x250%23c/7iTdek.gif",
-      "genre": "Adventure",
-      "blurb": "A psychological narrative horror game",
-      "sale_url": "https://itch.io/s/217478/shadows-we-share-special-100-off-sale",
-      "expires": "2026-11-26T14:25:00.000Z",
-      "expires_raw": "2026-11-26T14:25:00Z"
     },
     {
       "id": "4973081",
@@ -732,19 +745,6 @@
       "sale_url": "https://itch.io/s/196473/no-one-inside",
       "expires": "2026-12-01T00:29:00.000Z",
       "expires_raw": "2026-12-01T00:29:00Z"
-    },
-    {
-      "id": "4565310",
-      "title": "Last Friday",
-      "url": "https://reganc.itch.io/last-friday",
-      "author": "ReganC",
-      "author_url": "https://reganc.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMxMjU4MDUxLmdpZg==/315x250%23c/PwGKuS.gif",
-      "genre": "Simulation",
-      "blurb": "You entered the simulation. It didn’t let you leave.",
-      "sale_url": "https://itch.io/s/215502/last-friday-full-release-sale",
-      "expires": "2026-11-18T22:59:00.000Z",
-      "expires_raw": "2026-11-18T22:59:00Z"
     },
     {
       "id": "4525257",

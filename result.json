@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-25T22:42:33.385Z",
-  "pages_scraped": 42,
-  "total_found": 95,
+  "scraped_at": "2026-11-26T04:27:15.337Z",
+  "pages_scraped": 43,
+  "total_found": 102,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -147,6 +147,19 @@
       "sale_url": "https://itch.io/s/217467/sillwalker-launch-month-free-for-everyone",
       "expires": "2026-12-12T12:46:00.000Z",
       "expires_raw": "2026-12-12T12:46:00Z"
+    },
+    {
+      "id": "5251999",
+      "title": "Slasher Circus",
+      "url": "https://redwolfstudios-deg.itch.io/slasher-circus",
+      "author": "Redwolf Studios.",
+      "author_url": "https://redwolfstudios-deg.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODY1MjYwLnBuZw==/315x250%23c/IC%2Ff5K.png",
+      "genre": "Adventure",
+      "blurb": "Circus themed PSX horror game about a boy who takes a step to find his presumed 'dead' father.",
+      "sale_url": "https://itch.io/s/178951/100-off-free",
+      "expires": "2027-01-18T16:48:00.000Z",
+      "expires_raw": "2027-01-18T16:48:00Z"
     },
     {
       "id": "5316682",
@@ -604,6 +617,19 @@
       "expires_raw": "2026-12-12T15:54:00Z"
     },
     {
+      "id": "4846083",
+      "title": "The Last Laugh",
+      "url": "https://one-deep.itch.io/the-last-laugh",
+      "author": "One Deep",
+      "author_url": "https://one-deep.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5MTQ2MDgzLmpwZw==/315x250%23c/7htTuI.jpg",
+      "genre": "Adventure",
+      "blurb": "The city's on lockdown. You're going bombing anyway.",
+      "sale_url": "https://itch.io/s/197729/help-this-game-reach-its-goal",
+      "expires": "2026-12-26T04:24:00.000Z",
+      "expires_raw": "2026-12-26T04:24:00Z"
+    },
+    {
       "id": "4765346",
       "title": "Lost In Transit",
       "url": "https://boxer-gaming.itch.io/lost-in-transit",
@@ -628,6 +654,19 @@
       "sale_url": "https://itch.io/s/179994/horror-game-bundle",
       "expires": "2026-12-24T22:43:00.000Z",
       "expires_raw": "2026-12-24T22:43:00Z"
+    },
+    {
+      "id": "4697083",
+      "title": "Rotten",
+      "url": "https://redwolfstudios-deg.itch.io/rotten",
+      "author": "Redwolf Studios.",
+      "author_url": "https://redwolfstudios-deg.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4MTE1MTY0LnBuZw==/315x250%23c/8NTp7o.png",
+      "genre": "Adventure",
+      "blurb": "A short PSX game about a man and his dreadful secret that was meant to be buried",
+      "sale_url": "https://itch.io/s/178951/100-off-free",
+      "expires": "2027-01-18T16:48:00.000Z",
+      "expires_raw": "2027-01-18T16:48:00Z"
     },
     {
       "id": "4493023",
@@ -719,6 +758,19 @@
       "sale_url": "https://itch.io/s/179994/horror-game-bundle",
       "expires": "2026-12-24T22:43:00.000Z",
       "expires_raw": "2026-12-24T22:43:00Z"
+    },
+    {
+      "id": "4417345",
+      "title": "Deluge: Sermon for the Dead — Deluxe Edition",
+      "url": "https://socah.itch.io/deluge-sermon-for-the-dead-deluxe",
+      "author": "socah",
+      "author_url": "https://socah.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2NDA3OTQyLnBuZw==/315x250%23c/SyPLCk.png",
+      "genre": "Adventure",
+      "blurb": "Full game including Mei Ending DLC Chapter",
+      "sale_url": "https://itch.io/s/223175/black-friday-sale",
+      "expires": "2026-11-28T04:22:00.000Z",
+      "expires_raw": "2026-11-28T04:22:00Z"
     },
     {
       "id": "4407428",
@@ -851,6 +903,19 @@
       "expires_raw": "2026-12-19T04:58:00Z"
     },
     {
+      "id": "4169047",
+      "title": "That Christmas Night",
+      "url": "https://redwolfstudios-deg.itch.io/that-christmas-night",
+      "author": "Redwolf Studios.",
+      "author_url": "https://redwolfstudios-deg.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI1MTc1OTQzLnBuZw==/315x250%23c/BjZxSK.png",
+      "genre": "Adventure",
+      "blurb": "A silent night. A blood-red Christmas!",
+      "sale_url": "https://itch.io/s/178951/100-off-free",
+      "expires": "2027-01-18T16:48:00.000Z",
+      "expires_raw": "2027-01-18T16:48:00Z"
+    },
+    {
       "id": "3990679",
       "title": "Echoes of Freedom",
       "url": "https://thelonegamedev.itch.io/echos-of-freedom",
@@ -953,6 +1018,32 @@
       "sale_url": "https://itch.io/s/217217/november-sale",
       "expires": "2026-11-18T05:20:00.000Z",
       "expires_raw": "2026-11-18T05:20:00Z"
+    },
+    {
+      "id": "3692563",
+      "title": "Teddy Tragedy",
+      "url": "https://redwolfstudios-deg.itch.io/teddy-tragedy",
+      "author": "Redwolf Studios.",
+      "author_url": "https://redwolfstudios-deg.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIxOTk5MDI5LnBuZw==/315x250%23c/61c8La.png",
+      "genre": "Survival",
+      "blurb": "You came to deliver dinner...but something else is hungry...for you",
+      "sale_url": "https://itch.io/s/178951/100-off-free",
+      "expires": "2027-01-18T16:48:00.000Z",
+      "expires_raw": "2027-01-18T16:48:00Z"
+    },
+    {
+      "id": "3683740",
+      "title": "Thunder Defenders Star Heroes",
+      "url": "https://greygames1000.itch.io/thunder-defenders-star-heroes",
+      "author": "Grey Games",
+      "author_url": "https://greygames1000.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIxOTE3ODc5LnBuZw==/315x250%23c/Dnvl65.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/224810/thunder-defenders",
+      "expires": "2026-11-28T02:04:00.000Z",
+      "expires_raw": "2026-11-28T02:04:00Z"
     },
     {
       "id": "3676729",

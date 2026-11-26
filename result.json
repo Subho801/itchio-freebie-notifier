@@ -1,8 +1,8 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-26T04:27:15.337Z",
-  "pages_scraped": 43,
-  "total_found": 102,
+  "scraped_at": "2026-11-26T14:10:50.634Z",
+  "pages_scraped": 44,
+  "total_found": 103,
   "stopped_reason": "last_page_reached",
   "games": [
     {
@@ -469,9 +469,9 @@
       "image": "https://img.itch.zone/aW1nLzMwODI3Mjg5LnBuZw==/315x250%23c/LBdQCG.png",
       "genre": "Adventure",
       "blurb": "A short PSX horror game about your acquired dream home and the nightmare it came with.",
-      "sale_url": "https://itch.io/s/202951/free",
-      "expires": "2028-12-02T14:43:00.000Z",
-      "expires_raw": "2028-12-02T14:43:00Z"
+      "sale_url": "https://itch.io/s/182463/100-off",
+      "expires": "2027-12-19T03:47:00.000Z",
+      "expires_raw": "2027-12-19T03:47:00Z"
     },
     {
       "id": "5081731",
@@ -810,6 +810,19 @@
       "sale_url": "https://itch.io/s/221987/creator-day-black-friday-2026",
       "expires": "2026-12-03T05:59:00.000Z",
       "expires_raw": "2026-12-03T05:59:00Z"
+    },
+    {
+      "id": "4336257",
+      "title": "Porky's Bloodbath",
+      "url": "https://nilefox717.itch.io/porkys-bloodbath",
+      "author": "nilefox717",
+      "author_url": "https://nilefox717.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI1OTk5NjczLnBuZw==/315x250%23c/O%2B23ZG.png",
+      "genre": "Adventure",
+      "blurb": "Short PSX comedy horror about a pig-man let loose!",
+      "sale_url": "https://itch.io/s/182463/100-off",
+      "expires": "2027-12-19T03:47:00.000Z",
+      "expires_raw": "2027-12-19T03:47:00Z"
     },
     {
       "id": "4347058",

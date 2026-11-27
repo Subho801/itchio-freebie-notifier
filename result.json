@@ -1,10 +1,23 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-27T04:53:19.503Z",
-  "pages_scraped": 44,
-  "total_found": 109,
+  "scraped_at": "2026-11-27T14:33:18.703Z",
+  "pages_scraped": 161,
+  "total_found": 246,
   "stopped_reason": "last_page_reached",
   "games": [
+    {
+      "id": "5439968",
+      "title": "The Broken Elevator",
+      "url": "https://mandotaria.itch.io/the-broken-elevator",
+      "author": "Mandotaria",
+      "author_url": "https://mandotaria.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNzg1MDI0LmpwZWc=/315x250%23c/4ievA5.jpeg",
+      "genre": null,
+      "blurb": "A pshycological liminal horror game about ending your shift",
+      "sale_url": "https://itch.io/s/225731/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
     {
       "id": "5145615",
       "title": "I'm Not A Customer",
@@ -17,19 +30,6 @@
       "sale_url": "https://itch.io/s/225573/100-off",
       "expires": "2026-12-20T13:00:00.000Z",
       "expires_raw": "2026-12-20T13:00:00Z"
-    },
-    {
-      "id": "5453316",
-      "title": "Guildmaster Beginnings",
-      "url": "https://twistymeat.itch.io/guildmaster-beginnings",
-      "author": "TwistyMeat",
-      "author_url": "https://twistymeat.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzMyODY1NzczLnBuZw==/315x250%23c/QqwEtd.png",
-      "genre": "Simulation",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/225376/need-early-beta-testers",
-      "expires": "2026-11-27T00:00:00.000Z",
-      "expires_raw": "2026-11-27T00:00:00Z"
     },
     {
       "id": "5444982",
@@ -58,6 +58,19 @@
       "expires_raw": "2026-11-27T20:00:00Z"
     },
     {
+      "id": "5444473",
+      "title": "Tales of Crescent Pond: A fishing rhythm game",
+      "url": "https://prodmoshino.itch.io/tales-of-crescent-pond",
+      "author": "Prod.Moshino",
+      "author_url": "https://prodmoshino.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyODIxMDk0LnBuZw==/315x250%23c/MBpgmB.png",
+      "genre": "Rhythm",
+      "blurb": "2D Fishing Game with OSU integrated in each fight. Super cozyyy",
+      "sale_url": "https://itch.io/s/224647/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "5436106",
       "title": "island",
       "url": "https://shin-games.itch.io/island",
@@ -69,6 +82,84 @@
       "sale_url": "https://itch.io/s/224013/sale",
       "expires": "2026-11-27T14:59:00.000Z",
       "expires_raw": "2026-11-27T14:59:00Z"
+    },
+    {
+      "id": "5429871",
+      "title": "Rulebound",
+      "url": "https://garagemonke.itch.io/rulebound",
+      "author": "garage monke",
+      "author_url": "https://garagemonke.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNzE3MTM0LnBuZw==/315x250%23c/3S9RMi.png",
+      "genre": "Simulation",
+      "blurb": "Watch the discs bounce. Follow the rules. Don't let them in.",
+      "sale_url": "https://itch.io/s/223568/rulebound",
+      "expires": "2026-12-31T17:00:00.000Z",
+      "expires_raw": "2026-12-31T17:00:00Z"
+    },
+    {
+      "id": "5427028",
+      "title": "Woman in Window (창문의 여자)",
+      "url": "https://studio-vec.itch.io/woman-in-window",
+      "author": "Studio-vec",
+      "author_url": "https://studio-vec.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNjk3NTkzLnBuZw==/315x250%23c/UvF4eJ.png",
+      "genre": "Puzzle",
+      "blurb": "A puzzle where browser windows are your flashlight. Only what they light up exists.",
+      "sale_url": "https://itch.io/s/224358/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5424659",
+      "title": "Rig Doctor - Blender Addon",
+      "url": "https://mergimiiii.itch.io/rig-doctor-blender-addon",
+      "author": "mergimiiii",
+      "author_url": "https://mergimiiii.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNjgxOTQwLnBuZw==/315x250%23c/Gzaw%2Fe.png",
+      "genre": null,
+      "blurb": "Rig Doctor is a Blender addon designed to quickly find and repair common character rigging and weight problems.",
+      "sale_url": "https://itch.io/s/223159/rig-doctor-blender-addon",
+      "expires": "2027-11-22T21:17:00.000Z",
+      "expires_raw": "2027-11-22T21:17:00Z"
+    },
+    {
+      "id": "5424549",
+      "title": "Scattering Objects",
+      "url": "https://mergimiiii.itch.io/sca",
+      "author": "mergimiiii",
+      "author_url": "https://mergimiiii.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNjgxMjEyLnBuZw==/315x250%23c/hLA%2F0M.png",
+      "genre": null,
+      "blurb": "Scattering Objects is a powerful Blender addon designed to quickly populate meshes with objects using rigid body physics",
+      "sale_url": "https://itch.io/s/223152/scattering-objects-blender-addon",
+      "expires": "2027-11-22T20:57:00.000Z",
+      "expires_raw": "2027-11-22T20:57:00Z"
+    },
+    {
+      "id": "5424523",
+      "title": "Renamer - Blender Addon",
+      "url": "https://mergimiiii.itch.io/renamer",
+      "author": "mergimiiii",
+      "author_url": "https://mergimiiii.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNjgwODk3LnBuZw==/315x250%23c/SLtApX.png",
+      "genre": null,
+      "blurb": "Simple Rename is a powerful and easy-to-use Blender addon for rename.",
+      "sale_url": "https://itch.io/s/223148/renamer-blender-addon",
+      "expires": "2027-11-22T20:54:00.000Z",
+      "expires_raw": "2027-11-22T20:54:00Z"
+    },
+    {
+      "id": "5424460",
+      "title": "Quick Mensurment Tool - Blender Addon",
+      "url": "https://mergimiiii.itch.io/quick-mensurment-tool-blender-addon",
+      "author": "mergimiiii",
+      "author_url": "https://mergimiiii.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNjgwNjEzLnBuZw==/315x250%23c/ZKIkDa.png",
+      "genre": null,
+      "blurb": "The Quick Measurement Tool is a lightweight but powerful addon for Blender that helps artists",
+      "sale_url": "https://itch.io/s/223143/quick-mensurment-tool-blender-addon",
+      "expires": "2027-11-22T20:45:00.000Z",
+      "expires_raw": "2027-11-22T20:45:00Z"
     },
     {
       "id": "5416313",
@@ -84,6 +175,32 @@
       "expires_raw": "2026-12-09T06:48:00Z"
     },
     {
+      "id": "3313167",
+      "title": "Smiling Terror",
+      "url": "https://poisonicestudios.itch.io/smiling-terror",
+      "author": "PoisonIce Studios",
+      "author_url": "https://poisonicestudios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/315x250%23c/ltWirO.gif",
+      "genre": "Survival",
+      "blurb": "90's Style Retro Survival Horror",
+      "sale_url": "https://itch.io/s/179743/smiling-terror-free-100-discount",
+      "expires": "2026-11-04T23:00:00.000Z",
+      "expires_raw": "2026-11-04T23:00:00Z"
+    },
+    {
+      "id": "5404327",
+      "title": "The Jennings County LST 846: A Ship you Can Walkthrough",
+      "url": "https://secretsquirrel2026.itch.io/the-jennings-county-lst-846-a-ship-you-can-walkthrough",
+      "author": "SecretSquirrel2026",
+      "author_url": "https://secretsquirrel2026.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNTUwNDY3LnBuZw==/315x250%23c/ScLiKz.png",
+      "genre": "Simulation",
+      "blurb": "A walkthrough of the USS Jennings County LST 846",
+      "sale_url": "https://itch.io/s/224760/creator-day-black-friday-2026",
+      "expires": "2026-12-01T18:00:00.000Z",
+      "expires_raw": "2026-12-01T18:00:00Z"
+    },
+    {
       "id": "5408825",
       "title": "Tunnel Rat",
       "url": "https://slaughtergamesstudio.itch.io/tunnel-rat",
@@ -95,6 +212,19 @@
       "sale_url": "https://itch.io/s/224617/black-friday-deals",
       "expires": "2026-12-01T18:22:00.000Z",
       "expires_raw": "2026-12-01T18:22:00Z"
+    },
+    {
+      "id": "5410858",
+      "title": "Alien Z",
+      "url": "https://comix-studios.itch.io/alien-z",
+      "author": "Comix Studios",
+      "author_url": "https://comix-studios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyNTkyNjc5LmpwZw==/315x250%23c/ILqGku.jpg",
+      "genre": "Shooter",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/222202/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "5401530",
@@ -149,6 +279,32 @@
       "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
+      "id": "5351768",
+      "title": "MEANINGLESS",
+      "url": "https://vir-gogames.itch.io/meaningless",
+      "author": "VIR_GOGAMES",
+      "author_url": "https://vir-gogames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMTg3ODQ3LmpwZw==/315x250%23c/fDxxfh.jpg",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/220300/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5033626",
+      "title": "Heroes of Gongalitia",
+      "url": "https://comix-studios.itch.io/heroes-of-gongalitia",
+      "author": "Comix Studios",
+      "author_url": "https://comix-studios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwMTQwNDYxLnBuZw==/315x250%23c/QPww84.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/222202/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "5341716",
       "title": "Sillwalker",
       "url": "https://victor-basset.itch.io/sillwalker",
@@ -170,9 +326,22 @@
       "image": "https://img.itch.zone/aW1nLzMxODY1MjYwLnBuZw==/315x250%23c/IC%2Ff5K.png",
       "genre": "Adventure",
       "blurb": "Circus themed PSX horror game about a boy who takes a step to find his presumed 'dead' father.",
-      "sale_url": "https://itch.io/s/178951/100-off-free",
-      "expires": "2027-01-18T16:48:00.000Z",
-      "expires_raw": "2027-01-18T16:48:00Z"
+      "sale_url": "https://itch.io/s/218722/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5331177",
+      "title": "Throw Tomatoes",
+      "url": "https://clockworkplant.itch.io/throw-tomatoes",
+      "author": "ClockworkPlant",
+      "author_url": "https://clockworkplant.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMDQ2MTEwLnBuZw==/315x250%23c/x4Ap9X.png",
+      "genre": "Simulation",
+      "blurb": "A Game Where You Throw Tomatoes At An Image",
+      "sale_url": "https://itch.io/s/223702/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "5316682",
@@ -227,6 +396,19 @@
       "expires_raw": "2026-12-01T21:00:00Z"
     },
     {
+      "id": "5287773",
+      "title": "Tactical 10",
+      "url": "https://tactical10.itch.io/tactical-10",
+      "author": "tactical10",
+      "author_url": "https://tactical10.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNzMxNzA2LnBuZw==/315x250%23c/J7MpFP.png",
+      "genre": "Strategy",
+      "blurb": "A turn-based tactical board game where Greek gods, heroes, and strategy define the battle.",
+      "sale_url": "https://itch.io/s/219853/creator-day-black-friday-2026",
+      "expires": "2026-11-30T18:00:00.000Z",
+      "expires_raw": "2026-11-30T18:00:00Z"
+    },
+    {
       "id": "5300193",
       "title": "World Map Sandbox",
       "url": "https://omis-lab.itch.io/inkpire",
@@ -238,6 +420,19 @@
       "sale_url": "https://itch.io/s/223570/launch-week-free",
       "expires": "2026-11-30T17:11:00.000Z",
       "expires_raw": "2026-11-30T17:11:00Z"
+    },
+    {
+      "id": "5299706",
+      "title": "Crown & Ledger",
+      "url": "https://eiryudev.itch.io/crownledger",
+      "author": "Eiryu",
+      "author_url": "https://eiryudev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODIxODk4LnBuZw==/315x250%23c/ipLPZ0.png",
+      "genre": "Simulation",
+      "blurb": "A cozy fantasy guild management RPG where you recruit adventurers, manage parties, and build your guild's reputation.",
+      "sale_url": "https://itch.io/s/153767/lumimoth-itchio-sale",
+      "expires": "2026-11-27T18:29:00.000Z",
+      "expires_raw": "2026-11-27T18:29:00Z"
     },
     {
       "id": "5284632",
@@ -305,6 +500,19 @@
       "expires_raw": "2026-11-29T18:56:00Z"
     },
     {
+      "id": "5273477",
+      "title": "Bolts & Boilers",
+      "url": "https://comix-studios.itch.io/bolts-boilers",
+      "author": "Comix Studios",
+      "author_url": "https://comix-studios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNjAyMTMyLnBuZw==/315x250%23c/BWbkPC.png",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/221706/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "5271929",
       "title": "The Hospital",
       "url": "https://kiwi-game333.itch.io/the-hospital",
@@ -339,9 +547,22 @@
       "image": "https://img.itch.zone/aW1nLzMxNTI1MzY5LnBuZw==/315x250%23c/ccvYT4.png",
       "genre": "Strategy",
       "blurb": "Build your nation. Grow your economy. Command your military. Conquer the world.",
-      "sale_url": "https://itch.io/s/225515/creator-day-black-friday-2026",
-      "expires": "2026-12-10T18:00:00.000Z",
-      "expires_raw": "2026-12-10T18:00:00Z"
+      "sale_url": "https://itch.io/s/225509/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5230647",
+      "title": "99F: Ascent",
+      "url": "https://zenixra.itch.io/99f",
+      "author": "Zenixra",
+      "author_url": "https://zenixra.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMDc3ODg0LnBuZw==/315x250%23c/jZdYfD.png",
+      "genre": "Simulation",
+      "blurb": "Night-shift elevator horror. Listen at the doors, check every card, never light up while it breathes.",
+      "sale_url": "https://itch.io/s/225865/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "5209396",
@@ -370,6 +591,32 @@
       "expires_raw": "2026-12-02T05:30:00Z"
     },
     {
+      "id": "5206087",
+      "title": "Holdnaught",
+      "url": "https://fountainfortress.itch.io/holdnaught",
+      "author": "Fountain Fortress",
+      "author_url": "https://fountainfortress.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTkwODk2LnBuZw==/315x250%23c/DzP1Sy.png",
+      "genre": "Action",
+      "blurb": "An ambitious first-person-bludgeoner and fast-paced survival arena",
+      "sale_url": "https://itch.io/s/222258/holdnaught-black-as-day",
+      "expires": "2026-11-30T18:00:00.000Z",
+      "expires_raw": "2026-11-30T18:00:00Z"
+    },
+    {
+      "id": "5199289",
+      "title": "Castle Clash",
+      "url": "https://comix-studios.itch.io/castle-clash",
+      "author": "Comix Studios",
+      "author_url": "https://comix-studios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTQ2MTgwLmpwZw==/315x250%23c/2%2BKe9L.jpg",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/221706/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "5202274",
       "title": "Nordion Life: a Second Dimension of Science",
       "url": "https://doubleint-software.itch.io/nordion-life-a-second-dimension-of-science",
@@ -379,6 +626,32 @@
       "genre": "Simulation",
       "blurb": "Voxel life sim with 118 elements, flight, horses and a war",
       "sale_url": "https://itch.io/s/222384/nordion-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4679974",
+      "title": "Garage Sale Odyssey",
+      "url": "https://spoonweaver.itch.io/garage-sale-odyssey",
+      "author": "Spoonweaver",
+      "author_url": "https://spoonweaver.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTUwNzQ3LnBuZw==/315x250%23c/oLnko8.png",
+      "genre": "Simulation",
+      "blurb": "A game where you go to garage sales.",
+      "sale_url": "https://itch.io/s/207799/garage-sale",
+      "expires": "2030-10-19T15:11:00.000Z",
+      "expires_raw": "2030-10-19T15:11:00Z"
+    },
+    {
+      "id": "5197456",
+      "title": "Quiz Helper",
+      "url": "https://yan-man.itch.io/quiz-helper",
+      "author": "Yan",
+      "author_url": "https://yan-man.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTM0NjEwLmpwZw==/315x250%23c/kRANEx.jpg",
+      "genre": "Role Playing",
+      "blurb": "A dark academic RPG where passing exams is a matter of life, death, and occult strategy.",
+      "sale_url": "https://itch.io/s/225246/creator-day-black-friday-2026",
       "expires": "2026-12-02T18:00:00.000Z",
       "expires_raw": "2026-12-02T18:00:00Z"
     },
@@ -435,6 +708,84 @@
       "expires_raw": "2026-12-26T23:59:00Z"
     },
     {
+      "id": "5190995",
+      "title": "Black Craft",
+      "url": "https://nicodemusss.itch.io/blackcraft",
+      "author": "Nicodemus",
+      "author_url": "https://nicodemusss.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMjQzNDY3LmdpZg==/315x250%23c/tAMBJD.gif",
+      "genre": "Survival",
+      "blurb": "Become the diora-master of voxels...",
+      "sale_url": "https://itch.io/s/218971/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5129245",
+      "title": "Galaxy Nebula",
+      "url": "https://comix-studios.itch.io/galaxy-nebula",
+      "author": "Comix Studios",
+      "author_url": "https://comix-studios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwNzA1MjUxLnBuZw==/315x250%23c/68WGGe.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/222202/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5184252",
+      "title": "Studializer",
+      "url": "https://matiwato.itch.io/studializer",
+      "author": "Matiwato",
+      "author_url": "https://matiwato.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMDYxNjUyLnBuZw==/315x250%23c/5cxq2D.png",
+      "genre": null,
+      "blurb": "Make music, not excuses. Your own digital music playground.",
+      "sale_url": "https://itch.io/s/224774/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5184238",
+      "title": "ApexTitan",
+      "url": "https://exzodus.itch.io/apextitan",
+      "author": "ExzoDus",
+      "author_url": "https://exzodus.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMDUxNTc3LmpwZw==/315x250%23c/9EW44n.jpg",
+      "genre": "Simulation",
+      "blurb": "APEX TITAN: A biomechanical scorpion hunts, evolves across 100 levels, and battles cyber bosses in a terrarium.",
+      "sale_url": "https://itch.io/s/219027/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5181674",
+      "title": "The Murder Mass",
+      "url": "https://ansomnia.itch.io/the-murder-mass",
+      "author": "ansomnia",
+      "author_url": "https://ansomnia.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMDMyNjcyLnBuZw==/315x250%23c/u5E11l.png",
+      "genre": "Visual Novel",
+      "blurb": "You're an eternity too late...",
+      "sale_url": "https://itch.io/s/225549/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5153399",
+      "title": "Cryptid Catch",
+      "url": "https://comix-studios.itch.io/crypto-catch",
+      "author": "Comix Studios",
+      "author_url": "https://comix-studios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwODQ4MzA5LmpwZw==/315x250%23c/X4TCEg.jpg",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/222202/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "5169400",
       "title": "Family Manners",
       "url": "https://nney.itch.io/family-manners",
@@ -446,6 +797,19 @@
       "sale_url": "https://itch.io/s/216565/family-manners",
       "expires": "2026-11-21T20:05:00.000Z",
       "expires_raw": "2026-11-21T20:05:00Z"
+    },
+    {
+      "id": "3697219",
+      "title": "de citri natura",
+      "url": "https://nalio.itch.io/de-citri-natura",
+      "author": "NALIo",
+      "author_url": "https://nalio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIyMDAyNzMxLnBuZw==/315x250%23c/9BASjh.png",
+      "genre": "Puzzle",
+      "blurb": "Are you made for order?",
+      "sale_url": "https://itch.io/s/219106/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "5135178",
@@ -474,6 +838,19 @@
       "expires_raw": "2026-12-03T04:59:00Z"
     },
     {
+      "id": "5165087",
+      "title": "Lights On My Screen",
+      "url": "https://sleeper-vision.itch.io/lights-on-my-screen",
+      "author": "Sleeper Vision",
+      "author_url": "https://sleeper-vision.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTYyMzk3LnBuZw==/315x250%23c/O8TS3j.png",
+      "genre": "Role Playing",
+      "blurb": "Kid has just ended up inside a video game. Will you help them find a way out?",
+      "sale_url": "https://itch.io/s/225939/creator-day",
+      "expires": "2026-11-27T21:00:00.000Z",
+      "expires_raw": "2026-11-27T21:00:00Z"
+    },
+    {
       "id": "5155120",
       "title": "Dodge and Earn",
       "url": "https://kiwi-game333.itch.io/dodge-and-earn",
@@ -487,6 +864,32 @@
       "expires_raw": "2026-12-10T16:27:00Z"
     },
     {
+      "id": "4842179",
+      "title": "The Last Delivery",
+      "url": "https://nilano.itch.io/the-last-delivery",
+      "author": "Nilano",
+      "author_url": "https://nilano.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwMDMxOTc5LnBuZw==/315x250%23c/uPOQIx.png",
+      "genre": "Adventure",
+      "blurb": "A simple night shift turns into a nightmare",
+      "sale_url": "https://itch.io/s/216172/the-last-delivery",
+      "expires": "2027-01-01T17:17:00.000Z",
+      "expires_raw": "2027-01-01T17:17:00Z"
+    },
+    {
+      "id": "5119440",
+      "title": "Territory Of Sin: The Ritual",
+      "url": "https://stym-darkmemory-studios.itch.io/territory-of-sin-the-ritual",
+      "author": "STYM DarkMemory Studios",
+      "author_url": "https://stym-darkmemory-studios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwNjQ4ODUzLnBuZw==/315x250%23c/PnCWn1.png",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/223312/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "5129443",
       "title": "Sleep in Fear",
       "url": "https://bennyboygames.itch.io/sleep-in-fear",
@@ -498,6 +901,45 @@
       "sale_url": "https://itch.io/s/224040/sleep-in-fear-100-thanksgiving-sale",
       "expires": "2026-11-27T15:43:00.000Z",
       "expires_raw": "2026-11-27T15:43:00Z"
+    },
+    {
+      "id": "5115220",
+      "title": "SpaceF — A Home Among the Stars",
+      "url": "https://jeremias-ji.itch.io/spacef-a-home-among-the-stars",
+      "author": "Jeremias Ji",
+      "author_url": "https://jeremias-ji.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwNjI0NTE5LnBuZw==/315x250%23c/Xt%2BGHX.png",
+      "genre": "Simulation",
+      "blurb": "A cozy farming voyage across five planets. Grow strange crops and meet your crew. Free Windows demo available.",
+      "sale_url": "https://itch.io/s/221414/spacef-black-friday-free-play",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5120104",
+      "title": "Potato Assassin",
+      "url": "https://caseduilla.itch.io/potato-assassin",
+      "author": "caseduilla",
+      "author_url": "https://caseduilla.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwNjUyMTg3LmpwZw==/315x250%23c/vPcGxz.jpg",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/219560/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5108732",
+      "title": "Splat!",
+      "url": "https://comix-studios.itch.io/splat",
+      "author": "Comix Studios",
+      "author_url": "https://comix-studios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwNTg0MTM0LnBuZw==/315x250%23c/Ctkgre.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/222202/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "5102250",
@@ -573,9 +1015,22 @@
       "image": "https://img.itch.zone/aW1nLzMwODI3Mjg5LnBuZw==/315x250%23c/LBdQCG.png",
       "genre": "Adventure",
       "blurb": "A short PSX horror game about your acquired dream home and the nightmare it came with.",
-      "sale_url": "https://itch.io/s/182463/100-off",
-      "expires": "2027-12-19T03:47:00.000Z",
-      "expires_raw": "2027-12-19T03:47:00Z"
+      "sale_url": "https://itch.io/s/224558/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5081247",
+      "title": "PECCATOR",
+      "url": "https://b0nifacy.itch.io/peccator",
+      "author": "B0nifacy",
+      "author_url": "https://b0nifacy.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwNTMxMDI3LnBuZw==/315x250%23c/%2Fj0lnY.png",
+      "genre": "Survival",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/220089/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "5081731",
@@ -612,9 +1067,35 @@
       "image": "https://img.itch.zone/aW1nLzMwMTg5MTcyLnBuZw==/315x250%23c/28Vo%2Fe.png",
       "genre": "Strategy",
       "blurb": null,
-      "sale_url": "https://itch.io/s/225515/creator-day-black-friday-2026",
-      "expires": "2026-12-10T18:00:00.000Z",
-      "expires_raw": "2026-12-10T18:00:00Z"
+      "sale_url": "https://itch.io/s/225509/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5008431",
+      "title": "Dual Character Syndrome",
+      "url": "https://c-mastered-studio.itch.io/dual-character-syndrome",
+      "author": "C-mastered studio",
+      "author_url": "https://c-mastered-studio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5OTgzNzMzLnBuZw==/315x250%23c/dsztZY.png",
+      "genre": "Simulation",
+      "blurb": "Clock in. Work. Get Home.",
+      "sale_url": "https://itch.io/s/218690/the-black-friday-2026-offer",
+      "expires": "2026-11-28T08:00:00.000Z",
+      "expires_raw": "2026-11-28T08:00:00Z"
+    },
+    {
+      "id": "5005356",
+      "title": "Rhythm Arena",
+      "url": "https://dania-play.itch.io/rhythm-arena",
+      "author": "Dania_Play",
+      "author_url": "https://dania-play.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5OTY1Mzg0LnBuZw==/315x250%23c/TaDB5y.png",
+      "genre": "Rhythm",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/218766/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "5003407",
@@ -628,6 +1109,58 @@
       "sale_url": "https://itch.io/s/201083/100-off",
       "expires": "2026-12-14T18:50:00.000Z",
       "expires_raw": "2026-12-14T18:50:00Z"
+    },
+    {
+      "id": "4965575",
+      "title": "Snakehead",
+      "url": "https://woodchair.itch.io/snakehead",
+      "author": "woodchair",
+      "author_url": "https://woodchair.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwMTk2NzQxLmdpZg==/315x250%23c/b4FFdr.gif",
+      "genre": "Adventure",
+      "blurb": "we come in peace.",
+      "sale_url": "https://itch.io/s/224071/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3097525",
+      "title": "Courting Death: solstice",
+      "url": "https://jennahveer.itch.io/solstice",
+      "author": "jennahveer",
+      "author_url": "https://jennahveer.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzMTM2Nzk1LmpwZw==/315x250%23c/gsNwXr.jpg",
+      "genre": "Visual Novel",
+      "blurb": "A Slice of Life (CD Side Story)",
+      "sale_url": "https://itch.io/s/218598/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4927425",
+      "title": "UNARRİVED",
+      "url": "https://aliagayev.itch.io/unarrived",
+      "author": "AliAgayev",
+      "author_url": "https://aliagayev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5NDY4Mzc4LnBuZw==/315x250%23c/pOmvwb.png",
+      "genre": "Adventure",
+      "blurb": "Try to arrive … if that’s even possible.",
+      "sale_url": "https://itch.io/s/222680/creator-day-black-friday-2026",
+      "expires": "2026-12-31T18:00:00.000Z",
+      "expires_raw": "2026-12-31T18:00:00Z"
+    },
+    {
+      "id": "4739386",
+      "title": "Shadows We Share - Unaware",
+      "url": "https://bennyboygames.itch.io/unaware",
+      "author": "BennyBoy",
+      "author_url": "https://bennyboygames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNDM3NzM3LmdpZg==/315x250%23c/7iTdek.gif",
+      "genre": "Adventure",
+      "blurb": "A psychological narrative horror game",
+      "sale_url": "https://itch.io/s/225514/shadows-we-share-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "4973081",
@@ -654,6 +1187,58 @@
       "sale_url": "https://itch.io/s/222032/furrymoji-thanksgiving-celebration-100-off",
       "expires": "2026-12-01T07:59:00.000Z",
       "expires_raw": "2026-12-01T07:59:00Z"
+    },
+    {
+      "id": "4945036",
+      "title": "Where the world ends?",
+      "url": "https://c-mastered-studio.itch.io/where-the-world-ends",
+      "author": "C-mastered studio",
+      "author_url": "https://c-mastered-studio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5NTgyMjQ0LnBuZw==/315x250%23c/zeph3f.png",
+      "genre": "Interactive Fiction",
+      "blurb": "Dehumanization Program",
+      "sale_url": "https://itch.io/s/218690/the-black-friday-2026-offer",
+      "expires": "2026-11-28T08:00:00.000Z",
+      "expires_raw": "2026-11-28T08:00:00Z"
+    },
+    {
+      "id": "4908171",
+      "title": "Space Glacier 1+2",
+      "url": "https://comix-studios.itch.io/space-glacier-1-2",
+      "author": "Comix Studios",
+      "author_url": "https://comix-studios.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5MzQzMjQ3LnBuZw==/315x250%23c/hGubjB.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/222202/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4933534",
+      "title": "Beyond Leskov",
+      "url": "https://s0per-neko7.itch.io/beyond-leskov",
+      "author": "s0per_neko7",
+      "author_url": "https://s0per-neko7.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5NTMyNDc0LnBuZw==/315x250%23c/4otUaw.png",
+      "genre": "Adventure",
+      "blurb": "Live an ordinary life, or choose your own destiny",
+      "sale_url": "https://itch.io/s/226027/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4569171",
+      "title": "Beefy Boi Demo",
+      "url": "https://angrytoastergames.itch.io/beefy-boi",
+      "author": "Angry Toaster Games",
+      "author_url": "https://angrytoastergames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5NDk5NzIzLnBuZw==/315x250%23c/4TYv8I.png",
+      "genre": "Simulation",
+      "blurb": "COLLECT THE INGREDIENTS, ASSEMBLE THE BURGER, AND PASS IT OUT TO CUSTOMERS.",
+      "sale_url": "https://itch.io/s/199104/beefy-boi-demo",
+      "expires": "2031-10-24T14:42:00.000Z",
+      "expires_raw": "2031-10-24T14:42:00Z"
     },
     {
       "id": "4914631",
@@ -708,6 +1293,19 @@
       "expires_raw": "2026-12-12T15:54:00Z"
     },
     {
+      "id": "4583861",
+      "title": "PER!SHLESS",
+      "url": "https://rozmetal.itch.io/perishless",
+      "author": "RozMETAL",
+      "author_url": "https://rozmetal.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3MzA5NTE3LnBuZw==/315x250%23c/4cMZJI.png",
+      "genre": "Puzzle",
+      "blurb": "Top-down mystery exploration game",
+      "sale_url": "https://itch.io/s/222548/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "4846083",
       "title": "The Last Laugh",
       "url": "https://one-deep.itch.io/the-last-laugh",
@@ -747,6 +1345,84 @@
       "expires_raw": "2026-12-24T22:43:00Z"
     },
     {
+      "id": "4779225",
+      "title": "Borrowed Face",
+      "url": "https://m1mo0.itch.io/borrowed-face",
+      "author": "M1mo0",
+      "author_url": "https://m1mo0.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4ODkyMjg0LnBuZw==/315x250%23c/386Pk3.png",
+      "genre": "Adventure",
+      "blurb": "Retrieve the files; It's that simple",
+      "sale_url": "https://itch.io/s/224559/help-me-bring-my-next-horror-game-to-steam",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4070742",
+      "title": "One Bad Hot Dog",
+      "url": "https://figerox.itch.io/one-bad-hot-dog",
+      "author": "Figerox Studios",
+      "author_url": "https://figerox.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI0MjYzNjk5LnBuZw==/315x250%23c/PRWwV5.png",
+      "genre": "Survival",
+      "blurb": "I Hope You Are Hungry.",
+      "sale_url": "https://itch.io/s/226019/black-friday-sale",
+      "expires": "2026-11-29T13:29:00.000Z",
+      "expires_raw": "2026-11-29T13:29:00Z"
+    },
+    {
+      "id": "4792265",
+      "title": "A Backrooms Escape",
+      "url": "https://rabbit3d-studio-games.itch.io/a-backrooms-escape",
+      "author": "Rabbit3d Studios",
+      "author_url": "https://rabbit3d-studio-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMwOTkwMTgyLnBuZw==/315x250%23c/mqaI4Z.png",
+      "genre": "Survival",
+      "blurb": "Survival , first-person,  psychological , backrooms",
+      "sale_url": "https://itch.io/s/222448/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4745655",
+      "title": "They Live",
+      "url": "https://pamukdevstuffs.itch.io/they-live",
+      "author": "PamukDevStuff",
+      "author_url": "https://pamukdevstuffs.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5MDA2NDQxLmdpZg==/315x250%23c/%2FrpMjV.gif",
+      "genre": "Survival",
+      "blurb": "Rogue Lite Horror",
+      "sale_url": "https://itch.io/s/223192/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4531880",
+      "title": "Not Like Them — A PSX Horror Game[Chapter 2]",
+      "url": "https://xx-vipe475.itch.io/not-like-them-a-psx-horror-gamechapter-2",
+      "author": "Xx_Vipe",
+      "author_url": "https://xx-vipe475.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3MDU3NzU5LnBuZw==/315x250%23c/KG3EtB.png",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/223422/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4628200",
+      "title": "Rent Due: payment In Blood",
+      "url": "https://xx-vipe475.itch.io/rent-due",
+      "author": "Xx_Vipe",
+      "author_url": "https://xx-vipe475.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4MjUwNTYwLnBuZw==/315x250%23c/ygqxhZ.png",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/223422/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "4697083",
       "title": "Rotten",
       "url": "https://redwolfstudios-deg.itch.io/rotten",
@@ -755,9 +1431,61 @@
       "image": "https://img.itch.zone/aW1nLzI4MTE1MTY0LnBuZw==/315x250%23c/8NTp7o.png",
       "genre": "Adventure",
       "blurb": "A short PSX game about a man and his dreadful secret that was meant to be buried",
-      "sale_url": "https://itch.io/s/178951/100-off-free",
-      "expires": "2027-01-18T16:48:00.000Z",
-      "expires_raw": "2027-01-18T16:48:00Z"
+      "sale_url": "https://itch.io/s/218722/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4733738",
+      "title": "Skeletos game",
+      "url": "https://vasilis-vtr.itch.io/skeletos",
+      "author": "Vasilis vtr",
+      "author_url": "https://vasilis-vtr.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4MjIxMzM1LmpwZw==/315x250%23c/%2FBzs8V.jpg",
+      "genre": "Action",
+      "blurb": "a tale in the fantasy world with many risk and action ,third person action adventure",
+      "sale_url": "https://itch.io/s/223481/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4742569",
+      "title": "Labyrinth",
+      "url": "https://vasilis-vtr.itch.io/labyrinth1",
+      "author": "Vasilis vtr",
+      "author_url": "https://vasilis-vtr.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4Mjg0MjE3LmpwZw==/315x250%23c/BPn6PX.jpg",
+      "genre": "Adventure",
+      "blurb": "3d action adventure",
+      "sale_url": "https://itch.io/s/223481/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3748143",
+      "title": "The Lost Apartment",
+      "url": "https://sdevscares.itch.io/the-lost-apartment",
+      "author": "SDevScares",
+      "author_url": "https://sdevscares.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIyMzEyMTMwLnBuZw==/315x250%23c/Xum8mF.png",
+      "genre": "Adventure",
+      "blurb": "Photo-Realistic Bodycam Horror Game In An Apartment.",
+      "sale_url": "https://itch.io/s/221864/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4733756",
+      "title": "labyrinth2 game",
+      "url": "https://vasilis-vtr.itch.io/labyrinth2game",
+      "author": "Vasilis vtr",
+      "author_url": "https://vasilis-vtr.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4MjIwODE3LmpwZw==/315x250%23c/qWZXod.jpg",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/223481/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "4493023",
@@ -773,6 +1501,32 @@
       "expires_raw": "2026-12-01T16:20:00Z"
     },
     {
+      "id": "4698507",
+      "title": "Eternity Defenders",
+      "url": "https://kakaritogames.itch.io/eternity-defenders",
+      "author": "Pixxele",
+      "author_url": "https://kakaritogames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4MDY2NzE3LmdpZg==/315x250%23c/tLNOnH.gif",
+      "genre": "Action",
+      "blurb": "Defend the Ocean in this endless Tower Defense game.",
+      "sale_url": "https://itch.io/s/223338/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3995786",
+      "title": "Hellbound 2: Ghost of El Diablo",
+      "url": "https://sodafrizz-og.itch.io/hellbound-ghost-of-el-diablo",
+      "author": "SodaFrizz",
+      "author_url": "https://sodafrizz-og.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5NTM1MjA2LnBuZw==/315x250%23c/dp%2BmB%2B.png",
+      "genre": "Visual Novel",
+      "blurb": "Two hellbound sisters. One hell of a journey!",
+      "sale_url": "https://itch.io/s/219884/hellbound-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "4686020",
       "title": "Immaginification",
       "url": "https://theeagle-games.itch.io/immaginification",
@@ -786,6 +1540,19 @@
       "expires_raw": "2026-12-23T18:00:00Z"
     },
     {
+      "id": "4571449",
+      "title": "Reap Radio",
+      "url": "https://gothictaco.itch.io/reap-radio",
+      "author": "GothicTaco",
+      "author_url": "https://gothictaco.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMDY3MDc2LnBuZw==/315x250%23c/mw8cVT.png",
+      "genre": "Survival",
+      "blurb": "If the radio plays, hide.",
+      "sale_url": "https://itch.io/s/218993/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "4680992",
       "title": "Rotate 2: Early Access",
       "url": "https://kodanjf1313.itch.io/rotate-2-e",
@@ -797,6 +1564,45 @@
       "sale_url": "https://itch.io/s/216776/rotate-2",
       "expires": "2026-11-30T04:01:00.000Z",
       "expires_raw": "2026-11-30T04:01:00Z"
+    },
+    {
+      "id": "4673812",
+      "title": "Garden Bugs TD",
+      "url": "https://mando37.itch.io/garden-bugs",
+      "author": "Mando37",
+      "author_url": "https://mando37.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3ODUyMzc4LnBuZw==/315x250%23c/QDjCB%2F.png",
+      "genre": "Strategy",
+      "blurb": "Simple Plant & Bug Related Tower Defense",
+      "sale_url": "https://itch.io/s/222231/mando37-black-friday-sale-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4640108",
+      "title": "Fragments of Fear: The Late Shift",
+      "url": "https://altf4-games.itch.io/fragments-of-fear-the-late-shift",
+      "author": "AltF4 Games",
+      "author_url": "https://altf4-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3NjUxMjM1LnBuZw==/315x250%23c/N6NC9h.png",
+      "genre": "Survival",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/223555/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4644348",
+      "title": "Tea Party For 4",
+      "url": "https://evekehat.itch.io/tea-party-for-4",
+      "author": "EveKehat",
+      "author_url": "https://evekehat.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4NTc0ODQ0LmdpZg==/315x250%23c/4bvlNB.gif",
+      "genre": "Puzzle",
+      "blurb": "Cozy Horror Anomaly Puzzle Game.",
+      "sale_url": "https://itch.io/s/224909/tea-party-for-4-creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "2565179",
@@ -825,6 +1631,32 @@
       "expires_raw": "2026-12-01T00:29:00Z"
     },
     {
+      "id": "4565310",
+      "title": "Last Friday",
+      "url": "https://reganc.itch.io/last-friday",
+      "author": "ReganC",
+      "author_url": "https://reganc.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMjU4MDUxLmdpZg==/315x250%23c/PwGKuS.gif",
+      "genre": "Simulation",
+      "blurb": "You entered the simulation. It didn’t let you leave.",
+      "sale_url": "https://itch.io/s/219363/black-last-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4554926",
+      "title": "kaboom tactical: strike ops PC FPS shooter",
+      "url": "https://architectofnexus.itch.io/kaboom-tactical",
+      "author": "Architect of nexus",
+      "author_url": "https://architectofnexus.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMjA2NDQwLmpwZw==/315x250%23c/Nu0iDl.jpg",
+      "genre": "Shooter",
+      "blurb": "Offline 3D tactical FPS 60fps for low end devices. A sci-fi action shooter",
+      "sale_url": "https://itch.io/s/222368/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "4525257",
       "title": "Buzzed & Brainless",
       "url": "https://thelonegamedev.itch.io/alchol-is-free",
@@ -838,6 +1670,71 @@
       "expires_raw": "2026-12-24T22:43:00Z"
     },
     {
+      "id": "4519683",
+      "title": "SelfMire",
+      "url": "https://ygtg.itch.io/selfmire",
+      "author": "YGT",
+      "author_url": "https://ygtg.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3NDM2NTIwLnBuZw==/315x250%23c/WEbquf.png",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/219992/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4352757",
+      "title": "Bob the Killer 2",
+      "url": "https://sanersstudio.itch.io/bobthekiller2-classic",
+      "author": "Saners Studio™",
+      "author_url": "https://sanersstudio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2Nzg3ODEyLnBuZw==/315x250%23c/QS%2F%2FBv.png",
+      "genre": "Survival",
+      "blurb": "You are stuck in a factory and need to find keys to escape but there is someone else stuck there...",
+      "sale_url": "https://itch.io/s/219490/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4465335",
+      "title": "mushy's big adventure",
+      "url": "https://gusguidancegames.itch.io/mushys-big-adventure",
+      "author": "gusguidancegames",
+      "author_url": "https://gusguidancegames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2NjIwMzU0LnBuZw==/315x250%23c/z0sAyf.png",
+      "genre": "Platformer",
+      "blurb": "a big adventure, for a small mushroom",
+      "sale_url": "https://itch.io/s/219637/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4359302",
+      "title": "Not Like Them — A PSX Horror Game [Chapter 1]",
+      "url": "https://xx-vipe475.itch.io/not-like-them",
+      "author": "Xx_Vipe",
+      "author_url": "https://xx-vipe475.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2NzE4MjA1LnBuZw==/315x250%23c/fOYp3r.png",
+      "genre": "Adventure",
+      "blurb": "He came home. They were already there",
+      "sale_url": "https://itch.io/s/223422/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4408793",
+      "title": "CardBoard Quest",
+      "url": "https://shortcircuitproto.itch.io/cardboard-quest",
+      "author": "ShortCirctuit",
+      "author_url": "https://shortcircuitproto.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxNzM5MzcyLnBuZw==/315x250%23c/YiHjfC.png",
+      "genre": null,
+      "blurb": null,
+      "sale_url": "https://itch.io/s/220071/black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "4417345",
       "title": "Deluge: Sermon for the Dead — Deluxe Edition",
       "url": "https://socah.itch.io/deluge-sermon-for-the-dead-deluxe",
@@ -849,6 +1746,19 @@
       "sale_url": "https://itch.io/s/223175/black-friday-sale",
       "expires": "2026-11-28T04:22:00.000Z",
       "expires_raw": "2026-11-28T04:22:00Z"
+    },
+    {
+      "id": "4425433",
+      "title": "Haunt Watch",
+      "url": "https://blackdevgames.itch.io/haunt-watch",
+      "author": "BLACKDEV GAMES",
+      "author_url": "https://blackdevgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2MzY5Njc2LnBuZw==/315x250%23c/hb7k0D.png",
+      "genre": null,
+      "blurb": null,
+      "sale_url": "https://itch.io/s/195389/gift-key-for-haunt-watch",
+      "expires": "2031-12-06T18:05:00.000Z",
+      "expires_raw": "2031-12-06T18:05:00Z"
     },
     {
       "id": "4407428",
@@ -890,6 +1800,45 @@
       "expires_raw": "2026-12-03T05:59:00Z"
     },
     {
+      "id": "4392729",
+      "title": "Your City",
+      "url": "https://blackdevgames.itch.io/your-city",
+      "author": "BLACKDEV GAMES",
+      "author_url": "https://blackdevgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2MjE0OTkwLnBuZw==/315x250%23c/KIkkva.png",
+      "genre": "Simulation",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/221448/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3863798",
+      "title": "The Hermitage",
+      "url": "https://onetoonegames.itch.io/the-hermitage",
+      "author": "onetoonegames",
+      "author_url": "https://onetoonegames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzMDUyMzEwLmpwZw==/315x250%23c/ya4mH5.jpg",
+      "genre": "Adventure",
+      "blurb": "A short dark adventure game about a hermitage beneath an abandoned hospital. Created in 5 days!",
+      "sale_url": "https://itch.io/s/218852/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3015615",
+      "title": "Neon Domes",
+      "url": "https://robertdolega.itch.io/neon-domes",
+      "author": "robertdolega",
+      "author_url": "https://robertdolega.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE4MDkxNDk1LnBuZw==/315x250%23c/xjp5AO.png",
+      "genre": "Action",
+      "blurb": "Keep shooting, keep dodging. ENDLESSLY!",
+      "sale_url": "https://itch.io/s/226065/big-sale",
+      "expires": "2026-11-30T13:59:00.000Z",
+      "expires_raw": "2026-11-30T13:59:00Z"
+    },
+    {
       "id": "4336257",
       "title": "Porky's Bloodbath",
       "url": "https://nilefox717.itch.io/porkys-bloodbath",
@@ -898,9 +1847,9 @@
       "image": "https://img.itch.zone/aW1nLzI1OTk5NjczLnBuZw==/315x250%23c/O%2B23ZG.png",
       "genre": "Adventure",
       "blurb": "Short PSX comedy horror about a pig-man let loose!",
-      "sale_url": "https://itch.io/s/182463/100-off",
-      "expires": "2027-12-19T03:47:00.000Z",
-      "expires_raw": "2027-12-19T03:47:00Z"
+      "sale_url": "https://itch.io/s/224558/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "4347058",
@@ -914,6 +1863,32 @@
       "sale_url": "https://itch.io/s/221012/creator-day-black-friday-2026",
       "expires": "2026-11-27T15:00:00.000Z",
       "expires_raw": "2026-11-27T15:00:00Z"
+    },
+    {
+      "id": "4331491",
+      "title": "CULT OF FLIES",
+      "url": "https://alexander-wiseman.itch.io/cult-of-flies",
+      "author": "ALEXANDER",
+      "author_url": "https://alexander-wiseman.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI2MjE2MDcxLnBuZw==/315x250%23c/jMPyFb.png",
+      "genre": "Adventure",
+      "blurb": "After the death of your grandmother, strange events occur and unravel the secret of her suicide.",
+      "sale_url": "https://itch.io/s/219737/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3466380",
+      "title": "Hellbound: Reign of El Diablo",
+      "url": "https://sodafrizz-og.itch.io/hellbound",
+      "author": "SodaFrizz",
+      "author_url": "https://sodafrizz-og.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3ODEzMTIwLnBuZw==/315x250%23c/6N6EHO.png",
+      "genre": "Visual Novel",
+      "blurb": "Zyne was a mob boss. Now he’s hellbound.",
+      "sale_url": "https://itch.io/s/219884/hellbound-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "4323765",
@@ -981,6 +1956,19 @@
       "expires_raw": "2026-12-24T22:43:00Z"
     },
     {
+      "id": "3738075",
+      "title": "Whispers of who I was",
+      "url": "https://m1mo0.itch.io/whispers-of-who-i-was",
+      "author": "M1mo0",
+      "author_url": "https://m1mo0.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIyMzI1Njg0LnBuZw==/315x250%23c/k4vo4c.png",
+      "genre": "Adventure",
+      "blurb": "Find elliot and uncover the truth",
+      "sale_url": "https://itch.io/s/224559/help-me-bring-my-next-horror-game-to-steam",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "3695137",
       "title": "AeroDream (Early Access)",
       "url": "https://cg-games0.itch.io/aerodream",
@@ -1002,9 +1990,74 @@
       "image": "https://img.itch.zone/aW1nLzI1MTc1OTQzLnBuZw==/315x250%23c/BjZxSK.png",
       "genre": "Adventure",
       "blurb": "A silent night. A blood-red Christmas!",
-      "sale_url": "https://itch.io/s/178951/100-off-free",
-      "expires": "2027-01-18T16:48:00.000Z",
-      "expires_raw": "2027-01-18T16:48:00Z"
+      "sale_url": "https://itch.io/s/218722/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4099523",
+      "title": "Ba Bị",
+      "url": "https://babi-electric.itch.io/ba-bi",
+      "author": "[BλBỊ]",
+      "author_url": "https://babi-electric.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI0NDcxNDI1LnBuZw==/315x250%23c/vmeoud.png",
+      "genre": "Strategy",
+      "blurb": "The Ba Bị's game is a time limit challenge in the style of a haunted early 2000s educational software.",
+      "sale_url": "https://itch.io/s/225696/ba-b-igvna2026",
+      "expires": "2026-12-04T17:00:00.000Z",
+      "expires_raw": "2026-12-04T17:00:00Z"
+    },
+    {
+      "id": "4072789",
+      "title": "Pirate Invaders",
+      "url": "https://thewgreen.itch.io/pirate-invaders",
+      "author": "The Voices Games",
+      "author_url": "https://thewgreen.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI0Mjc2Njc0LnBuZw==/315x250%23c/d4pBPD.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/218820/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "4003439",
+      "title": "Game Pack 4 in 1",
+      "url": "https://nan618.itch.io/4-in-1",
+      "author": "nan618",
+      "author_url": "https://nan618.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI0MDM3MTU5LnBuZw==/315x250%23c/56N1i%2B.png",
+      "genre": "Action",
+      "blurb": "4 pico-8 games",
+      "sale_url": "https://itch.io/s/222754/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3967501",
+      "title": "Prisma Road",
+      "url": "https://anriot.itch.io/prisma-road",
+      "author": "Anriot",
+      "author_url": "https://anriot.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzNjU4ODMxLnBuZw==/315x250%23c/Wq%2F6nF.png",
+      "genre": "Platformer",
+      "blurb": "A 2d platformer that takes place on a land full of history and forgotten treasures",
+      "sale_url": "https://itch.io/s/220279/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3846548",
+      "title": "Something Around",
+      "url": "https://pumpkingkitty.itch.io/something-around",
+      "author": "pumpkingkitty",
+      "author_url": "https://pumpkingkitty.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI4NTYxNjU3LnBuZw==/315x250%23c/1%2F4DeW.png",
+      "genre": null,
+      "blurb": "A Short Horror Experience with PSX and VHS Style",
+      "sale_url": "https://itch.io/s/161883/something-around-for-free",
+      "expires": "2030-10-15T15:19:00.000Z",
+      "expires_raw": "2030-10-15T15:19:00Z"
     },
     {
       "id": "3990679",
@@ -1072,6 +2125,58 @@
       "expires_raw": "2026-12-24T22:43:00Z"
     },
     {
+      "id": "3916760",
+      "title": "Bytak",
+      "url": "https://kirikkola.itch.io/bytak",
+      "author": "Kirikkola",
+      "author_url": "https://kirikkola.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzMzkxNjIxLmpwZw==/315x250%23c/muZoHN.jpg",
+      "genre": "Adventure",
+      "blurb": "Bytak - first person horror game where the main character will have the scariest night ever.",
+      "sale_url": "https://itch.io/s/220032/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3392246",
+      "title": "Penance",
+      "url": "https://pehriska.itch.io/penance",
+      "author": "Pehriska",
+      "author_url": "https://pehriska.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxODA2MjQxLnBuZw==/315x250%23c/J9mlwP.png",
+      "genre": "Adventure",
+      "blurb": "Goodrich Castle, England, 1221AD",
+      "sale_url": "https://itch.io/s/225733/penance-100-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3789917",
+      "title": "Liho",
+      "url": "https://merai.itch.io/liho",
+      "author": "merai",
+      "author_url": "https://merai.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI0NzE5NTc1LmdpZg==/315x250%23c/gtPhq2.gif",
+      "genre": "Survival",
+      "blurb": "City Emergency Broadcast: Try to survive until morning",
+      "sale_url": "https://itch.io/s/225899/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3847242",
+      "title": "The Last Crumb",
+      "url": "https://wazowski8292.itch.io/the-last-crumb",
+      "author": "Wazowski8292",
+      "author_url": "https://wazowski8292.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIyOTUwMjYyLnBuZw==/315x250%23c/U6yMUW.png",
+      "genre": "Strategy",
+      "blurb": "It is a trategy game where you have to plant to gain coins to defened the giant bisquit",
+      "sale_url": "https://itch.io/s/224210/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "3841048",
       "title": "Circus Honōris",
       "url": "https://thelonegamedev.itch.io/circus-honris",
@@ -1098,6 +2203,19 @@
       "expires_raw": "2026-11-30T20:07:00Z"
     },
     {
+      "id": "3220179",
+      "title": "Bonerunner",
+      "url": "https://khaled-khader.itch.io/bonerunner",
+      "author": "Khaled",
+      "author_url": "https://khaled-khader.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzMDYzNDMzLnBuZw==/315x250%23c/tC%2B7b%2F.png",
+      "genre": "Platformer",
+      "blurb": "A 2d platformer where you are a brave skeleton trying to find your way out of the dark black hole you fell into.",
+      "sale_url": "https://itch.io/s/215943/100-off-all-games-enjoy-",
+      "expires": "2027-01-31T21:00:00.000Z",
+      "expires_raw": "2027-01-31T21:00:00Z"
+    },
+    {
       "id": "3765569",
       "title": "Burnt",
       "url": "https://sleepycatstudio.itch.io/burnt",
@@ -1111,6 +2229,32 @@
       "expires_raw": "2026-11-18T05:20:00Z"
     },
     {
+      "id": "3765475",
+      "title": "the xythorite protocol dev mode",
+      "url": "https://nyxline-interactive.itch.io/test",
+      "author": "Nyxline Interactive",
+      "author_url": "https://nyxline-interactive.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIyNDEzMDAxLnBuZw==/315x250%23c/W7QZJN.png",
+      "genre": "Action",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/221112/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "2090471",
+      "title": "Courting Death",
+      "url": "https://jennahveer.itch.io/courting-death",
+      "author": "jennahveer",
+      "author_url": "https://jennahveer.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzMDc0MDE2LmpwZw==/315x250%23c/Co0cMq.jpg",
+      "genre": "Visual Novel",
+      "blurb": "Dating while Doomed by the Narrative",
+      "sale_url": "https://itch.io/s/218598/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "3692563",
       "title": "Teddy Tragedy",
       "url": "https://redwolfstudios-deg.itch.io/teddy-tragedy",
@@ -1119,9 +2263,35 @@
       "image": "https://img.itch.zone/aW1nLzIxOTk5MDI5LnBuZw==/315x250%23c/61c8La.png",
       "genre": "Survival",
       "blurb": "You came to deliver dinner...but something else is hungry...for you",
-      "sale_url": "https://itch.io/s/178951/100-off-free",
-      "expires": "2027-01-18T16:48:00.000Z",
-      "expires_raw": "2027-01-18T16:48:00Z"
+      "sale_url": "https://itch.io/s/218722/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3688330",
+      "title": "TAUPITO",
+      "url": "https://umanlutin.itch.io/taupito",
+      "author": "UManLutin",
+      "author_url": "https://umanlutin.itch.io/",
+      "image": null,
+      "genre": "Adventure",
+      "blurb": "Une aventure Taupesque",
+      "sale_url": "https://itch.io/s/219610/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3300092",
+      "title": "Phantomware 0",
+      "url": "https://eiryudev.itch.io/phantomware",
+      "author": "Eiryu",
+      "author_url": "https://eiryudev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE5ODgwODU3LmdpZg==/315x250%23c/TRv94H.gif",
+      "genre": "Adventure",
+      "blurb": "Phantomware is a psycho-thriller where a mysterious virus traps you in a digital nightmare that bleeds into reality.",
+      "sale_url": "https://itch.io/s/153767/lumimoth-itchio-sale",
+      "expires": "2026-11-27T18:29:00.000Z",
+      "expires_raw": "2026-11-27T18:29:00Z"
     },
     {
       "id": "3683740",
@@ -1163,6 +2333,19 @@
       "expires_raw": "2026-12-24T22:43:00Z"
     },
     {
+      "id": "3575068",
+      "title": "Quantum Enigma",
+      "url": "https://wazowski8292.itch.io/quantum-enigma",
+      "author": "Wazowski8292",
+      "author_url": "https://wazowski8292.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIxNzc5NDc4LnBuZw==/315x250%23c/jXErFp.png",
+      "genre": "Puzzle",
+      "blurb": "Dive into this amazing world to learn how to become the master of time.",
+      "sale_url": "https://itch.io/s/224210/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "3527740",
       "title": "The Library : Horror Game",
       "url": "https://thelonegamedev.itch.io/the-library-horror-game",
@@ -1174,6 +2357,32 @@
       "sale_url": "https://itch.io/s/179994/horror-game-bundle",
       "expires": "2026-12-24T22:43:00.000Z",
       "expires_raw": "2026-12-24T22:43:00Z"
+    },
+    {
+      "id": "2141393",
+      "title": "Bloodmoon Forest",
+      "url": "https://jpey.itch.io/bloodmoon-forest",
+      "author": "Jpey",
+      "author_url": "https://jpey.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzEzMzc3ODEwLnBuZw==/315x250%23c/ElT0%2FV.png",
+      "genre": "Survival",
+      "blurb": "Find your friends in a forsaken forest...",
+      "sale_url": "https://itch.io/s/223202/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3478784",
+      "title": "Road of Despair",
+      "url": "https://blackdevgames.itch.io/road-of-despair",
+      "author": "BLACKDEV GAMES",
+      "author_url": "https://blackdevgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIwNzU0MjI5LnBuZw==/315x250%23c/Ac74Oh.png",
+      "genre": null,
+      "blurb": null,
+      "sale_url": "https://itch.io/s/221448/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "3440115",
@@ -1202,6 +2411,19 @@
       "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
+      "id": "3412541",
+      "title": "Anime Action RPG — Project: Sky Down",
+      "url": "https://xxrhodesxx.itch.io/project-sky-down",
+      "author": "xXrhodesXx",
+      "author_url": "https://xxrhodesxx.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5MjI4NTc1LnBuZw==/315x250%23c/MBGJKi.png",
+      "genre": "Action",
+      "blurb": "In this Action Anime RPG, you'll be roleplaying as the victim",
+      "sale_url": "https://itch.io/s/221962/anime-action-rpg-creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "3405495",
       "title": "Liminal Lane",
       "url": "https://ravenhome.itch.io/liminal-lane",
@@ -1213,6 +2435,19 @@
       "sale_url": "https://itch.io/s/215358/november-sale",
       "expires": "2026-11-30T12:56:00.000Z",
       "expires_raw": "2026-11-30T12:56:00Z"
+    },
+    {
+      "id": "3367303",
+      "title": "Stay Warm, Stay Alive",
+      "url": "https://wiedzmiz.itch.io/staywarm-stayalive",
+      "author": "wiedzmiz",
+      "author_url": "https://wiedzmiz.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIwMTU4NjcwLnBuZw==/315x250%23c/4jMKW7.png",
+      "genre": "Adventure",
+      "blurb": "Stay Warm, Stay Put, Stay Alive.",
+      "sale_url": "https://itch.io/s/219341/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "3373643",
@@ -1228,6 +2463,19 @@
       "expires_raw": "2026-11-28T02:59:00Z"
     },
     {
+      "id": "3338340",
+      "title": "My Cute Beings",
+      "url": "https://robertdolega.itch.io/my-cute-beings",
+      "author": "robertdolega",
+      "author_url": "https://robertdolega.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI1NjU5NjQ0LnBuZw==/315x250%23c/6bjES1.png",
+      "genre": null,
+      "blurb": "Take care of cute creatures.",
+      "sale_url": "https://itch.io/s/226065/big-sale",
+      "expires": "2026-11-30T13:59:00.000Z",
+      "expires_raw": "2026-11-30T13:59:00Z"
+    },
+    {
       "id": "3301246",
       "title": "Concrete Veil",
       "url": "https://p3trol.itch.io/concrete-veil",
@@ -1236,9 +2484,74 @@
       "image": "https://img.itch.zone/aW1nLzIxNTcwODMwLnBuZw==/315x250%23c/iRjsm1.png",
       "genre": "Shooter",
       "blurb": "Fast paced Half-Like FPS",
-      "sale_url": "https://itch.io/s/216377/polyphonic-petrol-sale",
-      "expires": "2026-12-09T00:52:00.000Z",
-      "expires_raw": "2026-12-09T00:52:00Z"
+      "sale_url": "https://itch.io/s/218822/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3266756",
+      "title": "Winter ebay post",
+      "url": "https://blackdevgames.itch.io/winter-ebay-post",
+      "author": "BLACKDEV GAMES",
+      "author_url": "https://blackdevgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI0Mzc1NTM4LnBuZw==/315x250%23c/xmifJg.png",
+      "genre": "Rhythm",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/221448/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3176805",
+      "title": "Courting Death: equinox",
+      "url": "https://jennahveer.itch.io/equinox",
+      "author": "jennahveer",
+      "author_url": "https://jennahveer.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzMTM2ODExLmpwZw==/315x250%23c/s4s2%2BI.jpg",
+      "genre": "Visual Novel",
+      "blurb": "A Slice of Life (CD Side Story)",
+      "sale_url": "https://itch.io/s/218598/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3214297",
+      "title": "Wate´s Game",
+      "url": "https://watecompany.itch.io/wates-game",
+      "author": "WateCompany",
+      "author_url": "https://watecompany.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5MDY4Nzc0LmdpZg==/315x250%23c/sQAF4L.gif",
+      "genre": "Platformer",
+      "blurb": "50 niveles de plataformas donde el camino correcto no siempre está a la vista.",
+      "sale_url": "https://itch.io/s/221188/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3212525",
+      "title": "bable playground exclusive edition",
+      "url": "https://blackdevgames.itch.io/bable-playground-exclusive-edition",
+      "author": "BLACKDEV GAMES",
+      "author_url": "https://blackdevgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI3MDMxNDE1LnBuZw==/315x250%23c/0%2B767d.png",
+      "genre": null,
+      "blurb": null,
+      "sale_url": "https://itch.io/s/221448/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3193446",
+      "title": "Fragments of Fear: Wash and Watch",
+      "url": "https://altf4-games.itch.io/fragments-of-fear-wash-and-watch",
+      "author": "AltF4 Games",
+      "author_url": "https://altf4-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE5MDY2NDQzLnBuZw==/315x250%23c/G83FgK.png",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/223555/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "2931190",
@@ -1249,9 +2562,48 @@
       "image": "https://img.itch.zone/aW1nLzE4MzA2MzcwLnBuZw==/315x250%23c/AFSoWD.png",
       "genre": "Adventure",
       "blurb": "Short horror game about metal theft in eastern europe.",
-      "sale_url": "https://itch.io/s/216377/polyphonic-petrol-sale",
-      "expires": "2026-12-09T00:52:00.000Z",
-      "expires_raw": "2026-12-09T00:52:00Z"
+      "sale_url": "https://itch.io/s/218822/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "1696231",
+      "title": "Almericus - Scarred Islands",
+      "url": "https://almericusdev.itch.io/almericus-scarred-islands",
+      "author": "Almericusdev",
+      "author_url": "https://almericusdev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE3NjQ1MjIwLnBuZw==/315x250%23c/wc6ZcF.png",
+      "genre": "Adventure",
+      "blurb": "Adventure RPG",
+      "sale_url": "https://itch.io/s/216023/v10-celebration-freebie",
+      "expires": "2027-02-19T22:54:00.000Z",
+      "expires_raw": "2027-02-19T22:54:00Z"
+    },
+    {
+      "id": "3035910",
+      "title": "Grave Guard",
+      "url": "https://wiedzmiz.itch.io/grave-guard",
+      "author": "wiedzmiz",
+      "author_url": "https://wiedzmiz.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE4MTc1NTM5LmdpZg==/315x250%23c/DvJjVs.gif",
+      "genre": "Adventure",
+      "blurb": "Honor the soul, face the forces of hell.",
+      "sale_url": "https://itch.io/s/219341/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "3033764",
+      "title": "Lurking Shadows",
+      "url": "https://blackdevgames.itch.io/lurking-shadows",
+      "author": "BLACKDEV GAMES",
+      "author_url": "https://blackdevgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE4MTQzMDQ3LnBuZw==/315x250%23c/x4eDZW.png",
+      "genre": "Visual Novel",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/221448/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "2950730",
@@ -1267,6 +2619,45 @@
       "expires_raw": "2026-11-30T13:21:00Z"
     },
     {
+      "id": "2617518",
+      "title": "The Last Tree",
+      "url": "https://robertdolega.itch.io/the-last-tree",
+      "author": "robertdolega",
+      "author_url": "https://robertdolega.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIwMTAwMDkwLnBuZw==/315x250%23c/uUTvyU.png",
+      "genre": "Action",
+      "blurb": "Press keys fast to keep the last tree on earth protected.",
+      "sale_url": "https://itch.io/s/226065/big-sale",
+      "expires": "2026-11-30T13:59:00.000Z",
+      "expires_raw": "2026-11-30T13:59:00Z"
+    },
+    {
+      "id": "2578821",
+      "title": "Because of Magic",
+      "url": "https://robertdolega.itch.io/becauseofmagic",
+      "author": "robertdolega",
+      "author_url": "https://robertdolega.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE1MzUxMDk0LmpwZw==/315x250%23c/G%2FsA8S.jpg",
+      "genre": "Strategy",
+      "blurb": "Defend the great source of all power!",
+      "sale_url": "https://itch.io/s/226065/big-sale",
+      "expires": "2026-11-30T13:59:00.000Z",
+      "expires_raw": "2026-11-30T13:59:00Z"
+    },
+    {
+      "id": "2874885",
+      "title": "SOLROVER",
+      "url": "https://projectyaarj.itch.io/solrover",
+      "author": "PROJECTyaarj",
+      "author_url": "https://projectyaarj.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE3MTkwNDk3LnBuZw==/315x250%23c/jaFRt2.png",
+      "genre": "Survival",
+      "blurb": "Control a lone rover sent to a remote planet to gather and mine resources.",
+      "sale_url": "https://itch.io/s/220976/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "2393159",
       "title": "THE MIDNIGHT BUS",
       "url": "https://itandfeel.itch.io/the-midnight-bus",
@@ -1278,6 +2669,32 @@
       "sale_url": "https://itch.io/s/171469/the-midnight-bus-remake",
       "expires": "2026-11-06T20:40:00.000Z",
       "expires_raw": "2026-11-06T20:40:00Z"
+    },
+    {
+      "id": "2836988",
+      "title": "Victorian Deathbed Simulator",
+      "url": "https://jerawizard.itch.io/victorian-deathbed-simulator",
+      "author": "JeraWizard",
+      "author_url": "https://jerawizard.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE2OTUxNDE5LnBuZw==/315x250%23c/graFMV.png",
+      "genre": "Visual Novel",
+      "blurb": "Who will inherit your Enormous Fortune, once you pass from this mortal coil?",
+      "sale_url": "https://itch.io/s/222009/creator-day-black-friday-2026",
+      "expires": "2026-12-01T04:59:00.000Z",
+      "expires_raw": "2026-12-01T04:59:00Z"
+    },
+    {
+      "id": "2822655",
+      "title": "Bob the Killer",
+      "url": "https://sanersstudio.itch.io/bobthekiller-classic",
+      "author": "Saners Studio™",
+      "author_url": "https://sanersstudio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyMzkwMjg0LmpwZw==/315x250%23c/BNl3d8.jpg",
+      "genre": "Survival",
+      "blurb": "You are stuck in a forest and need to find batteries to light up the lighthouse and escape but you are not alone...",
+      "sale_url": "https://itch.io/s/219490/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "2740827",
@@ -1293,6 +2710,71 @@
       "expires_raw": "2026-11-30T13:21:00Z"
     },
     {
+      "id": "2629676",
+      "title": "5 And No More, but 60",
+      "url": "https://bloodalibi.itch.io/5andnomore-60fps",
+      "author": "BloodAlibi",
+      "author_url": "https://bloodalibi.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE1NjY5MDA4LnBuZw==/315x250%23c/A%2F%2FIZd.png",
+      "genre": "Platformer",
+      "blurb": "A platformer game running at only 5 FPS? but 60",
+      "sale_url": "https://itch.io/s/223107/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "2587358",
+      "title": "Cubes in Danger 3",
+      "url": "https://robertdolega.itch.io/cubes-in-danger-3",
+      "author": "robertdolega",
+      "author_url": "https://robertdolega.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI1NTE1OTI4LnBuZw==/315x250%23c/p9EkUa.png",
+      "genre": "Action",
+      "blurb": "Keep moving to surive with a friend!",
+      "sale_url": "https://itch.io/s/226065/big-sale",
+      "expires": "2026-11-30T13:59:00.000Z",
+      "expires_raw": "2026-11-30T13:59:00Z"
+    },
+    {
+      "id": "2587263",
+      "title": "Cubes in Danger 2",
+      "url": "https://robertdolega.itch.io/cubes-in-danger-2",
+      "author": "robertdolega",
+      "author_url": "https://robertdolega.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI1NTE2MDI0LnBuZw==/315x250%23c/VSO2jZ.png",
+      "genre": "Action",
+      "blurb": "Stay moving or die: survive the traps with a friend.",
+      "sale_url": "https://itch.io/s/226065/big-sale",
+      "expires": "2026-11-30T13:59:00.000Z",
+      "expires_raw": "2026-11-30T13:59:00Z"
+    },
+    {
+      "id": "2586441",
+      "title": "IncorpoScape",
+      "url": "https://robertdolega.itch.io/incorposcape",
+      "author": "robertdolega",
+      "author_url": "https://robertdolega.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE4MDc0MTUzLnBuZw==/315x250%23c/tU9gEy.png",
+      "genre": "Platformer",
+      "blurb": "Climb into infinity 3D.",
+      "sale_url": "https://itch.io/s/226065/big-sale",
+      "expires": "2026-11-30T13:59:00.000Z",
+      "expires_raw": "2026-11-30T13:59:00Z"
+    },
+    {
+      "id": "2586368",
+      "title": "Blackness",
+      "url": "https://robertdolega.itch.io/blackness",
+      "author": "robertdolega",
+      "author_url": "https://robertdolega.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI1OTg3NTkwLnBuZw==/315x250%23c/c2pKZZ.png",
+      "genre": "Platformer",
+      "blurb": "Use your great power to fight wild creatures in the darkest of worlds.",
+      "sale_url": "https://itch.io/s/226065/big-sale",
+      "expires": "2026-11-30T13:59:00.000Z",
+      "expires_raw": "2026-11-30T13:59:00Z"
+    },
+    {
       "id": "2577979",
       "title": "Beanman",
       "url": "https://archimedean-gaming.itch.io/beanman",
@@ -1304,6 +2786,32 @@
       "sale_url": "https://itch.io/s/149951/free-100-off-sale",
       "expires": "2027-02-28T11:05:00.000Z",
       "expires_raw": "2027-02-28T11:05:00Z"
+    },
+    {
+      "id": "2551358",
+      "title": "Return to the Backrooms",
+      "url": "https://saltario.itch.io/backrooms",
+      "author": "Saltario Games",
+      "author_url": "https://saltario.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE1Mjc2MzEyLnBuZw==/315x250%23c/lCIRzt.png",
+      "genre": "Survival",
+      "blurb": "If you're not careful enough, you have a chace to fall out from reality and find yourself in The Backrooms",
+      "sale_url": "https://itch.io/s/221044/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "2383523",
+      "title": "3gg Condition",
+      "url": "https://nalio.itch.io/3gg-condition",
+      "author": "NALIo",
+      "author_url": "https://nalio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE0MTExNzMwLnBuZw==/315x250%23c/5SqWrK.png",
+      "genre": "Platformer",
+      "blurb": "Chicken or Egg?",
+      "sale_url": "https://itch.io/s/219106/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "2293242",
@@ -1319,6 +2827,19 @@
       "expires_raw": "2026-12-01T08:49:00Z"
     },
     {
+      "id": "2255063",
+      "title": "Throw Cubes",
+      "url": "https://bloodalibi.itch.io/throwcubes",
+      "author": "BloodAlibi",
+      "author_url": "https://bloodalibi.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzEzMzY3MjMyLmpwZw==/315x250%23c/SFxoBk.jpg",
+      "genre": "Shooter",
+      "blurb": "Throw cubes in the air for fun!",
+      "sale_url": "https://itch.io/s/223107/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "2223223",
       "title": "House Cleaner 2",
       "url": "https://al7ussain.itch.io/house-cleaner-2",
@@ -1327,9 +2848,35 @@
       "image": "https://img.itch.zone/aW1nLzEzMTU2OTYzLnBuZw==/315x250%23c/nrOycl.png",
       "genre": null,
       "blurb": "it is  about a cleaning company and you go to houses and clean them but the house you entered is host by a ghost",
-      "sale_url": "https://itch.io/s/215994/sale",
-      "expires": "2026-12-08T20:45:00.000Z",
-      "expires_raw": "2026-12-08T20:45:00Z"
+      "sale_url": "https://itch.io/s/221429/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "2124994",
+      "title": "Particle",
+      "url": "https://jeremyulrich.itch.io/particle",
+      "author": "Jeremy Ulrich",
+      "author_url": "https://jeremyulrich.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzEzMTE4NDI3LnBuZw==/315x250%23c/8sR2jl.png",
+      "genre": "Shooter",
+      "blurb": "Procedurally generated idle defense shooter.",
+      "sale_url": "https://itch.io/s/225453/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "1941394",
+      "title": "Egg Condition: Unblinded",
+      "url": "https://nalio.itch.io/egg-condition-unblinded",
+      "author": "NALIo",
+      "author_url": "https://nalio.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzExNDIwMDgzLnBuZw==/315x250%23c/ngvD%2BL.png",
+      "genre": "Platformer",
+      "blurb": "An egg-tastic sequel",
+      "sale_url": "https://itch.io/s/219106/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "1924864",
@@ -1340,9 +2887,9 @@
       "image": "https://img.itch.zone/aW1nLzExMzE1NzQ0LmpwZw==/315x250%23c/W846Me.jpg",
       "genre": null,
       "blurb": "House Cleaner is a horror game which you clean house and discover the house",
-      "sale_url": "https://itch.io/s/215994/sale",
-      "expires": "2026-12-08T20:45:00.000Z",
-      "expires_raw": "2026-12-08T20:45:00Z"
+      "sale_url": "https://itch.io/s/221429/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
       "id": "1576559",
@@ -1358,6 +2905,19 @@
       "expires_raw": "2026-11-30T05:00:00Z"
     },
     {
+      "id": "1554738",
+      "title": "Leave a Light",
+      "url": "https://noah-dundas-games.itch.io/leave-a-light",
+      "author": "Noah Dundas",
+      "author_url": "https://noah-dundas-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzkwOTEwNzkucG5n/315x250%23c/%2By9JpP.png",
+      "genre": "Survival",
+      "blurb": "Light and shadow survival horror",
+      "sale_url": "https://itch.io/s/222001/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "1756451",
       "title": "Dungeon: Maze of Fate",
       "url": "https://soowekgames.itch.io/dungeon-maze-of-fate",
@@ -1369,6 +2929,32 @@
       "sale_url": "https://itch.io/s/216524/sale-without-context",
       "expires": "2026-11-30T13:21:00.000Z",
       "expires_raw": "2026-11-30T13:21:00Z"
+    },
+    {
+      "id": "1716845",
+      "title": "Marble Monk",
+      "url": "https://odiferousgames.itch.io/marble-monk",
+      "author": "Odiferous Games",
+      "author_url": "https://odiferousgames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzEyMjI0MDcwLmdpZg==/315x250%23c/1%2FABaH.gif",
+      "genre": "Adventure",
+      "blurb": "Get on an Adventure to the Peak of the Mountain in this physics-based Marble game!",
+      "sale_url": "https://itch.io/s/219616/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "1693256",
+      "title": "cloud uprising",
+      "url": "https://loungegames.itch.io/cloud-uprising",
+      "author": "natalieintheskye",
+      "author_url": "https://loungegames.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzIzNTY0MTU2LnBuZw==/315x250%23c/jr1qUm.png",
+      "genre": "Platformer",
+      "blurb": "a hand drawn platformer with endless bouncing",
+      "sale_url": "https://itch.io/s/214918/buy-nothing-day-2026",
+      "expires": "2026-11-28T04:59:00.000Z",
+      "expires_raw": "2026-11-28T04:59:00Z"
     },
     {
       "id": "1508937",
@@ -1384,6 +2970,58 @@
       "expires_raw": "2026-11-29T13:35:00Z"
     },
     {
+      "id": "1279027",
+      "title": "Don't shit alone 2",
+      "url": "https://wiedzmiz.itch.io/dontshitalone2",
+      "author": "wiedzmiz",
+      "author_url": "https://wiedzmiz.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzc0NzM2MDUucG5n/315x250%23c/zhd%2Bpx.png",
+      "genre": "Adventure",
+      "blurb": "Don't shit alone",
+      "sale_url": "https://itch.io/s/219341/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "1381940",
+      "title": "TANK",
+      "url": "https://projectyaarj.itch.io/tank",
+      "author": "PROJECTyaarj",
+      "author_url": "https://projectyaarj.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzgwNTI2NDUucG5n/315x250%23c/03DTmP.png",
+      "genre": "Shooter",
+      "blurb": "A single player top-down tank shooter.",
+      "sale_url": "https://itch.io/s/220976/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "1210109",
+      "title": "Assassin at Crimson Keep",
+      "url": "https://shadowglass.itch.io/assassin-at-crimson-keep",
+      "author": "ShadowGlass",
+      "author_url": "https://shadowglass.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE5MTIyMjE0LnBuZw==/315x250%23c/RyQVe5.png",
+      "genre": "Visual Novel",
+      "blurb": "Assassinate the King, save the Princess, or do neither!",
+      "sale_url": "https://itch.io/s/224906/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "1311055",
+      "title": "Midnight Visitor",
+      "url": "https://altf4-games.itch.io/midnight-visitor",
+      "author": "AltF4 Games",
+      "author_url": "https://altf4-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzc2MjQ2NzcucG5n/315x250%23c/g5kgej.png",
+      "genre": "Adventure",
+      "blurb": null,
+      "sale_url": "https://itch.io/s/223555/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "1119726",
       "title": "Dracula Memory Puzzle",
       "url": "https://unaux-25917242.itch.io/dracula-memory-puzzle",
@@ -1395,6 +3033,71 @@
       "sale_url": "https://itch.io/s/201868/morse-comunikator-free-and-more",
       "expires": "2026-11-30T17:02:00.000Z",
       "expires_raw": "2026-11-30T17:02:00Z"
+    },
+    {
+      "id": "855386",
+      "title": "SOLRAID",
+      "url": "https://projectyaarj.itch.io/solraid",
+      "author": "PROJECTyaarj",
+      "author_url": "https://projectyaarj.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzQ3OTg0NzYucG5n/315x250%23c/fiHU8K.png",
+      "genre": "Shooter",
+      "blurb": "A single player top-down spaceship shooter.",
+      "sale_url": "https://itch.io/s/220976/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "795734",
+      "title": "The Glass Files (Waterhouse Part 2)",
+      "url": "https://novel-games.itch.io/the-glass-files",
+      "author": "novel games",
+      "author_url": "https://novel-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzQ0NzUyMjkuanBn/315x250%23c/gnUHRf.jpg",
+      "genre": "Adventure",
+      "blurb": "Shadows by the Waterhouse Part 2",
+      "sale_url": "https://itch.io/s/220165/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "548231",
+      "title": "Shadows by the Waterhouse Part 1 + 2",
+      "url": "https://novel-games.itch.io/shadows-by-the-waterhouse-major-version",
+      "author": "novel games",
+      "author_url": "https://novel-games.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5MDAzNTkuanBn/315x250%23c/uN%2FIlW.jpg",
+      "genre": "Adventure",
+      "blurb": "Why do all the things happens? Find out the truth about our world! Thrilling Retro Crime Adventure ( DEU / ENG )",
+      "sale_url": "https://itch.io/s/220165/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "502804",
+      "title": "Diuxia",
+      "url": "https://eiryudev.itch.io/diuxia",
+      "author": "Eiryu",
+      "author_url": "https://eiryudev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzY5MDk3NjQuZ2lm/315x250%23c/q%2F8kS%2F.gif",
+      "genre": "Role Playing",
+      "blurb": "A detective with no case receives a mysterious job offer — and faces choices that will change everything.",
+      "sale_url": "https://itch.io/s/153767/lumimoth-itchio-sale",
+      "expires": "2026-11-27T18:29:00.000Z",
+      "expires_raw": "2026-11-27T18:29:00Z"
+    },
+    {
+      "id": "260997",
+      "title": "Project Infinity",
+      "url": "https://eiryudev.itch.io/project-infinity",
+      "author": "Eiryu",
+      "author_url": "https://eiryudev.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzE0MDQzMjMzLmdpZg==/315x250%23c/I%2F0cyO.gif",
+      "genre": "Role Playing",
+      "blurb": "Explore Project Infinity's fantasy realm, unmasking Princess Anna's peril concealed by unsuspecting parents.",
+      "sale_url": "https://itch.io/s/153767/lumimoth-itchio-sale",
+      "expires": "2026-11-27T18:29:00.000Z",
+      "expires_raw": "2026-11-27T18:29:00Z"
     },
     {
       "id": "223069",
@@ -1421,6 +3124,84 @@
       "sale_url": "https://itch.io/s/201868/morse-comunikator-free-and-more",
       "expires": "2026-11-30T17:02:00.000Z",
       "expires_raw": "2026-11-30T17:02:00Z"
+    },
+    {
+      "id": "214134",
+      "title": "Woodland Chasers",
+      "url": "https://bladegrip.itch.io/woodland-chasers",
+      "author": "BladeGrip Studio",
+      "author_url": "https://bladegrip.itch.io/",
+      "image": "https://img.itch.zone/aW1hZ2UvMjE0MTM0LzEwMDk0ODMucG5n/315x250%23c/%2BW8gqh.png",
+      "genre": null,
+      "blurb": "Play as a prankster witch chased by angry friends on her quest to subdue the snow avatar",
+      "sale_url": "https://itch.io/s/219334/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "191304",
+      "title": "Shadows by the Waterhouse Part 1",
+      "url": "https://novel-games.itch.io/shadows-by-the-waterhouse",
+      "author": "novel games",
+      "author_url": "https://novel-games.itch.io/",
+      "image": "https://img.itch.zone/aW1hZ2UvMTkxMzA0Lzg5NjE1NS5qcGc=/315x250%23c/MPY6DE.jpg",
+      "genre": "Adventure",
+      "blurb": "Retro Crime Adventure",
+      "sale_url": "https://itch.io/s/220165/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "190711",
+      "title": "Lonely in the Winter",
+      "url": "https://soyer.itch.io/lonely-in-the-winter",
+      "author": "SoyeR",
+      "author_url": "https://soyer.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzU4MDIxMjkuanBn/315x250%23c/Az7%2B5T.jpg",
+      "genre": "Adventure",
+      "blurb": "The journey of Robbery Cold to save his daughter.",
+      "sale_url": "https://itch.io/s/219580/black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "98511",
+      "title": "Tunnel Flyer",
+      "url": "https://thewgreen.itch.io/tunnel-flyer",
+      "author": "The Voices Games",
+      "author_url": "https://thewgreen.itch.io/",
+      "image": "https://img.itch.zone/aW1hZ2UvOTg1MTEvNDYxMDk3LnBuZw==/315x250%23c/97eEXd.png",
+      "genre": "Action",
+      "blurb": "Fly your trusty aeroplane down tunnels dodging obstacles and shooting enemies.",
+      "sale_url": "https://itch.io/s/218820/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "57126",
+      "title": "Identity",
+      "url": "https://novel-games.itch.io/identity",
+      "author": "novel games",
+      "author_url": "https://novel-games.itch.io/",
+      "image": "https://img.itch.zone/aW1hZ2UvNTcxMjYvMjU5OTA4LmpwZw==/315x250%23c/MyrH9Y.jpg",
+      "genre": "Adventure",
+      "blurb": "the grave of a writer",
+      "sale_url": "https://itch.io/s/220165/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "14386",
+      "title": "Tizzy vs the Aliens",
+      "url": "https://thewgreen.itch.io/tizzy-vs-the-aliens",
+      "author": "The Voices Games",
+      "author_url": "https://thewgreen.itch.io/",
+      "image": "https://img.itch.zone/aW1hZ2UvMTQzODYvNDk1MzIucG5n/315x250%23c/Ads4Nv.png",
+      "genre": "Platformer",
+      "blurb": "Help Tizzy the egg shaped hero escape from the alien spaceship",
+      "sale_url": "https://itch.io/s/218820/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "https://itch.io/games/newest/on-sale",
-  "scraped_at": "2026-11-27T22:55:26.550Z",
-  "pages_scraped": 170,
+  "scraped_at": "2026-11-28T04:28:24.781Z",
+  "pages_scraped": 172,
   "total_found": 254,
   "stopped_reason": "last_page_reached",
   "games": [
@@ -82,6 +82,19 @@
       "sale_url": "https://itch.io/s/224647/creator-day-black-friday-2026",
       "expires": "2026-12-02T18:00:00.000Z",
       "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5440181",
+      "title": "Keyfish",
+      "url": "https://gamoxkun.itch.io/keyfish",
+      "author": "Gamoxkun",
+      "author_url": "https://gamoxkun.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMyODYzMDY2LnBuZw==/315x250%23c/WQ28Os.png",
+      "genre": "Simulation",
+      "blurb": "A tiny neon ASCII aquarium fed by your keystrokes.",
+      "sale_url": "https://itch.io/s/226556/keyfish-is-free-for-4-days",
+      "expires": "2026-12-02T00:00:00.000Z",
+      "expires_raw": "2026-12-02T00:00:00Z"
     },
     {
       "id": "5429871",
@@ -695,6 +708,19 @@
       "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
+      "id": "4930141",
+      "title": "Passage Zero",
+      "url": "https://vossel.itch.io/passage-zero",
+      "author": "Vossel",
+      "author_url": "https://vossel.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzI5NjU3NjMxLnBuZw==/315x250%23c/AC5uhW.png",
+      "genre": null,
+      "blurb": "A short psychological horror experience that asks: are you paying attention, or just doing what you were trained to?",
+      "sale_url": "https://itch.io/s/226588/creator-day-black-friday-2026",
+      "expires": "2026-12-02T18:00:00.000Z",
+      "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
       "id": "5196465",
       "title": "Mind the Clown: Reborn (Demo)",
       "url": "https://coastcitygames.itch.io/mind-the-clown-reborn",
@@ -823,6 +849,19 @@
       "sale_url": "https://itch.io/s/222202/creator-day-black-friday-2026",
       "expires": "2026-12-02T18:00:00.000Z",
       "expires_raw": "2026-12-02T18:00:00Z"
+    },
+    {
+      "id": "5169400",
+      "title": "Family Manners",
+      "url": "https://nney.itch.io/family-manners",
+      "author": "Ney",
+      "author_url": "https://nney.itch.io/",
+      "image": "https://img.itch.zone/aW1nLzMxMTIzMTg2LnBuZw==/315x250%23c/2LhWPW.png",
+      "genre": "Adventure",
+      "blurb": "It’s just another typical day in the wonderful life of the Evans, right?",
+      "sale_url": "https://itch.io/s/226648/family-manners",
+      "expires": "2026-12-12T04:07:00.000Z",
+      "expires_raw": "2026-12-12T04:07:00Z"
     },
     {
       "id": "3697219",
@@ -1761,19 +1800,6 @@
       "expires_raw": "2026-12-02T18:00:00Z"
     },
     {
-      "id": "4417345",
-      "title": "Deluge: Sermon for the Dead — Deluxe Edition",
-      "url": "https://socah.itch.io/deluge-sermon-for-the-dead-deluxe",
-      "author": "socah",
-      "author_url": "https://socah.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzI2NDA3OTQyLnBuZw==/315x250%23c/SyPLCk.png",
-      "genre": "Adventure",
-      "blurb": "Full game including Mei Ending DLC Chapter",
-      "sale_url": "https://itch.io/s/223175/black-friday-sale",
-      "expires": "2026-11-28T04:22:00.000Z",
-      "expires_raw": "2026-11-28T04:22:00Z"
-    },
-    {
       "id": "4425433",
       "title": "Haunt Watch",
       "url": "https://blackdevgames.itch.io/haunt-watch",
@@ -2333,19 +2359,6 @@
       "expires_raw": "2026-11-27T18:29:00Z"
     },
     {
-      "id": "3683740",
-      "title": "Thunder Defenders Star Heroes",
-      "url": "https://greygames1000.itch.io/thunder-defenders-star-heroes",
-      "author": "Grey Games",
-      "author_url": "https://greygames1000.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIxOTE3ODc5LnBuZw==/315x250%23c/Dnvl65.png",
-      "genre": "Action",
-      "blurb": null,
-      "sale_url": "https://itch.io/s/224810/thunder-defenders",
-      "expires": "2026-11-28T02:04:00.000Z",
-      "expires_raw": "2026-11-28T02:04:00Z"
-    },
-    {
       "id": "3676729",
       "title": "The Wolfman",
       "url": "https://thelonegamedev.itch.io/the-wolfman",
@@ -2500,19 +2513,6 @@
       "sale_url": "https://itch.io/s/219341/creator-day-black-friday-2026",
       "expires": "2026-12-02T18:00:00.000Z",
       "expires_raw": "2026-12-02T18:00:00Z"
-    },
-    {
-      "id": "3373643",
-      "title": "Doxy's A to Z comic",
-      "url": "https://doxyonta.itch.io/a-to-z-comic",
-      "author": "DoxyOnta",
-      "author_url": "https://doxyonta.itch.io/",
-      "image": "https://img.itch.zone/aW1nLzIwMTQxNDc0LnBuZw==/315x250%23c/IVWHdM.png",
-      "genre": null,
-      "blurb": null,
-      "sale_url": "https://itch.io/s/223250/zodee-figurine-fundraiser",
-      "expires": "2026-11-28T02:59:00.000Z",
-      "expires_raw": "2026-11-28T02:59:00Z"
     },
     {
       "id": "3338340",
